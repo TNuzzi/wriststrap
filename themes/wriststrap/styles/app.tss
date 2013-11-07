@@ -2691,6 +2691,11 @@
     width: '24%',
     height: Ti.UI.SIZE,
 }
+".col-1-end":{
+    layout: 'vertical',
+    width: '23%',
+    height: Ti.UI.SIZE,
+}
 ".col-1-push-1":{
     layout: 'vertical',
     left: '25.4%',
