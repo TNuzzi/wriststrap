@@ -1,11 +1,8 @@
-README
-
 Wriststrap
 ==========
 A Twitter Bootstrap inspired framework for [Appcelerator Titanium](http://www.appcelerator.com) (Alloy)
 
-Version: Beta-1
--------
+### Version: Beta-1
 
 About
 -----
