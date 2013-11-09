@@ -250,9 +250,8 @@ Wriststrap uses the concept of CSS grid systems for layout out UI elements and c
 #### Layout TSS Details
 Using the TSS classes, it applies a 3% gutter on either side of the content.  This allow for a horizontal visual break in the content and layout.  The two TSS classes used for setting this layout are:
 
-`layout-default` simply applies the layout gutters on the UI element.
-
-`container` is used to setup the grid system to be used by the 'col-<number>' system.
+1.  `layout-default` simply applies the layout gutters on the UI element.
+2.  `container` is used to setup the grid system to be used by the 'col-<number>' system.
 
 ![Layout basic grid](http://tnuzzi.github.io/wriststrap/imgs/layout-basic.png "Layout basic grid")
 
