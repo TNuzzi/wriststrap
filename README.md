@@ -113,8 +113,13 @@ The following is an example of TSS classes being applied to different UI element
 Wriststrap TSS Classes
 ----------------------
 ### Overview
+The goal of Wriststrap is to simplify the UI by have a set of tss classes that are globally available.  As with Bootstrap, you can override and/or add your own styling along with Wriststrap by using the [tss syling override mechanism](http://docs.appcelerator.com/titanium/3.0/#!/guide/Alloy_Styles_and_Themes-section-35621526_AlloyStylesandThemes-StylePriorities).  Wriststrap is intended to be used as a starting point for developing a rich set of tss libraries for styling your app.
 
-Default Element styling:
+#### Mobile first
+Along with simpliciation, Wriststrap is intended to make Mobile first a priority.  For example, the Button element default to 44dp (height) as is recommend.  By no means will it be exahustive but will get your app started. 
+
+#### Default Element styling
+The following table is used to show the override default styling of UI Elements.
 <table>
      <thead>
         <tr>
@@ -182,7 +187,8 @@ height: Ti.UI.FILL</pre>
         </td>
     </tr>
 </table>
-### Layout
+
+### Layout & Style
 ### Typography
 ### Buttons
 ### Images
