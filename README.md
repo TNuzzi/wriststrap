@@ -286,7 +286,7 @@ At this time, this layout system is based on a grid system of 4 columns (for han
 </table>
 
 Example:
-`
+
     <View class="container bg-lightblue">
         <Label class="col col-1">Test</Label>
         <Label class="col col-1 col-spacing">Test</Label>
@@ -308,7 +308,7 @@ Example:
             <Label class="col-1-end col-spacing">Test</Label>
         </View>
     </View>
-`
+
 ### Typography
 ### Buttons
 ### Images
