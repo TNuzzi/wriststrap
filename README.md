@@ -5,8 +5,35 @@ A Twitter Bootstrap inspired framework for [Appcelerator Titanium](http://www.ap
 ### Version:
 
 <table>
+     <thead>
+        <tr>
+          <th>OS</th>
+          <th>Support</th>
+        </tr>
+    </thead>
     <tr>
-        <td>Foo</td>
+        <td>iPhone</td>
+        <td>Development</td>
+    </tr>
+    <tr>
+        <td>iPad</td>
+        <td>Coming Soon</td>
+    </tr>
+    <tr>
+        <td>Android</td>
+        <td>Version 2</td>
+    </tr>
+    <tr>
+        <td>Mobile Web</td>
+        <td>Version 2</td>
+    </tr>
+    <tr>
+        <td>Blackberry</td>
+        <td>Not sure</td>
+    </tr>
+    <tr>
+        <td>Tizen</td>
+        <td>Not sure</td>
     </tr>
 </table>
 
