@@ -253,6 +253,9 @@ Using the TSS classes, it applies a 3% gutter on either side of the content.  Th
     layout-default
     container
 
+`layout-default` simply applies the layout gutters on the UI element.
+`container` is used to setup the grid system to be used by the 'col-<number>' system.
+
 ![Layout basic grid](http://tnuzzi.github.io/wriststrap/imgs/layout-basic.png "Layout basic grid")
 
 ### Typography
