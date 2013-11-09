@@ -196,7 +196,7 @@ Available iOS fonts (includes iOS 7)
     </thead>
     <tr>
         <td>AcademyEngravedLetPlain</td>
-        <td>font-&lt;size&gt;-Academyengravedletplain</td>
+        <td>font-&lt;size&gt;-academyengravedletplain</td>
     </tr>
     <tr>
         <td>AmericanTypewriter</td>
