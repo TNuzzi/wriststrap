@@ -50,6 +50,7 @@ Wriststrap was born out of the need to quickly prototype and visualize mobile UI
 
 ### Code example
 The following is an example of the TSS classes be applied to different UI elements.  There is not code in the JS files for layout only in the TSS file.
+
     <Alloy>
         <Window top="20">
             <View class="container bg-lightblue">
