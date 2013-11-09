@@ -248,12 +248,10 @@ There are set of TSS classes that can be used for putting a border around any UI
 Wriststrap uses the concept of CSS grid systems for layout out UI elements and content.  Using TSS styles on the UI elements, Wriststrap allows you to layout out your entire UI without having to use JS for layout (for most cases).
 
 #### Layout TSS Details
-Using the TSS classes, it applies a 3% gutter on either side of the content.  This allow for a horizontal visual break in the content and layout.  The two TSS classes used for setting this layout are
-
-    layout-default
-    container
+Using the TSS classes, it applies a 3% gutter on either side of the content.  This allow for a horizontal visual break in the content and layout.  The two TSS classes used for setting this layout are:
 
 `layout-default` simply applies the layout gutters on the UI element.
+
 `container` is used to setup the grid system to be used by the 'col-<number>' system.
 
 ![Layout basic grid](http://tnuzzi.github.io/wriststrap/imgs/layout-basic.png "Layout basic grid")
