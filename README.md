@@ -147,7 +147,7 @@ backgroundColor: 'ffffff'</pre>
         <td>Label</td>
         <td>
         <pre>font: {
-fontFamily: 'HelveticaNeue-Light',
+    fontFamily: 'HelveticaNeue-Light',
     fontSize: '14dp',
 },
 color: '333333'</pre>
@@ -157,7 +157,7 @@ color: '333333'</pre>
         <td>Button</td>
         <td>
         <pre>font: {
-fontFamily: 'HelveticaNeue-Light', 
+    fontFamily: 'HelveticaNeue-Light', 
     fontSize: '14dp'
 },
 height: '44dp',
@@ -176,8 +176,8 @@ height: Ti.UI.FILL</pre>
         <td>TableViewRow</td>
         <td>
         <pre>font: {
-fontFamily: 'HelveticaNeue-Light',
-fontSize: '14dp'
+    fontFamily: 'HelveticaNeue-Light',
+    fontSize: '14dp'
 }</pre>
         </td>
     </tr>
