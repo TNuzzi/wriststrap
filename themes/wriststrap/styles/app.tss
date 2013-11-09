@@ -64,17 +64,17 @@
 ".showNav":{
 	navBarHidden: false
 }
-".view-rounded-border-4":{
+".rounded-border-4":{
 	borderRadius:'4dp',
 	borderWidth:'1dp',
 	borderColor: 'transparent'
 }
-".view-rounded-border-6":{
+".rounded-border-6":{
 	borderRadius:'6dp',
 	borderWidth:'1dp',
 	borderColor: 'transparent'
 }
-".view-rounded-border-10":{
+".rounded-border-10":{
 	borderRadius:'10dp',
 	borderWidth:'1dp',
 	borderColor: 'transparent'
@@ -97,7 +97,7 @@
     height: Ti.UI.SIZE,
     layout: 'horizontal'
 }
-".col":{
+".row":{
     top:'10dp'
 }
 ".col-spacing":{
