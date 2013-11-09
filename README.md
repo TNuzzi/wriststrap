@@ -112,6 +112,26 @@ The following is an example of TSS classes being applied to different UI element
 
 Wriststrap TSS Classes
 ----------------------
+### Overview
+
+Default Element styling:
+<table>
+     <thead>
+        <tr>
+          <th>UI Element</th>
+          <th>Default styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>Window</td>
+        <td>
+        <pre>
+            layout: 'vertical',
+            backgroundColor: 'ffffff'
+        </pre>
+        </td>
+    </tr>
+</table>
 ### Layout
 ### Typography
 ### Buttons
