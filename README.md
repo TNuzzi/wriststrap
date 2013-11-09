@@ -115,8 +115,29 @@ Wriststrap TSS Classes
 ### Panels
 ### Wells
 ### Inputs
-### tables
-### fonts
+### Tables
+### Fonts
+The default font for Wriststrap is currently "HelveticaNeue-Light".  This font is lightweight and gives the app a clean feel.  The TSS classes are available in different font sizes.
+
+The format of the tss class is: `font-<size>-<fontname>` for example:
+
+    font-12-helveticaneue-light
+
+The font sizes available are:
+    6
+    8
+    10
+    12
+    14
+    18
+    24
+    30
+    36
+    48
+    60
+    72
+
+In addition to the default font in the app.tss there is a provided tss class that contains all of the available fonts on the iOS platform (200 in all).  Originally they were included in the app.tss however it added 20k lines to file and where taken out.  If you need, you can copy fonts sets into the app.tss or all of the back into the app.tss however the file gets hard to edit.
 
 Supported Glyph libraries
 -------------------------
