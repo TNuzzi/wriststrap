@@ -125,8 +125,8 @@ Default Element styling:
     <tr>
         <td>Window</td>
         <td>
-`layout: 'vertical',
-backgroundColor: 'ffffff'`
+        <pre>layout: 'vertical',
+backgroundColor: 'ffffff'</pre>
         </td>
     </tr>
 </table>
