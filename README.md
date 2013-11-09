@@ -246,6 +246,7 @@ There are set of TSS classes that can be used for putting a border around any UI
 
 ### Layout
 ![Layout basic grid](http://tnuzzi.github.io/wriststrap/imgs/layout-basic.png "Layout basic grid")
+![Layout basic grid](http://tnuzzi.github.io/wriststrap/imgs/layout-basic.png "Layout basic grid")
 ### Typography
 ### Buttons
 ### Images
