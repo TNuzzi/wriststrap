@@ -245,7 +245,7 @@ Status bar style (`statusBarStyle`) used the `Window` UI element.
 There are set of TSS classes that can be used for putting a border around any UI element (that supports it).  The TSS classes are `view-rounded-border-4`, `view-rounded-border-6`, and `view-rounded-border-10`.  The number at the end of the TSS style name is in refernce to the border radius.
 
 ### Layout
-
+![Layout basic grid](http://tnuzzi.github.io/wriststrap/imgs/layout-basic.png "Layout basic grid")
 ### Typography
 ### Buttons
 ### Images
