@@ -245,8 +245,15 @@ Status bar style (`statusBarStyle`) used the `Window` UI element.
 There are set of TSS classes that can be used for putting a border around any UI element (that supports it).  The TSS classes are `view-rounded-border-4`, `view-rounded-border-6`, and `view-rounded-border-10`.  The number at the end of the TSS style name is in refernce to the border radius.
 
 ### Layout
+Wriststrap uses the concept of CSS grid systems for layout out UI elements and content.  Using TSS styles on the UI elements, Wriststrap allows you to layout out your entire UI without having to use JS for layout (for most cases).
+
+#### Layout TSS Details
+Using the TSS classes, it applies a 3% gutter on either side of the content.  This allow for a horizontal visual break in the content and layout.  The two TSS classes used for setting this layout are
+    layout-default
+    container
+    
 ![Layout basic grid](http://tnuzzi.github.io/wriststrap/imgs/layout-basic.png "Layout basic grid")
-![Layout basic grid](http://tnuzzi.github.io/wriststrap/imgs/layout-basic.png "Layout basic grid")
+
 ### Typography
 ### Buttons
 ### Images
