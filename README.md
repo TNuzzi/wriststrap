@@ -285,6 +285,30 @@ At this time, this layout system is based on a grid system of 4 columns (for han
     </tr>
 </table>
 
+Example:
+`
+    <View class="container bg-lightblue">
+        <Label class="col col-1">Test</Label>
+        <Label class="col col-1 col-spacing">Test</Label>
+        <Label class="col col-1 col-spacing">Test</Label>
+        <Label class="col col-1 col-spacing">Test</Label>
+        <Label class="col col-1">Test</Label>
+        <Label class="col col-2 col-spacing">Test</Label>
+        <Label class="col col-1 col-spacing">Test</Label>
+        <Label class="col col-3">Test</Label>
+        <Label class="col col-1 col-spacing">Test</Label>
+        <View class="col col-2 lo-horizontal">
+            <Label class="col-2">Test</Label>
+            <Label class="col-2 col-spacing">Test</Label>
+        </View>
+        <View class="col col-2 col-spacing lo-horizontal">
+            <Label class="col-1">Test</Label>
+            <Label class="col-1 col-spacing">Test</Label>
+            <Label class="col-1 col-spacing">Test</Label>
+            <Label class="col-1-end col-spacing">Test</Label>
+        </View>
+    </View>
+`
 ### Typography
 ### Buttons
 ### Images
