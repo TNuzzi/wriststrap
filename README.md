@@ -2,6 +2,13 @@ Wriststrap
 ==========
 A Twitter Bootstrap inspired framework for [Appcelerator Titanium](http://www.appcelerator.com) (Alloy)
 
+### Installation:
+1.  clone git project to local machine: `git clone https://github.com/TNuzzi/wriststrap.git`
+2.  copy the `themes` directory to the `app` directory under your Appcelerator mobile project
+3.  edit the config.json and add the following entry:
+    "theme":"wriststrap"
+4.  Rebuild your mobile project
+
 ### Version: Beta-1
 
 <table>
