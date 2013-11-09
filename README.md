@@ -166,6 +166,7 @@ The font sizes available are:
     <tr>
         <td>72</td>
     </tr>
+</table>
 
 In addition to the default font in the app.tss there is a provided tss class that contains all of the available fonts on the iOS platform (200 in all).  Originally they were included in the app.tss however it added 20k lines to file and where taken out.  If you need, you can copy fonts sets into the app.tss or all of the back into the app.tss however the file gets hard to edit.
 
