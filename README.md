@@ -91,7 +91,9 @@ Wriststrap was born out of the need to quickly prototype and visualize mobile UI
                 <Label class="col col-1-push-2 bg-pink">Test</Label>
             </View>
             <View class="layout-default lo-composite bg-purple">
-                <View class="footer bg-25"><Label class="col-4 small text-right color-white">Footer</Label></View>
+                <View class="footer bg-25">
+                    <Label class="col-4 small text-right color-white">Footer</Label>
+                </View>
             </View>
         </Window>
     </Alloy>
