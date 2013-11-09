@@ -253,7 +253,37 @@ Using the TSS classes, it applies a 3% gutter on either side of the content.  Th
 1.  `layout-default` simply applies the layout gutters on the UI element.
 2.  `container` is used to setup the grid system to be used by the 'col-<number>' system.
 
+#### Grid System
 ![Layout basic grid](http://tnuzzi.github.io/wriststrap/imgs/layout-basic.png "Layout basic grid")
+
+As with other CSS grid layout system, Wriststrap uses the same basic concepts to allow the developer to simply add TSS classes to a UI element to specify its position on screen.  The image above illustrates how it works by apply the TSS classes to `Label` and `View`.
+
+At this time, this layout system is based on a grid system of 4 columns (for handheld devices).  The system allow for embedding columns as to provide greater granularity of layouting out the UI elements.
+
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>row</td>
+        <td>Sets the top of `10dp` to provide a visual break from the content above.</td>
+    </tr>
+    <tr>
+        <td>col-&lt;number&gt;</td>
+        <td>Sets the width of the UI element.  The number indicates how many grid columns it should occupy.  The number should be between 1 and 4</td>
+    </tr>
+    <tr>
+        <td>col-1-end</td>
+        <td>Use this class if you are embedded 1 column elements.  This is temporary fix.</td>
+    </tr>
+    <tr>
+        <td>col-&lt;number&gt;-push-&lt;number&gt;</td>
+        <td>Pushes the column a set number of columns before setting the width of the UI element.  Allows you to set elements further right.  For a col-1 the push number can between 1 and 3.  For col-2 the push number be between 1 and 2.  Finally a col-3 the push number can only be set to 1</td>
+    </tr>
+</table>
 
 ### Typography
 ### Buttons
