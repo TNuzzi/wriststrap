@@ -186,7 +186,7 @@ Limitations
 
 Available iOS fonts (includes iOS 7)
 ------------------------------------
-Use the table under the above font section for the available font sizes in the tss file.
+Use the size table under font section for the available font sizes in the tss file.
 
 <table>
      <thead>
