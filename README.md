@@ -196,802 +196,802 @@ Available iOS fonts (includes iOS 7)
     </thead>
     <tr>
         <td>AcademyEngravedLetPlain</td>
-        <tr>font-&lt;size&gt;-Academyengravedletplain</tr>
+        <td>font-&lt;size&gt;-Academyengravedletplain</td>
     </tr>
     <tr>
         <td>AmericanTypewriter</td>
-        <tr>font-&lt;size&gt;-americantypewriter</tr>
+        <td>font-&lt;size&gt;-americantypewriter</td>
     </tr>
     <tr>
         <td>AmericanTypewriter-Bold</td>
-        <tr>font-&lt;size&gt;-americantypewriter-bold</tr>
+        <td>font-&lt;size&gt;-americantypewriter-bold</td>
     </tr>
     <tr>
         <td>AmericanTypewriter-Condensed</td>
-        <tr>font-&lt;size&gt;-americantypewriter-condensed</tr>
+        <td>font-&lt;size&gt;-americantypewriter-condensed</td>
     </tr>
     <tr>
         <td>AmericanTypewriter-CondensedBold</td>
-        <tr>font-&lt;size&gt;-americantypewriter-condensedbold</tr>
+        <td>font-&lt;size&gt;-americantypewriter-condensedbold</td>
     </tr>
     <tr>
         <td>AmericanTypewriter-CondensedLight</td>
-        <tr>font-&lt;size&gt;-americantypewriter-condensedlight</tr>
+        <td>font-&lt;size&gt;-americantypewriter-condensedlight</td>
     </tr>
     <tr>
         <td>AmericanTypewriter-Light</td>
-        <tr>font-&lt;size&gt;-americantypewriter-light</tr>
+        <td>font-&lt;size&gt;-americantypewriter-light</td>
     </tr>
     <tr>
         <td>AppleColorEmoji</td>
-        <tr>font-&lt;size&gt;-applecoloremoji</tr>
+        <td>font-&lt;size&gt;-applecoloremoji</td>
     </tr>
     <tr>
         <td>AppleSDGothicNeo-Bold</td>
-        <tr>font-&lt;size&gt;-applesdgothicneo-bold</tr>
+        <td>font-&lt;size&gt;-applesdgothicneo-bold</td>
     </tr>
     <tr>
         <td>AppleSDGothicNeo-Medium</td>
-        <tr>font-&lt;size&gt;-applesdgothicneo-medium</tr>
+        <td>font-&lt;size&gt;-applesdgothicneo-medium</td>
     </tr>
     <tr>
         <td>ArialMT</td>
-        <tr>font-&lt;size&gt;-arialmt</tr>
+        <td>font-&lt;size&gt;-arialmt</td>
     </tr>
     <tr>
         <td>Arial-BoldItalicMT</td>
-        <tr>font-&lt;size&gt;-arial-bolditalicmt</tr>
+        <td>font-&lt;size&gt;-arial-bolditalicmt</td>
     </tr>
     <tr>
         <td>Arial-BoldMT</td>
-        <tr>font-&lt;size&gt;-arial-boldmt</tr>
+        <td>font-&lt;size&gt;-arial-boldmt</td>
     </tr>
     <tr>
         <td>Arial-ItalicMT</td>
-        <tr>font-&lt;size&gt;-arial-italicmt</tr>
+        <td>font-&lt;size&gt;-arial-italicmt</td>
     </tr>
     <tr>
         <td>ArialHebrew</td>
-        <tr>font-&lt;size&gt;-arialhebrew</tr>
+        <td>font-&lt;size&gt;-arialhebrew</td>
     </tr>
     <tr>
         <td>ArialHebrew-Bold</td>
-        <tr>font-&lt;size&gt;-arialhebrew-bold</tr>
+        <td>font-&lt;size&gt;-arialhebrew-bold</td>
     </tr>
     <tr>
         <td>ArialRoundedMTBold</td>
-        <tr>font-&lt;size&gt;-arialroundedmtbold</tr>
+        <td>font-&lt;size&gt;-arialroundedmtbold</td>
     </tr>
     <tr>
         <td>Avenir-Black</td>
-        <tr>font-&lt;size&gt;-avenir-black</tr>
+        <td>font-&lt;size&gt;-avenir-black</td>
     </tr>
     <tr>
         <td>Avenir-BlackOblique</td>
-        <tr>font-&lt;size&gt;-avenir-blackoblique</tr>
+        <td>font-&lt;size&gt;-avenir-blackoblique</td>
     </tr>
     <tr>
         <td>Avenir-Book</td>
-        <tr>font-&lt;size&gt;-avenir-book</tr>
+        <td>font-&lt;size&gt;-avenir-book</td>
     </tr>
     <tr>
         <td>Avenir-BookOblique</td>
-        <tr>font-&lt;size&gt;-avenir-bookoblique</tr>
+        <td>font-&lt;size&gt;-avenir-bookoblique</td>
     </tr>
     <tr>
         <td>Avenir-Heavy</td>
-        <tr>font-&lt;size&gt;-avenir-heavy</tr>
+        <td>font-&lt;size&gt;-avenir-heavy</td>
     </tr>
     <tr>
         <td>Avenir-HeavyOblique</td>
-        <tr>font-&lt;size&gt;-avenir-heavyoblique</tr>
+        <td>font-&lt;size&gt;-avenir-heavyoblique</td>
     </tr>
     <tr>
         <td>Avenir-Light</td>
-        <tr>font-&lt;size&gt;-avenir-light</tr>
+        <td>font-&lt;size&gt;-avenir-light</td>
     </tr>
     <tr>
         <td>Avenir-LightOblique</td>
-        <tr>font-&lt;size&gt;-avenir-lightoblique</tr>
+        <td>font-&lt;size&gt;-avenir-lightoblique</td>
     </tr>
     <tr>
         <td>Avenir-Medium</td>
-        <tr>font-&lt;size&gt;-avenir-medium</tr>
+        <td>font-&lt;size&gt;-avenir-medium</td>
     </tr>
     <tr>
         <td>Avenir-MediumOblique</td>
-        <tr>font-&lt;size&gt;-avenir-mediumoblique</tr>
+        <td>font-&lt;size&gt;-avenir-mediumoblique</td>
     </tr>
     <tr>
         <td>Avenir-Oblique</td>
-        <tr>font-&lt;size&gt;-avenir-oblique</tr>
+        <td>font-&lt;size&gt;-avenir-oblique</td>
     </tr>
     <tr>
         <td>Avenir-Roman</td>
-        <tr>font-&lt;size&gt;-avenir-roman</tr>
+        <td>font-&lt;size&gt;-avenir-roman</td>
     </tr>
     <tr>
         <td>AvenirNext-Bold</td>
-        <tr>font-&lt;size&gt;-avenirnext-bold</tr>
+        <td>font-&lt;size&gt;-avenirnext-bold</td>
     </tr>
     <tr>
         <td>AvenirNext-BoldItalic</td>
-        <tr>font-&lt;size&gt;-avenirnext-bolditalic</tr>
+        <td>font-&lt;size&gt;-avenirnext-bolditalic</td>
     </tr>
     <tr>
         <td>AvenirNext-DemiBold</td>
-        <tr>font-&lt;size&gt;-avenirnext-demibold</tr>
+        <td>font-&lt;size&gt;-avenirnext-demibold</td>
     </tr>
     <tr>
         <td>AvenirNext-DemiBoldItalic</td>
-        <tr>font-&lt;size&gt;-avenirnext-demibolditalic</tr>
+        <td>font-&lt;size&gt;-avenirnext-demibolditalic</td>
     </tr>
     <tr>
         <td>AvenirNext-Heavy</td>
-        <tr>font-&lt;size&gt;-avenirnext-heavy</tr>
+        <td>font-&lt;size&gt;-avenirnext-heavy</td>
     </tr>
     <tr>
         <td>AvenirNext-HeavyItalic</td>
-        <tr>font-&lt;size&gt;-avenirnext-heavyitalic</tr>
+        <td>font-&lt;size&gt;-avenirnext-heavyitalic</td>
     </tr>
     <tr>
         <td>AvenirNext-Italic</td>
-        <tr>font-&lt;size&gt;-avenirnext-italic</tr>
+        <td>font-&lt;size&gt;-avenirnext-italic</td>
     </tr>
     <tr>
         <td>AvenirNext-Medium</td>
-        <tr>font-&lt;size&gt;-avenirnext-medium</tr>
+        <td>font-&lt;size&gt;-avenirnext-medium</td>
     </tr>
     <tr>
         <td>AvenirNext-MediumItalic</td>
-        <tr>font-&lt;size&gt;-avenirnext-mediumitalic</tr>
+        <td>font-&lt;size&gt;-avenirnext-mediumitalic</td>
     </tr>
     <tr>
         <td>AvenirNext-Regular</td>
-        <tr>font-&lt;size&gt;-avenirnext-regular</tr>
+        <td>font-&lt;size&gt;-avenirnext-regular</td>
     </tr>
     <tr>
         <td>AvenirNext-UltraLight</td>
-        <tr>font-&lt;size&gt;-avenirnext-ultralight</tr>
+        <td>font-&lt;size&gt;-avenirnext-ultralight</td>
     </tr>
     <tr>
         <td>AvenirNext-UltraLightItalic</td>
-        <tr>font-&lt;size&gt;-avenirnext-ultralightitalic</tr>
+        <td>font-&lt;size&gt;-avenirnext-ultralightitalic</td>
     </tr>
     <tr>
         <td>AvenirNextCondensed-Bold</td>
-        <tr>font-&lt;size&gt;-avenirnextcondensed-bold</tr>
+        <td>font-&lt;size&gt;-avenirnextcondensed-bold</td>
     </tr>
     <tr>
         <td>AvenirNextCondensed-BoldItalic</td>
-        <tr>font-&lt;size&gt;-avenirnextcondensed-bolditalic</tr>
+        <td>font-&lt;size&gt;-avenirnextcondensed-bolditalic</td>
     </tr>
     <tr>
         <td>AvenirNextCondensed-DemiBold</td>
-        <tr>font-&lt;size&gt;-avenirnextcondensed-demibold</tr>
+        <td>font-&lt;size&gt;-avenirnextcondensed-demibold</td>
     </tr>
     <tr>
         <td>AvenirNextCondensed-DemiBoldItalic</td>
-        <tr>font-&lt;size&gt;-avenirnextcondensed-demibolditalic</tr>
+        <td>font-&lt;size&gt;-avenirnextcondensed-demibolditalic</td>
     </tr>
     <tr>
         <td>AvenirNextCondensed-Heavy</td>
-        <tr>font-&lt;size&gt;-avenirnextcondensed-heavy</tr>
+        <td>font-&lt;size&gt;-avenirnextcondensed-heavy</td>
     </tr>
     <tr>
         <td>AvenirNextCondensed-HeavyItalic</td>
-        <tr>font-&lt;size&gt;-avenirnextcondensed-heavyitalic</tr>
+        <td>font-&lt;size&gt;-avenirnextcondensed-heavyitalic</td>
     </tr>
     <tr>
         <td>AvenirNextCondensed-Italic</td>
-        <tr>font-&lt;size&gt;-avenirnextcondensed-italic</tr>
+        <td>font-&lt;size&gt;-avenirnextcondensed-italic</td>
     </tr>
     <tr>
         <td>AvenirNextCondensed-Medium</td>
-        <tr>font-&lt;size&gt;-avenirnextcondensed-medium</tr>
+        <td>font-&lt;size&gt;-avenirnextcondensed-medium</td>
     </tr>
     <tr>
         <td>AvenirNextCondensed-MediumItalic</td>
-        <tr>font-&lt;size&gt;-avenirnextcondensed-mediumitalic</tr>
+        <td>font-&lt;size&gt;-avenirnextcondensed-mediumitalic</td>
     </tr>
     <tr>
         <td>AvenirNextCondensed-Regular</td>
-        <tr>font-&lt;size&gt;-avenirnextcondensed-regular</tr>
+        <td>font-&lt;size&gt;-avenirnextcondensed-regular</td>
     </tr>
     <tr>
         <td>AvenirNextCondensed-UltraLight</td>
-        <tr>font-&lt;size&gt;-avenirnextcondensed-ultralight</tr>
+        <td>font-&lt;size&gt;-avenirnextcondensed-ultralight</td>
     </tr>
     <tr>
         <td>AvenirNextCondensed-UltraLightItalic</td>
-        <tr>font-&lt;size&gt;-avenirnextcondensed-ultralightitalic</tr>
+        <td>font-&lt;size&gt;-avenirnextcondensed-ultralightitalic</td>
     </tr>
     <tr>
         <td>BanglaSangamMN</td>
-        <tr>font-&lt;size&gt;-banglasangammn</tr>
+        <td>font-&lt;size&gt;-banglasangammn</td>
     </tr>
     <tr>
         <td>BanglaSangamMN-Bold</td>
-        <tr>font-&lt;size&gt;-banglasangammn-bold</tr>
+        <td>font-&lt;size&gt;-banglasangammn-bold</td>
     </tr>
     <tr>
         <td>Baskerville</td>
-        <tr>font-&lt;size&gt;-baskerville</tr>
+        <td>font-&lt;size&gt;-baskerville</td>
     </tr>
     <tr>
         <td>Baskerville-Bold</td>
-        <tr>font-&lt;size&gt;-baskerville-bold</tr>
+        <td>font-&lt;size&gt;-baskerville-bold</td>
     </tr>
     <tr>
         <td>Baskerville-BoldItalic</td>
-        <tr>font-&lt;size&gt;-baskerville-bolditalic</tr>
+        <td>font-&lt;size&gt;-baskerville-bolditalic</td>
     </tr>
     <tr>
         <td>Baskerville-Italic</td>
-        <tr>font-&lt;size&gt;-baskerville-italic</tr>
+        <td>font-&lt;size&gt;-baskerville-italic</td>
     </tr>
     <tr>
         <td>Baskerville-SemiBold</td>
-        <tr>font-&lt;size&gt;-baskerville-semibold</tr>
+        <td>font-&lt;size&gt;-baskerville-semibold</td>
     </tr>
     <tr>
         <td>Baskerville-SemiBoldItalic</td>
-        <tr>font-&lt;size&gt;-baskerville-semibolditalic</tr>
+        <td>font-&lt;size&gt;-baskerville-semibolditalic</td>
     </tr>
     <tr>
         <td>BodoniOrnamentsITCTT</td>
-        <tr>font-&lt;size&gt;-bodoniornamentsitctt</tr>
+        <td>font-&lt;size&gt;-bodoniornamentsitctt</td>
     </tr>
     <tr>
         <td>BodoniSvtyTwoITCTT-Bold</td>
-        <tr>font-&lt;size&gt;-bodonisvtytwoitctt-bold</tr>
+        <td>font-&lt;size&gt;-bodonisvtytwoitctt-bold</td>
     </tr>
     <tr>
         <td>BodoniSvtyTwoITCTT-Book</td>
-        <tr>font-&lt;size&gt;-bodonisvtytwoitctt-book</tr>
+        <td>font-&lt;size&gt;-bodonisvtytwoitctt-book</td>
     </tr>
     <tr>
         <td>BodoniSvtyTwoITCTT-BookIta</td>
-        <tr>font-&lt;size&gt;-bodonisvtytwoitctt-bookita</tr>
+        <td>font-&lt;size&gt;-bodonisvtytwoitctt-bookita</td>
     </tr>
     <tr>
         <td>BodoniSvtyTwoOSITCTT-Bold</td>
-        <tr>font-&lt;size&gt;-bodonisvtytwoositctt-bold</tr>
+        <td>font-&lt;size&gt;-bodonisvtytwoositctt-bold</td>
     </tr>
     <tr>
         <td>BodoniSvtyTwoOSITCTT-Book</td>
-        <tr>font-&lt;size&gt;-bodonisvtytwoositctt-book</tr>
+        <td>font-&lt;size&gt;-bodonisvtytwoositctt-book</td>
     </tr>
     <tr>
         <td>BodoniSvtyTwoOSITCTT-BookIt</td>
-        <tr>font-&lt;size&gt;-bodonisvtytwoositctt-bookit</tr>
+        <td>font-&lt;size&gt;-bodonisvtytwoositctt-bookit</td>
     </tr>
     <tr>
         <td>BodoniSvtyTwoSCITCTT-Book</td>
-        <tr>font-&lt;size&gt;-bodonisvtytwoscitctt-book</tr>
+        <td>font-&lt;size&gt;-bodonisvtytwoscitctt-book</td>
     </tr>
     <tr>
         <td>BradleyHandITCTT-Bold</td>
-        <tr>font-&lt;size&gt;-bradleyhanditctt-bold</tr>
+        <td>font-&lt;size&gt;-bradleyhanditctt-bold</td>
     </tr>
     <tr>
         <td>ChalkboardSE-Bold</td>
-        <tr>font-&lt;size&gt;-chalkboardse-bold</tr>
+        <td>font-&lt;size&gt;-chalkboardse-bold</td>
     </tr>
     <tr>
         <td>ChalkboardSE-Light</td>
-        <tr>font-&lt;size&gt;-chalkboardse-light</tr>
+        <td>font-&lt;size&gt;-chalkboardse-light</td>
     </tr>
     <tr>
         <td>ChalkboardSE-Regular</td>
-        <tr>font-&lt;size&gt;-chalkboardse-regular</tr>
+        <td>font-&lt;size&gt;-chalkboardse-regular</td>
     </tr>
     <tr>
         <td>Chalkduster</td>
-        <tr>font-&lt;size&gt;-chalkduster</tr>
+        <td>font-&lt;size&gt;-chalkduster</td>
     </tr>
     <tr>
         <td>Cochin</td>
-        <tr>font-&lt;size&gt;-cochin</tr>
+        <td>font-&lt;size&gt;-cochin</td>
     </tr>
     <tr>
         <td>Cochin-Bold</td>
-        <tr>font-&lt;size&gt;-cochin-bold</tr>
+        <td>font-&lt;size&gt;-cochin-bold</td>
     </tr>
     <tr>
         <td>Cochin-BoldItalic</td>
-        <tr>font-&lt;size&gt;-cochin-bolditalic</tr>
+        <td>font-&lt;size&gt;-cochin-bolditalic</td>
     </tr>
     <tr>
         <td>Cochin-Italic</td>
-        <tr>font-&lt;size&gt;-cochin-italic</tr>
+        <td>font-&lt;size&gt;-cochin-italic</td>
     </tr>
     <tr>
         <td>Copperplate</td>
-        <tr>font-&lt;size&gt;-copperplate</tr>
+        <td>font-&lt;size&gt;-copperplate</td>
     </tr>
     <tr>
         <td>Copperplate-Bold</td>
-        <tr>font-&lt;size&gt;-copperplate-bold</tr>
+        <td>font-&lt;size&gt;-copperplate-bold</td>
     </tr>
     <tr>
         <td>Copperplate-Light</td>
-        <tr>font-&lt;size&gt;-copperplate-light</tr>
+        <td>font-&lt;size&gt;-copperplate-light</td>
     </tr>
     <tr>
         <td>Courier</td>
-        <tr>font-&lt;size&gt;-courier</tr>
+        <td>font-&lt;size&gt;-courier</td>
     </tr>
     <tr>
         <td>Courier-Bold</td>
-        <tr>font-&lt;size&gt;-courier-bold</tr>
+        <td>font-&lt;size&gt;-courier-bold</td>
     </tr>
     <tr>
         <td>Courier-BoldOblique</td>
-        <tr>font-&lt;size&gt;-courier-boldoblique</tr>
+        <td>font-&lt;size&gt;-courier-boldoblique</td>
     </tr>
     <tr>
         <td>Courier-Oblique</td>
-        <tr>font-&lt;size&gt;-courier-oblique</tr>
+        <td>font-&lt;size&gt;-courier-oblique</td>
     </tr>
     <tr>
         <td>CourierNewPS-BoldItalicMT</td>
-        <tr>font-&lt;size&gt;-couriernewps-bolditalicmt</tr>
+        <td>font-&lt;size&gt;-couriernewps-bolditalicmt</td>
     </tr>
     <tr>
         <td>CourierNewPS-BoldMT</td>
-        <tr>font-&lt;size&gt;-couriernewps-boldmt</tr>
+        <td>font-&lt;size&gt;-couriernewps-boldmt</td>
     </tr>
     <tr>
         <td>CourierNewPS-ItalicMT</td>
-        <tr>font-&lt;size&gt;-couriernewps-italicmt</tr>
+        <td>font-&lt;size&gt;-couriernewps-italicmt</td>
     </tr>
     <tr>
         <td>CourierNewPSMT</td>
-        <tr>font-&lt;size&gt;-couriernewpsmt</tr>
+        <td>font-&lt;size&gt;-couriernewpsmt</td>
     </tr>
     <tr>
         <td>DBLCDTempBlack</td>
-        <tr>font-&lt;size&gt;-dblcdtempblack</tr>
+        <td>font-&lt;size&gt;-dblcdtempblack</td>
     </tr>
     <tr>
         <td>DevanagariSangamMN</td>
-        <tr>font-&lt;size&gt;-devanagarisangammn</tr>
+        <td>font-&lt;size&gt;-devanagarisangammn</td>
     </tr>
     <tr>
         <td>DevanagariSangamMN-Bold</td>
-        <tr>font-&lt;size&gt;-devanagarisangammn-bold</tr>
+        <td>font-&lt;size&gt;-devanagarisangammn-bold</td>
     </tr>
     <tr>
         <td>Didot</td>
-        <tr>font-&lt;size&gt;-didot</tr>
+        <td>font-&lt;size&gt;-didot</td>
     </tr>
     <tr>
         <td>Didot-Bold</td>
-        <tr>font-&lt;size&gt;-didot-bold</tr>
+        <td>font-&lt;size&gt;-didot-bold</td>
     </tr>
     <tr>
         <td>Didot-Italic</td>
-        <tr>font-&lt;size&gt;-didot-italic</tr>
+        <td>font-&lt;size&gt;-didot-italic</td>
     </tr>
     <tr>
         <td>EuphemiaUCAS</td>
-        <tr>font-&lt;size&gt;-euphemiaucas</tr>
+        <td>font-&lt;size&gt;-euphemiaucas</td>
     </tr>
     <tr>
         <td>EuphemiaUCAS-Bold</td>
-        <tr>font-&lt;size&gt;-euphemiaucas-bold</tr>
+        <td>font-&lt;size&gt;-euphemiaucas-bold</td>
     </tr>
     <tr>
         <td>EuphemiaUCAS-Italic</td>
-        <tr>font-&lt;size&gt;-euphemiaucas-italic</tr>
+        <td>font-&lt;size&gt;-euphemiaucas-italic</td>
     </tr>
     <tr>
         <td>Futura-CondensedExtraBold</td>
-        <tr>font-&lt;size&gt;-futura-condensedextrabold</tr>
+        <td>font-&lt;size&gt;-futura-condensedextrabold</td>
     </tr>
     <tr>
         <td>Futura-CondensedMedium</td>
-        <tr>font-&lt;size&gt;-futura-condensedmedium</tr>
+        <td>font-&lt;size&gt;-futura-condensedmedium</td>
     </tr>
     <tr>
         <td>Futura-Medium</td>
-        <tr>font-&lt;size&gt;-futura-medium</tr>
+        <td>font-&lt;size&gt;-futura-medium</td>
     </tr>
     <tr>
         <td>Futura-MediumItalic</td>
-        <tr>font-&lt;size&gt;-futura-mediumitalic</tr>
+        <td>font-&lt;size&gt;-futura-mediumitalic</td>
     </tr>
     <tr>
         <td>GeezaPro</td>
-        <tr>font-&lt;size&gt;-geezapro</tr>
+        <td>font-&lt;size&gt;-geezapro</td>
     </tr>
     <tr>
         <td>GeezaPro-Bold</td>
-        <tr>font-&lt;size&gt;-geezapro-bold</tr>
+        <td>font-&lt;size&gt;-geezapro-bold</td>
     </tr>
     <tr>
         <td>Georgia</td>
-        <tr>font-&lt;size&gt;-georgia</tr>
+        <td>font-&lt;size&gt;-georgia</td>
     </tr>
     <tr>
         <td>Georgia-Bold</td>
-        <tr>font-&lt;size&gt;-georgia-bold</tr>
+        <td>font-&lt;size&gt;-georgia-bold</td>
     </tr>
     <tr>
         <td>Georgia-BoldItalic</td>
-        <tr>font-&lt;size&gt;-georgia-bolditalic</tr>
+        <td>font-&lt;size&gt;-georgia-bolditalic</td>
     </tr>
     <tr>
         <td>Georgia-Italic</td>
-        <tr>font-&lt;size&gt;-georgia-italic</tr>
+        <td>font-&lt;size&gt;-georgia-italic</td>
     </tr>
     <tr>
         <td>GillSans</td>
-        <tr>font-&lt;size&gt;-gillsans</tr>
+        <td>font-&lt;size&gt;-gillsans</td>
     </tr>
     <tr>
         <td>GillSans-Bold</td>
-        <tr>font-&lt;size&gt;-gillsans-bold</tr>
+        <td>font-&lt;size&gt;-gillsans-bold</td>
     </tr>
     <tr>
         <td>GillSans-BoldItalic</td>
-        <tr>font-&lt;size&gt;-gillsans-bolditalic</tr>
+        <td>font-&lt;size&gt;-gillsans-bolditalic</td>
     </tr>
     <tr>
         <td>GillSans-Italic</td>
-        <tr>font-&lt;size&gt;-gillsans-italic</tr>
+        <td>font-&lt;size&gt;-gillsans-italic</td>
     </tr>
     <tr>
         <td>GillSans-Light</td>
-        <tr>font-&lt;size&gt;-gillsans-light</tr>
+        <td>font-&lt;size&gt;-gillsans-light</td>
     </tr>
     <tr>
         <td>GillSans-LightItalic</td>
-        <tr>font-&lt;size&gt;-gillsans-lightitalic</tr>
+        <td>font-&lt;size&gt;-gillsans-lightitalic</td>
     </tr>
     <tr>
         <td>GujaratiSangamMN</td>
-        <tr>font-&lt;size&gt;-gujaratisangammn</tr>
+        <td>font-&lt;size&gt;-gujaratisangammn</td>
     </tr>
     <tr>
         <td>GujaratiSangamMN-Bold</td>
-        <tr>font-&lt;size&gt;-gujaratisangammn-bold</tr>
+        <td>font-&lt;size&gt;-gujaratisangammn-bold</td>
     </tr>
     <tr>
         <td>GurmukhiMN</td>
-        <tr>font-&lt;size&gt;-gurmukhimn</tr>
+        <td>font-&lt;size&gt;-gurmukhimn</td>
     </tr>
     <tr>
         <td>GurmukhiMN-Bold</td>
-        <tr>font-&lt;size&gt;-gurmukhimn-bold</tr>
+        <td>font-&lt;size&gt;-gurmukhimn-bold</td>
     </tr>
     <tr>
         <td>STHeitiSC-Light</td>
-        <tr>font-&lt;size&gt;-stheitisc-light</tr>
+        <td>font-&lt;size&gt;-stheitisc-light</td>
     </tr>
     <tr>
         <td>STHeitiSC-Medium</td>
-        <tr>font-&lt;size&gt;-stheitisc-medium</tr>
+        <td>font-&lt;size&gt;-stheitisc-medium</td>
     </tr>
     <tr>
         <td>STHeitiTC-Light</td>
-        <tr>font-&lt;size&gt;-stheititc-light</tr>
+        <td>font-&lt;size&gt;-stheititc-light</td>
     </tr>
     <tr>
         <td>STHeitiTC-Medium</td>
-        <tr>font-&lt;size&gt;-stheititc-medium</tr>
+        <td>font-&lt;size&gt;-stheititc-medium</td>
     </tr>
     <tr>
         <td>Helvetica</td>
-        <tr>font-&lt;size&gt;-helvetica</tr>
+        <td>font-&lt;size&gt;-helvetica</td>
     </tr>
     <tr>
         <td>Helvetica-Bold</td>
-        <tr>font-&lt;size&gt;-helvetica-bold</tr>
+        <td>font-&lt;size&gt;-helvetica-bold</td>
     </tr>
     <tr>
         <td>Helvetica-BoldOblique</td>
-        <tr>font-&lt;size&gt;-helvetica-boldoblique</tr>
+        <td>font-&lt;size&gt;-helvetica-boldoblique</td>
     </tr>
     <tr>
         <td>Helvetica-Light</td>
-        <tr>font-&lt;size&gt;-helvetica-light</tr>
+        <td>font-&lt;size&gt;-helvetica-light</td>
     </tr>
     <tr>
         <td>Helvetica-LightOblique</td>
-        <tr>font-&lt;size&gt;-helvetica-lightoblique</tr>
+        <td>font-&lt;size&gt;-helvetica-lightoblique</td>
     </tr>
     <tr>
         <td>Helvetica-Oblique</td>
-        <tr>font-&lt;size&gt;-helvetica-oblique</tr>
+        <td>font-&lt;size&gt;-helvetica-oblique</td>
     </tr>
     <tr>
         <td>HelveticaNeue</td>
-        <tr>font-&lt;size&gt;-helveticaneue</tr>
+        <td>font-&lt;size&gt;-helveticaneue</td>
     </tr>
     <tr>
         <td>HelveticaNeue-Bold</td>
-        <tr>font-&lt;size&gt;-helveticaneue-bold</tr>
+        <td>font-&lt;size&gt;-helveticaneue-bold</td>
     </tr>
     <tr>
         <td>HelveticaNeue-BoldItalic</td>
-        <tr>font-&lt;size&gt;-helveticaneue-bolditalic</tr>
+        <td>font-&lt;size&gt;-helveticaneue-bolditalic</td>
     </tr>
     <tr>
         <td>HelveticaNeue-CondensedBlack</td>
-        <tr>font-&lt;size&gt;-helveticaneue-condensedblack</tr>
+        <td>font-&lt;size&gt;-helveticaneue-condensedblack</td>
     </tr>
     <tr>
         <td>HelveticaNeue-CondensedBold</td>
-        <tr>font-&lt;size&gt;-helveticaneue-condensedbold</tr>
+        <td>font-&lt;size&gt;-helveticaneue-condensedbold</td>
     </tr>
     <tr>
         <td>HelveticaNeue-Italic</td>
-        <tr>font-&lt;size&gt;-helveticaneue-italic</tr>
+        <td>font-&lt;size&gt;-helveticaneue-italic</td>
     </tr>
     <tr>
         <td>HelveticaNeue-Light</td>
-        <tr>font-&lt;size&gt;-helveticaneue-light</tr>
+        <td>font-&lt;size&gt;-helveticaneue-light</td>
     </tr>
     <tr>
         <td>HelveticaNeue-LightItalic</td>
-        <tr>font-&lt;size&gt;-helveticaneue-lightitalic</tr>
+        <td>font-&lt;size&gt;-helveticaneue-lightitalic</td>
     </tr>
     <tr>
         <td>HelveticaNeue-Medium</td>
-        <tr>font-&lt;size&gt;-helveticaneue-medium</tr>
+        <td>font-&lt;size&gt;-helveticaneue-medium</td>
     </tr>
     <tr>
         <td>HelveticaNeue-UltraLight</td>
-        <tr>font-&lt;size&gt;-helveticaneue-ultralight</tr>
+        <td>font-&lt;size&gt;-helveticaneue-ultralight</td>
     </tr>
     <tr>
         <td>HelveticaNeue-UltraLightItalic</td>
-        <tr>font-&lt;size&gt;-helveticaneue-ultralightitalic</tr>
+        <td>font-&lt;size&gt;-helveticaneue-ultralightitalic</td>
     </tr>
     <tr>
         <td>HiraKakuProN-W3</td>
-        <tr>font-&lt;size&gt;-hirakakupron-w3</tr>
+        <td>font-&lt;size&gt;-hirakakupron-w3</td>
     </tr>
     <tr>
         <td>HiraKakuProN-W6</td>
-        <tr>font-&lt;size&gt;-hirakakupron-w6</tr>
+        <td>font-&lt;size&gt;-hirakakupron-w6</td>
     </tr>
     <tr>
         <td>HiraMinProN-W3</td>
-        <tr>font-&lt;size&gt;-hiraminpron-w3</tr>
+        <td>font-&lt;size&gt;-hiraminpron-w3</td>
     </tr>
     <tr>
         <td>HiraMinProN-W6</td>
-        <tr>font-&lt;size&gt;-hiraminpron-w6</tr>
+        <td>font-&lt;size&gt;-hiraminpron-w6</td>
     </tr>
     <tr>
         <td>HoeflerText-Black</td>
-        <tr>font-&lt;size&gt;-hoeflertext-black</tr>
+        <td>font-&lt;size&gt;-hoeflertext-black</td>
     </tr>
     <tr>
         <td>HoeflerText-BlackItalic</td>
-        <tr>font-&lt;size&gt;-hoeflertext-blackitalic</tr>
+        <td>font-&lt;size&gt;-hoeflertext-blackitalic</td>
     </tr>
     <tr>
         <td>HoeflerText-Italic</td>
-        <tr>font-&lt;size&gt;-hoeflertext-italic</tr>
+        <td>font-&lt;size&gt;-hoeflertext-italic</td>
     </tr>
     <tr>
         <td>HoeflerText-Regular</td>
-        <tr>font-&lt;size&gt;-hoeflertext-regular</tr>
+        <td>font-&lt;size&gt;-hoeflertext-regular</td>
     </tr>
     <tr>
         <td>Kailasa</td>
-        <tr>font-&lt;size&gt;-kailasa</tr>
+        <td>font-&lt;size&gt;-kailasa</td>
     </tr>
     <tr>
         <td>Kailasa-Bold</td>
-        <tr>font-&lt;size&gt;-kailasa-bold</tr>
+        <td>font-&lt;size&gt;-kailasa-bold</td>
     </tr>
     <tr>
         <td>KannadaSangamMN</td>
-        <tr>font-&lt;size&gt;-kannadasangammn</tr>
+        <td>font-&lt;size&gt;-kannadasangammn</td>
     </tr>
     <tr>
         <td>KannadaSangamMN-Bold</td>
-        <tr>font-&lt;size&gt;-kannadasangammn-bold</tr>
+        <td>font-&lt;size&gt;-kannadasangammn-bold</td>
     </tr>
     <tr>
         <td>MalayalamSangamMN</td>
-        <tr>font-&lt;size&gt;-malayalamsangammn</tr>
+        <td>font-&lt;size&gt;-malayalamsangammn</td>
     </tr>
     <tr>
         <td>MalayalamSangamMN-Bold</td>
-        <tr>font-&lt;size&gt;-malayalamsangammn-bold</tr>
+        <td>font-&lt;size&gt;-malayalamsangammn-bold</td>
     </tr>
     <tr>
         <td>Marion-Bold</td>
-        <tr>font-&lt;size&gt;-marion-bold</tr>
+        <td>font-&lt;size&gt;-marion-bold</td>
     </tr>
     <tr>
         <td>Marion-Italic</td>
-        <tr>font-&lt;size&gt;-marion-italic</tr>
+        <td>font-&lt;size&gt;-marion-italic</td>
     </tr>
     <tr>
         <td>Marion-Regular</td>
-        <tr>font-&lt;size&gt;-marion-regular</tr>
+        <td>font-&lt;size&gt;-marion-regular</td>
     </tr>
     <tr>
         <td>MarkerFelt-Thin</td>
-        <tr>font-&lt;size&gt;-markerfelt-thin</tr>
+        <td>font-&lt;size&gt;-markerfelt-thin</td>
     </tr>
     <tr>
         <td>MarkerFelt-Wide</td>
-        <tr>font-&lt;size&gt;-markerfelt-wide</tr>
+        <td>font-&lt;size&gt;-markerfelt-wide</td>
     </tr>
     <tr>
         <td>Noteworthy-Bold</td>
-        <tr>font-&lt;size&gt;-noteworthy-bold</tr>
+        <td>font-&lt;size&gt;-noteworthy-bold</td>
     </tr>
     <tr>
         <td>Noteworthy-Light</td>
-        <tr>font-&lt;size&gt;-noteworthy-light</tr>
+        <td>font-&lt;size&gt;-noteworthy-light</td>
     </tr>
     <tr>
         <td>Optima-Bold</td>
-        <tr>font-&lt;size&gt;-optima-bold</tr>
+        <td>font-&lt;size&gt;-optima-bold</td>
     </tr>
     <tr>
         <td>Optima-BoldItalic</td>
-        <tr>font-&lt;size&gt;-optima-bolditalic</tr>
+        <td>font-&lt;size&gt;-optima-bolditalic</td>
     </tr>
     <tr>
         <td>Optima-ExtraBlack</td>
-        <tr>font-&lt;size&gt;-optima-extrablack</tr>
+        <td>font-&lt;size&gt;-optima-extrablack</td>
     </tr>
     <tr>
         <td>Optima-Italic</td>
-        <tr>font-&lt;size&gt;-optima-italic</tr>
+        <td>font-&lt;size&gt;-optima-italic</td>
     </tr>
     <tr>
         <td>Optima-Regular</td>
-        <tr>font-&lt;size&gt;-optima-regular</tr>
+        <td>font-&lt;size&gt;-optima-regular</td>
     </tr>
     <tr>
         <td>OriyaSangamMN</td>
-        <tr>font-&lt;size&gt;-oriyasangammn</tr>
+        <td>font-&lt;size&gt;-oriyasangammn</td>
     </tr>
     <tr>
         <td>OriyaSangamMN-Bold</td>
-        <tr>font-&lt;size&gt;-oriyasangammn-bold</tr>
+        <td>font-&lt;size&gt;-oriyasangammn-bold</td>
     </tr>
     <tr>
         <td>Palatino-Bold</td>
-        <tr>font-&lt;size&gt;-palatino-bold</tr>
+        <td>font-&lt;size&gt;-palatino-bold</td>
     </tr>
     <tr>
         <td>Palatino-BoldItalic</td>
-        <tr>font-&lt;size&gt;-palatino-bolditalic</tr>
+        <td>font-&lt;size&gt;-palatino-bolditalic</td>
     </tr>
     <tr>
         <td>Palatino-Italic</td>
-        <tr>font-&lt;size&gt;-palatino-italic</tr>
+        <td>font-&lt;size&gt;-palatino-italic</td>
     </tr>
     <tr>
         <td>Palatino-Roman</td>
-        <tr>font-&lt;size&gt;-palatino-roman</tr>
+        <td>font-&lt;size&gt;-palatino-roman</td>
     </tr>
     <tr>
         <td>Papyrus</td>
-        <tr>font-&lt;size&gt;-papyrus</tr>
+        <td>font-&lt;size&gt;-papyrus</td>
     </tr>
     <tr>
         <td>Papyrus-Condensed</td>
-        <tr>font-&lt;size&gt;-papyrus-condensed</tr>
+        <td>font-&lt;size&gt;-papyrus-condensed</td>
     </tr>
     <tr>
         <td>PartyLetPlain</td>
-        <tr>font-&lt;size&gt;-partyletplain</tr>
+        <td>font-&lt;size&gt;-partyletplain</td>
     </tr>
     <tr>
         <td>SinhalaSangamMN</td>
-        <tr>font-&lt;size&gt;-sinhalasangammn</tr>
+        <td>font-&lt;size&gt;-sinhalasangammn</td>
     </tr>
     <tr>
         <td>SinhalaSangamMN-Bold</td>
-        <tr>font-&lt;size&gt;-sinhalasangammn-bold</tr>
+        <td>font-&lt;size&gt;-sinhalasangammn-bold</td>
     </tr>
     <tr>
         <td>SnellRoundhand</td>
-        <tr>font-&lt;size&gt;-snellroundhand</tr>
+        <td>font-&lt;size&gt;-snellroundhand</td>
     </tr>
     <tr>
         <td>SnellRoundhand-Black</td>
-        <tr>font-&lt;size&gt;-snellroundhand-black</tr>
+        <td>font-&lt;size&gt;-snellroundhand-black</td>
     </tr>
     <tr>
         <td>SnellRoundhand-Bold</td>
-        <tr>font-&lt;size&gt;-snellroundhand-bold</tr>
+        <td>font-&lt;size&gt;-snellroundhand-bold</td>
     </tr>
     <tr>
         <td>Symbol</td>
-        <tr>font-&lt;size&gt;-symbol</tr>
+        <td>font-&lt;size&gt;-symbol</td>
     </tr>
     <tr>
         <td>TamilSangamMN</td>
-        <tr>font-&lt;size&gt;-tamilsangammn</tr>
+        <td>font-&lt;size&gt;-tamilsangammn</td>
     </tr>
     <tr>
         <td>TamilSangamMN-Bold</td>
-        <tr>font-&lt;size&gt;-tamilsangammn-bold</tr>
+        <td>font-&lt;size&gt;-tamilsangammn-bold</td>
     </tr>
     <tr>
         <td>TeluguSangamMN</td>
-        <tr>font-&lt;size&gt;-telugusangammn</tr>
+        <td>font-&lt;size&gt;-telugusangammn</td>
     </tr>
     <tr>
         <td>TeluguSangamMN-Bold</td>
-        <tr>font-&lt;size&gt;-telugusangammn-bold</tr>
+        <td>font-&lt;size&gt;-telugusangammn-bold</td>
     </tr>
     <tr>
         <td>Thonburi</td>
-        <tr>font-&lt;size&gt;-thonburi</tr>
+        <td>font-&lt;size&gt;-thonburi</td>
     </tr>
     <tr>
         <td>Thonburi-Bold</td>
-        <tr>font-&lt;size&gt;-thonburi-bold</tr>
+        <td>font-&lt;size&gt;-thonburi-bold</td>
     </tr>
     <tr>
         <td>TimesNewRomanPS-BoldItalicMT</td>
-        <tr>font-&lt;size&gt;-timesnewromanps-bolditalicmt</tr>
+        <td>font-&lt;size&gt;-timesnewromanps-bolditalicmt</td>
     </tr>
     <tr>
         <td>TimesNewRomanPS-BoldMT</td>
-        <tr>font-&lt;size&gt;-timesnewromanps-boldmt</tr>
+        <td>font-&lt;size&gt;-timesnewromanps-boldmt</td>
     </tr>
     <tr>
         <td>TimesNewRomanPS-ItalicMT</td>
-        <tr>font-&lt;size&gt;-timesnewromanps-italicmt</tr>
+        <td>font-&lt;size&gt;-timesnewromanps-italicmt</td>
     </tr>
     <tr>
         <td>TimesNewRomanPSMT</td>
-        <tr>font-&lt;size&gt;-timesnewromanpsmt</tr>
+        <td>font-&lt;size&gt;-timesnewromanpsmt</td>
     </tr>
     <tr>
         <td>Trebuchet-BoldItalic</td>
-        <tr>font-&lt;size&gt;-trebuchet-bolditalic</tr>
+        <td>font-&lt;size&gt;-trebuchet-bolditalic</td>
     </tr>
     <tr>
         <td>TrebuchetMS</td>
-        <tr>font-&lt;size&gt;-trebuchetms</tr>
+        <td>font-&lt;size&gt;-trebuchetms</td>
     </tr>
     <tr>
         <td>TrebuchetMS-Bold</td>
-        <tr>font-&lt;size&gt;-trebuchetms-bold</tr>
+        <td>font-&lt;size&gt;-trebuchetms-bold</td>
     </tr>
     <tr>
         <td>TrebuchetMS-Italic</td>
-        <tr>font-&lt;size&gt;-trebuchetms-italic</tr>
+        <td>font-&lt;size&gt;-trebuchetms-italic</td>
     </tr>
     <tr>
         <td>Verdana</td>
-        <tr>font-&lt;size&gt;-verdana</tr>
+        <td>font-&lt;size&gt;-verdana</td>
     </tr>
     <tr>
         <td>Verdana-Bold</td>
-        <tr>font-&lt;size&gt;-verdana-bold</tr>
+        <td>font-&lt;size&gt;-verdana-bold</td>
     </tr>
     <tr>
         <td>Verdana-BoldItalic</td>
-        <tr>font-&lt;size&gt;-verdana-bolditalic</tr>
+        <td>font-&lt;size&gt;-verdana-bolditalic</td>
     </tr>
     <tr>
         <td>Verdana-Italic</td>
-        <tr>font-&lt;size&gt;-verdana-italic</tr>
+        <td>font-&lt;size&gt;-verdana-italic</td>
     </tr>
     <tr>
         <td>ZapfDingbatsITC</td>
-        <tr>font-&lt;size&gt;-zapfdingbatsitc</tr>
+        <td>font-&lt;size&gt;-zapfdingbatsitc</td>
     </tr>
     <tr>
         <td>Zapfino</td>
-        <tr>font-&lt;size&gt;-zapfino</tr>
+        <td>font-&lt;size&gt;-zapfino</td>
     </tr> 
 </table>
