@@ -124,18 +124,48 @@ The format of the tss class is: `font-<size>-<fontname>` for example:
     font-12-helveticaneue-light
 
 The font sizes available are:
-    6
-    8
-    10
-    12
-    14
-    18
-    24
-    30
-    36
-    48
-    60
-    72
+<table>
+     <thead>
+        <tr>
+          <th>Font Sizes</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td>14</td>
+    </tr>
+    <tr>
+        <td>18</td>
+    </tr>
+    <tr>
+        <td>24</td>
+    </tr>
+    <tr>
+        <td>30</td>
+    </tr>
+    <tr>
+        <td>36</td>
+    </tr>
+    <tr>
+        <td>48</td>
+    </tr>
+    <tr>
+        <td>60</td>
+    </tr>
+    <tr>
+        <td>72</td>
+    </tr>
 
 In addition to the default font in the app.tss there is a provided tss class that contains all of the available fonts on the iOS platform (200 in all).  Originally they were included in the app.tss however it added 20k lines to file and where taken out.  If you need, you can copy fonts sets into the app.tss or all of the back into the app.tss however the file gets hard to edit.
 
