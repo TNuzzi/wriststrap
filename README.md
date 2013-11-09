@@ -129,6 +129,58 @@ Default Element styling:
 backgroundColor: 'ffffff'</pre>
         </td>
     </tr>
+    <tr>
+        <td>View</td>
+        <td>
+        <pre>layout: 'vertical',
+backgroundColor: 'ffffff'</pre>
+        </td>
+    </tr>
+    <tr>
+        <td>ScrollView</td>
+        <td>
+        <pre>layout: 'vertical',
+backgroundColor: 'ffffff'</pre>
+        </td>
+    </tr>
+    <tr>
+        <td>Label</td>
+        <td>
+        <pre>font: {
+fontFamily: 'HelveticaNeue-Light',
+    fontSize: '14dp',
+},
+color: '333333'</pre>
+        </td>
+    </tr>
+    <tr>
+        <td>Button</td>
+        <td>
+        <pre>font: {
+fontFamily: 'HelveticaNeue-Light', 
+    fontSize: '14dp'
+},
+height: '44dp',
+width: '100%'</pre>
+        </td>
+    </tr>
+    <tr>
+        <td>TableView</td>
+        <td>
+        <pre>backgroundColor: 'transparent',
+width: '100%',
+height: Ti.UI.FILL</pre>
+        </td>
+    </tr>
+    <tr>
+        <td>TableViewRow</td>
+        <td>
+        <pre>font: {
+fontFamily: 'HelveticaNeue-Light',
+fontSize: '14dp'
+}</pre>
+        </td>
+    </tr>
 </table>
 ### Layout
 ### Typography
