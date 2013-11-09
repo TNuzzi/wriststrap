@@ -49,7 +49,7 @@ About
 Wriststrap was born out of the need to quickly prototype and visualize mobile UI in the Appcelerator Titanium [Alloy framework](http://docs.appcelerator.com/titanium/3.0/#!/guide/Alloy_Framework).  With the creation of the Alloy, Titanium now has the ability to apply CSS class like attributes to UI elements (think HTML).  As with HTML this allow for a clean seperation from layout logic and application functionality (contained within JS files).  Wriststrap applies the same principles as Bootstrap in allowing non-visual designers (like myself) to create and layout a visually aesthetically pleasing looking mobile UI.
 
 ### Code example
-The following is an example of the TSS classes be applied to different UI elements.  There is not code in the JS files for layout only in the TSS file.
+The following is an example of TSS classes being applied to different UI elements.  There is no code in the JS files for layout.
 
     <Alloy>
         <Window top="20">
