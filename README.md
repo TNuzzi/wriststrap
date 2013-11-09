@@ -193,7 +193,7 @@ Status bar style (`statusBarStyle`) used the `Window` UI element.
 <table>
      <thead>
         <tr>
-          <th>Class</th>
+          <th>TSS Class</th>
           <th>Styling</th>
         </tr>
     </thead>
@@ -217,8 +217,33 @@ Status bar style (`statusBarStyle`) used the `Window` UI element.
         <td>sb-style-translucent-black</td>
         <td>Titanium.UI.iPhone.StatusBar.TRANSLUCENT_BLACK</td>
     </tr>
-    
 </table>
+
+`Window` UI helpers
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>fullscreen</td>
+        <td>fullscreen: true</td>
+    </tr>
+    <tr>
+        <td>hideNav</td>
+        <td>navBarHidden: true</td>
+    </tr>
+    <tr>
+        <td>showNav</td>
+        <td>navBarHidden: true</td>
+    </tr>
+</table>
+
+#### Borders
+There are set of TSS classes that can be used for putting a border around any UI element (that supports it).  The TSS classes are `view-rounded-border-4`, `view-rounded-border-6`, and `view-rounded-border-10`.
+
 ### Layout
 
 ### Typography
