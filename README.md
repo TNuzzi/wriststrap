@@ -168,8 +168,7 @@ The font sizes available are:
     </tr>
 </table>
 
-Available fonts in iOS (include iOS 7)
-
+#### Additional fonts
 
 In addition to the default font in the app.tss there is a provided tss file 'wriststrap/themes/wristrap/style/fonts.tss' that contains all of the available fonts on the iOS platform (200 in all).  Originally they were included in the app.tss however it added 20k lines to file and where taken out.  If you need, you can copy font sets into the app.tss or all of them back into the app.tss however the file gets hard to edit.
 
@@ -187,6 +186,8 @@ Limitations
 
 Available iOS fonts (includes iOS 7)
 ------------------------------------
+Use the table under the above font section for the available font sizes in the tss file.
+
 <table>
      <thead>
         <tr>
