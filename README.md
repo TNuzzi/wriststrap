@@ -116,7 +116,7 @@ Wriststrap TSS Classes
 The goal of Wriststrap is to simplify the UI by have a set of tss classes that are globally available.  As with Bootstrap, you can override and/or add your own styling along with Wriststrap by using the [tss syling override mechanism](http://docs.appcelerator.com/titanium/3.0/#!/guide/Alloy_Styles_and_Themes-section-35621526_AlloyStylesandThemes-StylePriorities).  Wriststrap is intended to be used as a starting point for developing a rich set of tss libraries for styling your app.
 
 #### Mobile first
-Along with simpliciation, Wriststrap is intended to make Mobile first a priority.  For example, the Button element default to 44dp (height) as is recommend.  By no means will it be exahustive but will get your app started. 
+Along with simpliciation, Wriststrap is intended to make Mobile first a priority.  For example, the Button element default to 44dp (height) as is recommend.  By no means will it be exahustive but will get your app started in the right direction. 
 
 #### Default Element styling
 The following table is used to show the override default styling of UI Elements.
@@ -188,7 +188,39 @@ height: Ti.UI.FILL</pre>
     </tr>
 </table>
 
-### Layout & Style
+### Styling
+Status bar style (`statusBarStyle`) used the `Window` UI element.
+<table>
+     <thead>
+        <tr>
+          <th>Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>sb-style-default</td>
+        <td>Titanium.UI.iPhone.StatusBar.DEFAULT</td>
+    </tr>
+    <tr>
+        <td>sb-style-gray</td>
+        <td>Titanium.UI.iPhone.StatusBar.GRAY</td>
+    </tr>
+    <tr>
+        <td>sb-style-opaque-black</td>
+        <td>Titanium.UI.iPhone.StatusBar.OPAQUE_BLACK</td>
+    </tr>
+    <tr>
+        <td>sb-style-light-content</td>
+        <td>Titanium.UI.iPhone.StatusBar.LIGHT_CONTENT</td>
+    </tr>
+    <tr>
+        <td>sb-style-translucent-black</td>
+        <td>Titanium.UI.iPhone.StatusBar.TRANSLUCENT_BLACK</td>
+    </tr>
+    
+</table>
+### Layout
+
 ### Typography
 ### Buttons
 ### Images

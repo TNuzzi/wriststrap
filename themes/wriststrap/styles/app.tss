@@ -38,11 +38,6 @@
 		fontStyle: 'normal'
 	},
 }
-// Layout
-".layout-default":{
-	left: '3%',
-	width: '94%'
-}
 ".sb-style-default":{
 	statusBarStyle: Titanium.UI.iPhone.StatusBar.DEFAULT
 }
@@ -58,6 +53,7 @@
 ".sb-style-translucent-black":{
 	statusBarStyle: Titanium.UI.iPhone.StatusBar.TRANSLUCENT_BLACK 
 }
+
 // Window helpers
 ".fullscreen":{
 	fullscreen: true
@@ -88,6 +84,86 @@
 	borderRadius:'10dp',
 	borderWidth:'1dp',
 	borderColor: 'transparent'
+}
+
+// Layout
+".layout-default":{
+    left: '3%',
+    width: '94%'
+}
+".container":{
+    bottom: '10dp',
+    left: '3%',
+    width: '94%',
+    height: Ti.UI.SIZE,
+    layout: 'horizontal'
+}
+".col":{
+    top:'10dp'
+}
+".col-spacing":{
+    left:'1.333333334%'
+}
+".col-1":{
+    layout: 'vertical',
+    width: '24%',
+    height: Ti.UI.SIZE,
+}
+".col-1-end":{
+    layout: 'vertical',
+    width: '23%',
+    height: Ti.UI.SIZE,
+}
+".col-1-push-1":{
+    layout: 'vertical',
+    left: '25.4%',
+    width: '24%',
+    height: Ti.UI.SIZE,
+}
+".col-1-push-2":{
+    layout: 'vertical',
+    left: '51%',
+    width: '25%',
+    height: Ti.UI.SIZE,
+}
+".col-1-push-3":{
+    layout: 'vertical',
+    left: '75.75%',
+    width: '24%',
+    height: Ti.UI.SIZE,
+}
+".col-2":{
+    layout: 'vertical',
+    width: '49.25%',
+    height: Ti.UI.SIZE,
+}
+".col-2-push-1":{
+    layout: 'vertical',
+    left: '25.4%',
+    width: '49.25%',
+    height: Ti.UI.SIZE,
+}
+".col-2-push-2":{
+    layout: 'vertical',
+    left: '50.66%',
+    width: '49.33%',
+    height: Ti.UI.SIZE,
+}
+".col-3":{
+    layout: 'vertical',
+    width: '74.3333333%',
+    height: Ti.UI.SIZE,
+}
+".col-3-push-1":{
+    layout: 'vertical',
+    left: '25.4%',
+    width: '74.3333333%',
+    height: Ti.UI.SIZE,
+}
+".col-4":{
+    layout: 'vertical',
+    width: '99.666666%',
+    height: Ti.UI.SIZE,
 }
 // Typography - Headings
 ".h1": {
@@ -2673,83 +2749,6 @@
 }
 ".btn-trash":{
     systemButton: Ti.UI.iPhone.SystemButton.TRASH
-}
-
-// Layout
-".container":{
-	bottom: '10dp',
-	left: '3%',
-	width: '94%',
-	height: Ti.UI.SIZE,
-	layout: 'horizontal',
-	// backgroundColor: 'pink'
-}
-".col":{
-	top:'10dp'
-}
-".col-spacing":{
-	left:'1.333333334%'
-}
-".col-1":{
-    layout: 'vertical',
-    width: '24%',
-    height: Ti.UI.SIZE,
-}
-".col-1-end":{
-    layout: 'vertical',
-    width: '23%',
-    height: Ti.UI.SIZE,
-}
-".col-1-push-1":{
-    layout: 'vertical',
-    left: '25.4%',
-    width: '24%',
-    height: Ti.UI.SIZE,
-}
-".col-1-push-2":{
-    layout: 'vertical',
-    left: '51%',
-    width: '25%',
-    height: Ti.UI.SIZE,
-}
-".col-1-push-3":{
-    layout: 'vertical',
-    left: '75.75%',
-    width: '24%',
-    height: Ti.UI.SIZE,
-}
-".col-2":{
-    layout: 'vertical',
-    width: '49.25%',
-    height: Ti.UI.SIZE,
-}
-".col-2-push-1":{
-    layout: 'vertical',
-    left: '25.4%',
-    width: '49.25%',
-    height: Ti.UI.SIZE,
-}
-".col-2-push-2":{
-    layout: 'vertical',
-    left: '50.66%',
-    width: '49.33%',
-    height: Ti.UI.SIZE,
-}
-".col-3":{
-    layout: 'vertical',
-    width: '74.3333333%',
-    height: Ti.UI.SIZE,
-}
-".col-3-push-1":{
-    layout: 'vertical',
-    left: '25.4%',
-    width: '74.3333333%',
-    height: Ti.UI.SIZE,
-}
-".col-4":{
-    layout: 'vertical',
-    width: '99.666666%',
-    height: Ti.UI.SIZE,
 }
 
 // Width Helper
