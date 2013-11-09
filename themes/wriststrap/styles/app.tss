@@ -64,12 +64,6 @@
 ".showNav":{
 	navBarHidden: false
 }
-
-".footer":{
-	bottom: 0,
-	height: '44dp',
-	width: '100%'
-}
 ".view-rounded-border-4":{
 	borderRadius:'4dp',
 	borderWidth:'1dp',
@@ -84,6 +78,11 @@
 	borderRadius:'10dp',
 	borderWidth:'1dp',
 	borderColor: 'transparent'
+}
+".footer":{
+    bottom: 0,
+    height: '44dp',
+    width: '100%'
 }
 
 // Layout
