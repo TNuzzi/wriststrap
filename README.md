@@ -1205,3 +1205,6 @@ Use the size table under font section for the available font sizes in the tss fi
         <td>font-&lt;size&gt;-zapfino</td>
     </tr> 
 </table>
+
+Designed and built by [@nuzzis](https://twitter.com/nuzzis) with the inspiration of [bootstrap](http://www.getbootstrap.com).
+Code licensed under [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0), documentation under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
