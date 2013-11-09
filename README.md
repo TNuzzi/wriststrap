@@ -283,6 +283,10 @@ At this time, this layout system is based on a grid system of 4 columns (for han
         <td>col-&lt;number&gt;-push-&lt;number&gt;</td>
         <td>Pushes the column a set number of columns before setting the width of the UI element.  Allows you to set elements further right.  For a col-1 the push number can between 1 and 3.  For col-2 the push number be between 1 and 2.  Finally a col-3 the push number can only be set to 1</td>
     </tr>
+     <tr>
+        <td>col-spacing</td>
+        <td>Provides the columns with a visual break between each column</td>
+    </tr>
 </table>
 
 Example:
