@@ -219,10 +219,10 @@
 	left:0
 }
 ".lead":{
-	font: {
-		fontSize: '20dp',
-		fontWeight: 'semibold'
-	}
+	font:{
+        fontFamily: 'HelveticaNeue',
+        fontSize:'20dp'
+    }
 }
 // Typography - Emphasis
 ".small":{
@@ -239,41 +239,17 @@
 }
 ".bold":{
 	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontWeight:'bold'
-	}
+        fontFamily: 'HelveticaNeue',
+        fontSize:'14dp'
+    }
 }
 
 ".em":{
 	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontStyle:'italic'
+		fontFamily: 'HelveticaNeue-LightItalic',
+		fontSize:'14dp'
 	}
 }
-".text-muted": {
-  color: "999999"
-}
-
-".text-primary": {
-  color: "428bca"
-}
-
-".text-warning": {
-  color: "c09853"
-}
-
-".text-danger": {
-  color: "b94a48"
-}
-
-".text-success": {
-  color: "468847"
-}
-
-".text-info": {
-  color: "3a87ad"
-}
-
 // Typography - Alignment
 ".text-left":{
 	textAlign: Ti.UI.TEXT_ALIGNMENT_LEFT
@@ -5525,6 +5501,29 @@
 }
 
 // bg-color helper
+".bg-muted": {
+  backgroundColor: "999999"
+}
+
+".bg-primary": {
+  backgroundColor: "428bca"
+}
+
+".bg-warning": {
+  backgroundColor: "c09853"
+}
+
+".bg-danger": {
+  backgroundColor: "b94a48"
+}
+
+".bg-success": {
+  backgroundColor: "468847"
+}
+
+".bg-info": {
+  backgroundColor: "3a87ad"
+}
 ".bg-transparent":{
 	backgroundColor: 'transparent'
 }
@@ -5950,6 +5949,29 @@
 }
 
 // Colors
+".color-muted": {
+  color: "999999"
+}
+
+".color-primary": {
+  color: "428bca"
+}
+
+".color-warning": {
+  color: "c09853"
+}
+
+".color-danger": {
+  color: "b94a48"
+}
+
+".color-success": {
+  color: "468847"
+}
+
+".color-info": {
+  color: "3a87ad"
+}
 ".color-aliceblue":{
     color: 'F0F8FF'
 }
