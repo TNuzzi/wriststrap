@@ -256,9 +256,9 @@ Using the TSS classes, it applies a 3% gutter on either side of the content.  Th
 #### Grid System
 ![Layout basic grid](http://tnuzzi.github.io/wriststrap/imgs/layout-basic.png "Layout basic grid")
 
-As with other CSS grid layout system, Wriststrap uses the same basic concepts to allow the developer to simply add TSS classes to a UI element to specify its position on screen.  The image above illustrates how it works by apply the TSS classes to `Label` and `View`.
+As with other CSS grid layout system, Wriststrap uses the same basic concepts to allow the developer to simply add TSS classes to a UI element to specify its position on screen.  The image above illustrates how it works by apply the TSS classes to `Label` and `View`.  The use of `container` is required on the outer element in order to use the `col-<number>` classes.
 
-At this time, this layout system is based on a grid system of 4 columns (for handheld devices).  The system allow for embedding columns as to provide greater granularity of layouting out the UI elements.
+At this time, this layout system is based on a grid system of 4 columns (for handheld devices).  The system also allows for embedding columns within columns.
 
 <table>
      <thead>
@@ -287,7 +287,7 @@ At this time, this layout system is based on a grid system of 4 columns (for han
 
 Example:
 
-    <View class="container bg-lightblue">
+    <View class="container">
         <Label class="col col-1">Test</Label>
         <Label class="col col-1 col-spacing">Test</Label>
         <Label class="col col-1 col-spacing">Test</Label>
