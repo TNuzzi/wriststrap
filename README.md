@@ -2,38 +2,45 @@ Wriststrap
 ==========
 A Twitter Bootstrap inspired framework for [Appcelerator Titanium](http://www.appcelerator.com) (Alloy)
 
-### Version:
+### Version: Beta-1
 
 <table>
      <thead>
         <tr>
-          <th>OS</th>
+          <th>Device/Platform</th>
           <th>Support</th>
+          <th>Version</th>
         </tr>
     </thead>
     <tr>
         <td>iPhone</td>
         <td>Development</td>
+        <td>Version 1</td>
     </tr>
     <tr>
         <td>iPad</td>
         <td>Coming Soon</td>
+        <td>Version 1</td>
     </tr>
     <tr>
         <td>Android</td>
+        <td>Next</td>
         <td>Version 2</td>
     </tr>
     <tr>
         <td>Mobile Web</td>
+        <td>Next</td>
         <td>Version 2</td>
     </tr>
     <tr>
         <td>Blackberry</td>
         <td>Not sure</td>
+        <td>Version ?</td>
     </tr>
     <tr>
         <td>Tizen</td>
         <td>Not sure</td>
+        <td>Version ?</td>
     </tr>
 </table>
 
