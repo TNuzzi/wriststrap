@@ -344,11 +344,11 @@ Paragraphs also borrow from HTML but with a but of twist.  There is formatting a
     </thead>
     <tr>
         <td>p</td>
-        <td>Set <em>p</em> on the outer <em>View</em> that will take contain the <em>p-content</em> <em>Label(s)</em>.  It will ensure that the paragraph keeps the formatting.</td>
+        <td>Set <code>p</code> on the outer <code>View</code> that will take contain the <code>p-content</code> <code>Label(s)</code>.  It will ensure that the paragraph keeps the formatting.</td>
     </tr>
     <tr>
         <td>p-content</td>
-        <td>Generally used on <em>Label</em> element inside the <em>View</em> containing the <em>p</em> TSS class.</td>
+        <td>Generally used on <code>Label</code> elcodeent inside the <code>View</code> containing the <code>p</code> TSS class.</td>
     </tr>
     <tr>
         <td>lead</td>
@@ -368,7 +368,7 @@ Example:
     </View>
 
 ##### Text Formatting and Positioning
-These TSS classes provide a basic set of formatting and positing styles.  They can be applied to any UI element that formats with the `font` style.
+These TSS classes provide a basic set of formatting and positing styles.  They can be applied to any UI elcodeent that formats with the `font` style.
 
 
 ### Buttons
