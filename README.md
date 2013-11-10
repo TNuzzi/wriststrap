@@ -423,6 +423,7 @@ Example:
 ##### Address and Cite
 These two set of TSS classes are convenient classes used to format addresses and quotes.  As with paragraphs (`p`) an outer `View` is needed to ensure correct formatting when the device is resized.
 
+**Address**
 <table>
      <thead>
         <tr>
@@ -442,6 +443,16 @@ These two set of TSS classes are convenient classes used to format addresses and
         <td>address-content</td>
         <td>Container for the address content.  Formats each line of the address appropriately.</td>
     </tr>
+</table>
+
+**Cite**
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
     <tr>
         <td>cite</td>
         <td>Used to setup the outer <code>View</code> for the quote</td>
@@ -469,7 +480,7 @@ Example:
         <Label class="cite-source text-left">- Someone famous in Source Title</Label>
     </View>
 
-    
+
 ### Buttons
 ### Images
 ### Styles
