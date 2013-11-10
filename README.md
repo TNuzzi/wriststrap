@@ -482,6 +482,8 @@ Example:
 
 
 ### Buttons
+![Button example 1](http://tnuzzi.github.io/wriststrap/imgs/button-example-1.png "Button example 1")
+![Button example 2](http://tnuzzi.github.io/wriststrap/imgs/button-example-2.png "Button example 2")
 ### Images
 
 ### Styles
