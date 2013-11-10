@@ -371,6 +371,54 @@ Example:
 ##### Text Formatting and Positioning
 These TSS classes provide a basic set of formatting and positing styles.  They can be applied to any UI elcodeent that formats with the `font` style.
 
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>small</td>
+        <td>Sets the fontSize smaller than the default: <code>fontSize: '12dp'</code></td>
+    </tr>
+    <tr>
+        <td>large</td>
+        <td>Sets the fontSize larger than the default: <code>fontSize: '18dp'</code></td>
+    </tr>
+    <tr>
+        <td>bold</td>
+        <td>Bolds the text (uses HelveticaNeue) but keeps the same font size</td>
+    </tr>
+    <tr>
+        <td>em</td>
+        <td>Italicises the text but keeps the same font size</td>
+    </tr>
+    <tr>
+        <td>text-left</td>
+        <td>Positions the text at left justified</td>
+    </tr>
+    <tr>
+        <td>text-center</td>
+        <td>Positions the text at center justified</td>
+    </tr>
+    <tr>
+        <td>text-right</td>
+        <td>Positions the text at right justified</td>
+    </tr>
+</table>
+
+**NOTE: Make sure when using the `text-<justify>` style the `Label` is defined at 100% width.**
+
+Example:
+
+    <Label id="label" class="">Regular Label</Label>
+    <Label id="label" class="small">Regular Label - Small</Label>
+    <Label id="label" class="bold">Regular Label - bold</Label>
+    <Label id="label" class="em">Regular Label - italic</Label>
+    <Label id="label" class="w-100% text-left">Left</Label>
+    <Label id="label" class="w-100% text-center">Center</Label>
+    <Label id="label" class="w-100% text-right">Right</Label>
 
 ### Buttons
 ### Images
