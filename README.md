@@ -482,8 +482,167 @@ Example:
 
 
 ### Buttons
+The button themes in Wriststrap borrow from Bootstrap.  They provide a basic and simply way to create buttons with a nice color scheme.  For the rounded edges of the button it was choosen to use a `View` around the button to create the desired effect.
+
+### Button TSS Details
 ![Button example 1](http://tnuzzi.github.io/wriststrap/imgs/button-example-1.png "Button example 1")
 ![Button example 2](http://tnuzzi.github.io/wriststrap/imgs/button-example-2.png "Button example 2")
+
+#### Button types
+As with Bootstrap, several color schemes are available to the `Button` UI element.
+
+**Square Buttons**
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>btn-default</td>
+        <td>Colors the button with the default color scheme.  See above for a visual example.</td>
+    </tr>
+    <tr>
+        <td>btn-primary</td>
+        <td>Colors the button with the primary color scheme.  See above for a visual example.</td>
+    </tr>
+    <tr>
+        <td>btn-warning</td>
+        <td>Colors the button with the warning color scheme.  See above for a visual example.</td>
+    </tr>
+    <tr>
+        <td>btn-success</td>
+        <td>Colors the button with the success color scheme.  See above for a visual example.</td>
+    </tr>
+    <tr>
+        <td>btn-info</td>
+        <td>Colors the button with the info color scheme.  See above for a visual example.</td>
+    </tr>
+    <tr>
+        <td>btn-danger</td>
+        <td>Colors the button with the danger color scheme.  See above for a visual example.</td>
+    </tr>
+</table>
+
+Example:
+        <Button class="col-2 btn-default">Default</Button>
+        <Button class="col-2 btn-primary">Primary</Button>
+        <Button class="col-2 btn-warning">Warning</Button>
+        <Button class="col-2 btn-success">Success</Button>
+        <Button class="col-2 btn-info">Info</Button>
+        <Button class="col-2 btn-danger">Danger</Button>
+
+**Rounded-corner Buttons**
+The rounded corner effect is achieved by surrounding the `Button` with a `View` and using the `View` to apply the colored border.
+
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>btn-default</td>
+        <td>Used on the outer `View` to set the border properties.</td>
+    </tr>
+    <tr>
+        <td>btn-border-default</td>
+        <td>Colors the border with the default color scheme.  See above for a visual example.</td>
+    </tr>
+    <tr>
+        <td>btn-border-primary</td>
+        <td>Colors the border with the primary color scheme.  See above for a visual example.</td>
+    </tr>
+    <tr>
+        <td>btn-border-warning</td>
+        <td>Colors the border with the warning color scheme.  See above for a visual example.</td>
+    </tr>
+    <tr>
+        <td>btn-border-success</td>
+        <td>Colors the border with the success color scheme.  See above for a visual example.</td>
+    </tr>
+    <tr>
+        <td>btn-border-info</td>
+        <td>Colors the border with the info color scheme.  See above for a visual example.</td>
+    </tr>
+    <tr>
+        <td>btn-border-danger</td>
+        <td>Colors the border with the danger color scheme.  See above for a visual example.</td>
+    </tr>
+</table>
+
+Examples:
+
+    <View class="col col-4">
+        <Button>Regular Button</Button>
+    </View>
+    <View class="col col-4 btn-border btn-border-default">
+        <Button class="btn-default">Default</Button>
+    </View>
+    <View class="col col-4 btn-border btn-border-primary">
+        <Button class="btn-primary">Primary</Button>
+    </View>
+    <View class="col col-4 btn-border btn-border-warning">
+        <Button class="btn-warning">Warning</Button>
+    </View>
+    <View class="col col-4 btn-border btn-border-success">
+        <Button class="btn-success">Success</Button>
+    </View>
+    <View class="col col-4 btn-border btn-border-info">
+        <Button class="btn-info">Info</Button>
+    </View>
+    <View class="col col-4 btn-border btn-border-danger">
+        <Button class="btn-danger">Danger</Button>
+    </View>
+
+**Button Styling**
+As a convenience, there are a few TSS classes that set different font sizes for the Button text.  Also available is a TSS class that make the button appear to be disabled.
+
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>btn-xs</td>
+        <td>Sets the `fontSize` to 10dp.</td>
+    </tr>
+    <tr>
+        <td>btn-sm</td>
+        <td>Sets the `fontSize` to 12dp.</td>
+    </tr>
+    <tr>
+        <td>btn-lg</td>
+        <td>Sets the `fontSize` to 20dp.</td>
+    </tr>
+    <tr>
+        <td>btn-diabled</td>
+        <td>Lightens the color of the button to make it appear disabled.  **NOTE** this TSS class does not actually disable button click.  Use TSS class `disabled` to disable clicks</td>
+    </tr>
+</table>
+
+Example:
+
+    <View class="col col-1">
+        <Button class="btn btn-primary btn-xs">Extra Small</Button>
+    </View>
+    <View class="col col-1 col-spacing">
+        <Button class="btn btn-primary btn-sm">Small</Button>
+    </View>
+    <View class="col col-2 col-spacing">
+        <Button class="btn btn-warning btn-lg">Large</Button>
+    </View>
+    <View class="col col-4">
+        <Label class="w-100% text-left h4 bg-lightslategray">Button State</Label>
+    </View>
+    <View class="col col-4">
+        <Button class="btn btn-success btn-disabled disabled">Can't Clicky, ha!</Button>
+    </View>
+    
 ### Images
 ![Images example 1](http://tnuzzi.github.io/wriststrap/imgs/image-example-1.png "Images example 1")
 ![Images example 2](http://tnuzzi.github.io/wriststrap/imgs/image-example-2.png "Images example 2")
@@ -508,11 +667,6 @@ The default font for Wriststrap is currently "HelveticaNeue-Light".  This font i
 The format of the tss class is: `font-<size>-<fontname>` for example:
 
     font-12-helveticaneue-light
-
-
-![Font size example 1](http://tnuzzi.github.io/wriststrap/imgs/font-size-example-1.png "Font size example 1")
-![Font size example 2](http://tnuzzi.github.io/wriststrap/imgs/font-size-example-2.png "Font size example 2")
-![Font size example 3](http://tnuzzi.github.io/wriststrap/imgs/font-size-example-3.png "Font size example 3")
 
 The font sizes available are:
 <table>
@@ -558,6 +712,12 @@ The font sizes available are:
         <td>72</td>
     </tr>
 </table>
+
+![Font size example 1](http://tnuzzi.github.io/wriststrap/imgs/font-size-example-1.png "Font size example 1")
+![Font size example 2](http://tnuzzi.github.io/wriststrap/imgs/font-size-example-2.png "Font size example 2")
+![Font size example 3](http://tnuzzi.github.io/wriststrap/imgs/font-size-example-3.png "Font size example 3")
+
+Font shown here is `HelveticaNeue-UltraLight`
 
 #### Additional fonts
 
