@@ -1969,6 +1969,159 @@ Simply unzip the Glyph libraries in the `wriststrap/themes/wriststrap/assets` an
     </tr>
 </table>
 
+**Glyphicons Social**
+<table>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_00_pinterest.png" /></td>
+        <td>glyphicons-pinterest</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_01_dropbox.png" /></td>
+        <td>glyphicons-dropbox</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_02_google_plus.png" /></td>
+        <td>glyphicons-google_plus</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_03_jolicloud.png" /></td>
+        <td>glyphicons-jolicloud</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_04_yahoo.png" /></td>
+        <td>glyphicons-yahoo</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_05_blogger.png" /></td>
+        <td>glyphicons-blogger</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_06_picasa.png" /></td>
+        <td>glyphicons-picasa</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_07_amazon.png" /></td>
+        <td>glyphicons-amazon</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_08_tumblr.png" /></td>
+        <td>glyphicons-tumblr</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_09_wordpress.png" /></td>
+        <td>glyphicons-wordpress</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_10_instapaper.png" /></td>
+        <td>glyphicons-instapaper</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_11_evernote.png" /></td>
+        <td>glyphicons-evernote</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_12_xing.png" /></td>
+        <td>glyphicons-xing</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_13_zootool.png" /></td>
+        <td>glyphicons-zootool</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_14_dribbble.png" /></td>
+        <td>glyphicons-dribbble</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_15_deviantart.png" /></td>
+        <td>glyphicons-deviantart</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_16_read_it_later.png" /></td>
+        <td>glyphicons-read_it_later</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_17_linked_in.png" /></td>
+        <td>glyphicons-linked_in</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_18_forrst.png" /></td>
+        <td>glyphicons-forrst</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_19_pinboard.png" /></td>
+        <td>glyphicons-pinboard</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_20_behance.png" /></td>
+        <td>glyphicons-behance</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_21_github.png" /></td>
+        <td>glyphicons-github</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_22_youtube.png" /></td>
+        <td>glyphicons-youtube</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_23_skitch.png" /></td>
+        <td>glyphicons-skitch</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_24_4square.png" /></td>
+        <td>glyphicons-4square</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_25_quora.png" /></td>
+        <td>glyphicons-quora</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_26_badoo.png" /></td>
+        <td>glyphicons-badoo</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_27_spotify.png" /></td>
+        <td>glyphicons-spotify</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_28_stumbleupon.png" /></td>
+        <td>glyphicons-stumbleupon</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_29_readability.png" /></td>
+        <td>glyphicons-readability</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_30_facebook.png" /></td>
+        <td>glyphicons-facebook</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_31_twitter.png" /></td>
+        <td>glyphicons-twitter</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_32_instagram.png" /></td>
+        <td>glyphicons-instagram</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_33_posterous_spaces.png" /></td>
+        <td>glyphicons-posterous_spaces</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_34_vimeo.png" /></td>
+        <td>glyphicons-vimeo</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_35_flickr.png" /></td>
+        <td>glyphicons-flickr</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_36_last_fm.png" /></td>
+        <td>glyphicons-last_fm</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_37_rss.png" /></td>
+        <td>glyphicons-rss</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_38_skype.png" /></td>
+        <td>glyphicons-skype</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_39_e-mail.png" /></td>
+        <td>glyphicons-e-mail</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_40_vine.png" /></td>
+        <td>glyphicons-vine</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_41_myspace.png" /></td>
+        <td>glyphicons-myspace</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_42_goodreads.png" /></td>
+        <td>glyphicons-goodreads</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_43_apple.png" /></td>
+        <td>glyphicons-apple</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_44_windows.png" /></td>
+        <td>glyphicons-windows</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_45_yelp.png" /></td>
+        <td>glyphicons-yelp</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_46_playstation.png" /></td>
+        <td>glyphicons-playstation</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_47_xbox.png" /></td>
+        <td>glyphicons-xbox</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_48_android.png" /></td>
+        <td>glyphicons-android</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons_social/png/glyphicons_social_49_ios.png" /></td>
+        <td>glyphicons-ios</td>
+    </tr>
+</table>
 Limitations
 -----------
 
