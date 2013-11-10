@@ -483,6 +483,79 @@ Example:
 
 ### Buttons
 ### Images
+
+### Styles
+### Alerts
+### Panels
+### Wells
+### Inputs
+### Tables
+### Fonts
+The default font for Wriststrap is currently "HelveticaNeue-Light".  This font is lightweight and gives the app a clean feel.  The TSS classes are available in different font sizes.
+
+The format of the tss class is: `font-<size>-<fontname>` for example:
+
+    font-12-helveticaneue-light
+
+The font sizes available are:
+<table>
+     <thead>
+        <tr>
+          <th>Font Sizes</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td>14</td>
+    </tr>
+    <tr>
+        <td>18</td>
+    </tr>
+    <tr>
+        <td>24</td>
+    </tr>
+    <tr>
+        <td>30</td>
+    </tr>
+    <tr>
+        <td>36</td>
+    </tr>
+    <tr>
+        <td>48</td>
+    </tr>
+    <tr>
+        <td>60</td>
+    </tr>
+    <tr>
+        <td>72</td>
+    </tr>
+</table>
+
+#### Additional fonts
+
+In addition to the default font in the app.tss there is a provided tss file `wriststrap/themes/wristrap/style/fonts.tss` that contains all of the available fonts on the iOS platform (200 in all).  Originally they were included in the app.tss however it added 20k lines to file and where taken out.  If you need, you can copy font sets into the app.tss or all of them back into the app.tss however the file gets hard to edit.  See Appendix section for font names and tss class names.
+
+Supported Glyph libraries
+-------------------------
+Wriststrap has support for the following Glyph libraries:
+* [Glyphish](http://www.glyphish.com/)
+* [Glyphicons](http://glyphicons.com/) (Free version)
+
+### Glyph libraries installation:
+Simply unzip the Glyph libraries in the `wriststrap/themes/wriststrap/assets` and name the directories appropriately (the name of the library all lower case, no version numbers just the name).  The framework will reference these locations for the images.
+
+**Glyphicons**
 <table>
     <tr>
         <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_000_glass.png" /></td>
@@ -1895,76 +1968,6 @@ Example:
         <td>glyphicons_server_new</td>
     </tr>
 </table>
-### Styles
-### Alerts
-### Panels
-### Wells
-### Inputs
-### Tables
-### Fonts
-The default font for Wriststrap is currently "HelveticaNeue-Light".  This font is lightweight and gives the app a clean feel.  The TSS classes are available in different font sizes.
-
-The format of the tss class is: `font-<size>-<fontname>` for example:
-
-    font-12-helveticaneue-light
-
-The font sizes available are:
-<table>
-     <thead>
-        <tr>
-          <th>Font Sizes</th>
-        </tr>
-    </thead>
-    <tr>
-        <td>6</td>
-    </tr>
-    <tr>
-        <td>8</td>
-    </tr>
-    <tr>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>12</td>
-    </tr>
-    <tr>
-        <td>14</td>
-    </tr>
-    <tr>
-        <td>18</td>
-    </tr>
-    <tr>
-        <td>24</td>
-    </tr>
-    <tr>
-        <td>30</td>
-    </tr>
-    <tr>
-        <td>36</td>
-    </tr>
-    <tr>
-        <td>48</td>
-    </tr>
-    <tr>
-        <td>60</td>
-    </tr>
-    <tr>
-        <td>72</td>
-    </tr>
-</table>
-
-#### Additional fonts
-
-In addition to the default font in the app.tss there is a provided tss file `wriststrap/themes/wristrap/style/fonts.tss` that contains all of the available fonts on the iOS platform (200 in all).  Originally they were included in the app.tss however it added 20k lines to file and where taken out.  If you need, you can copy font sets into the app.tss or all of them back into the app.tss however the file gets hard to edit.  See Appendix section for font names and tss class names.
-
-Supported Glyph libraries
--------------------------
-Wriststrap has support for the following Glyph libraries:
-* [Glyphish](http://www.glyphish.com/)
-* [Glyphicons](http://glyphicons.com/) (Free version)
-
-### Glyph libraries installation:
-Simply unzip the Glyph libraries in the `wriststrap/themes/wriststrap/assets` and name the directories appropriately (the name of the library all lower case, no version numbers just the name).  The framework will reference these locations for the images.
 
 Limitations
 -----------
