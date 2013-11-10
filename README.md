@@ -335,13 +335,41 @@ Example:
 ##### Paragraphs
 Paragraphs also borrow from HTML but with a but of twist.  There is formatting around the paragraph TSS classes.  In that if the device is resized (landscape -> portrait) the paragragh resized appropriately.
 
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>p</td>
+        <td>Set <em>p</em> on the outer <em>View</em> that will take contain the <em>p-content</em> <em>Label(s)</em>.  It will ensure that the paragraph keeps the formatting.</td>
+    </tr>
+    <tr>
+        <td>p-content</td>
+        <td>Generally used on <em>Label</em> element inside the <em>View</em> containing the <em>p</em> TSS class.</td>
+    </tr>
+    <tr>
+        <td>lead</td>
+        <td>Used to title paragraph blocks.</td>
+    </tr>
+</table>
+
+Example: 
     <View class="p">
         <Label class="p-content lead">Lead - Some Awesome Title</Label>
         <Label class="p-content">Regular - Nullam quis risus eget urna mollis ornare vel eu 
-                                 leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
+                                 leo. Cum sociis natoque penatibus et magnis dis ridiculus
+        </Label>
         <Label class="p-content bold">Bold - Cum sociis natoque penatibus et magnis dis 
-                                      parturient montes, nascetur ridiculus mus. Donec</Label>
+                                      parturient montes, nascetur ridiculus mus. Donec
+        </Label>
     </View>
+
+##### Text Formatting and Positioning
+These TSS classes provide a basic set of formatting and positing styles.  They can be applied to any UI element that formats with the `font` style.
+
 
 ### Buttons
 ### Images
