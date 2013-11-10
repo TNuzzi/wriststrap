@@ -314,6 +314,33 @@ Example:
     </View>
 
 ### Typography
+The Typography TSS classes will help with styling your `Label` and content.  These TSS classes provide a general type of functionality around font sizes, types and text positioning.
+
+#### Typography TSS Details
+![Typography example 1](http://tnuzzi.github.io/wriststrap/imgs/typography-example-1.png "Typography example 1")
+![Typography example 2](http://tnuzzi.github.io/wriststrap/imgs/typography-example-2.png "Typography example 2")
+
+##### Headings
+As with HTML, Wriststrap provide the h1 - h6 text weight styling.  `h1` being used for large heads or banner text where as `h6` is used for sub-headings.
+
+Example:
+
+    <Label id="label" class="h1">h1 heading</Label> 
+    <Label id="label" class="h2">h2 heading</Label>
+    <Label id="label" class="h3">h3 heading</Label>
+    <Label id="label" class="h4">h4 heading</Label>
+    <Label id="label" class="h5">h5 heading</Label>
+    <Label id="label" class="h6">h6 heading</Label>
+
+##### Paragraphs
+Paragraphs also borrow from HTML but with a but of twist.  There is formatting around the paragraph TSS classes.  In that if the device is resized (landscape -> portrait) the paragragh resized appropriately.
+
+    <View class="p">
+        <Label class="p-content lead">Lead - Some Awesome Title</Label>
+        <Label class="p-content">Regular - Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
+        <Label class="p-content bold">Bold - Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec</Label>
+    </View>
+
 ### Buttons
 ### Images
 ### Styles

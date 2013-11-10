@@ -214,7 +214,7 @@
 	height: Ti.UI.SIZE,
 }
 
-".p-sentence":{
+".p-content":{
 	top: '10dp',
 	left:0
 }
