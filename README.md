@@ -526,12 +526,13 @@ As with Bootstrap, several color schemes are available to the `Button` UI elemen
 </table>
 
 Example:
-        <Button class="col-2 btn-default">Default</Button>
-        <Button class="col-2 btn-primary">Primary</Button>
-        <Button class="col-2 btn-warning">Warning</Button>
-        <Button class="col-2 btn-success">Success</Button>
-        <Button class="col-2 btn-info">Info</Button>
-        <Button class="col-2 btn-danger">Danger</Button>
+
+    <Button class="col-2 btn-default">Default</Button>
+    <Button class="col-2 btn-primary">Primary</Button>
+    <Button class="col-2 btn-warning">Warning</Button>
+    <Button class="col-2 btn-success">Success</Button>
+    <Button class="col-2 btn-info">Info</Button>
+    <Button class="col-2 btn-danger">Danger</Button>
 
 **Rounded-corner Buttons**
 The rounded corner effect is achieved by surrounding the `Button` with a `View` and using the `View` to apply the colored border.
@@ -642,7 +643,7 @@ Example:
     <View class="col col-4">
         <Button class="btn btn-success btn-disabled disabled">Can't Clicky, ha!</Button>
     </View>
-    
+
 ### Images
 ![Images example 1](http://tnuzzi.github.io/wriststrap/imgs/image-example-1.png "Images example 1")
 ![Images example 2](http://tnuzzi.github.io/wriststrap/imgs/image-example-2.png "Images example 2")
