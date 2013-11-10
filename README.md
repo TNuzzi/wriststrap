@@ -485,32 +485,21 @@ Example:
 ### Images
 <table>
     <tr>
-        <td>![Typography example 1](http://tnuzzi.github.io/wriststrap/imgs/glyphicons_000_glass.png)</td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_001_leaf.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_002_dog.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_003_user.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_004_girl.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_005_car.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_006_user_add.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_007_user_remove.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_008_film.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_009_magic.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_010_envelope.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_011_camera.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_012_heart.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_013_beach_umbrella.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_014_train.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_015_print.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_016_bin.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_017_music.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_018_note.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_019_heart_empty.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_020_home.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_021_snowflake.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_022_fire.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_023_magnet.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_024_parents.png" /></td>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_025_binoculars.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_000_glass.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_001_leaf.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_002_dog.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_003_user.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_004_girl.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_005_car.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_006_user_add.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_007_user_remove.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_008_film.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_009_magic.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_010_envelope.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_011_camera.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_012_heart.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_013_beach_umbrella.png" /></td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons/glyphicons/png/glyphicons_014_train.png" /></td>
     </tr>
 </table>
 ### Styles
