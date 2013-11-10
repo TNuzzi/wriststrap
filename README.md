@@ -485,7 +485,7 @@ Example:
 ### Images
 <table>
     <tr>
-        <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_000_glass.png" /></td>
+        <td>![Typography example 1](http://tnuzzi.github.io/wriststrap/imgs/glyphicons_000_glass.png)</td>
         <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_001_leaf.png" /></td>
         <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_002_dog.png" /></td>
         <td><img style="max-width:100%;" src="http://tnuzzi.github.io/wriststrap/imgs/glyphicons_003_user.png" /></td>
