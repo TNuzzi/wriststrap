@@ -272,25 +272,12 @@
 ".address-title":{
 	left: 0,
 	font: {
-		fontFamily: 'HelveticaNeue-Light',
+		fontFamily: 'HelveticaNeue',
 		fontSize: '14dp',
-		fontWeight: 'bold'
 	}
 }
 ".address-content":{
 	left: 0,
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-	}
-}
-".address-content-bold":{
-	left: 0,
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-		fontWeight: 'bold'
-	}
 }
 
 // Typography - Cite
@@ -311,9 +298,8 @@
 	top: '5dp',
 	left: '10dp',
 	font: {
-		fontFamily: 'HelveticaNeue-Light',
+		fontFamily: 'HelveticaNeue-LightItalic',
 		fontSize: '12dp',
-		fontStyle:'italic'
 	}
 }
 

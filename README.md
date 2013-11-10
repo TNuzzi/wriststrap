@@ -420,6 +420,56 @@ Example:
     <Label id="label" class="w-100% text-center">Center</Label>
     <Label id="label" class="w-100% text-right">Right</Label>
 
+##### Address and Cite
+These two set of TSS classes are convenient classes used to format addresses and quotes.  As with paragraphs (`p`) an outer `View` is needed to ensure correct formatting when the device is resized.
+
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>address</td>
+        <td>Used to setup the outer <code>View</code> for the address title and/or content</td>
+    </tr>
+    <tr>
+        <td>address-title</td>
+        <td>Formats the address title text</code></td>
+    </tr>
+    <tr>
+        <td>address-content</td>
+        <td>Container for the address content.  Formats each line of the address appropriately.</td>
+    </tr>
+    <tr>
+        <td>cite</td>
+        <td>Used to setup the outer <code>View</code> for the quote</td>
+    </tr>
+    <tr>
+        <td>cite-quote</td>
+        <td>Formats the text of the quote</td>
+    </tr>
+    <tr>
+        <td>cite-source</td>
+        <td>Formats the text of the quote source</td>
+    </tr>
+</table>
+
+Example:
+
+    <View class="address">
+        <Label class="address-title">Twitter, Inc.</Label>
+        <Label class="address-content">795 Folsom Ave, Suite 600\nSan Francisco, CA 94107</Label>
+        <Label class="address-content-bold color-primary">Phone: (123) 456-7890</Label>
+    </View>
+
+    <View class="cite">
+        <Label class="cite-quote text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</Label>
+        <Label class="cite-source text-left">- Someone famous in Source Title</Label>
+    </View>
+
+    
 ### Buttons
 ### Images
 ### Styles
