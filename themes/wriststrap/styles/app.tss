@@ -365,13 +365,13 @@
 ".btn-lg":{
 	font:{
 		fontFamily: 'HelveticaNeue-Light',
-		fontSize:'24dp'
+		fontSize:'20dp'
 	}
 }
 ".btn-sm":{
 	font:{
 		fontFamily: 'HelveticaNeue-Light',
-		fontSize:'14dp'
+		fontSize:'12dp'
 	}
 }
 ".btn-xs":{
@@ -6397,25 +6397,7 @@
 	bottom: '10dp',
 	height: Ti.UI.SIZE,
 	color: '468847',
-	backgroundColor: 'dff0d8',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp'
-	}
-}
-".alert-success-bold":{
-	left: '3%',
-	width: '94%',
-	top: '10dp',
-	bottom: '10dp',
-	height: Ti.UI.SIZE,
-	color: '468847',
-	backgroundColor: 'dff0d8',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-		fontWeight: 'bold'
-	}
+	backgroundColor: 'dff0d8'
 }
 
 ".alert-container-info":{
@@ -6435,11 +6417,7 @@
 	bottom: '10dp',
 	height: Ti.UI.SIZE,
 	color: '3a87ad',
-	backgroundColor: 'd9edf7',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp'
-	}
+	backgroundColor: 'd9edf7'
 }
 ".alert-info-bold":{
 	left: '3%',
@@ -6448,12 +6426,7 @@
 	bottom: '10dp',
 	height: Ti.UI.SIZE,
 	color: '3a87ad',
-	backgroundColor: 'd9edf7',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-		fontWeight: 'bold'
-	}
+	backgroundColor: 'd9edf7'
 }
 
 ".alert-container-warning":{
@@ -6473,11 +6446,7 @@
 	bottom: '10dp',
 	height: Ti.UI.SIZE,
 	color: 'c09853',
-	backgroundColor: 'fcf8e3',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp'
-	}
+	backgroundColor: 'fcf8e3'
 }
 ".alert-warning-bold":{
 	left: '3%',
@@ -6486,12 +6455,7 @@
 	bottom: '10dp',
 	height: Ti.UI.SIZE,
 	color: 'c09853',
-	backgroundColor: 'fcf8e3',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-		fontWeight: 'bold'
-	}
+	backgroundColor: 'fcf8e3'
 }
 
 ".alert-container-danger":{
@@ -6511,11 +6475,7 @@
 	bottom: '10dp',
 	height: Ti.UI.SIZE,
 	color: 'b94a48',
-	backgroundColor: 'f2dede',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp'
-	}
+	backgroundColor: 'f2dede'
 }
 ".alert-danger-bold":{
 	left: '3%',
@@ -6524,12 +6484,7 @@
 	bottom: '10dp',
 	height: Ti.UI.SIZE,
 	color: 'b94a48',
-	backgroundColor: 'f2dede',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-		fontWeight: 'bold'
-	}
+	backgroundColor: 'f2dede'
 }
 
 // Panels
