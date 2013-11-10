@@ -337,8 +337,10 @@ Paragraphs also borrow from HTML but with a but of twist.  There is formatting a
 
     <View class="p">
         <Label class="p-content lead">Lead - Some Awesome Title</Label>
-        <Label class="p-content">Regular - Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
-        <Label class="p-content bold">Bold - Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec</Label>
+        <Label class="p-content">Regular - Nullam quis risus eget urna mollis ornare vel eu 
+                                 leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
+        <Label class="p-content bold">Bold - Cum sociis natoque penatibus et magnis dis 
+                                      parturient montes, nascetur ridiculus mus. Donec</Label>
     </View>
 
 ### Buttons
