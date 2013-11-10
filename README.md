@@ -554,7 +554,609 @@ Wriststrap has support for the following Glyph libraries:
 
 ### Glyph libraries installation:
 Simply unzip the Glyph libraries in the `wriststrap/themes/wriststrap/assets` and name the directories appropriately (the name of the library all lower case, no version numbers just the name).  The framework will reference these locations for the images.
-
+**Glyphish**
+<table>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/01-refresh.png" /></td>
+        <td>glyphish-refresh</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/02-redo.png" /></td>
+        <td>glyphish-redo</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/03-loopback.png" /></td>
+        <td>glyphish-loopback</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/04-squiggle.png" /></td>
+        <td>glyphish-squiggle</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/05-shuffle.png" /></td>
+        <td>glyphish-shuffle</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/06-magnify.png" /></td>
+        <td>glyphish-magnify</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/07-map-marker.png" /></td>
+        <td>glyphish-map-marker</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/08-chat.png" /></td>
+        <td>glyphish-chat</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/09-chat-2.png" /></td>
+        <td>glyphish-chat-2</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/10-medical.png" /></td>
+        <td>glyphish-medical</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/11-clock.png" /></td>
+        <td>glyphish-clock</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/12-eye.png" /></td>
+        <td>glyphish-eye</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/13-target.png" /></td>
+        <td>glyphish-target</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/14-tag.png" /></td>
+        <td>glyphish-tag</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/15-tags.png" /></td>
+        <td>glyphish-tags</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/16-line-chart.png" /></td>
+        <td>glyphish-line-chart</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/17-bar-chart.png" /></td>
+        <td>glyphish-bar-chart</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/18-envelope.png" /></td>
+        <td>glyphish-envelope</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/19-gear.png" /></td>
+        <td>glyphish-gear</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/20-gear2.png" /></td>
+        <td>glyphish-gear2</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/21-skull.png" /></td>
+        <td>glyphish-skull</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/22-skull-n-bones.png" /></td>
+        <td>glyphish-skull-n-bones</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/23-bird.png" /></td>
+        <td>glyphish-bird</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/24-gift.png" /></td>
+        <td>glyphish-gift</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/25-weather.png" /></td>
+        <td>glyphish-weather</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/26-bandaid.png" /></td>
+        <td>glyphish-bandaid</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/27-planet.png" /></td>
+        <td>glyphish-planet</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/28-star.png" /></td>
+        <td>glyphish-star</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/29-heart.png" /></td>
+        <td>glyphish-heart</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/30-key.png" /></td>
+        <td>glyphish-key</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/31-ipod.png" /></td>
+        <td>glyphish-ipod</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/32-iphone.png" /></td>
+        <td>glyphish-iphone</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/33-cabinet.png" /></td>
+        <td>glyphish-cabinet</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/34-coffee.png" /></td>
+        <td>glyphish-coffee</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/35-shopping.png" /></td>
+        <td>glyphish-shopping</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/36-toolbox.png" /></td>
+        <td>glyphish-toolbox</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/37-suitcase.png" /></td>
+        <td>glyphish-suitcase</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/38-airplane.png" /></td>
+        <td>glyphish-airplane</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/39-spraycan.png" /></td>
+        <td>glyphish-spraycan</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/40-inbox.png" /></td>
+        <td>glyphish-inbox</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/41-picture-frame.png" /></td>
+        <td>glyphish-picture-frame</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/42-photos.png" /></td>
+        <td>glyphish-photos</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/43-film-roll.png" /></td>
+        <td>glyphish-film-roll</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/44-shoebox.png" /></td>
+        <td>glyphish-shoebox</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/45-movie-1.png" /></td>
+        <td>glyphish-movie-1</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/46-movie-2.png" /></td>
+        <td>glyphish-movie-2</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/47-fuel.png" /></td>
+        <td>glyphish-fuel</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/48-fork-and-knife.png" /></td>
+        <td>glyphish-fork-and-knife</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/49-battery.png" /></td>
+        <td>glyphish-battery</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/50-beaker.png" /></td>
+        <td>glyphish-beaker</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/51-outlet.png" /></td>
+        <td>glyphish-outlet</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/52-pine-tree.png" /></td>
+        <td>glyphish-pine-tree</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/53-house.png" /></td>
+        <td>glyphish-house</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/54-lock.png" /></td>
+        <td>glyphish-lock</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/55-network.png" /></td>
+        <td>glyphish-network</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/56-cloud.png" /></td>
+        <td>glyphish-cloud</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/57-download.png" /></td>
+        <td>glyphish-download</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/58-bookmark.png" /></td>
+        <td>glyphish-bookmark</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/59-flag.png" /></td>
+        <td>glyphish-flag</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/60-signpost.png" /></td>
+        <td>glyphish-signpost</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/61-brightness.png" /></td>
+        <td>glyphish-brightness</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/62-contrast.png" /></td>
+        <td>glyphish-contrast</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/63-runner.png" /></td>
+        <td>glyphish-runner</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/64-zap.png" /></td>
+        <td>glyphish-zap</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/65-note.png" /></td>
+        <td>glyphish-note</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/66-microphone.png" /></td>
+        <td>glyphish-microphone</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/67-tshirt.png" /></td>
+        <td>glyphish-tshirt</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/68-paperclip.png" /></td>
+        <td>glyphish-paperclip</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/69-display.png" /></td>
+        <td>glyphish-display</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/70-tv.png" /></td>
+        <td>glyphish-tv</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/71-compass.png" /></td>
+        <td>glyphish-compass</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/72-pin.png" /></td>
+        <td>glyphish-pin</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/73-radar.png" /></td>
+        <td>glyphish-radar</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/74-location.png" /></td>
+        <td>glyphish-location</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/75-phone.png" /></td>
+        <td>glyphish-phone</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/76-baby.png" /></td>
+        <td>glyphish-baby</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/77-ekg.png" /></td>
+        <td>glyphish-ekg</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/78-stopwatch.png" /></td>
+        <td>glyphish-stopwatch</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/79-medical-bag.png" /></td>
+        <td>glyphish-medical-bag</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/80-shopping-cart.png" /></td>
+        <td>glyphish-shopping-cart</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/81-dashboard.png" /></td>
+        <td>glyphish-dashboard</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/82-dog-paw.png" /></td>
+        <td>glyphish-dog-paw</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/83-calendar.png" /></td>
+        <td>glyphish-calendar</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/84-lightbulb.png" /></td>
+        <td>glyphish-lightbulb</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/85-trophy.png" /></td>
+        <td>glyphish-trophy</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/86-camera.png" /></td>
+        <td>glyphish-camera</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/87-wine-glass.png" /></td>
+        <td>glyphish-wine-glass</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/88-beer-mug.png" /></td>
+        <td>glyphish-beer-mug</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/89-dumbell.png" /></td>
+        <td>glyphish-dumbell</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/90-life-buoy.png" /></td>
+        <td>glyphish-life-buoy</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/91-beaker-2.png" /></td>
+        <td>glyphish-beaker-2</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/92-test-tube.png" /></td>
+        <td>glyphish-test-tube</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/93-thermometer.png" /></td>
+        <td>glyphish-thermometer</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/94-pill.png" /></td>
+        <td>glyphish-pill</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/95-equalizer.png" /></td>
+        <td>glyphish-equalizer</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/96-book.png" /></td>
+        <td>glyphish-book</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/97-puzzle.png" /></td>
+        <td>glyphish-puzzle</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/98-palette.png" /></td>
+        <td>glyphish-palette</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/99-umbrella.png" /></td>
+        <td>glyphish-umbrella</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/100-coffee.png" /></td>
+        <td>glyphish-coffee</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/101-gameplan.png" /></td>
+        <td>glyphish-gameplan</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/102-walk.png" /></td>
+        <td>glyphish-walk</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/103-map.png" /></td>
+        <td>glyphish-map</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/104-index-cards.png" /></td>
+        <td>glyphish-index-cards</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/105-piano.png" /></td>
+        <td>glyphish-piano</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/106-sliders.png" /></td>
+        <td>glyphish-sliders</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/107-widescreen.png" /></td>
+        <td>glyphish-widescreen</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/108-badge.png" /></td>
+        <td>glyphish-badge</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/109-chicken.png" /></td>
+        <td>glyphish-chicken</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/110-bug.png" /></td>
+        <td>glyphish-bug</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/111-user.png" /></td>
+        <td>glyphish-user</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/112-group.png" /></td>
+        <td>glyphish-group</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/113-navigation.png" /></td>
+        <td>glyphish-navigation</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/114-balloon.png" /></td>
+        <td>glyphish-balloon</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/115-bow-and-arrow.png" /></td>
+        <td>glyphish-bow-and-arrow</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/116-controller.png" /></td>
+        <td>glyphish-controller</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/117-todo.png" /></td>
+        <td>glyphish-todo</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/118-coat-hanger.png" /></td>
+        <td>glyphish-coat-hanger</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/119-piggy-bank.png" /></td>
+        <td>glyphish-piggy-bank</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/120-headphones.png" /></td>
+        <td>glyphish-headphones</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/121-landscape.png" /></td>
+        <td>glyphish-landscape</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/122-stats.png" /></td>
+        <td>glyphish-stats</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/123-id-card.png" /></td>
+        <td>glyphish-id-card</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/124-bullhorn.png" /></td>
+        <td>glyphish-bullhorn</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/125-food.png" /></td>
+        <td>glyphish-food</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/126-moon.png" /></td>
+        <td>glyphish-moon</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/127-sock.png" /></td>
+        <td>glyphish-sock</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/128-bone.png" /></td>
+        <td>glyphish-bone</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/129-golf.png" /></td>
+        <td>glyphish-golf</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/130-dice.png" /></td>
+        <td>glyphish-dice</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/131-tower.png" /></td>
+        <td>glyphish-tower</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/132-ghost.png" /></td>
+        <td>glyphish-ghost</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/133-ufo.png" /></td>
+        <td>glyphish-ufo</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/134-viking.png" /></td>
+        <td>glyphish-viking</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/135-hockeymask.png" /></td>
+        <td>glyphish-hockeymask</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/136-tractor.png" /></td>
+        <td>glyphish-tractor</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/137-presentation.png" /></td>
+        <td>glyphish-presentation</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/138-scales.png" /></td>
+        <td>glyphish-scales</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/139-flags.png" /></td>
+        <td>glyphish-flags</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/140-gradhat.png" /></td>
+        <td>glyphish-gradhat</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/141-lamp.png" /></td>
+        <td>glyphish-lamp</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/142-wine-bottle.png" /></td>
+        <td>glyphish-wine-bottle</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/143-liquor-bottle.png" /></td>
+        <td>glyphish-liquor-bottle</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/144-martini.png" /></td>
+        <td>glyphish-martini</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/145-persondot.png" /></td>
+        <td>glyphish-persondot</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/146-gavel.png" /></td>
+        <td>glyphish-gavel</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/147-popsicle.png" /></td>
+        <td>glyphish-popsicle</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/148-doghouse.png" /></td>
+        <td>glyphish-doghouse</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/149-windmill.png" /></td>
+        <td>glyphish-windmill</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/150-sailboat.png" /></td>
+        <td>glyphish-sailboat</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/151-telescope.png" /></td>
+        <td>glyphish-telescope</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/152-rolodex.png" /></td>
+        <td>glyphish-rolodex</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/153-guitar.png" /></td>
+        <td>glyphish-guitar</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/154-necktie.png" /></td>
+        <td>glyphish-necktie</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/155-bowtie.png" /></td>
+        <td>glyphish-bowtie</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/156-controlpad.png" /></td>
+        <td>glyphish-controlpad</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/157-wrench.png" /></td>
+        <td>glyphish-wrench</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/158-wrench-2.png" /></td>
+        <td>glyphish-wrench-2</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/159-voicemail.png" /></td>
+        <td>glyphish-voicemail</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/160-voicemail-2.png" /></td>
+        <td>glyphish-voicemail-2</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/161-calculator.png" /></td>
+        <td>glyphish-calculator</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/162-receipt.png" /></td>
+        <td>glyphish-receipt</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/163-glasses-1.png" /></td>
+        <td>glyphish-glasses-1</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/164-glasses-2.png" /></td>
+        <td>glyphish-glasses-2</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/165-glasses-3.png" /></td>
+        <td>glyphish-glasses-3</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/166-newspaper.png" /></td>
+        <td>glyphish-newspaper</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/167-upload-photo.png" /></td>
+        <td>glyphish-upload-photo</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/168-upload-photo-2.png" /></td>
+        <td>glyphish-upload-photo-2</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/169-8ball.png" /></td>
+        <td>glyphish-8ball</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/170-butterfly.png" /></td>
+        <td>glyphish-butterfly</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/171-sun.png" /></td>
+        <td>glyphish-sun</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/172-pricetag.png" /></td>
+        <td>glyphish-pricetag</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/173-eyedropper.png" /></td>
+        <td>glyphish-eyedropper</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/174-imac.png" /></td>
+        <td>glyphish-imac</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/175-macbook.png" /></td>
+        <td>glyphish-macbook</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/176-ipad.png" /></td>
+        <td>glyphish-ipad</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/177-building.png" /></td>
+        <td>glyphish-building</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/178-city.png" /></td>
+        <td>glyphish-city</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/179-notepad.png" /></td>
+        <td>glyphish-notepad</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/180-stickynote.png" /></td>
+        <td>glyphish-stickynote</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/181-hammer.png" /></td>
+        <td>glyphish-hammer</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/182-messenger-bag.png" /></td>
+        <td>glyphish-messenger-bag</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/183-genie-lamp.png" /></td>
+        <td>glyphish-genie-lamp</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/184-warning.png" /></td>
+        <td>glyphish-warning</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/185-printer.png" /></td>
+        <td>glyphish-printer</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/186-ruler.png" /></td>
+        <td>glyphish-ruler</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/187-pencil.png" /></td>
+        <td>glyphish-pencil</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/188-paint-roller.png" /></td>
+        <td>glyphish-paint-roller</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/189-plant.png" /></td>
+        <td>glyphish-plant</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/190-bank.png" /></td>
+        <td>glyphish-bank</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/191-collection.png" /></td>
+        <td>glyphish-collection</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/192-credit-card.png" /></td>
+        <td>glyphish-credit-card</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/193-location-arrow.png" /></td>
+        <td>glyphish-location-arrow</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/194-note-2.png" /></td>
+        <td>glyphish-note-2</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/195-barcode.png" /></td>
+        <td>glyphish-barcode</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/196-radiation.png" /></td>
+        <td>glyphish-radiation</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/197-card-diamonds.png" /></td>
+        <td>glyphish-card-diamonds</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/198-card-spades.png" /></td>
+        <td>glyphish-card-spades</td>
+    </tr>
+    <tr>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/199-card-hearts.png" /></td>
+        <td>glyphish-card-hearts</td>
+        <td><img src="http://tnuzzi.github.io/wriststrap/imgs/glyphish/icons/200-card-clubs.png" /></td>
+        <td>glyphish-card-clubs</td>
+    </tr>
+</table>
 **Glyphicons**
 <table>
     <tr>
