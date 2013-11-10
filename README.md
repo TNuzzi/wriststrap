@@ -348,7 +348,7 @@ Paragraphs also borrow from HTML but with a but of twist.  There is formatting a
     </tr>
     <tr>
         <td>p-content</td>
-        <td>Generally used on <code>Label</code> elcodeent inside the <code>View</code> containing the <code>p</code> TSS class.</td>
+        <td>Generally used on <code>Label</code> element inside the <code>View</code> containing the <code>p</code> TSS class.</td>
     </tr>
     <tr>
         <td>lead</td>
@@ -357,6 +357,7 @@ Paragraphs also borrow from HTML but with a but of twist.  There is formatting a
 </table>
 
 Example: 
+
     <View class="p">
         <Label class="p-content lead">Lead - Some Awesome Title</Label>
         <Label class="p-content">Regular - Nullam quis risus eget urna mollis ornare vel eu 
