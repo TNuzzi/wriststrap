@@ -485,19 +485,34 @@ Example:
 ![Button example 1](http://tnuzzi.github.io/wriststrap/imgs/button-example-1.png "Button example 1")
 ![Button example 2](http://tnuzzi.github.io/wriststrap/imgs/button-example-2.png "Button example 2")
 ### Images
-
+![Images example 1](http://tnuzzi.github.io/wriststrap/imgs/image-example-1.png "Images example 1")
+![Images example 2](http://tnuzzi.github.io/wriststrap/imgs/image-example-2.png "Images example 2")
 ### Styles
+![Style and Color example 1](http://tnuzzi.github.io/wriststrap/imgs/style-color-example-1.png "Style and Color example 1")
+![Style and Color example 2](http://tnuzzi.github.io/wriststrap/imgs/style-color-example-2.png "Style and Color example 2")
 ### Alerts
+![Alert example](http://tnuzzi.github.io/wriststrap/imgs/alert-example.png "Alert example")
 ### Panels
+![Panel example](http://tnuzzi.github.io/wriststrap/imgs/panel-example.png "Panel example")
 ### Wells
+![Wells example 1](http://tnuzzi.github.io/wriststrap/imgs/wells-example-1.png "Wells example 1")
+![Wells example 2](http://tnuzzi.github.io/wriststrap/imgs/wells-example-2.png "Wells example 2")
 ### Inputs
+![Input example](http://tnuzzi.github.io/wriststrap/imgs/input-example.png "Input example")
 ### Tables
+![Table example 1](http://tnuzzi.github.io/wriststrap/imgs/table-example-1.png "Table example 1")
+![Table example 2](http://tnuzzi.github.io/wriststrap/imgs/table-example-2.png "Table example 2")
 ### Fonts
 The default font for Wriststrap is currently "HelveticaNeue-Light".  This font is lightweight and gives the app a clean feel.  The TSS classes are available in different font sizes.
 
 The format of the tss class is: `font-<size>-<fontname>` for example:
 
     font-12-helveticaneue-light
+
+
+![Font size example 1](http://tnuzzi.github.io/wriststrap/imgs/font-size-example-1.png "Font size example 1")
+![Font size example 2](http://tnuzzi.github.io/wriststrap/imgs/font-size-example-2.png "Font size example 2")
+![Font size example 3](http://tnuzzi.github.io/wriststrap/imgs/font-size-example-3.png "Font size example 3")
 
 The font sizes available are:
 <table>

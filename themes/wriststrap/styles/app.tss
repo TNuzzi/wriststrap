@@ -6419,15 +6419,6 @@
 	color: '3a87ad',
 	backgroundColor: 'd9edf7'
 }
-".alert-info-bold":{
-	left: '3%',
-	width: '94%',
-	top: '10dp',
-	bottom: '10dp',
-	height: Ti.UI.SIZE,
-	color: '3a87ad',
-	backgroundColor: 'd9edf7'
-}
 
 ".alert-container-warning":{
 	layout: 'horizontal',
@@ -6440,15 +6431,6 @@
 }
 
 ".alert-warning":{
-	left: '3%',
-	width: '94%',
-	top: '10dp',
-	bottom: '10dp',
-	height: Ti.UI.SIZE,
-	color: 'c09853',
-	backgroundColor: 'fcf8e3'
-}
-".alert-warning-bold":{
 	left: '3%',
 	width: '94%',
 	top: '10dp',
@@ -6477,15 +6459,7 @@
 	color: 'b94a48',
 	backgroundColor: 'f2dede'
 }
-".alert-danger-bold":{
-	left: '3%',
-	width: '94%',
-	top: '10dp',
-	bottom: '10dp',
-	height: Ti.UI.SIZE,
-	color: 'b94a48',
-	backgroundColor: 'f2dede'
-}
+
 
 // Panels
 ".panel-body":{
