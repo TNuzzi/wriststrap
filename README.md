@@ -492,6 +492,7 @@ The button themes in Wriststrap borrow from Bootstrap.  They provide a basic and
 As with Bootstrap, several color schemes are available to the `Button` UI element.
 
 **Square Buttons**
+
 <table>
      <thead>
         <tr>
@@ -535,6 +536,7 @@ Example:
     <Button class="col-2 btn-danger">Danger</Button>
 
 **Rounded-corner Buttons**
+
 The rounded corner effect is achieved by surrounding the `Button` with a `View` and using the `View` to apply the colored border.
 
 <table>
@@ -599,6 +601,7 @@ Examples:
     </View>
 
 **Button Styling**
+
 As a convenience, there are a few TSS classes that set different font sizes for the Button text.  Also available is a TSS class that make the button appear to be disabled.
 
 <table>
