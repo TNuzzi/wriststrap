@@ -1553,8 +1553,55 @@ Background and Color TSS classes
 </table>
 
 ### Alerts
-![Alert example](http://tnuzzi.github.io/wriststrap/imgs/alert-example.png "Alert example")
+Alerts are an easy way to stylize informative message and to notify the user.  Alerts are broken into 2 sections the `View` container and the `Label(s)` for the content. 
 
+![Alert example](http://tnuzzi.github.io/wriststrap/imgs/alert-example.png "Alert example")
+#### Alert TSS Details
+
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>alert-container-success <br />
+            alert-success</td>
+        <td>Set the <code>alert-container-success</code> on the <code>View</code> and the <code>alert-success</code> on the Label(s).</td>
+    </tr>
+    <tr>
+        <td>alert-container-info <br />
+            alert-info</td>
+        <td>Set the <code>alert-container-info</code> on the <code>View</code> and the <code>alert-info</code> on the Label(s).</td>
+    </tr>
+    <tr>
+        <td>alert-container-warning <br />
+            alert-warning</td>
+        <td>Set the <code>alert-container-warning</code> on the <code>View</code> and the <code>alert-warning</code> on the Label(s).</td>
+    </tr>
+    <tr>
+        <td>alert-container-danger <br />
+            alert-danger</td>
+        <td>Set the <code>alert-container-danger</code> on the <code>View</code> and the <code>alert-danger</code> on the Label(s).</td>
+    </tr>
+</table>
+
+#Example
+
+    <View class="col col-4 alert-container-success">
+        <Label class="alert-success text-center">Success - Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
+    </View>
+    <View class="col col-4 alert-container-info">
+        <Label class="alert-info text-center">Info - Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
+    </View>
+    <View class="col col-4 alert-container-danger">
+        <Label class="alert-danger text-center">Danger - Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
+    </View>
+    <View class="col col-4 alert-container-warning">
+        <Label class="alert-warning text-center">Warning - Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
+    </View>
+    
 ### Panels
 ![Panel example](http://tnuzzi.github.io/wriststrap/imgs/panel-example.png "Panel example")
 
