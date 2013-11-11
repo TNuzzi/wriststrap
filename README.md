@@ -1587,7 +1587,7 @@ Alerts are an easy way to stylize informative message and to notify the user.  A
     </tr>
 </table>
 
-#Example
+Example
 
     <View class="col col-4 alert-container-success">
         <Label class="alert-success text-center">Success - Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
@@ -1601,9 +1601,80 @@ Alerts are an easy way to stylize informative message and to notify the user.  A
     <View class="col col-4 alert-container-warning">
         <Label class="alert-warning text-center">Warning - Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
     </View>
-    
+
 ### Panels
+Panels provide a simple container that give a heading/title to a group of content.  Panels use a `View` for the outer container and a container for the content body.  `Label(s)` are used for the title and content.
+
 ![Panel example](http://tnuzzi.github.io/wriststrap/imgs/panel-example.png "Panel example")
+#### Panel TSS Details
+
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>panel-default<br/>
+            panel-primary<br/>
+            panel-success<br/>
+            panel-warning<br/>
+            panel-danger<br/>
+        </td>
+        <td>Used on the outer <code>View</code> to apply the container color scheme and layout.</td>
+    </tr>
+    <tr>
+        <td>panel-default-header<br/>
+            panel-primary-header<br/>
+            panel-success-header<br/>
+            panel-warning-header<br/>
+            panel-danger-header<br/>
+        </td>
+        <td>Used on the header <code>Label</code>.</td>
+    </tr>
+    <tr>
+        <td>panel-container-body</td>
+        <td>Used to ensure formatting on the content of the Panel.  Typlically placed on a <code>View</code>.</td>
+    </tr>
+    <tr>
+        <td>panel-body</td>
+        <td>Used to format and stylize the content of the Panel.</td>
+    </tr>
+</table>
+
+Example
+
+    <View class="col col-4 panel-default">
+        <Label class="panel-default-header">Default</Label>
+        <View class="panel-container-body">
+            <Label class="panel-body">Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
+        </View>
+    </View>
+    <View class="col col-4 panel-primary">
+        <Label class="panel-primary-header">Primary</Label>
+        <View class="panel-container-body">
+            <Label class="panel-body">Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
+        </View>
+    </View>
+    <View class="col col-4 panel-success">
+        <Label class="panel-success-header">Success - A really, really, really, really, really long header title</Label>
+        <View class="panel-container-body">
+            <Label class="panel-body">Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
+        </View>
+    </View>
+    <View class="col col-4 panel-warning">
+        <Label class="panel-warning-header">Warning - A really, really, really, really, really long header title</Label>
+        <View class="panel-container-body">
+            <Label class="panel-body">Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
+        </View>
+    </View>
+    <View class="col col-4 panel-danger">
+        <Label class="panel-danger-header">Danger - A really, really, really, really, really long header title</Label>
+        <View class="panel-container-body">
+            <Label class="panel-body">Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis ridiculus</Label>
+        </View>
+    </View>
 
 ### Wells
 ![Wells example 1](http://tnuzzi.github.io/wriststrap/imgs/wells-example-1.png "Wells example 1")
