@@ -751,19 +751,14 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>
             '999999'
         </td>
-        <td style="width:10px;bgcolor:'#999999'"></td>
-    </tr>
-    <tr>
-        <td>btn-sm</td>
-        <td>Sets the `fontSize` to 12dp.</td>
-    </tr>
-    <tr>
-        <td>btn-lg</td>
-        <td>Sets the `fontSize` to 20dp.</td>
-    </tr>
-    <tr>
-        <td>btn-diabled</td>
-        <td>Lightens the color of the button to make it appear disabled.  **NOTE** this TSS class does not actually disable button click.  Use TSS class `disabled` to disable clicks</td>
+        <td bgcolor="#999999" style="width:10px"></td>
+        <td>bg-muted<br/>
+            color-muted
+        </td>
+        <td>
+            '999999'
+        </td>
+        <td bgcolor="#999999" style="width:10px"></td>
     </tr>
 </table>
 
