@@ -727,9 +727,45 @@ Example:
         <ImageView class="img-thumbnail-circle-sm" image="sample-img.png" />
     </View>
 
-### Styles
+### Styles And Colors
+A set of TSS colors class.  Also provided is a semi-transparent image to be set on `View`.  This allows for semi-transparent background without having the set the `opacity` (which affect the sub views).  The colors are provided both as `backgroundColor` and `color`.  The TSS suffix accordingly is `bg-<color name>` and `color-<color name>`.
+
+#### Styles And Colors TSS Details
 ![Style and Color example 1](http://tnuzzi.github.io/wriststrap/imgs/style-color-example-1.png "Style and Color example 1")
 ![Style and Color example 2](http://tnuzzi.github.io/wriststrap/imgs/style-color-example-2.png "Style and Color example 2")
+
+For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (75% transparent), `bg-50` (50% transparent) or `bg-75` (25% transparent).
+
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+          <th>Color</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>bg-muted<br/>
+            color-muted
+        </td>
+        <td>
+            '999999'
+        </td>
+        <td style="width:10px;bgcolor:'#999999'"></td>
+    </tr>
+    <tr>
+        <td>btn-sm</td>
+        <td>Sets the `fontSize` to 12dp.</td>
+    </tr>
+    <tr>
+        <td>btn-lg</td>
+        <td>Sets the `fontSize` to 20dp.</td>
+    </tr>
+    <tr>
+        <td>btn-diabled</td>
+        <td>Lightens the color of the button to make it appear disabled.  **NOTE** this TSS class does not actually disable button click.  Use TSS class `disabled` to disable clicks</td>
+    </tr>
+</table>
 
 ### Alerts
 ![Alert example](http://tnuzzi.github.io/wriststrap/imgs/alert-example.png "Alert example")
