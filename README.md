@@ -737,13 +737,6 @@ A set of TSS colors class.  Also provided is a semi-transparent image to be set 
 For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (75% transparent), `bg-50` (50% transparent) or `bg-75` (25% transparent).
 
 <table>
-     <thead>
-        <tr>
-          <th>TSS Class</th>
-          <th>Styling</th>
-          <th>Color</th>
-        </tr>
-    </thead>
     <tr>
         <td>bg-muted<br/>
             color-muted
@@ -751,14 +744,14 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>
             '999999'
         </td>
-        <td bgcolor="#999999" style="width:10px"></td>
+        <td style="width:10px;background-color:'#999999'"></td>
         <td>bg-muted<br/>
             color-muted
         </td>
         <td>
             '999999'
         </td>
-        <td bgcolor="#999999" style="width:10px"></td>
+        <td style="width:10px;background-color:'#999999'"></td>
     </tr>
 </table>
 
