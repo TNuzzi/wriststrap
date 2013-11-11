@@ -60,20 +60,20 @@ The following is an example of TSS classes being applied to different UI element
     <Alloy>
         <Window top="20">
             <View class="container bg-lightblue">
-                <Label class="col col-1 bg-pink">Test</Label>
-                <Label class="col col-1 col-spacing text-center bg-pink">Test</Label>
-                <Label class="col col-1 col-spacing text-center bg-pink">Test</Label>
-                <Label class="col col-1 col-spacing text-right bg-pink">Test</Label>
-                <Label class="col col-1 bg-pink">Test</Label>
-                <Label class="col col-2 col-spacing text-center bg-pink">Test</Label>
-                <Label class="col col-1 col-spacing text-right bg-pink">Test</Label>
-                <Label class="col col-3 text-center bg-pink">Test</Label>
-                <Label class="col col-1 col-spacing text-right bg-pink">Test</Label>
-                <View class="col col-2 bg-yellow lo-horizontal">
+                <Label class="row col-1 bg-pink">Test</Label>
+                <Label class="row col-1 col-spacing text-center bg-pink">Test</Label>
+                <Label class="row col-1 col-spacing text-center bg-pink">Test</Label>
+                <Label class="row col-1 col-spacing text-right bg-pink">Test</Label>
+                <Label class="row col-1 bg-pink">Test</Label>
+                <Label class="row col-2 col-spacing text-center bg-pink">Test</Label>
+                <Label class="row col-1 col-spacing text-right bg-pink">Test</Label>
+                <Label class="row col-3 text-center bg-pink">Test</Label>
+                <Label class="row col-1 col-spacing text-right bg-pink">Test</Label>
+                <View class="row col-2 bg-yellow lo-horizontal">
                     <Label class="col-2 text-center bg-pink">Test</Label>
                     <Label class="col-2 col-spacing text-center bg-pink">Test</Label>
                 </View>
-                <View class="col col-2 col-spacing bg-yellow lo-horizontal">
+                <View class="row col-2 col-spacing bg-yellow lo-horizontal">
                     <Label class="col-1 text-center bg-pink">Test</Label>
                     <Label class="col-1 col-spacing text-center bg-pink">Test</Label>
                     <Label class="col-1 col-spacing text-center bg-pink">Test</Label>
@@ -81,22 +81,22 @@ The following is an example of TSS classes being applied to different UI element
                 </View>
             </View>
             <View class="container bg-blue">
-                <Label class="col col-1 bg-pink">Test</Label>
-                <Label class="col col-1-push-2 bg-pink">Test</Label>
-                <Label class="col col-1 bg-pink">Test</Label>
-                <Label class="col col-1-push-2 bg-pink">Test</Label>
-                <Label class="col col-1 bg-pink">Test</Label>
-                <Label class="col col-1-push-2 bg-pink">Test</Label>
-                <Label class="col col-1 bg-pink">Test</Label>
-                <Label class="col col-1-push-2 bg-pink">Test</Label>
+                <Label class="row col-1 bg-pink">Test</Label>
+                <Label class="row col-1-push-2 bg-pink">Test</Label>
+                <Label class="row col-1 bg-pink">Test</Label>
+                <Label class="row col-1-push-2 bg-pink">Test</Label>
+                <Label class="row col-1 bg-pink">Test</Label>
+                <Label class="row col-1-push-2 bg-pink">Test</Label>
+                <Label class="row col-1 bg-pink">Test</Label>
+                <Label class="row col-1-push-2 bg-pink">Test</Label>
             </View>
             <View class="container bg-red">
-                <Label class="col col-1-push-1 bg-pink">Test</Label>
-                <Label class="col col-3-push-1 bg-pink">Test</Label>
-                <Label class="col col-3-push-1 bg-pink">Test</Label>
-                <Label class="col col-3-push-1 bg-pink">Test</Label>
-                <Label class="col col-1 bg-pink">Test</Label>
-                <Label class="col col-1-push-2 bg-pink">Test</Label>
+                <Label class="row col-1-push-1 bg-pink">Test</Label>
+                <Label class="row col-3-push-1 bg-pink">Test</Label>
+                <Label class="row col-3-push-1 bg-pink">Test</Label>
+                <Label class="row col-3-push-1 bg-pink">Test</Label>
+                <Label class="row col-1 bg-pink">Test</Label>
+                <Label class="row col-1-push-2 bg-pink">Test</Label>
             </View>
             <View class="layout-default lo-composite bg-purple">
                 <View class="footer bg-25">
@@ -292,20 +292,20 @@ At this time, this layout system is based on a grid system of 4 columns (for han
 Example:
 
     <View class="container">
-        <Label class="col col-1">Test</Label>
-        <Label class="col col-1 col-spacing">Test</Label>
-        <Label class="col col-1 col-spacing">Test</Label>
-        <Label class="col col-1 col-spacing">Test</Label>
-        <Label class="col col-1">Test</Label>
-        <Label class="col col-2 col-spacing">Test</Label>
-        <Label class="col col-1 col-spacing">Test</Label>
-        <Label class="col col-3">Test</Label>
-        <Label class="col col-1 col-spacing">Test</Label>
-        <View class="col col-2 lo-horizontal">
+        <Label class="row col-1">Test</Label>
+        <Label class="row col-1 col-spacing">Test</Label>
+        <Label class="row col-1 col-spacing">Test</Label>
+        <Label class="row col-1 col-spacing">Test</Label>
+        <Label class="row col-1">Test</Label>
+        <Label class="row col-2 col-spacing">Test</Label>
+        <Label class="row col-1 col-spacing">Test</Label>
+        <Label class="row col-3">Test</Label>
+        <Label class="row col-1 col-spacing">Test</Label>
+        <View class="row col-2 lo-horizontal">
             <Label class="col-2">Test</Label>
             <Label class="col-2 col-spacing">Test</Label>
         </View>
-        <View class="col col-2 col-spacing lo-horizontal">
+        <View class="row col-2 col-spacing lo-horizontal">
             <Label class="col-1">Test</Label>
             <Label class="col-1 col-spacing">Test</Label>
             <Label class="col-1 col-spacing">Test</Label>
@@ -578,25 +578,25 @@ The rounded corner effect is achieved by surrounding the `Button` with a `View` 
 
 Examples:
 
-    <View class="col col-4">
+    <View class="row col-4">
         <Button>Regular Button</Button>
     </View>
-    <View class="col col-4 btn-border btn-border-default">
+    <View class="row col-4 btn-border btn-border-default">
         <Button class="btn-default">Default</Button>
     </View>
-    <View class="col col-4 btn-border btn-border-primary">
+    <View class="row col-4 btn-border btn-border-primary">
         <Button class="btn-primary">Primary</Button>
     </View>
-    <View class="col col-4 btn-border btn-border-warning">
+    <View class="row col-4 btn-border btn-border-warning">
         <Button class="btn-warning">Warning</Button>
     </View>
-    <View class="col col-4 btn-border btn-border-success">
+    <View class="row col-4 btn-border btn-border-success">
         <Button class="btn-success">Success</Button>
     </View>
-    <View class="col col-4 btn-border btn-border-info">
+    <View class="row col-4 btn-border btn-border-info">
         <Button class="btn-info">Info</Button>
     </View>
-    <View class="col col-4 btn-border btn-border-danger">
+    <View class="row col-4 btn-border btn-border-danger">
         <Button class="btn-danger">Danger</Button>
     </View>
 
@@ -631,19 +631,19 @@ As a convenience, there are a few TSS classes that set different font sizes for 
 
 Example:
 
-    <View class="col col-1">
+    <View class="row col-1">
         <Button class="btn btn-primary btn-xs">Extra Small</Button>
     </View>
-    <View class="col col-1 col-spacing">
+    <View class="row col-1 col-spacing">
         <Button class="btn btn-primary btn-sm">Small</Button>
     </View>
-    <View class="col col-2 col-spacing">
+    <View class="row col-2 col-spacing">
         <Button class="btn btn-warning btn-lg">Large</Button>
     </View>
-    <View class="col col-4">
+    <View class="row col-4">
         <Label class="w-100% text-left h4 bg-lightslategray">Button State</Label>
     </View>
-    <View class="col col-4">
+    <View class="row col-4">
         <Button class="btn btn-success btn-disabled disabled">Can't Clicky, ha!</Button>
     </View>
 
