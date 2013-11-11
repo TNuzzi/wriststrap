@@ -648,11 +648,12 @@ Example:
     </View>
 
 ### Images
-This set of TSS classes is used to stylize an image.  The rounded corner TSS does not have an image size restriction however the circle and thumbnail.  The restriction is the image has to be specified at a given height and width.  For larger images the requirement is `140dp` and the smaller size is `60dp` for height and width.
+This set of TSS classes is used to stylize an image using the `ImageView` UI element.  The rounded corner TSS does not have an image size restriction however the circle and thumbnail.  The restriction is the image has to be specified at a given height and width.  For larger images the requirement is `140dp` and the smaller size is `60dp` for height and width.
+
+#### Image TSS Details
 ![Images example 1](http://tnuzzi.github.io/wriststrap/imgs/image-example-1.png "Images example 1")
 ![Images example 2](http://tnuzzi.github.io/wriststrap/imgs/image-example-2.png "Images example 2")
 
-#### Image TSS Details
 <table>
      <thead>
         <tr>
@@ -708,46 +709,22 @@ This set of TSS classes is used to stylize an image.  The rounded corner TSS doe
 
 Example:
 
-    <View class="col col-2">
-        <ImageView class="pull-left img-rounded" image="sample-img.png" />
+    <ImageView class="img-rounded" image="sample-img.png" />
+    <ImageView class="img-rounded w-50 h-50" image="sample-img.png" />
+    <ImageView class="img-circle-sm" image="sample-img.png" />
+    <ImageView class="img-circle-sm" image="sample-img.png" />
+    <ImageView class="img-circle" image="sample-img.png" />
+    <View class="thumbnail-container">
+        <ImageView class="img-thumbnail" image="sample-img.png" />
     </View>
-    <View class="col col-1-push-1 col-spacing">
-        <ImageView class="pull-left img-rounded w-50 h-50" image="sample-img.png" />
+    <View class="thumbnail-circle-container">
+        <ImageView class="img-thumbnail-circle" image="sample-img.png" />
     </View>
-    <View class="col col-4">
-        <Label class="w-100% text-left h4 bg-lightslategray">Images - Circles (140dp and 60dp)</Label>
+    <View class="thumbnail-container-sm">
+        <ImageView class="img-thumbnail-sm" image="sample-img.png" />
     </View>
-    <View class="col col-2">
-        <ImageView class="img-circle-sm" image="sample-img.png" />
-    </View>
-    <View class="col col-2 col-spacing">
-        <ImageView class="img-circle-sm" image="sample-img.png" />
-    </View>
-    <View class="col col-4">
-        <ImageView class="img-circle" image="sample-img.png" />
-    </View>
-    <View class="col col-4">
-        <Label class="w-100% text-left h4 bg-lightslategray">Images - Thumbnails</Label>
-    </View>
-    <View class="col col-2">
-        <View class="thumbnail-container">
-            <ImageView class="img-thumbnail" image="sample-img.png" />
-        </View>
-    </View>
-    <View class="col col-2 col-spacing">
-        <View class="thumbnail-circle-container">
-            <ImageView class="img-thumbnail-circle" image="sample-img.png" />
-        </View>
-    </View>
-    <View class="col col-2">
-        <View class="thumbnail-container-sm">
-            <ImageView class="img-thumbnail-sm" image="sample-img.png" />
-        </View>
-    </View>
-    <View class="col col-2 col-spacing">
-        <View class="thumbnail-circle-container-sm">
-            <ImageView class="img-thumbnail-circle-sm" image="sample-img.png" />
-        </View>
+    <View class="thumbnail-circle-container-sm">
+        <ImageView class="img-thumbnail-circle-sm" image="sample-img.png" />
     </View>
 
 ### Styles
