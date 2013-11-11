@@ -97,7 +97,7 @@
     height: Ti.UI.SIZE,
     layout: 'horizontal'
 }
-".row":{
+".col":{
     top:'10dp'
 }
 ".col-spacing":{

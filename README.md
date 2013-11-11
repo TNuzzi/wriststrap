@@ -60,20 +60,20 @@ The following is an example of TSS classes being applied to different UI element
     <Alloy>
         <Window top="20">
             <View class="container bg-lightblue">
-                <Label class="row col-1 bg-pink">Test</Label>
-                <Label class="row col-1 col-spacing text-center bg-pink">Test</Label>
-                <Label class="row col-1 col-spacing text-center bg-pink">Test</Label>
-                <Label class="row col-1 col-spacing text-right bg-pink">Test</Label>
-                <Label class="row col-1 bg-pink">Test</Label>
-                <Label class="row col-2 col-spacing text-center bg-pink">Test</Label>
-                <Label class="row col-1 col-spacing text-right bg-pink">Test</Label>
-                <Label class="row col-3 text-center bg-pink">Test</Label>
-                <Label class="row col-1 col-spacing text-right bg-pink">Test</Label>
-                <View class="row col-2 bg-yellow lo-horizontal">
+                <Label class="col col-1 bg-pink">Test</Label>
+                <Label class="col col-1 col-spacing text-center bg-pink">Test</Label>
+                <Label class="col col-1 col-spacing text-center bg-pink">Test</Label>
+                <Label class="col col-1 col-spacing text-right bg-pink">Test</Label>
+                <Label class="col col-1 bg-pink">Test</Label>
+                <Label class="col col-2 col-spacing text-center bg-pink">Test</Label>
+                <Label class="col col-1 col-spacing text-right bg-pink">Test</Label>
+                <Label class="col col-3 text-center bg-pink">Test</Label>
+                <Label class="col col-1 col-spacing text-right bg-pink">Test</Label>
+                <View class="col col-2 bg-yellow lo-horizontal">
                     <Label class="col-2 text-center bg-pink">Test</Label>
                     <Label class="col-2 col-spacing text-center bg-pink">Test</Label>
                 </View>
-                <View class="row col-2 col-spacing bg-yellow lo-horizontal">
+                <View class="col col-2 col-spacing bg-yellow lo-horizontal">
                     <Label class="col-1 text-center bg-pink">Test</Label>
                     <Label class="col-1 col-spacing text-center bg-pink">Test</Label>
                     <Label class="col-1 col-spacing text-center bg-pink">Test</Label>
@@ -81,22 +81,22 @@ The following is an example of TSS classes being applied to different UI element
                 </View>
             </View>
             <View class="container bg-blue">
-                <Label class="row col-1 bg-pink">Test</Label>
-                <Label class="row col-1-push-2 bg-pink">Test</Label>
-                <Label class="row col-1 bg-pink">Test</Label>
-                <Label class="row col-1-push-2 bg-pink">Test</Label>
-                <Label class="row col-1 bg-pink">Test</Label>
-                <Label class="row col-1-push-2 bg-pink">Test</Label>
-                <Label class="row col-1 bg-pink">Test</Label>
-                <Label class="row col-1-push-2 bg-pink">Test</Label>
+                <Label class="col col-1 bg-pink">Test</Label>
+                <Label class="col col-1-push-2 bg-pink">Test</Label>
+                <Label class="col col-1 bg-pink">Test</Label>
+                <Label class="col col-1-push-2 bg-pink">Test</Label>
+                <Label class="col col-1 bg-pink">Test</Label>
+                <Label class="col col-1-push-2 bg-pink">Test</Label>
+                <Label class="col col-1 bg-pink">Test</Label>
+                <Label class="col col-1-push-2 bg-pink">Test</Label>
             </View>
             <View class="container bg-red">
-                <Label class="row col-1-push-1 bg-pink">Test</Label>
-                <Label class="row col-3-push-1 bg-pink">Test</Label>
-                <Label class="row col-3-push-1 bg-pink">Test</Label>
-                <Label class="row col-3-push-1 bg-pink">Test</Label>
-                <Label class="row col-1 bg-pink">Test</Label>
-                <Label class="row col-1-push-2 bg-pink">Test</Label>
+                <Label class="col col-1-push-1 bg-pink">Test</Label>
+                <Label class="col col-3-push-1 bg-pink">Test</Label>
+                <Label class="col col-3-push-1 bg-pink">Test</Label>
+                <Label class="col col-3-push-1 bg-pink">Test</Label>
+                <Label class="col col-1 bg-pink">Test</Label>
+                <Label class="col col-1-push-2 bg-pink">Test</Label>
             </View>
             <View class="layout-default lo-composite bg-purple">
                 <View class="footer bg-25">
@@ -268,7 +268,7 @@ At this time, this layout system is based on a grid system of 4 columns (for han
         </tr>
     </thead>
     <tr>
-        <td>row</td>
+        <td>col</td>
         <td>Sets the top of `10dp` to provide a visual break from the content above.</td>
     </tr>
     <tr>
@@ -292,20 +292,20 @@ At this time, this layout system is based on a grid system of 4 columns (for han
 Example:
 
     <View class="container">
-        <Label class="row col-1">Test</Label>
-        <Label class="row col-1 col-spacing">Test</Label>
-        <Label class="row col-1 col-spacing">Test</Label>
-        <Label class="row col-1 col-spacing">Test</Label>
-        <Label class="row col-1">Test</Label>
-        <Label class="row col-2 col-spacing">Test</Label>
-        <Label class="row col-1 col-spacing">Test</Label>
-        <Label class="row col-3">Test</Label>
-        <Label class="row col-1 col-spacing">Test</Label>
-        <View class="row col-2 lo-horizontal">
+        <Label class="col col-1">Test</Label>
+        <Label class="col col-1 col-spacing">Test</Label>
+        <Label class="col col-1 col-spacing">Test</Label>
+        <Label class="col col-1 col-spacing">Test</Label>
+        <Label class="col col-1">Test</Label>
+        <Label class="col col-2 col-spacing">Test</Label>
+        <Label class="col col-1 col-spacing">Test</Label>
+        <Label class="col col-3">Test</Label>
+        <Label class="col col-1 col-spacing">Test</Label>
+        <View class="col col-2 lo-horizontal">
             <Label class="col-2">Test</Label>
             <Label class="col-2 col-spacing">Test</Label>
         </View>
-        <View class="row col-2 col-spacing lo-horizontal">
+        <View class="col col-2 col-spacing lo-horizontal">
             <Label class="col-1">Test</Label>
             <Label class="col-1 col-spacing">Test</Label>
             <Label class="col-1 col-spacing">Test</Label>
@@ -333,7 +333,7 @@ Example:
     <Label id="label" class="h6">h6 heading</Label>
 
 ##### Paragraphs
-Paragraphs also borrow from HTML but with a but of twist.  There is formatting around the paragraph TSS classes.  In that if the device is resized (landscape -> portrait) the paragragh resized appropriately.
+Paragraphs also borcol from HTML but with a but of twist.  There is formatting around the paragraph TSS classes.  In that if the device is resized (landscape -> portrait) the paragragh resized appropriately.
 
 <table>
      <thead>
@@ -482,7 +482,7 @@ Example:
 
 
 ### Buttons
-The button themes in Wriststrap borrow from Bootstrap.  They provide a basic and simply way to create buttons with a nice color scheme.  For the rounded edges of the button it was choosen to use a `View` around the button to create the desired effect.
+The button themes in Wriststrap borcol from Bootstrap.  They provide a basic and simply way to create buttons with a nice color scheme.  For the rounded edges of the button it was choosen to use a `View` around the button to create the desired effect.
 
 ### Button TSS Details
 ![Button example 1](http://tnuzzi.github.io/wriststrap/imgs/button-example-1.png "Button example 1")
@@ -578,25 +578,25 @@ The rounded corner effect is achieved by surrounding the `Button` with a `View` 
 
 Examples:
 
-    <View class="row col-4">
+    <View class="col col-4">
         <Button>Regular Button</Button>
     </View>
-    <View class="row col-4 btn-border btn-border-default">
+    <View class="col col-4 btn-border btn-border-default">
         <Button class="btn-default">Default</Button>
     </View>
-    <View class="row col-4 btn-border btn-border-primary">
+    <View class="col col-4 btn-border btn-border-primary">
         <Button class="btn-primary">Primary</Button>
     </View>
-    <View class="row col-4 btn-border btn-border-warning">
+    <View class="col col-4 btn-border btn-border-warning">
         <Button class="btn-warning">Warning</Button>
     </View>
-    <View class="row col-4 btn-border btn-border-success">
+    <View class="col col-4 btn-border btn-border-success">
         <Button class="btn-success">Success</Button>
     </View>
-    <View class="row col-4 btn-border btn-border-info">
+    <View class="col col-4 btn-border btn-border-info">
         <Button class="btn-info">Info</Button>
     </View>
-    <View class="row col-4 btn-border btn-border-danger">
+    <View class="col col-4 btn-border btn-border-danger">
         <Button class="btn-danger">Danger</Button>
     </View>
 
@@ -631,25 +631,124 @@ As a convenience, there are a few TSS classes that set different font sizes for 
 
 Example:
 
-    <View class="row col-1">
+    <View class="col col-1">
         <Button class="btn btn-primary btn-xs">Extra Small</Button>
     </View>
-    <View class="row col-1 col-spacing">
+    <View class="col col-1 col-spacing">
         <Button class="btn btn-primary btn-sm">Small</Button>
     </View>
-    <View class="row col-2 col-spacing">
+    <View class="col col-2 col-spacing">
         <Button class="btn btn-warning btn-lg">Large</Button>
     </View>
-    <View class="row col-4">
+    <View class="col col-4">
         <Label class="w-100% text-left h4 bg-lightslategray">Button State</Label>
     </View>
-    <View class="row col-4">
+    <View class="col col-4">
         <Button class="btn btn-success btn-disabled disabled">Can't Clicky, ha!</Button>
     </View>
 
 ### Images
+This set of TSS classes is used to stylize an image.  The rounded corner TSS does not have an image size restriction however the circle and thumbnail.  The restriction is the image has to be specified at a given height and width.  For larger images the requirement is `140dp` and the smaller size is `60dp` for height and width.
 ![Images example 1](http://tnuzzi.github.io/wriststrap/imgs/image-example-1.png "Images example 1")
 ![Images example 2](http://tnuzzi.github.io/wriststrap/imgs/image-example-2.png "Images example 2")
+
+#### Image TSS Details
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>img-rounded</td>
+        <td>Added rounded corners to image.  No restriction on image height or width.</td>
+    </tr>
+    <tr>
+        <td>img-circle</td>
+        <td>Transforms image into a circle image.  Image will be resized to 140dp. (height and width)</td>
+    </tr>
+    <tr>
+        <td>img-circle-sm</td>
+        <td>Transforms image into a circle image.  Image will be resized to 60dp. (height and width)</td>
+    </tr>
+    <tr>
+        <td>thumbnail-container</td>
+        <td>Used on the outer <code>View</code> to setup the thumbnail effect.</td>
+    </tr>
+    <tr>
+        <td>img-thumbnail</td>
+        <td>Resizes the image to a thumbnail. Image will be resized to 130dp. (height and width)</td>
+    </tr>
+    <tr>
+        <td>thumbnail-circle-container</td>
+        <td>Used on the outer <code>View</code> to setup the circle thumbnail effect.</td>
+    </tr>
+    <tr>
+        <td>img-thumbnail-circle</td>
+        <td>Resizes the image to a thumbnail. Image will be resized to 130dp. (height and width)</td>
+    </tr>
+    <tr>
+        <td>thumbnail-container-sm</td>
+        <td>Used on the outer <code>View</code> to setup the thumbnail effect.</td>
+    </tr>
+    <tr>
+        <td>img-thumbnail-sm</td>
+        <td>Resizes the image to a thumbnail. Image will be resized to 50dp. (height and width)</td>
+    </tr>
+    <tr>
+        <td>thumbnail-circle-container-sm</td>
+        <td>Used on the outer <code>View</code> to setup the circle thumbnail effect.</td>
+    </tr>
+    <tr>
+        <td>img-thumbnail-circle-sm</td>
+        <td>Resizes the image to a thumbnail. Image will be resized to 50dp. (height and width)</td>
+    </tr>
+</table>
+
+Example:
+
+    <View class="col col-2">
+        <ImageView class="pull-left img-rounded" image="sample-img.png" />
+    </View>
+    <View class="col col-1-push-1 col-spacing">
+        <ImageView class="pull-left img-rounded w-50 h-50" image="sample-img.png" />
+    </View>
+    <View class="col col-4">
+        <Label class="w-100% text-left h4 bg-lightslategray">Images - Circles (140dp and 60dp)</Label>
+    </View>
+    <View class="col col-2">
+        <ImageView class="img-circle-sm" image="sample-img.png" />
+    </View>
+    <View class="col col-2 col-spacing">
+        <ImageView class="img-circle-sm" image="sample-img.png" />
+    </View>
+    <View class="col col-4">
+        <ImageView class="img-circle" image="sample-img.png" />
+    </View>
+    <View class="col col-4">
+        <Label class="w-100% text-left h4 bg-lightslategray">Images - Thumbnails</Label>
+    </View>
+    <View class="col col-2">
+        <View class="thumbnail-container">
+            <ImageView class="img-thumbnail" image="sample-img.png" />
+        </View>
+    </View>
+    <View class="col col-2 col-spacing">
+        <View class="thumbnail-circle-container">
+            <ImageView class="img-thumbnail-circle" image="sample-img.png" />
+        </View>
+    </View>
+    <View class="col col-2">
+        <View class="thumbnail-container-sm">
+            <ImageView class="img-thumbnail-sm" image="sample-img.png" />
+        </View>
+    </View>
+    <View class="col col-2 col-spacing">
+        <View class="thumbnail-circle-container-sm">
+            <ImageView class="img-thumbnail-circle-sm" image="sample-img.png" />
+        </View>
+    </View>
 
 ### Styles
 ![Style and Color example 1](http://tnuzzi.github.io/wriststrap/imgs/style-color-example-1.png "Style and Color example 1")
