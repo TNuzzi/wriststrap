@@ -738,20 +738,689 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
 
 <table>
     <tr>
-        <td>bg-muted<br/>
-            color-muted
+        <td>bg-muted
+            <br />color-muted
         </td>
-        <td>
-            <div style="background-color:#999999;">'999999'</div>
+        <td>'999999'</td>
+        <td>bg-primary
+            <br />color-primary
         </td>
-        <td></td>
-        <td>bg-muted<br/>
-            color-muted
+        <td>'428bca'</td>
+        <td>bg-warning
+            <br />color-warning
         </td>
-        <td>
-            '999999'
+        <td>'c09853'</td>
+    </tr>
+    <tr>
+        <td>bg-danger
+            <br />color-danger
         </td>
-        <td style="width:10px;background-color:#999999;"></td>
+        <td>'b94a48'</td>
+        <td>bg-success
+            <br />color-success
+        </td>
+        <td>'468847'</td>
+        <td>bg-info
+            <br />color-info
+        </td>
+        <td>'3a87ad'</td>
+    </tr>
+    <tr>
+        <td>bg-transparent
+            <br />color-transparent
+        </td>
+        'tran
+        <td>sparent'</td>
+        <td>bg-aliceblue
+            <br />color-aliceblue
+        </td>
+        <td>'F0F8FF'</td>
+        <td>bg-antiquewhite
+            <br />color-antiquewhite
+        </td>
+        <td>'FAEBD7'</td>
+    </tr>
+    <tr>
+        <td>bg-aqua
+            <br />color-aqua
+        </td>
+        <td>'00FFFF'</td>
+        <td>bg-aquamarine
+            <br />color-aquamarine
+        </td>
+        <td>'7FFFD4'</td>
+        <td>bg-azure
+            <br />color-azure
+        </td>
+        <td>'F0FFFF'</td>
+    </tr>
+    <tr>
+        <td>bg-beige
+            <br />color-beige
+        </td>
+        <td>'F5F5DC'</td>
+        <td>bg-bisque
+            <br />color-bisque
+        </td>
+        <td>'FFE4C4'</td>
+        <td>bg-black
+            <br />color-black
+        </td>
+        <td>'000000'</td>
+    </tr>
+    <tr>
+        <td>bg-blanchedalmond
+            <br />color-blanchedalmond
+        </td>
+        <td>'FFEBCD'</td>
+        <td>bg-blue
+            <br />color-blue
+        </td>
+        <td>'0000FF'</td>
+        <td>bg-blueviolet
+            <br />color-blueviolet
+        </td>
+        <td>'8A2BE2'</td>
+    </tr>
+    <tr>
+        <td>bg-brown
+            <br />color-brown
+        </td>
+        <td>'A52A2A'</td>
+        <td>bg-burlywood
+            <br />color-burlywood
+        </td>
+        <td>'DEB887'</td>
+        <td>bg-cadetblue
+            <br />color-cadetblue
+        </td>
+        <td>'5F9EA0'</td>
+    </tr>
+    <tr>
+        <td>bg-chartreuse
+            <br />color-chartreuse
+        </td>
+        <td>'7FFF00'</td>
+        <td>bg-chocolate
+            <br />color-chocolate
+        </td>
+        <td>'D2691E'</td>
+        <td>bg-coral
+            <br />color-coral
+        </td>
+        <td>'FF7F50'</td>
+    </tr>
+    <tr>
+        <td>bg-cornflowerblue
+            <br />color-cornflowerblue
+        </td>
+        <td>'6495ED'</td>
+        <td>bg-cornsilk
+            <br />color-cornsilk
+        </td>
+        <td>'FFF8DC'</td>
+        <td>bg-crimson
+            <br />color-crimson
+        </td>
+        <td>'DC143C'</td>
+    </tr>
+    <tr>
+        <td>bg-cyan
+            <br />color-cyan
+        </td>
+        <td>'00FFFF'</td>
+        <td>bg-darkblue
+            <br />color-darkblue
+        </td>
+        <td>'00008B'</td>
+        <td>bg-darkcyan
+            <br />color-darkcyan
+        </td>
+        <td>'008B8B'</td>
+    </tr>
+    <tr>
+        <td>bg-darkgoldenrod
+            <br />color-darkgoldenrod
+        </td>
+        <td>'B8860B'</td>
+        <td>bg-darkgray
+            <br />color-darkgray
+        </td>
+        <td>'A9A9A9'</td>
+        <td>bg-darkgreen
+            <br />color-darkgreen
+        </td>
+        <td>'006400'</td>
+    </tr>
+    <tr>
+        <td>bg-darkkhaki
+            <br />color-darkkhaki
+        </td>
+        <td>'BDB76B'</td>
+        <td>bg-darkmagenta
+            <br />color-darkmagenta
+        </td>
+        <td>'8B008B'</td>
+        <td>bg-darkolivegreen
+            <br />color-darkolivegreen
+        </td>
+        <td>'556B2F'</td>
+    </tr>
+    <tr>
+        <td>bg-darkorange
+            <br />color-darkorange
+        </td>
+        <td>'FF8C00'</td>
+        <td>bg-darkorchid
+            <br />color-darkorchid
+        </td>
+        <td>'9932CC'</td>
+        <td>bg-darkred
+            <br />color-darkred
+        </td>
+        <td>'8B0000'</td>
+    </tr>
+    <tr>
+        <td>bg-darksalmon
+            <br />color-darksalmon
+        </td>
+        <td>'E9967A'</td>
+        <td>bg-darkseagreen
+            <br />color-darkseagreen
+        </td>
+        <td>'8FBC8F'</td>
+        <td>bg-darkslateblue
+            <br />color-darkslateblue
+        </td>
+        <td>'483D8B'</td>
+    </tr>
+    <tr>
+        <td>bg-darkslategray
+            <br />color-darkslategray
+        </td>
+        <td>'2F4F4F'</td>
+        <td>bg-darkturquoise
+            <br />color-darkturquoise
+        </td>
+        <td>'00CED1'</td>
+        <td>bg-darkviolet
+            <br />color-darkviolet
+        </td>
+        <td>'9400D3'</td>
+    </tr>
+    <tr>
+        <td>bg-deeppink
+            <br />color-deeppink
+        </td>
+        <td>'FF1493'</td>
+        <td>bg-deepskyblue
+            <br />color-deepskyblue
+        </td>
+        <td>'00BFFF'</td>
+        <td>bg-dimgray
+            <br />color-dimgray
+        </td>
+        <td>'696969'</td>
+    </tr>
+    <tr>
+        <td>bg-dodgerblue
+            <br />color-dodgerblue
+        </td>
+        <td>'1E90FF'</td>
+        <td>bg-firebrick
+            <br />color-firebrick
+        </td>
+        <td>'B22222'</td>
+        <td>bg-floralwhite
+            <br />color-floralwhite
+        </td>
+        <td>'FFFAF0'</td>
+    </tr>
+    <tr>
+        <td>bg-forestgreen
+            <br />color-forestgreen
+        </td>
+        <td>'228B22'</td>
+        <td>bg-fuchsia
+            <br />color-fuchsia
+        </td>
+        <td>'FF00FF'</td>
+        <td>bg-gainsboro
+            <br />color-gainsboro
+        </td>
+        <td>'DCDCDC'</td>
+    </tr>
+    <tr>
+        <td>bg-ghostwhite
+            <br />color-ghostwhite
+        </td>
+        <td>'F8F8FF'</td>
+        <td>bg-gold
+            <br />color-gold
+        </td>
+        <td>'FFD700'</td>
+        <td>bg-goldenrod
+            <br />color-goldenrod
+        </td>
+        <td>'DAA520'</td>
+    </tr>
+    <tr>
+        <td>bg-gray
+            <br />color-gray
+        </td>
+        <td>'808080'</td>
+        <td>bg-green
+            <br />color-green
+        </td>
+        <td>'008000'</td>
+        <td>bg-greenyellow
+            <br />color-greenyellow
+        </td>
+        <td>'ADFF2F'</td>
+    </tr>
+    <tr>
+        <td>bg-honeydew
+            <br />color-honeydew
+        </td>
+        <td>'F0FFF0'</td>
+        <td>bg-hotpink
+            <br />color-hotpink
+        </td>
+        <td>'FF69B4'</td>
+        <td>bg-indianred
+            <br />color-indianred
+        </td>
+        <td>'CD5C5C'</td>
+    </tr>
+    <tr>
+        <td>bg-indigo
+            <br />color-indigo
+        </td>
+        <td>'4B0082'</td>
+        <td>bg-ivory
+            <br />color-ivory
+        </td>
+        <td>'FFFFF0'</td>
+        <td>bg-khaki
+            <br />color-khaki
+        </td>
+        <td>'F0E68C'</td>
+    </tr>
+    <tr>
+        <td>bg-lavender
+            <br />color-lavender
+        </td>
+        <td>'E6E6FA'</td>
+        <td>bg-lavenderblush
+            <br />color-lavenderblush
+        </td>
+        <td>'FFF0F5'</td>
+        <td>bg-lawngreen
+            <br />color-lawngreen
+        </td>
+        <td>'7CFC00'</td>
+    </tr>
+    <tr>
+        <td>bg-lemonchiffon
+            <br />color-lemonchiffon
+        </td>
+        <td>'FFFACD'</td>
+        <td>bg-lightblue
+            <br />color-lightblue
+        </td>
+        <td>'ADD8E6'</td>
+        <td>bg-lightcoral
+            <br />color-lightcoral
+        </td>
+        <td>'F08080'</td>
+    </tr>
+    <tr>
+        <td>bg-lightcyan
+            <br />color-lightcyan
+        </td>
+        <td>'E0FFFF'</td>
+        <td>bg-lightgoldenrodyellow
+            <br />color-lightgoldenrodyellow
+        </td>
+        <td>'FAFAD2'</td>
+        <td>bg-lightgray
+            <br />color-lightgray
+        </td>
+        <td>'D3D3D3'</td>
+    </tr>
+    <tr>
+        <td>bg-lightgreen
+            <br />color-lightgreen
+        </td>
+        <td>'90EE90'</td>
+        <td>bg-lightpink
+            <br />color-lightpink
+        </td>
+        <td>'FFB6C1'</td>
+        <td>bg-lightsalmon
+            <br />color-lightsalmon
+        </td>
+        <td>'FFA07A'</td>
+    </tr>
+    <tr>
+        <td>bg-lightseagreen
+            <br />color-lightseagreen
+        </td>
+        <td>'20B2AA'</td>
+        <td>bg-lightskyblue
+            <br />color-lightskyblue
+        </td>
+        <td>'87CEFA'</td>
+        <td>bg-lightslategray
+            <br />color-lightslategray
+        </td>
+        <td>'778899'</td>
+    </tr>
+    <tr>
+        <td>bg-lightsteelblue
+            <br />color-lightsteelblue
+        </td>
+        <td>'B0C4DE'</td>
+        <td>bg-lightyellow
+            <br />color-lightyellow
+        </td>
+        <td>'FFFFE0'</td>
+        <td>bg-lime
+            <br />color-lime
+        </td>
+        <td>'00FF00'</td>
+    </tr>
+    <tr>
+        <td>bg-limegreen
+            <br />color-limegreen
+        </td>
+        <td>'32CD32'</td>
+        <td>bg-linen
+            <br />color-linen
+        </td>
+        <td>'FAF0E6'</td>
+        <td>bg-magenta
+            <br />color-magenta
+        </td>
+        <td>'FF00FF'</td>
+    </tr>
+    <tr>
+        <td>bg-maroon
+            <br />color-maroon
+        </td>
+        <td>'800000'</td>
+        <td>bg-mediumaquamarine
+            <br />color-mediumaquamarine
+        </td>
+        <td>'66CDAA'</td>
+        <td>bg-mediumblue
+            <br />color-mediumblue
+        </td>
+        <td>'0000CD'</td>
+    </tr>
+    <tr>
+        <td>bg-mediumorchid
+            <br />color-mediumorchid
+        </td>
+        <td>'BA55D3'</td>
+        <td>bg-mediumpurple
+            <br />color-mediumpurple
+        </td>
+        <td>'9370DB'</td>
+        <td>bg-mediumseagreen
+            <br />color-mediumseagreen
+        </td>
+        <td>'3CB371'</td>
+    </tr>
+    <tr>
+        <td>bg-mediumslateblue
+            <br />color-mediumslateblue
+        </td>
+        <td>'7B68EE'</td>
+        <td>bg-mediumspringgreen
+            <br />color-mediumspringgreen
+        </td>
+        <td>'00FA9A'</td>
+        <td>bg-mediumturquoise
+            <br />color-mediumturquoise
+        </td>
+        <td>'48D1CC'</td>
+    </tr>
+    <tr>
+        <td>bg-mediumvioletred
+            <br />color-mediumvioletred
+        </td>
+        <td>'C71585'</td>
+        <td>bg-midnightblue
+            <br />color-midnightblue
+        </td>
+        <td>'191970'</td>
+        <td>bg-mintcream
+            <br />color-mintcream
+        </td>
+        <td>'F5FFFA'</td>
+    </tr>
+    <tr>
+        <td>bg-mistyrose
+            <br />color-mistyrose
+        </td>
+        <td>'FFE4E1'</td>
+        <td>bg-moccasin
+            <br />color-moccasin
+        </td>
+        <td>'FFE4B5'</td>
+        <td>bg-navajowhite
+            <br />color-navajowhite
+        </td>
+        <td>'FFDEAD'</td>
+    </tr>
+    <tr>
+        <td>bg-navy
+            <br />color-navy
+        </td>
+        <td>'000080'</td>
+        <td>bg-oldlace
+            <br />color-oldlace
+        </td>
+        <td>'FDF5E6'</td>
+        <td>bg-olive
+            <br />color-olive
+        </td>
+        <td>'808000'</td>
+    </tr>
+    <tr>
+        <td>bg-olivedrab
+            <br />color-olivedrab
+        </td>
+        <td>'6B8E23'</td>
+        <td>bg-orange
+            <br />color-orange
+        </td>
+        <td>'FFA500'</td>
+        <td>bg-orangered
+            <br />color-orangered
+        </td>
+        <td>'FF4500'</td>
+    </tr>
+    <tr>
+        <td>bg-orchid
+            <br />color-orchid
+        </td>
+        <td>'DA70D6'</td>
+        <td>bg-palegoldenrod
+            <br />color-palegoldenrod
+        </td>
+        <td>'EEE8AA'</td>
+        <td>bg-palegreen
+            <br />color-palegreen
+        </td>
+        <td>'98FB98'</td>
+    </tr>
+    <tr>
+        <td>bg-paleturquoise
+            <br />color-paleturquoise
+        </td>
+        <td>'AFEEEE'</td>
+        <td>bg-palevioletred
+            <br />color-palevioletred
+        </td>
+        <td>'DB7093'</td>
+        <td>bg-papayawhip
+            <br />color-papayawhip
+        </td>
+        <td>'FFEFD5'</td>
+    </tr>
+    <tr>
+        <td>bg-peachpuff
+            <br />color-peachpuff
+        </td>
+        <td>'FFDAB9'</td>
+        <td>bg-peru
+            <br />color-peru
+        </td>
+        <td>'CD853F'</td>
+        <td>bg-pink
+            <br />color-pink
+        </td>
+        <td>'FFC0CB'</td>
+    </tr>
+    <tr>
+        <td>bg-plum
+            <br />color-plum
+        </td>
+        <td>'DDA0DD'</td>
+        <td>bg-powderblue
+            <br />color-powderblue
+        </td>
+        <td>'B0E0E6'</td>
+        <td>bg-purple
+            <br />color-purple
+        </td>
+        <td>'800080'</td>
+    </tr>
+    <tr>
+        <td>bg-red
+            <br />color-red
+        </td>
+        <td>'FF0000'</td>
+        <td>bg-rosybrown
+            <br />color-rosybrown
+        </td>
+        <td>'BC8F8F'</td>
+        <td>bg-royalblue
+            <br />color-royalblue
+        </td>
+        <td>'4169E1'</td>
+    </tr>
+    <tr>
+        <td>bg-saddlebrown
+            <br />color-saddlebrown
+        </td>
+        <td>'8B4513'</td>
+        <td>bg-salmon
+            <br />color-salmon
+        </td>
+        <td>'FA8072'</td>
+        <td>bg-sandybrown
+            <br />color-sandybrown
+        </td>
+        <td>'F4A460'</td>
+    </tr>
+    <tr>
+        <td>bg-seagreen
+            <br />color-seagreen
+        </td>
+        <td>'2E8B57'</td>
+        <td>bg-seashell
+            <br />color-seashell
+        </td>
+        <td>'FFF5EE'</td>
+        <td>bg-sienna
+            <br />color-sienna
+        </td>
+        <td>'A0522D'</td>
+    </tr>
+    <tr>
+        <td>bg-silver
+            <br />color-silver
+        </td>
+        <td>'C0C0C0'</td>
+        <td>bg-skyblue
+            <br />color-skyblue
+        </td>
+        <td>'87CEEB'</td>
+        <td>bg-slateblue
+            <br />color-slateblue
+        </td>
+        <td>'6A5ACD'</td>
+    </tr>
+    <tr>
+        <td>bg-slategray
+            <br />color-slategray
+        </td>
+        <td>'708090'</td>
+        <td>bg-snow
+            <br />color-snow
+        </td>
+        <td>'FFFAFA'</td>
+        <td>bg-springgreen
+            <br />color-springgreen
+        </td>
+        <td>'00FF7F'</td>
+    </tr>
+    <tr>
+        <td>bg-steelblue
+            <br />color-steelblue
+        </td>
+        <td>'4682B4'</td>
+        <td>bg-tan
+            <br />color-tan
+        </td>
+        <td>'D2B48C'</td>
+        <td>bg-teal
+            <br />color-teal
+        </td>
+        <td>'008080'</td>
+    </tr>
+    <tr>
+        <td>bg-thistle
+            <br />color-thistle
+        </td>
+        <td>'D8BFD8'</td>
+        <td>bg-tomato
+            <br />color-tomato
+        </td>
+        <td>'FF6347'</td>
+        <td>bg-turquoise
+            <br />color-turquoise
+        </td>
+        <td>'40E0D0'</td>
+    </tr>
+    <tr>
+        <td>bg-violet
+            <br />color-violet
+        </td>
+        <td>'EE82EE'</td>
+        <td>bg-wheat
+            <br />color-wheat
+        </td>
+        <td>'F5DEB3'</td>
+        <td>bg-white
+            <br />color-white
+        </td>
+        <td>'FFFFFF'</td>
+    </tr>
+    <tr>
+        <td>bg-whitesmoke
+            <br />color-whitesmoke
+        </td>
+        <td>'F5F5F5'</td>
+        <td>bg-yellow
+            <br />color-yellow</td>
+        <td>'FFFF00'</td>
+        <td>bg-yellowgreen
+            <br />color-yellowgreen</td>
+        <td>'9ACD32'</td>
     </tr>
 </table>
 
