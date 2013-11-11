@@ -742,9 +742,9 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             color-muted
         </td>
         <td>
-            '999999'
+            <div style="background-color:#999999;">'999999'</div>
         </td>
-        <td style="width:10px;background-color:#999999;"></td>
+        <td></td>
         <td>bg-muted<br/>
             color-muted
         </td>
