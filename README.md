@@ -736,6 +736,10 @@ A set of TSS colors class.  Also provided is a semi-transparent image to be set 
 
 For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (75% transparent), `bg-50` (50% transparent) or `bg-75` (25% transparent).
 
+**NOTE** MD is not allowing me to color the table cells to give a visual color with the hex number.  For how here is the TSS class name with the assigned hex numbers.
+
+Background and Color TSS classes
+
 <table>
     <tr>
         <td>
