@@ -738,7 +738,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
 
 <table>
     <tr>
-        <td>bg-muted
+        <td>
+            bg-muted
             <br />color-muted
         </td>
         <td>'999999'</td>
@@ -746,17 +747,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-primary
         </td>
         <td>'428bca'</td>
-        <td>bg-warning
+    </tr>
+    <tr>
+        <td>
+            bg-warning
             <br />color-warning
         </td>
         <td>'c09853'</td>
-    </tr>
-    <tr>
         <td>bg-danger
             <br />color-danger
         </td>
         <td>'b94a48'</td>
-        <td>bg-success
+    </tr>
+    <tr>
+        <td>
+            bg-success
             <br />color-success
         </td>
         <td>'468847'</td>
@@ -766,26 +771,30 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'3a87ad'</td>
     </tr>
     <tr>
-        <td>bg-transparent
+        <td>
+            bg-transparent
             <br />color-transparent
         </td>
-        'tran
-        <td>sparent'</td>
+        <td>'transparent'</td>
         <td>bg-aliceblue
             <br />color-aliceblue
         </td>
         <td>'F0F8FF'</td>
-        <td>bg-antiquewhite
+    </tr>
+    <tr>
+        <td>
+            bg-antiquewhite
             <br />color-antiquewhite
         </td>
         <td>'FAEBD7'</td>
-    </tr>
-    <tr>
         <td>bg-aqua
             <br />color-aqua
         </td>
         <td>'00FFFF'</td>
-        <td>bg-aquamarine
+    </tr>
+    <tr>
+        <td>
+            bg-aquamarine
             <br />color-aquamarine
         </td>
         <td>'7FFFD4'</td>
@@ -795,7 +804,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'F0FFFF'</td>
     </tr>
     <tr>
-        <td>bg-beige
+        <td>
+            bg-beige
             <br />color-beige
         </td>
         <td>'F5F5DC'</td>
@@ -803,17 +813,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-bisque
         </td>
         <td>'FFE4C4'</td>
-        <td>bg-black
+    </tr>
+    <tr>
+        <td>
+            bg-black
             <br />color-black
         </td>
         <td>'000000'</td>
-    </tr>
-    <tr>
         <td>bg-blanchedalmond
             <br />color-blanchedalmond
         </td>
         <td>'FFEBCD'</td>
-        <td>bg-blue
+    </tr>
+    <tr>
+        <td>
+            bg-blue
             <br />color-blue
         </td>
         <td>'0000FF'</td>
@@ -823,7 +837,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'8A2BE2'</td>
     </tr>
     <tr>
-        <td>bg-brown
+        <td>
+            bg-brown
             <br />color-brown
         </td>
         <td>'A52A2A'</td>
@@ -831,17 +846,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-burlywood
         </td>
         <td>'DEB887'</td>
-        <td>bg-cadetblue
+    </tr>
+    <tr>
+        <td>
+            bg-cadetblue
             <br />color-cadetblue
         </td>
         <td>'5F9EA0'</td>
-    </tr>
-    <tr>
         <td>bg-chartreuse
             <br />color-chartreuse
         </td>
         <td>'7FFF00'</td>
-        <td>bg-chocolate
+    </tr>
+    <tr>
+        <td>
+            bg-chocolate
             <br />color-chocolate
         </td>
         <td>'D2691E'</td>
@@ -851,7 +870,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'FF7F50'</td>
     </tr>
     <tr>
-        <td>bg-cornflowerblue
+        <td>
+            bg-cornflowerblue
             <br />color-cornflowerblue
         </td>
         <td>'6495ED'</td>
@@ -859,17 +879,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-cornsilk
         </td>
         <td>'FFF8DC'</td>
-        <td>bg-crimson
+    </tr>
+    <tr>
+        <td>
+            bg-crimson
             <br />color-crimson
         </td>
         <td>'DC143C'</td>
-    </tr>
-    <tr>
         <td>bg-cyan
             <br />color-cyan
         </td>
         <td>'00FFFF'</td>
-        <td>bg-darkblue
+    </tr>
+    <tr>
+        <td>
+            bg-darkblue
             <br />color-darkblue
         </td>
         <td>'00008B'</td>
@@ -879,7 +903,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'008B8B'</td>
     </tr>
     <tr>
-        <td>bg-darkgoldenrod
+        <td>
+            bg-darkgoldenrod
             <br />color-darkgoldenrod
         </td>
         <td>'B8860B'</td>
@@ -887,17 +912,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-darkgray
         </td>
         <td>'A9A9A9'</td>
-        <td>bg-darkgreen
+    </tr>
+    <tr>
+        <td>
+            bg-darkgreen
             <br />color-darkgreen
         </td>
         <td>'006400'</td>
-    </tr>
-    <tr>
         <td>bg-darkkhaki
             <br />color-darkkhaki
         </td>
         <td>'BDB76B'</td>
-        <td>bg-darkmagenta
+    </tr>
+    <tr>
+        <td>
+            bg-darkmagenta
             <br />color-darkmagenta
         </td>
         <td>'8B008B'</td>
@@ -907,7 +936,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'556B2F'</td>
     </tr>
     <tr>
-        <td>bg-darkorange
+        <td>
+            bg-darkorange
             <br />color-darkorange
         </td>
         <td>'FF8C00'</td>
@@ -915,17 +945,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-darkorchid
         </td>
         <td>'9932CC'</td>
-        <td>bg-darkred
+    </tr>
+    <tr>
+        <td>
+            bg-darkred
             <br />color-darkred
         </td>
         <td>'8B0000'</td>
-    </tr>
-    <tr>
         <td>bg-darksalmon
             <br />color-darksalmon
         </td>
         <td>'E9967A'</td>
-        <td>bg-darkseagreen
+    </tr>
+    <tr>
+        <td>
+            bg-darkseagreen
             <br />color-darkseagreen
         </td>
         <td>'8FBC8F'</td>
@@ -935,7 +969,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'483D8B'</td>
     </tr>
     <tr>
-        <td>bg-darkslategray
+        <td>
+            bg-darkslategray
             <br />color-darkslategray
         </td>
         <td>'2F4F4F'</td>
@@ -943,17 +978,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-darkturquoise
         </td>
         <td>'00CED1'</td>
-        <td>bg-darkviolet
+    </tr>
+    <tr>
+        <td>
+            bg-darkviolet
             <br />color-darkviolet
         </td>
         <td>'9400D3'</td>
-    </tr>
-    <tr>
         <td>bg-deeppink
             <br />color-deeppink
         </td>
         <td>'FF1493'</td>
-        <td>bg-deepskyblue
+    </tr>
+    <tr>
+        <td>
+            bg-deepskyblue
             <br />color-deepskyblue
         </td>
         <td>'00BFFF'</td>
@@ -963,7 +1002,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'696969'</td>
     </tr>
     <tr>
-        <td>bg-dodgerblue
+        <td>
+            bg-dodgerblue
             <br />color-dodgerblue
         </td>
         <td>'1E90FF'</td>
@@ -971,17 +1011,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-firebrick
         </td>
         <td>'B22222'</td>
-        <td>bg-floralwhite
+    </tr>
+    <tr>
+        <td>
+            bg-floralwhite
             <br />color-floralwhite
         </td>
         <td>'FFFAF0'</td>
-    </tr>
-    <tr>
         <td>bg-forestgreen
             <br />color-forestgreen
         </td>
         <td>'228B22'</td>
-        <td>bg-fuchsia
+    </tr>
+    <tr>
+        <td>
+            bg-fuchsia
             <br />color-fuchsia
         </td>
         <td>'FF00FF'</td>
@@ -991,7 +1035,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'DCDCDC'</td>
     </tr>
     <tr>
-        <td>bg-ghostwhite
+        <td>
+            bg-ghostwhite
             <br />color-ghostwhite
         </td>
         <td>'F8F8FF'</td>
@@ -999,17 +1044,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-gold
         </td>
         <td>'FFD700'</td>
-        <td>bg-goldenrod
+    </tr>
+    <tr>
+        <td>
+            bg-goldenrod
             <br />color-goldenrod
         </td>
         <td>'DAA520'</td>
-    </tr>
-    <tr>
         <td>bg-gray
             <br />color-gray
         </td>
         <td>'808080'</td>
-        <td>bg-green
+    </tr>
+    <tr>
+        <td>
+            bg-green
             <br />color-green
         </td>
         <td>'008000'</td>
@@ -1019,7 +1068,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'ADFF2F'</td>
     </tr>
     <tr>
-        <td>bg-honeydew
+        <td>
+            bg-honeydew
             <br />color-honeydew
         </td>
         <td>'F0FFF0'</td>
@@ -1027,17 +1077,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-hotpink
         </td>
         <td>'FF69B4'</td>
-        <td>bg-indianred
+    </tr>
+    <tr>
+        <td>
+            bg-indianred
             <br />color-indianred
         </td>
         <td>'CD5C5C'</td>
-    </tr>
-    <tr>
         <td>bg-indigo
             <br />color-indigo
         </td>
         <td>'4B0082'</td>
-        <td>bg-ivory
+    </tr>
+    <tr>
+        <td>
+            bg-ivory
             <br />color-ivory
         </td>
         <td>'FFFFF0'</td>
@@ -1047,7 +1101,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'F0E68C'</td>
     </tr>
     <tr>
-        <td>bg-lavender
+        <td>
+            bg-lavender
             <br />color-lavender
         </td>
         <td>'E6E6FA'</td>
@@ -1055,17 +1110,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-lavenderblush
         </td>
         <td>'FFF0F5'</td>
-        <td>bg-lawngreen
+    </tr>
+    <tr>
+        <td>
+            bg-lawngreen
             <br />color-lawngreen
         </td>
         <td>'7CFC00'</td>
-    </tr>
-    <tr>
         <td>bg-lemonchiffon
             <br />color-lemonchiffon
         </td>
         <td>'FFFACD'</td>
-        <td>bg-lightblue
+    </tr>
+    <tr>
+        <td>
+            bg-lightblue
             <br />color-lightblue
         </td>
         <td>'ADD8E6'</td>
@@ -1075,7 +1134,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'F08080'</td>
     </tr>
     <tr>
-        <td>bg-lightcyan
+        <td>
+            bg-lightcyan
             <br />color-lightcyan
         </td>
         <td>'E0FFFF'</td>
@@ -1083,17 +1143,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-lightgoldenrodyellow
         </td>
         <td>'FAFAD2'</td>
-        <td>bg-lightgray
+    </tr>
+    <tr>
+        <td>
+            bg-lightgray
             <br />color-lightgray
         </td>
         <td>'D3D3D3'</td>
-    </tr>
-    <tr>
         <td>bg-lightgreen
             <br />color-lightgreen
         </td>
         <td>'90EE90'</td>
-        <td>bg-lightpink
+    </tr>
+    <tr>
+        <td>
+            bg-lightpink
             <br />color-lightpink
         </td>
         <td>'FFB6C1'</td>
@@ -1103,7 +1167,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'FFA07A'</td>
     </tr>
     <tr>
-        <td>bg-lightseagreen
+        <td>
+            bg-lightseagreen
             <br />color-lightseagreen
         </td>
         <td>'20B2AA'</td>
@@ -1111,17 +1176,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-lightskyblue
         </td>
         <td>'87CEFA'</td>
-        <td>bg-lightslategray
+    </tr>
+    <tr>
+        <td>
+            bg-lightslategray
             <br />color-lightslategray
         </td>
         <td>'778899'</td>
-    </tr>
-    <tr>
         <td>bg-lightsteelblue
             <br />color-lightsteelblue
         </td>
         <td>'B0C4DE'</td>
-        <td>bg-lightyellow
+    </tr>
+    <tr>
+        <td>
+            bg-lightyellow
             <br />color-lightyellow
         </td>
         <td>'FFFFE0'</td>
@@ -1131,7 +1200,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'00FF00'</td>
     </tr>
     <tr>
-        <td>bg-limegreen
+        <td>
+            bg-limegreen
             <br />color-limegreen
         </td>
         <td>'32CD32'</td>
@@ -1139,17 +1209,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-linen
         </td>
         <td>'FAF0E6'</td>
-        <td>bg-magenta
+    </tr>
+    <tr>
+        <td>
+            bg-magenta
             <br />color-magenta
         </td>
         <td>'FF00FF'</td>
-    </tr>
-    <tr>
         <td>bg-maroon
             <br />color-maroon
         </td>
         <td>'800000'</td>
-        <td>bg-mediumaquamarine
+    </tr>
+    <tr>
+        <td>
+            bg-mediumaquamarine
             <br />color-mediumaquamarine
         </td>
         <td>'66CDAA'</td>
@@ -1159,7 +1233,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'0000CD'</td>
     </tr>
     <tr>
-        <td>bg-mediumorchid
+        <td>
+            bg-mediumorchid
             <br />color-mediumorchid
         </td>
         <td>'BA55D3'</td>
@@ -1167,17 +1242,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-mediumpurple
         </td>
         <td>'9370DB'</td>
-        <td>bg-mediumseagreen
+    </tr>
+    <tr>
+        <td>
+            bg-mediumseagreen
             <br />color-mediumseagreen
         </td>
         <td>'3CB371'</td>
-    </tr>
-    <tr>
         <td>bg-mediumslateblue
             <br />color-mediumslateblue
         </td>
         <td>'7B68EE'</td>
-        <td>bg-mediumspringgreen
+    </tr>
+    <tr>
+        <td>
+            bg-mediumspringgreen
             <br />color-mediumspringgreen
         </td>
         <td>'00FA9A'</td>
@@ -1187,7 +1266,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'48D1CC'</td>
     </tr>
     <tr>
-        <td>bg-mediumvioletred
+        <td>
+            bg-mediumvioletred
             <br />color-mediumvioletred
         </td>
         <td>'C71585'</td>
@@ -1195,17 +1275,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-midnightblue
         </td>
         <td>'191970'</td>
-        <td>bg-mintcream
+    </tr>
+    <tr>
+        <td>
+            bg-mintcream
             <br />color-mintcream
         </td>
         <td>'F5FFFA'</td>
-    </tr>
-    <tr>
         <td>bg-mistyrose
             <br />color-mistyrose
         </td>
         <td>'FFE4E1'</td>
-        <td>bg-moccasin
+    </tr>
+    <tr>
+        <td>
+            bg-moccasin
             <br />color-moccasin
         </td>
         <td>'FFE4B5'</td>
@@ -1215,7 +1299,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'FFDEAD'</td>
     </tr>
     <tr>
-        <td>bg-navy
+        <td>
+            bg-navy
             <br />color-navy
         </td>
         <td>'000080'</td>
@@ -1223,17 +1308,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-oldlace
         </td>
         <td>'FDF5E6'</td>
-        <td>bg-olive
+    </tr>
+    <tr>
+        <td>
+            bg-olive
             <br />color-olive
         </td>
         <td>'808000'</td>
-    </tr>
-    <tr>
         <td>bg-olivedrab
             <br />color-olivedrab
         </td>
         <td>'6B8E23'</td>
-        <td>bg-orange
+    </tr>
+    <tr>
+        <td>
+            bg-orange
             <br />color-orange
         </td>
         <td>'FFA500'</td>
@@ -1243,7 +1332,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'FF4500'</td>
     </tr>
     <tr>
-        <td>bg-orchid
+        <td>
+            bg-orchid
             <br />color-orchid
         </td>
         <td>'DA70D6'</td>
@@ -1251,17 +1341,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-palegoldenrod
         </td>
         <td>'EEE8AA'</td>
-        <td>bg-palegreen
+    </tr>
+    <tr>
+        <td>
+            bg-palegreen
             <br />color-palegreen
         </td>
         <td>'98FB98'</td>
-    </tr>
-    <tr>
         <td>bg-paleturquoise
             <br />color-paleturquoise
         </td>
         <td>'AFEEEE'</td>
-        <td>bg-palevioletred
+    </tr>
+    <tr>
+        <td>
+            bg-palevioletred
             <br />color-palevioletred
         </td>
         <td>'DB7093'</td>
@@ -1271,7 +1365,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'FFEFD5'</td>
     </tr>
     <tr>
-        <td>bg-peachpuff
+        <td>
+            bg-peachpuff
             <br />color-peachpuff
         </td>
         <td>'FFDAB9'</td>
@@ -1279,17 +1374,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-peru
         </td>
         <td>'CD853F'</td>
-        <td>bg-pink
+    </tr>
+    <tr>
+        <td>
+            bg-pink
             <br />color-pink
         </td>
         <td>'FFC0CB'</td>
-    </tr>
-    <tr>
         <td>bg-plum
             <br />color-plum
         </td>
         <td>'DDA0DD'</td>
-        <td>bg-powderblue
+    </tr>
+    <tr>
+        <td>
+            bg-powderblue
             <br />color-powderblue
         </td>
         <td>'B0E0E6'</td>
@@ -1299,7 +1398,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'800080'</td>
     </tr>
     <tr>
-        <td>bg-red
+        <td>
+            bg-red
             <br />color-red
         </td>
         <td>'FF0000'</td>
@@ -1307,17 +1407,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-rosybrown
         </td>
         <td>'BC8F8F'</td>
-        <td>bg-royalblue
+    </tr>
+    <tr>
+        <td>
+            bg-royalblue
             <br />color-royalblue
         </td>
         <td>'4169E1'</td>
-    </tr>
-    <tr>
         <td>bg-saddlebrown
             <br />color-saddlebrown
         </td>
         <td>'8B4513'</td>
-        <td>bg-salmon
+    </tr>
+    <tr>
+        <td>
+            bg-salmon
             <br />color-salmon
         </td>
         <td>'FA8072'</td>
@@ -1327,7 +1431,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'F4A460'</td>
     </tr>
     <tr>
-        <td>bg-seagreen
+        <td>
+            bg-seagreen
             <br />color-seagreen
         </td>
         <td>'2E8B57'</td>
@@ -1335,17 +1440,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-seashell
         </td>
         <td>'FFF5EE'</td>
-        <td>bg-sienna
+    </tr>
+    <tr>
+        <td>
+            bg-sienna
             <br />color-sienna
         </td>
         <td>'A0522D'</td>
-    </tr>
-    <tr>
         <td>bg-silver
             <br />color-silver
         </td>
         <td>'C0C0C0'</td>
-        <td>bg-skyblue
+    </tr>
+    <tr>
+        <td>
+            bg-skyblue
             <br />color-skyblue
         </td>
         <td>'87CEEB'</td>
@@ -1355,7 +1464,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'6A5ACD'</td>
     </tr>
     <tr>
-        <td>bg-slategray
+        <td>
+            bg-slategray
             <br />color-slategray
         </td>
         <td>'708090'</td>
@@ -1363,17 +1473,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-snow
         </td>
         <td>'FFFAFA'</td>
-        <td>bg-springgreen
+    </tr>
+    <tr>
+        <td>
+            bg-springgreen
             <br />color-springgreen
         </td>
         <td>'00FF7F'</td>
-    </tr>
-    <tr>
         <td>bg-steelblue
             <br />color-steelblue
         </td>
         <td>'4682B4'</td>
-        <td>bg-tan
+    </tr>
+    <tr>
+        <td>
+            bg-tan
             <br />color-tan
         </td>
         <td>'D2B48C'</td>
@@ -1383,7 +1497,8 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'008080'</td>
     </tr>
     <tr>
-        <td>bg-thistle
+        <td>
+            bg-thistle
             <br />color-thistle
         </td>
         <td>'D8BFD8'</td>
@@ -1391,17 +1506,21 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
             <br />color-tomato
         </td>
         <td>'FF6347'</td>
-        <td>bg-turquoise
+    </tr>
+    <tr>
+        <td>
+            bg-turquoise
             <br />color-turquoise
         </td>
         <td>'40E0D0'</td>
-    </tr>
-    <tr>
         <td>bg-violet
             <br />color-violet
         </td>
         <td>'EE82EE'</td>
-        <td>bg-wheat
+    </tr>
+    <tr>
+        <td>
+            bg-wheat
             <br />color-wheat
         </td>
         <td>'F5DEB3'</td>
@@ -1411,15 +1530,20 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
         <td>'FFFFFF'</td>
     </tr>
     <tr>
-        <td>bg-whitesmoke
+        <td>
+            bg-whitesmoke
             <br />color-whitesmoke
         </td>
         <td>'F5F5F5'</td>
         <td>bg-yellow
-            <br />color-yellow</td>
+            <br />color-yellow
+        </td>
         <td>'FFFF00'</td>
+    </tr>
+    <tr>
         <td>bg-yellowgreen
-            <br />color-yellowgreen</td>
+            <br />color-yellowgreen
+        </td>
         <td>'9ACD32'</td>
     </tr>
 </table>
