@@ -1678,6 +1678,7 @@ Example
 
 ### Wells
 Wells are simply a stylized `View`.  They provide an easy way to seperate content into different visual sections.
+
 ![Wells example 1](http://tnuzzi.github.io/wriststrap/imgs/wells-example-1.png "Wells example 1")
 ![Wells example 2](http://tnuzzi.github.io/wriststrap/imgs/wells-example-2.png "Wells example 2")
 
