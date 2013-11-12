@@ -348,7 +348,7 @@ Paragraphs also borcol from HTML but with a but of twist.  There is formatting a
     </tr>
     <tr>
         <td>p-content</td>
-        <td>Generally used on <code>Label</code> element inside the <code>View</code> containing the <code>p</code> TSS class.</td>
+        <td>Generally used on <code>Label</code> element inside the <code>View</code> containing the <code>p</code> TSS class.  Can also be use in <code>wells</code></td>
     </tr>
     <tr>
         <td>lead</td>
@@ -1677,8 +1677,56 @@ Example
     </View>
 
 ### Wells
+Wells are simply a stylized `View`.  They provide an easy way to seperate content into different visual sections.
 ![Wells example 1](http://tnuzzi.github.io/wriststrap/imgs/wells-example-1.png "Wells example 1")
 ![Wells example 2](http://tnuzzi.github.io/wriststrap/imgs/wells-example-2.png "Wells example 2")
+
+#### Panel TSS Details
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>well</td>
+        <td>Used on the outer <code>View</code>.</td>
+    </tr>
+    <tr>
+        <td>well-content</td>
+        <td>Used on the UI elements within the well <code>View</code></td>
+    </tr>
+</table>
+
+Example
+
+    <View class="col col-4 well">
+        <View class="well-content">
+            <Label class="p-content">Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</Label>
+        </View>
+    </View>
+    <View class="col col-4 well">
+        <View class="well-content">
+            <Label class="p-content">Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</Label>
+            <Label class="p-content">Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.</Label>
+            <Label class="p-content">But, in a larger sense, we can not dedicate -- we can not consecrate -- we can not hallow -- this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us -- that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion -- that we here highly resolve that these dead shall not have died in vain -- that this nation, under God, shall have a new birth of freedom -- and that government of the people, by the people, for the people, shall not perish from the earth.</Label>
+        </View>
+    </View>
+    <View class="col col-4 well">
+        <View class="well-content">
+            <Label class="text-success h5">A meaningful success but not useful</Label>
+            <View class="col col-4 input-container">
+                <TextField class="input-tf text-right"/>
+                <Label class="input-addon">.00</Label>
+            </View>
+            <View class="col col-4 alert-container-info">
+                <Label class="alert-info text-center">What?!? Stuck in the middle.</Label>
+            </View>
+            <Button class="col col-4 btn btn-warning">Warning</Button>
+            <Button class="col col-4 btn btn-success">Success</Button>
+        </View>
+    </View>
 
 ### Inputs
 ![Input example](http://tnuzzi.github.io/wriststrap/imgs/input-example.png "Input example")
