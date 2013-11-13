@@ -58,7 +58,7 @@ Wriststrap was born out of the need to quickly prototype and visualize mobile UI
 The following is an example of TSS classes being applied to different UI elements.  There is no code in the JS files for layout.
 
     <Alloy>
-        <Window top="20">
+        <Window class="t-20">
             <View class="container bg-lightblue">
                 <Label class="col col-1 bg-pink">Test</Label>
                 <Label class="col col-1 col-spacing text-center bg-pink">Test</Label>
@@ -187,6 +187,65 @@ height: Ti.UI.FILL</pre>
         </td>
     </tr>
 </table>
+
+### Position helper classes
+A set of position TSS helper classes have been created to help position and layout the UI elements.  The helper classes both consist of static numbers (specified with `dp`) and percentages.
+
+The percentage values that can be used with the <letter>- class are 1 - 100 in increments of 5.  e.g. `w-100%` or `h-50%`
+
+For the static number designation a number between 1 - 2095 in increments of 5 can be used, with the exception of 1 - 10.  e.g. `r-4` or `l-20` 
+
+Both `h-` and `w-` have `size` and `fill` TSS class.  These apply either the `Ti.UI.FILL` or `Ti.UI.SIZE` accordingly.
+
+ <table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>t-<%><br />
+            t-<number></td>
+        <td>Sets the <code>top</code> value to the specified value.</td>
+    </tr>
+    <tr>
+        <td>b-<%><br />
+            b-<number></td>
+        <td>Sets the <code>bottom</code> value to the specified value.</td>
+    </tr>
+    <tr>
+        <td>l-<%><br />
+            l-<number></td>
+        <td>Sets the <code>left</code> value to the specified value.</td>
+    </tr>
+    <tr>
+        <td>r-<%><br />
+            r-<number></td>
+        <td>Sets the <code>right</code> value to the specified value.</td>
+    </tr>
+    <tr>
+        <td>w-<%><br />
+            w-<number>
+            w-size
+            w-fill</td>
+        <td>Sets the <code>width</code> value to the specified value.</td>
+    </tr>
+    <tr>
+        <td>h-<%><br />
+            h-<number>
+            h-size
+            h-fill</td>
+        <td>Sets the <code>height</code> value to the specified value.</td>
+    </tr>
+</table>
+
+Example:
+
+    <View class="w-100% h-50%">
+        <Label class="w-25 h-size">Test</Label>
+        <Label class="l-25 h-30 w-15">Test</Label>
+    </View>
 
 ### Styling
 Status bar style (`statusBarStyle`) used the `Window` UI element.
@@ -1682,7 +1741,7 @@ Wells are simply a stylized `View`.  They provide an easy way to seperate conten
 ![Wells example 1](http://tnuzzi.github.io/wriststrap/imgs/wells-example-1.png "Wells example 1")
 ![Wells example 2](http://tnuzzi.github.io/wriststrap/imgs/wells-example-2.png "Wells example 2")
 
-#### Panel TSS Details
+#### Wells TSS Details
 <table>
      <thead>
         <tr>
