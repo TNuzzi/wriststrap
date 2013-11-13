@@ -197,6 +197,8 @@ For the static number designation a number between 1 - 2095 in increments of 5 c
 
 Both `h-` and `w-` have `size` and `fill` TSS class.  These apply either the `Ti.UI.FILL` or `Ti.UI.SIZE` accordingly.
 
+A set of TSS classes can be used to easily position a UI element to the right `pull-right` or left `pull-left`.
+
  <table>
      <thead>
         <tr>
@@ -245,6 +247,41 @@ Example:
     <View class="w-100% h-50%">
         <Label class="w-25 h-size">Test</Label>
         <Label class="l-25 h-30 w-15">Test</Label>
+    </View>
+
+### `layout` TSS helper classes
+A set of TSS classes can be used to set the `layout` behavior for the UI element.  The syntax is `lo-` layout behavior.
+
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>lo-composite</td>
+        <td>Sets the <code>layout</code> property to <code>composite</code></td>
+    </tr>
+    <tr>
+        <td>lo-vertical</td>
+        <td>Sets the <code>layout</code> property to <code>vertical</code></td>
+    </tr>
+    <tr>
+        <td>lo-horizontal</td>
+        <td>Sets the <code>layout</code> property to <code>horizontal</code></td>
+    </tr>
+</table>
+
+Example:
+
+    <View class="lo-horizontal">
+        <Label class="w-25">Test</Label>
+        <Label class="w-25">Test</Label>
+        <View class="lo-vertical">
+            <Label class="w-25">Test</Label>
+            <Label class="w-25">Test</Label>     
+        </View>
     </View>
 
 ### Styling
