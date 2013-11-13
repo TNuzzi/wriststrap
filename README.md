@@ -205,36 +205,36 @@ Both `h-` and `w-` have `size` and `fill` TSS class.  These apply either the `Ti
         </tr>
     </thead>
     <tr>
-        <td>t-<%><br />
-            t-<number></td>
+        <td>t-&lt;%&gt;<br />
+            t-&lt;number&gt;</td>
         <td>Sets the <code>top</code> value to the specified value.</td>
     </tr>
     <tr>
-        <td>b-<%><br />
-            b-<number></td>
+        <td>b-&lt;%&gt;<br />
+            b-&lt;number&gt;</td>
         <td>Sets the <code>bottom</code> value to the specified value.</td>
     </tr>
     <tr>
-        <td>l-<%><br />
-            l-<number></td>
+        <td>l-&lt;%&gt;<br />
+            l-&lt;number&gt;</td>
         <td>Sets the <code>left</code> value to the specified value.</td>
     </tr>
     <tr>
-        <td>r-<%><br />
-            r-<number></td>
+        <td>r-&lt;%&gt;<br />
+            r-&lt;number&gt;</td>
         <td>Sets the <code>right</code> value to the specified value.</td>
     </tr>
     <tr>
-        <td>w-<%><br />
-            w-<number>
-            w-size
+        <td>w-&lt;%&gt;<br />
+            w-&lt;number&gt;<br />
+            w-size<br />
             w-fill</td>
         <td>Sets the <code>width</code> value to the specified value.</td>
     </tr>
     <tr>
-        <td>h-<%><br />
-            h-<number>
-            h-size
+        <td>h-&lt;%&gt;<br />
+            h-&lt;number&gt;<br />
+            h-size<br />
             h-fill</td>
         <td>Sets the <code>height</code> value to the specified value.</td>
     </tr>
