@@ -38,6 +38,13 @@
 		fontStyle: 'normal'
 	},
 }
+"TextField":{
+    height: '44dp',
+    backgroundColor: 'ffffff',
+    color: '000000',
+    paddingLeft: '10%',
+    paddingRight: '10%',
+}
 ".sb-style-default":{
 	statusBarStyle: Titanium.UI.iPhone.StatusBar.DEFAULT
 }
@@ -11425,23 +11432,18 @@
 ".color-muted": {
   color: "999999"
 }
-
 ".color-primary": {
   color: "428bca"
 }
-
 ".color-warning": {
   color: "c09853"
 }
-
 ".color-danger": {
   color: "b94a48"
 }
-
 ".color-success": {
   color: "468847"
 }
-
 ".color-info": {
   color: "3a87ad"
 }
@@ -12107,12 +12109,6 @@
 }
 
 // Input helpers
-"TextField":{
-	backgroundColor: 'ffffff',
-	color: '000000',
-	paddingLeft: '10%',
-	paddingRight: '10%',
-}
 ".input-container":{
 	layout: 'horizontal',
 	width: '100%',
@@ -12360,7 +12356,26 @@
 ".table-disable-selection":{
 	allowsSelection: false
 }
+
 // Table Seperator Colors
+".sep-color-muted": {
+  separatorColor: "999999"
+}
+".sep-color-primary": {
+  separatorColor: "428bca"
+}
+".sep-color-warning": {
+  separatorColor: "c09853"
+}
+".sep-color-danger": {
+  separatorColor: "b94a48"
+}
+".sep-color-success": {
+  separatorColor: "468847"
+}
+".sep-color-info": {
+  separatorColor: "3a87ad"
+}
 ".sep-color-aliceblue":{
     separatorColor: 'F0F8FF'
 }

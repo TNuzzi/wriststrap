@@ -186,6 +186,15 @@ height: Ti.UI.FILL</pre>
 }</pre>
         </td>
     </tr>
+    <tr>
+        <td>TextField</td>
+        <td>
+        <pre>backgroundColor: 'ffffff',
+color: '000000',
+paddingLeft: '10%',
+paddingRight: '10%',</pre>
+        </td>
+    </tr>
 </table>
 
 ### Position helper classes
@@ -834,17 +843,19 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
 
 **NOTE** MD is not allowing me to color the table cells to give a visual color with the hex number.  For now here is the TSS class name with the assigned hex numbers.
 
-Background and Color TSS classes
+Background, Color and Table Seperator Color TSS classes
 
 <table>
     <tr>
         <td>
             bg-muted
             <br />color-muted
+            <br />sep-color-muted
         </td>
         <td>'999999'</td>
         <td>bg-primary
             <br />color-primary
+            <br />sep-color-primary
         </td>
         <td>'428bca'</td>
     </tr>
@@ -852,10 +863,12 @@ Background and Color TSS classes
         <td>
             bg-warning
             <br />color-warning
+            <br />sep-color-warning
         </td>
         <td>'c09853'</td>
         <td>bg-danger
             <br />color-danger
+            <br />sep-color-danger
         </td>
         <td>'b94a48'</td>
     </tr>
@@ -863,10 +876,12 @@ Background and Color TSS classes
         <td>
             bg-success
             <br />color-success
+            <br />sep-color-success
         </td>
         <td>'468847'</td>
         <td>bg-info
             <br />color-info
+            <br />sep-color-info
         </td>
         <td>'3a87ad'</td>
     </tr>
@@ -874,10 +889,12 @@ Background and Color TSS classes
         <td>
             bg-transparent
             <br />color-transparent
+            <br />sep-color-transparent
         </td>
         <td>'transparent'</td>
         <td>bg-aliceblue
             <br />color-aliceblue
+            <br />sep-color-aliceblue
         </td>
         <td>'F0F8FF'</td>
     </tr>
@@ -885,10 +902,12 @@ Background and Color TSS classes
         <td>
             bg-antiquewhite
             <br />color-antiquewhite
+            <br />sep-color-antiquewhite
         </td>
         <td>'FAEBD7'</td>
         <td>bg-aqua
             <br />color-aqua
+            <br />sep-color-aqua
         </td>
         <td>'00FFFF'</td>
     </tr>
@@ -896,10 +915,12 @@ Background and Color TSS classes
         <td>
             bg-aquamarine
             <br />color-aquamarine
+            <br />sep-color-aquamarine
         </td>
         <td>'7FFFD4'</td>
         <td>bg-azure
             <br />color-azure
+            <br />sep-color-azure
         </td>
         <td>'F0FFFF'</td>
     </tr>
@@ -907,10 +928,12 @@ Background and Color TSS classes
         <td>
             bg-beige
             <br />color-beige
+            <br />sep-color-beige
         </td>
         <td>'F5F5DC'</td>
         <td>bg-bisque
             <br />color-bisque
+            <br />sep-color-bisque
         </td>
         <td>'FFE4C4'</td>
     </tr>
@@ -918,10 +941,12 @@ Background and Color TSS classes
         <td>
             bg-black
             <br />color-black
+            <br />sep-color-black
         </td>
         <td>'000000'</td>
         <td>bg-blanchedalmond
             <br />color-blanchedalmond
+            <br />sep-color-blanchedalmond
         </td>
         <td>'FFEBCD'</td>
     </tr>
@@ -929,10 +954,12 @@ Background and Color TSS classes
         <td>
             bg-blue
             <br />color-blue
+            <br />sep-color-blue
         </td>
         <td>'0000FF'</td>
         <td>bg-blueviolet
             <br />color-blueviolet
+            <br />sep-color-blueviolet
         </td>
         <td>'8A2BE2'</td>
     </tr>
@@ -940,10 +967,12 @@ Background and Color TSS classes
         <td>
             bg-brown
             <br />color-brown
+            <br />sep-color-brown
         </td>
         <td>'A52A2A'</td>
         <td>bg-burlywood
             <br />color-burlywood
+            <br />sep-color-burlywood
         </td>
         <td>'DEB887'</td>
     </tr>
@@ -951,10 +980,12 @@ Background and Color TSS classes
         <td>
             bg-cadetblue
             <br />color-cadetblue
+            <br />sep-color-cadetblue
         </td>
         <td>'5F9EA0'</td>
         <td>bg-chartreuse
             <br />color-chartreuse
+            <br />sep-color-chartreuse
         </td>
         <td>'7FFF00'</td>
     </tr>
@@ -962,10 +993,12 @@ Background and Color TSS classes
         <td>
             bg-chocolate
             <br />color-chocolate
+            <br />sep-color-chocolate
         </td>
         <td>'D2691E'</td>
         <td>bg-coral
             <br />color-coral
+            <br />sep-color-coral
         </td>
         <td>'FF7F50'</td>
     </tr>
@@ -973,10 +1006,12 @@ Background and Color TSS classes
         <td>
             bg-cornflowerblue
             <br />color-cornflowerblue
+            <br />sep-color-cornflowerblue
         </td>
         <td>'6495ED'</td>
         <td>bg-cornsilk
             <br />color-cornsilk
+            <br />sep-color-cornsilk
         </td>
         <td>'FFF8DC'</td>
     </tr>
@@ -984,10 +1019,12 @@ Background and Color TSS classes
         <td>
             bg-crimson
             <br />color-crimson
+            <br />sep-color-crimson
         </td>
         <td>'DC143C'</td>
         <td>bg-cyan
             <br />color-cyan
+            <br />sep-color-cyan
         </td>
         <td>'00FFFF'</td>
     </tr>
@@ -995,10 +1032,12 @@ Background and Color TSS classes
         <td>
             bg-darkblue
             <br />color-darkblue
+            <br />sep-color-darkblue
         </td>
         <td>'00008B'</td>
         <td>bg-darkcyan
             <br />color-darkcyan
+            <br />sep-color-darkcyan
         </td>
         <td>'008B8B'</td>
     </tr>
@@ -1006,10 +1045,12 @@ Background and Color TSS classes
         <td>
             bg-darkgoldenrod
             <br />color-darkgoldenrod
+            <br />sep-color-darkgoldenrod
         </td>
         <td>'B8860B'</td>
         <td>bg-darkgray
             <br />color-darkgray
+            <br />sep-color-darkgray
         </td>
         <td>'A9A9A9'</td>
     </tr>
@@ -1017,10 +1058,12 @@ Background and Color TSS classes
         <td>
             bg-darkgreen
             <br />color-darkgreen
+            <br />sep-color-darkgreen
         </td>
         <td>'006400'</td>
         <td>bg-darkkhaki
             <br />color-darkkhaki
+            <br />sep-color-darkkhaki
         </td>
         <td>'BDB76B'</td>
     </tr>
@@ -1028,10 +1071,12 @@ Background and Color TSS classes
         <td>
             bg-darkmagenta
             <br />color-darkmagenta
+            <br />sep-color-darkmagenta
         </td>
         <td>'8B008B'</td>
         <td>bg-darkolivegreen
             <br />color-darkolivegreen
+            <br />sep-color-darkolivegreen
         </td>
         <td>'556B2F'</td>
     </tr>
@@ -1039,10 +1084,12 @@ Background and Color TSS classes
         <td>
             bg-darkorange
             <br />color-darkorange
+            <br />sep-color-darkorange
         </td>
         <td>'FF8C00'</td>
         <td>bg-darkorchid
             <br />color-darkorchid
+            <br />sep-color-darkorchid
         </td>
         <td>'9932CC'</td>
     </tr>
@@ -1050,10 +1097,12 @@ Background and Color TSS classes
         <td>
             bg-darkred
             <br />color-darkred
+            <br />sep-color-darkred
         </td>
         <td>'8B0000'</td>
         <td>bg-darksalmon
             <br />color-darksalmon
+            <br />sep-color-darksalmon
         </td>
         <td>'E9967A'</td>
     </tr>
@@ -1061,10 +1110,12 @@ Background and Color TSS classes
         <td>
             bg-darkseagreen
             <br />color-darkseagreen
+            <br />sep-color-darkseagreen
         </td>
         <td>'8FBC8F'</td>
         <td>bg-darkslateblue
             <br />color-darkslateblue
+            <br />sep-color-darkslateblue
         </td>
         <td>'483D8B'</td>
     </tr>
@@ -1072,10 +1123,12 @@ Background and Color TSS classes
         <td>
             bg-darkslategray
             <br />color-darkslategray
+            <br />sep-color-darkslategray
         </td>
         <td>'2F4F4F'</td>
         <td>bg-darkturquoise
             <br />color-darkturquoise
+            <br />sep-color-darkturquoise
         </td>
         <td>'00CED1'</td>
     </tr>
@@ -1083,10 +1136,12 @@ Background and Color TSS classes
         <td>
             bg-darkviolet
             <br />color-darkviolet
+            <br />sep-color-darkviolet
         </td>
         <td>'9400D3'</td>
         <td>bg-deeppink
             <br />color-deeppink
+            <br />sep-color-deeppink
         </td>
         <td>'FF1493'</td>
     </tr>
@@ -1094,10 +1149,12 @@ Background and Color TSS classes
         <td>
             bg-deepskyblue
             <br />color-deepskyblue
+            <br />sep-color-deepskyblue
         </td>
         <td>'00BFFF'</td>
         <td>bg-dimgray
             <br />color-dimgray
+            <br />sep-color-dimgray
         </td>
         <td>'696969'</td>
     </tr>
@@ -1105,10 +1162,12 @@ Background and Color TSS classes
         <td>
             bg-dodgerblue
             <br />color-dodgerblue
+            <br />sep-color-dodgerblue
         </td>
         <td>'1E90FF'</td>
         <td>bg-firebrick
             <br />color-firebrick
+            <br />sep-color-firebrick
         </td>
         <td>'B22222'</td>
     </tr>
@@ -1116,10 +1175,12 @@ Background and Color TSS classes
         <td>
             bg-floralwhite
             <br />color-floralwhite
+            <br />sep-color-floralwhite
         </td>
         <td>'FFFAF0'</td>
         <td>bg-forestgreen
             <br />color-forestgreen
+            <br />sep-color-forestgreen
         </td>
         <td>'228B22'</td>
     </tr>
@@ -1127,10 +1188,12 @@ Background and Color TSS classes
         <td>
             bg-fuchsia
             <br />color-fuchsia
+            <br />sep-color-fuchsia
         </td>
         <td>'FF00FF'</td>
         <td>bg-gainsboro
             <br />color-gainsboro
+            <br />sep-color-gainsboro
         </td>
         <td>'DCDCDC'</td>
     </tr>
@@ -1138,10 +1201,12 @@ Background and Color TSS classes
         <td>
             bg-ghostwhite
             <br />color-ghostwhite
+            <br />sep-color-ghostwhite
         </td>
         <td>'F8F8FF'</td>
         <td>bg-gold
             <br />color-gold
+            <br />sep-color-gold
         </td>
         <td>'FFD700'</td>
     </tr>
@@ -1149,10 +1214,12 @@ Background and Color TSS classes
         <td>
             bg-goldenrod
             <br />color-goldenrod
+            <br />sep-color-goldenrod
         </td>
         <td>'DAA520'</td>
         <td>bg-gray
             <br />color-gray
+            <br />sep-color-gray
         </td>
         <td>'808080'</td>
     </tr>
@@ -1160,10 +1227,12 @@ Background and Color TSS classes
         <td>
             bg-green
             <br />color-green
+            <br />sep-color-green
         </td>
         <td>'008000'</td>
         <td>bg-greenyellow
             <br />color-greenyellow
+            <br />sep-color-greenyellow
         </td>
         <td>'ADFF2F'</td>
     </tr>
@@ -1171,10 +1240,12 @@ Background and Color TSS classes
         <td>
             bg-honeydew
             <br />color-honeydew
+            <br />sep-color-honeydew
         </td>
         <td>'F0FFF0'</td>
         <td>bg-hotpink
             <br />color-hotpink
+            <br />sep-color-hotpink
         </td>
         <td>'FF69B4'</td>
     </tr>
@@ -1182,10 +1253,12 @@ Background and Color TSS classes
         <td>
             bg-indianred
             <br />color-indianred
+            <br />sep-color-indianred
         </td>
         <td>'CD5C5C'</td>
         <td>bg-indigo
             <br />color-indigo
+            <br />sep-color-indigo
         </td>
         <td>'4B0082'</td>
     </tr>
@@ -1193,10 +1266,12 @@ Background and Color TSS classes
         <td>
             bg-ivory
             <br />color-ivory
+            <br />sep-color-ivory
         </td>
         <td>'FFFFF0'</td>
         <td>bg-khaki
             <br />color-khaki
+            <br />sep-color-khaki
         </td>
         <td>'F0E68C'</td>
     </tr>
@@ -1204,10 +1279,12 @@ Background and Color TSS classes
         <td>
             bg-lavender
             <br />color-lavender
+            <br />sep-color-lavender
         </td>
         <td>'E6E6FA'</td>
         <td>bg-lavenderblush
             <br />color-lavenderblush
+            <br />sep-color-lavenderblush
         </td>
         <td>'FFF0F5'</td>
     </tr>
@@ -1215,10 +1292,12 @@ Background and Color TSS classes
         <td>
             bg-lawngreen
             <br />color-lawngreen
+            <br />sep-color-lawngreen
         </td>
         <td>'7CFC00'</td>
         <td>bg-lemonchiffon
             <br />color-lemonchiffon
+            <br />sep-color-lemonchiffon
         </td>
         <td>'FFFACD'</td>
     </tr>
@@ -1226,10 +1305,12 @@ Background and Color TSS classes
         <td>
             bg-lightblue
             <br />color-lightblue
+            <br />sep-color-lightblue
         </td>
         <td>'ADD8E6'</td>
         <td>bg-lightcoral
             <br />color-lightcoral
+            <br />sep-color-lightcoral
         </td>
         <td>'F08080'</td>
     </tr>
@@ -1237,10 +1318,12 @@ Background and Color TSS classes
         <td>
             bg-lightcyan
             <br />color-lightcyan
+            <br />sep-color-lightcyan
         </td>
         <td>'E0FFFF'</td>
         <td>bg-lightgoldenrodyellow
             <br />color-lightgoldenrodyellow
+            <br />sep-color-lightgoldenrodyellow
         </td>
         <td>'FAFAD2'</td>
     </tr>
@@ -1248,10 +1331,12 @@ Background and Color TSS classes
         <td>
             bg-lightgray
             <br />color-lightgray
+            <br />sep-color-lightgray
         </td>
         <td>'D3D3D3'</td>
         <td>bg-lightgreen
             <br />color-lightgreen
+            <br />sep-color-lightgreen
         </td>
         <td>'90EE90'</td>
     </tr>
@@ -1259,10 +1344,12 @@ Background and Color TSS classes
         <td>
             bg-lightpink
             <br />color-lightpink
+            <br />sep-color-lightpink
         </td>
         <td>'FFB6C1'</td>
         <td>bg-lightsalmon
             <br />color-lightsalmon
+            <br />sep-color-lightsalmon
         </td>
         <td>'FFA07A'</td>
     </tr>
@@ -1270,10 +1357,12 @@ Background and Color TSS classes
         <td>
             bg-lightseagreen
             <br />color-lightseagreen
+            <br />sep-color-lightseagreen
         </td>
         <td>'20B2AA'</td>
         <td>bg-lightskyblue
             <br />color-lightskyblue
+            <br />sep-color-lightskyblue
         </td>
         <td>'87CEFA'</td>
     </tr>
@@ -1281,10 +1370,12 @@ Background and Color TSS classes
         <td>
             bg-lightslategray
             <br />color-lightslategray
+            <br />sep-color-lightslategray
         </td>
         <td>'778899'</td>
         <td>bg-lightsteelblue
             <br />color-lightsteelblue
+            <br />sep-color-lightsteelblue
         </td>
         <td>'B0C4DE'</td>
     </tr>
@@ -1292,10 +1383,12 @@ Background and Color TSS classes
         <td>
             bg-lightyellow
             <br />color-lightyellow
+            <br />sep-color-lightyellow
         </td>
         <td>'FFFFE0'</td>
         <td>bg-lime
             <br />color-lime
+            <br />sep-color-lime
         </td>
         <td>'00FF00'</td>
     </tr>
@@ -1303,10 +1396,12 @@ Background and Color TSS classes
         <td>
             bg-limegreen
             <br />color-limegreen
+            <br />sep-color-limegreen
         </td>
         <td>'32CD32'</td>
         <td>bg-linen
             <br />color-linen
+            <br />sep-color-linen
         </td>
         <td>'FAF0E6'</td>
     </tr>
@@ -1314,10 +1409,12 @@ Background and Color TSS classes
         <td>
             bg-magenta
             <br />color-magenta
+            <br />sep-color-magenta
         </td>
         <td>'FF00FF'</td>
         <td>bg-maroon
             <br />color-maroon
+            <br />sep-color-maroon
         </td>
         <td>'800000'</td>
     </tr>
@@ -1325,10 +1422,12 @@ Background and Color TSS classes
         <td>
             bg-mediumaquamarine
             <br />color-mediumaquamarine
+            <br />sep-color-mediumaquamarine
         </td>
         <td>'66CDAA'</td>
         <td>bg-mediumblue
             <br />color-mediumblue
+            <br />sep-color-mediumblue
         </td>
         <td>'0000CD'</td>
     </tr>
@@ -1336,10 +1435,12 @@ Background and Color TSS classes
         <td>
             bg-mediumorchid
             <br />color-mediumorchid
+            <br />sep-color-mediumorchid
         </td>
         <td>'BA55D3'</td>
         <td>bg-mediumpurple
             <br />color-mediumpurple
+            <br />sep-color-mediumpurple
         </td>
         <td>'9370DB'</td>
     </tr>
@@ -1347,10 +1448,12 @@ Background and Color TSS classes
         <td>
             bg-mediumseagreen
             <br />color-mediumseagreen
+            <br />sep-color-mediumseagreen
         </td>
         <td>'3CB371'</td>
         <td>bg-mediumslateblue
             <br />color-mediumslateblue
+            <br />sep-color-mediumslateblue
         </td>
         <td>'7B68EE'</td>
     </tr>
@@ -1358,10 +1461,12 @@ Background and Color TSS classes
         <td>
             bg-mediumspringgreen
             <br />color-mediumspringgreen
+            <br />sep-color-mediumspringgreen
         </td>
         <td>'00FA9A'</td>
         <td>bg-mediumturquoise
             <br />color-mediumturquoise
+            <br />sep-color-mediumturquoise
         </td>
         <td>'48D1CC'</td>
     </tr>
@@ -1369,10 +1474,12 @@ Background and Color TSS classes
         <td>
             bg-mediumvioletred
             <br />color-mediumvioletred
+            <br />sep-color-mediumvioletred
         </td>
         <td>'C71585'</td>
         <td>bg-midnightblue
             <br />color-midnightblue
+            <br />sep-color-midnightblue
         </td>
         <td>'191970'</td>
     </tr>
@@ -1380,10 +1487,12 @@ Background and Color TSS classes
         <td>
             bg-mintcream
             <br />color-mintcream
+            <br />sep-color-mintcream
         </td>
         <td>'F5FFFA'</td>
         <td>bg-mistyrose
             <br />color-mistyrose
+            <br />sep-color-mistyrose
         </td>
         <td>'FFE4E1'</td>
     </tr>
@@ -1391,10 +1500,12 @@ Background and Color TSS classes
         <td>
             bg-moccasin
             <br />color-moccasin
+            <br />sep-color-moccasin
         </td>
         <td>'FFE4B5'</td>
         <td>bg-navajowhite
             <br />color-navajowhite
+            <br />sep-color-navajowhite
         </td>
         <td>'FFDEAD'</td>
     </tr>
@@ -1402,10 +1513,12 @@ Background and Color TSS classes
         <td>
             bg-navy
             <br />color-navy
+            <br />sep-color-navy
         </td>
         <td>'000080'</td>
         <td>bg-oldlace
             <br />color-oldlace
+            <br />sep-color-oldlace
         </td>
         <td>'FDF5E6'</td>
     </tr>
@@ -1413,10 +1526,12 @@ Background and Color TSS classes
         <td>
             bg-olive
             <br />color-olive
+            <br />sep-color-olive
         </td>
         <td>'808000'</td>
         <td>bg-olivedrab
             <br />color-olivedrab
+            <br />sep-color-olivedrab
         </td>
         <td>'6B8E23'</td>
     </tr>
@@ -1424,10 +1539,12 @@ Background and Color TSS classes
         <td>
             bg-orange
             <br />color-orange
+            <br />sep-color-orange
         </td>
         <td>'FFA500'</td>
         <td>bg-orangered
             <br />color-orangered
+            <br />sep-color-orangered
         </td>
         <td>'FF4500'</td>
     </tr>
@@ -1435,10 +1552,12 @@ Background and Color TSS classes
         <td>
             bg-orchid
             <br />color-orchid
+            <br />sep-color-orchid
         </td>
         <td>'DA70D6'</td>
         <td>bg-palegoldenrod
             <br />color-palegoldenrod
+            <br />sep-color-palegoldenrod
         </td>
         <td>'EEE8AA'</td>
     </tr>
@@ -1446,10 +1565,12 @@ Background and Color TSS classes
         <td>
             bg-palegreen
             <br />color-palegreen
+            <br />sep-color-palegreen
         </td>
         <td>'98FB98'</td>
         <td>bg-paleturquoise
             <br />color-paleturquoise
+            <br />sep-color-paleturquoise
         </td>
         <td>'AFEEEE'</td>
     </tr>
@@ -1457,10 +1578,12 @@ Background and Color TSS classes
         <td>
             bg-palevioletred
             <br />color-palevioletred
+            <br />sep-color-palevioletred
         </td>
         <td>'DB7093'</td>
         <td>bg-papayawhip
             <br />color-papayawhip
+            <br />sep-color-papayawhip
         </td>
         <td>'FFEFD5'</td>
     </tr>
@@ -1468,10 +1591,12 @@ Background and Color TSS classes
         <td>
             bg-peachpuff
             <br />color-peachpuff
+            <br />sep-color-peachpuff
         </td>
         <td>'FFDAB9'</td>
         <td>bg-peru
             <br />color-peru
+            <br />sep-color-peru
         </td>
         <td>'CD853F'</td>
     </tr>
@@ -1479,10 +1604,12 @@ Background and Color TSS classes
         <td>
             bg-pink
             <br />color-pink
+            <br />sep-color-pink
         </td>
         <td>'FFC0CB'</td>
         <td>bg-plum
             <br />color-plum
+            <br />sep-color-plum
         </td>
         <td>'DDA0DD'</td>
     </tr>
@@ -1490,10 +1617,12 @@ Background and Color TSS classes
         <td>
             bg-powderblue
             <br />color-powderblue
+            <br />sep-color-powderblue
         </td>
         <td>'B0E0E6'</td>
         <td>bg-purple
             <br />color-purple
+            <br />sep-color-purple
         </td>
         <td>'800080'</td>
     </tr>
@@ -1501,10 +1630,12 @@ Background and Color TSS classes
         <td>
             bg-red
             <br />color-red
+            <br />sep-color-red
         </td>
         <td>'FF0000'</td>
         <td>bg-rosybrown
             <br />color-rosybrown
+            <br />sep-color-rosybrown
         </td>
         <td>'BC8F8F'</td>
     </tr>
@@ -1512,10 +1643,12 @@ Background and Color TSS classes
         <td>
             bg-royalblue
             <br />color-royalblue
+            <br />sep-color-royalblue
         </td>
         <td>'4169E1'</td>
         <td>bg-saddlebrown
             <br />color-saddlebrown
+            <br />sep-color-saddlebrown
         </td>
         <td>'8B4513'</td>
     </tr>
@@ -1523,10 +1656,12 @@ Background and Color TSS classes
         <td>
             bg-salmon
             <br />color-salmon
+            <br />sep-color-salmon
         </td>
         <td>'FA8072'</td>
         <td>bg-sandybrown
             <br />color-sandybrown
+            <br />sep-color-sandybrown
         </td>
         <td>'F4A460'</td>
     </tr>
@@ -1534,10 +1669,12 @@ Background and Color TSS classes
         <td>
             bg-seagreen
             <br />color-seagreen
+            <br />sep-color-seagreen
         </td>
         <td>'2E8B57'</td>
         <td>bg-seashell
             <br />color-seashell
+            <br />sep-color-seashell
         </td>
         <td>'FFF5EE'</td>
     </tr>
@@ -1545,10 +1682,12 @@ Background and Color TSS classes
         <td>
             bg-sienna
             <br />color-sienna
+            <br />sep-color-sienna
         </td>
         <td>'A0522D'</td>
         <td>bg-silver
             <br />color-silver
+            <br />sep-color-silver
         </td>
         <td>'C0C0C0'</td>
     </tr>
@@ -1556,10 +1695,12 @@ Background and Color TSS classes
         <td>
             bg-skyblue
             <br />color-skyblue
+            <br />sep-color-skyblue
         </td>
         <td>'87CEEB'</td>
         <td>bg-slateblue
             <br />color-slateblue
+            <br />sep-color-slateblue
         </td>
         <td>'6A5ACD'</td>
     </tr>
@@ -1567,10 +1708,12 @@ Background and Color TSS classes
         <td>
             bg-slategray
             <br />color-slategray
+            <br />sep-color-slategray
         </td>
         <td>'708090'</td>
         <td>bg-snow
             <br />color-snow
+            <br />sep-color-snow
         </td>
         <td>'FFFAFA'</td>
     </tr>
@@ -1578,10 +1721,12 @@ Background and Color TSS classes
         <td>
             bg-springgreen
             <br />color-springgreen
+            <br />sep-color-springgreen
         </td>
         <td>'00FF7F'</td>
         <td>bg-steelblue
             <br />color-steelblue
+            <br />sep-color-steelblue
         </td>
         <td>'4682B4'</td>
     </tr>
@@ -1589,10 +1734,12 @@ Background and Color TSS classes
         <td>
             bg-tan
             <br />color-tan
+            <br />sep-color-tan
         </td>
         <td>'D2B48C'</td>
         <td>bg-teal
             <br />color-teal
+            <br />sep-color-teal
         </td>
         <td>'008080'</td>
     </tr>
@@ -1600,10 +1747,12 @@ Background and Color TSS classes
         <td>
             bg-thistle
             <br />color-thistle
+            <br />sep-color-thistle
         </td>
         <td>'D8BFD8'</td>
         <td>bg-tomato
             <br />color-tomato
+            <br />sep-color-tomato
         </td>
         <td>'FF6347'</td>
     </tr>
@@ -1611,10 +1760,12 @@ Background and Color TSS classes
         <td>
             bg-turquoise
             <br />color-turquoise
+            <br />sep-color-turquoise
         </td>
         <td>'40E0D0'</td>
         <td>bg-violet
             <br />color-violet
+            <br />sep-color-violet
         </td>
         <td>'EE82EE'</td>
     </tr>
@@ -1622,10 +1773,12 @@ Background and Color TSS classes
         <td>
             bg-wheat
             <br />color-wheat
+            <br />sep-color-wheat
         </td>
         <td>'F5DEB3'</td>
         <td>bg-white
             <br />color-white
+            <br />sep-color-white
         </td>
         <td>'FFFFFF'</td>
     </tr>
@@ -1633,16 +1786,19 @@ Background and Color TSS classes
         <td>
             bg-whitesmoke
             <br />color-whitesmoke
+            <br />sep-color-whitesmoke
         </td>
         <td>'F5F5F5'</td>
         <td>bg-yellow
             <br />color-yellow
+            <br />sep-color-yellow
         </td>
         <td>'FFFF00'</td>
     </tr>
     <tr>
         <td>bg-yellowgreen
             <br />color-yellowgreen
+            <br />sep-color-yellowgreen
         </td>
         <td>'9ACD32'</td>
     </tr>
@@ -1826,11 +1982,318 @@ Example
     </View>
 
 ### Inputs
+The Input TSS classes provide formatting to the `TextField` UI elements.  
+
+#### Inputs TSS Details
 ![Input example](http://tnuzzi.github.io/wriststrap/imgs/input-example.png "Input example")
 
+The input TSS classes come in two predefined heights.  The default is `44dp` and the classes with the `-sm` designation are set to `34dp`. 
+
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>input-container</td>
+        <td>A container class used on an outer <code>View</code>.  Used to format the <code>View</code>.</td>
+    </tr>
+    <tr>
+        <td>input-tf<br />
+            input-tf-sm</td>
+        <td>Use on the <code>TextField</code> that will have a single addon <code>Label</code>.  The addon <code>Label</code> can be, before or after the <code>TextField</code>.  Before will put the addon text on the left of the <code>TextField</code> and below will be on the right of the <code>TextField</code>.</td>
+    </tr>
+    <tr>
+        <td>input-tf-2-addon<br />
+            input-tf-2-addon-sm</td>
+        <td>Use on the <code>TextField</code> that will have two addon <code>Labels</code> (one on the right and left of the <code>TextField</code>).</td>
+    </tr>
+    <tr>
+        <td>input-addon<br />
+            input-addon-sm</td>
+        <td>Used on a <code>Label</code> to contain the add on text.  The addon <code>Label</code> should have no more than 4 characters.</td>
+    </tr>
+</table>
+
+#### Input TSS helper classes
+<table>
+     <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>input-border-rounded</td>
+        <td>borderStyle: Ti.UI.INPUT_BORDERSTYLE_ROUNDED</td>
+    </tr>
+    <tr>
+        <td>input-border-bezel</td>
+        <td>borderStyle: Ti.UI.INPUT_BORDERSTYLE_BEZEL</td>
+    </tr>
+    <tr>
+        <td>input-border-line</td>
+        <td>borderStyle: Ti.UI.INPUT_BORDERSTYLE_LINE</td>
+    </tr>
+    <tr>
+        <td>input-border-none</td>
+        <td>borderStyle: Ti.UI.INPUT_BORDERSTYLE_NONE</td>
+    </tr>
+    <tr>
+        <td>input-password</td>
+        <td>passwordMask: true</td>
+    </tr>
+    <tr>
+        <td>input-kb-default</td>
+        <td>appearance: Ti.UI.KEYBOARD_APPEARANCE_DEFAULT</td>
+    </tr>
+    <tr>
+        <td>input-kb-alert</td>
+        <td>appearance: Ti.UI.KEYBOARD_APPEARANCE_ALERT</td>
+    </tr>
+    <tr>
+        <td>input-text-ac-none</td>
+        <td>autocapitalization: Ti.UI.TEXT_AUTOCAPITALIZATION_NONE</td>
+    </tr>
+    <tr>
+        <td>input-text-ac-words</td>
+        <td>autocapitalization: Ti.UI.TEXT_AUTOCAPITALIZATION_WORDS</td>
+    </tr>
+    <tr>
+        <td>input-text-ac-sentences</td>
+        <td>autocapitalization: Ti.UI.TEXT_AUTOCAPITALIZATION_SENTENCES</td>
+    </tr>
+    <tr>
+        <td>input-text-ac-all</td>
+        <td>autocapitalization: Ti.UI.TEXT_AUTOCAPITALIZATION_ALL</td>
+    </tr>
+    <tr>
+        <td>input-autocorrect</td>
+        <td>autocorrect: true</td>
+    </tr>
+    <tr>
+        <td>input-bm-always</td>
+        <td>clearButtonMode: Ti.UI.INPUT_BUTTONMODE_ALWAYS</td>
+    </tr>
+    <tr>
+        <td>input-bm-never</td>
+        <td>clearButtonMode: Ti.UI.INPUT_BUTTONMODE_NEVER</td>
+    </tr>
+    <tr>
+        <td>input-bm-onblur</td>
+        <td>clearButtonMode: Ti.UI.INPUT_BUTTONMODE_ONBLUR</td>
+    </tr>
+    <tr>
+        <td>input-bm-onfocus</td>
+        <td>clearButtonMode: Ti.UI.INPUT_BUTTONMODE_ONFOCUS</td>
+    </tr>
+    <tr>
+        <td>input-clear-on-edit</td>
+        <td>clearOnEdit: true</td>
+    </tr>
+    <tr>
+        <td>input-enable-return-key</td>
+        <td>enableReturnKey: true</td>
+    <tr>
+        <td>input-kb-ascii</td>
+        <td>keyboardType: Ti.UI.KEYBOARD_ASCII</td>
+    </tr>
+    <tr>
+        <td>input-kb-decimal-pad</td>
+        <td>keyboardType: Ti.UI.KEYBOARD_DECIMAL_PAD</td>
+    </tr>
+    <tr>
+        <td>input-kb-default</td>
+        <td>keyboardType: Ti.UI.KEYBOARD_DEFAULT</td>
+    </tr>
+    <tr>
+        <td>input-kb-email</td>
+        <td>keyboardType: Ti.UI.KEYBOARD_EMAIL</td>
+    </tr>
+    <tr>
+        <td>input-kb-namephone-pad</td>
+        <td>keyboardType: Ti.UI.KEYBOARD_NAMEPHONE_PAD</td>
+    </tr>
+    <tr>
+        <td>input-kb-numbers-punctuation</td>
+        <td>keyboardType: Ti.UI.KEYBOARD_NUMBERS_PUNCTUATION</td>
+    </tr>
+    <tr>
+        <td>input-kb-number-pad</td>
+        <td>keyboardType: Ti.UI.KEYBOARD_NUMBER_PAD</td>
+    </tr>
+    <tr>
+        <td>input-kb-phone-pad</td>
+        <td>keyboardType: Ti.UI.KEYBOARD_PHONE_PAD</td>
+    </tr>
+    <tr>
+        <td>input-kb-url</td>
+        <td>keyboardType: Ti.UI.KEYBOARD_URL</td>
+    </tr>
+    <tr>
+        <td>input-rk-default</td>
+        <td>returnKeyType: Ti.UI.RETURNKEY_DEFAULT</td>
+    </tr>
+    <tr>
+        <td>input-rk-done</td>
+        <td>returnKeyType: Ti.UI.RETURNKEY_DONE</td>
+    </tr>
+    <tr>
+        <td>input-rk-emergency_call</td>
+        <td>returnKeyType: Ti.UI.RETURNKEY_EMERGENCY_CALL</td>
+    </tr>
+    <tr>
+        <td>input-rk-go</td>
+        <td>returnKeyType: Ti.UI.RETURNKEY_GO</td>
+    </tr>
+    <tr>
+        <td>input-rk-google</td>
+        <td>returnKeyType: Ti.UI.RETURNKEY_GOOGLE</td>
+    </tr>
+    <tr>
+        <td>input-rk-join</td>
+        <td>returnKeyType: Ti.UI.RETURNKEY_JOIN</td>
+    </tr>
+    <tr>
+        <td>input-rk-next</td>
+        <td>returnKeyType: Ti.UI.RETURNKEY_NEXT</td>
+    </tr>
+    <tr>
+        <td>input-rk-route</td>
+        <td>returnKeyType: Ti.UI.RETURNKEY_ROUTE</td>
+    </tr>
+    <tr>
+        <td>input-rk-search</td>
+        <td>returnKeyType: Ti.UI.RETURNKEY_SEARCH</td>
+    </tr>
+    <tr>
+        <td>input-rk-send</td>
+        <td>returnKeyType: Ti.UI.RETURNKEY_SEND</td>
+    </tr>
+    <tr>
+        <td>input-rk-yahoo</td>
+        <td>returnKeyType: Ti.UI.RETURNKEY_YAHOO</td>
+    </tr>
+    <tr>
+        <td>input-supress-return</td>
+        <td>suppressReturn: true</td>
+    </tr>
+</table>
+
+Example:
+
+    <View class="container">
+        <View class="col col-4">
+            <TextField class="input-border-rounded 
+                              input-tf 
+                              input-bm-always 
+                              input-clear-on-edit 
+                              input-enable-return-key 
+                              bg-transparent" width="100%" hintText="Username" />
+        </View>
+        <View class="col col-4 input-container">
+            <Label class="input-addon">**</Label>
+            <TextField class="input-tf input-password" hintText="Password" />
+        </View>
+        <View class="col col-4 input-container">
+            <TextField class="input-tf text-right input-kb-number-pad" />
+            <Label class="input-addon">.00</Label>
+        </View>
+        <View class="col col-4 input-container">
+            <Label class="input-addon">$</Label>
+            <TextField class="input-tf-2-addon text-right input-rk-join" />
+            <Label class="input-addon">.00</Label>
+        </View>
+        <View class="col col-4 input-container">
+            <Label class="input-addon-sm">@</Label>
+            <TextField class="input-tf-sm input-supress-return" hintText="Username" />
+        </View>
+        <View class="col col-4 input-container">
+            <TextField class="input-tf-sm text-right" />
+            <Label class="input-addon-sm">.00</Label>
+        </View>
+        <View class="col col-4 input-container">
+            <Label class="input-addon-sm text-primary">$</Label>
+            <TextField class="input-tf-2-addon-sm text-right input-kb-default" />
+            <Label class="input-addon-sm text-danger">.00</Label>
+        </View>
+    </View>
+
 ### Tables
+Table support is still in development.  
+
 ![Table example 1](http://tnuzzi.github.io/wriststrap/imgs/table-example-1.png "Table example 1")
 ![Table example 2](http://tnuzzi.github.io/wriststrap/imgs/table-example-2.png "Table example 2")
+
+See [Styles And Colors TSS Details] for table seperator colors.
+
+#### Table TSS helper classes
+<table>
+    <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>table-style-plain</td>
+        <td>style: Titanium.UI.iPhone.TableViewStyle.PLAIN</td>
+    </tr>
+    <tr>
+        <td>table-style-group</td>
+        <td>style: Titanium.UI.iPhone.TableViewStyle.GROUPED</td>
+    </tr>
+    <tr>
+        <td>table-sep-style-none</td>
+        <td>separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.NONE</td>
+    </tr>
+    <tr>
+        <td>table-sep-style-line</td>
+        <td>separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.SINGLE_LINE</td>
+    </tr>
+    <tr>
+        <td>sep-color-none</td>
+        <td>separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.NONE</td>
+    </tr>
+    <tr>
+        <td>table-sep-style-line</td>
+        <td>separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.SINGLE_LINE</td>
+    </tr>
+    <tr>
+        <td>table-hide-vert-scroll</td>
+        <td>showVerticalScrollIndicator: false</td>
+    </tr>
+    <tr>
+        <td>table-show-search</td>
+        <td>searchHidden: true</td>
+    </tr>
+    <tr>
+        <td>table-disable-scrollToTop</td>
+        <td>scrollsToTop: false</td>
+    </tr>
+    <tr>
+        <td>table-disable-scrollable</td>
+        <td>scrollable: false</td>
+    </tr>
+    <tr>
+        <td>table-scroll-style-default</td>
+        <td>scrollIndicatorStyle:Titanium.UI.iPhone.ScrollIndicatorStyle.DEFAULT</td>
+    </tr>
+    <tr>
+        <td>table-scroll-style-white</td>
+        <td>scrollIndicatorStyle:Titanium.UI.iPhone.ScrollIndicatorStyle.WHITE</td>
+    </tr>
+    <tr>
+        <td>table-scroll-style-black</td>
+        <td>scrollIndicatorStyle:Titanium.UI.iPhone.ScrollIndicatorStyle.BLACK</td>
+    </tr>
+    <tr>
+        <td>table-disable-selection</td>
+        <td>allowsSelection: false</td>
+    </tr>
+</table>
 
 ### Fonts
 The default font for Wriststrap is currently "HelveticaNeue-Light".  This font is lightweight and gives the app a clean feel.  The TSS classes are available in different font sizes.
