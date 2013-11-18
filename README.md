@@ -3179,8 +3179,9 @@ Wriststrap has support for the following Glyph libraries:
 ### Glyph libraries installation:
 Simply unzip the Glyph libraries in the `wriststrap/themes/wriststrap/assets` and name the directories appropriately (the name of the library all lower case, no version numbers just the name).  The framework will reference these locations for the images.
 
-**NOTE** for Glyphish remame subdirectory from `PNG Icons` to just `icons'.
+**NOTE** for Glyphish remame subdirectory from `PNG Icons` to just `icons`.
 
+Titianium studio should look like this:
 ![Glyphish Dir](http://tnuzzi.github.io/wriststrap/imgs/glyphish-dir.png "Glyphish dir")
 
 **Glyphish**
