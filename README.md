@@ -3182,6 +3182,7 @@ Simply unzip the Glyph libraries in the `wriststrap/themes/wriststrap/assets` an
 **NOTE** for Glyphish remame subdirectory from `PNG Icons` to just `icons`.
 
 Titianium studio should look like this:
+
 ![Glyphish Dir](http://tnuzzi.github.io/wriststrap/imgs/glyphish-dir.png "Glyphish dir")
 
 **Glyphish**
