@@ -3173,11 +3173,13 @@ Use the size table under font section for the available font sizes in the tss fi
 Supported Glyph libraries
 -------------------------
 Wriststrap has support for the following Glyph libraries:
-* [Glyphish](http://www.glyphish.com/)
+* [Glyphish](http://www.glyphish.com/) (Free version)
 * [Glyphicons](http://glyphicons.com/) (Free version)
 
 ### Glyph libraries installation:
 Simply unzip the Glyph libraries in the `wriststrap/themes/wriststrap/assets` and name the directories appropriately (the name of the library all lower case, no version numbers just the name).  The framework will reference these locations for the images.
+
+**NOTE** for Glyphish remame subdirectory from `PNG Icons` to just `icons'
 
 **Glyphish**
 <table>
