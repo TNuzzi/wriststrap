@@ -1,42 +1,42 @@
 "Window":{
-	layout: 'vertical',
+    layout: 'vertical',
     backgroundColor: 'ffffff'
 }
 "View":{
-	layout: 'vertical',
-	color: 'ffffff'	
+    layout: 'vertical',
+    color: 'ffffff' 
 }
 "ScrollView":{
-	layout: 'vertical',
-	color: 'ffffff'	
+    layout: 'vertical',
+    color: 'ffffff' 
 }
 "Label":{
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-	},
-	color: '333333'
+    font: {
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '14dp',
+    },
+    color: '333333'
 }
 "Button":{
-	font: {
-		fontFamily: 'HelveticaNeue-Light', 
-		fontSize: '14dp'
-	},
-	height: '44dp',
-	width: '100%'
+    font: {
+        fontFamily: 'HelveticaNeue-Light', 
+        fontSize: '14dp'
+    },
+    height: '44dp',
+    width: '100%'
 }
 "TableView":{
-	backgroundColor: 'transparent',
-	width: '100%',
-	height: Ti.UI.FILL
+    backgroundColor: 'transparent',
+    width: '100%',
+    height: Ti.UI.FILL
 }
 "TableViewRow":{
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-		fontWeight: 'bold',
-		fontStyle: 'normal'
-	},
+    font: {
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '14dp',
+        fontWeight: 'bold',
+        fontStyle: 'normal'
+    },
 }
 "TextField":{
     height: '44dp',
@@ -46,45 +46,56 @@
     paddingRight: '10%',
 }
 ".sb-style-default":{
-	statusBarStyle: Titanium.UI.iPhone.StatusBar.DEFAULT
+    statusBarStyle: Titanium.UI.iPhone.StatusBar.DEFAULT
 }
 ".sb-style-gray":{
-	statusBarStyle: Titanium.UI.iPhone.StatusBar.GRAY
+    statusBarStyle: Titanium.UI.iPhone.StatusBar.GRAY
 }
 ".sb-style-opaque-black":{
-	statusBarStyle: Titanium.UI.iPhone.StatusBar.OPAQUE_BLACK
+    statusBarStyle: Titanium.UI.iPhone.StatusBar.OPAQUE_BLACK
 }
 ".sb-style-light-content":{
-	statusBarStyle: Titanium.UI.iPhone.StatusBar.LIGHT_CONTENT
+    statusBarStyle: Titanium.UI.iPhone.StatusBar.LIGHT_CONTENT
 }
 ".sb-style-translucent-black":{
-	statusBarStyle: Titanium.UI.iPhone.StatusBar.TRANSLUCENT_BLACK 
+    statusBarStyle: Titanium.UI.iPhone.StatusBar.TRANSLUCENT_BLACK 
 }
-
-// Window helpers
+".touch-disabled":{
+    touchEnabled: false
+}
+// UI helpers (Window/View/etc.)
 ".fullscreen":{
-	fullscreen: true
+    fullscreen: true
 }
 ".hideNav":{
-	navBarHidden: true
+    navBarHidden: true
 }
 ".showNav":{
-	navBarHidden: false
+    navBarHidden: false
+}
+".modal":{
+    modal: true
+}
+".hide":{
+    visible:false
+}
+".show":{
+    visible:true
 }
 ".rounded-border-4":{
-	borderRadius:'4dp',
-	borderWidth:'1dp',
-	borderColor: 'transparent'
+    borderRadius:'4dp',
+    borderWidth:'1dp',
+    borderColor: 'transparent'
 }
 ".rounded-border-6":{
-	borderRadius:'6dp',
-	borderWidth:'1dp',
-	borderColor: 'transparent'
+    borderRadius:'6dp',
+    borderWidth:'1dp',
+    borderColor: 'transparent'
 }
 ".rounded-border-10":{
-	borderRadius:'10dp',
-	borderWidth:'1dp',
-	borderColor: 'transparent'
+    borderRadius:'10dp',
+    borderWidth:'1dp',
+    borderColor: 'transparent'
 }
 ".footer":{
     bottom: 0,
@@ -173,297 +184,297 @@
 }
 // Typography - Headings
 ".h1": {
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '36dp',
-		fontWeight: 'semibold'
-	}
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '36dp',
+        fontWeight: 'semibold'
+    }
 }
 ".h2": {
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '30dp',
-		fontWeight: 'semibold'
-	}
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '30dp',
+        fontWeight: 'semibold'
+    }
 }
 ".h3": {
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '24dp',
-		fontWeight: 'semibold'
-	}
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '24dp',
+        fontWeight: 'semibold'
+    }
 }
 ".h4": {
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '18dp',
-		fontWeight: 'semibold'
-	}
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '18dp',
+        fontWeight: 'semibold'
+    }
 }
 ".h5": {
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-		fontWeight: 'semibold'
-	}
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '14dp',
+        fontWeight: 'semibold'
+    }
 }
 ".h6": {
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '12dp',
-		fontWeight: 'semibold'
-	}
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '12dp',
+        fontWeight: 'semibold'
+    }
 }
 // Typography - Body copy
 ".p":{
-	layout: 'vertical',
-	width: '100%',
-	height: Ti.UI.SIZE,
+    layout: 'vertical',
+    width: '100%',
+    height: Ti.UI.SIZE,
 }
 
 ".p-content":{
-	top: '10dp',
-	left:0
+    top: '10dp',
+    left:0
 }
 ".lead":{
-	font:{
+    font:{
         fontFamily: 'HelveticaNeue',
         fontSize:'20dp'
     }
 }
 // Typography - Emphasis
 ".small":{
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize:'12dp'
-	}
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize:'12dp'
+    }
 }
 ".large":{
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize:'18dp'
-	}
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize:'18dp'
+    }
 }
 ".bold":{
-	font:{
+    font:{
         fontFamily: 'HelveticaNeue',
         fontSize:'14dp'
     }
 }
 
 ".em":{
-	font:{
-		fontFamily: 'HelveticaNeue-LightItalic',
-		fontSize:'14dp'
-	}
+    font:{
+        fontFamily: 'HelveticaNeue-LightItalic',
+        fontSize:'14dp'
+    }
 }
 // Typography - Alignment
 ".text-left":{
-	textAlign: Ti.UI.TEXT_ALIGNMENT_LEFT
+    textAlign: Ti.UI.TEXT_ALIGNMENT_LEFT
 }
 
 ".text-center":{
-	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER
+    textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER
 }
 
 ".text-right":{
-	textAlign: Ti.UI.TEXT_ALIGNMENT_RIGHT
+    textAlign: Ti.UI.TEXT_ALIGNMENT_RIGHT
 }
 
 // Typography - Addresses
 ".address":{
-	width:'100%',
-	height: Ti.UI.SIZE,
-	layout: 'vertical'
+    width:'100%',
+    height: Ti.UI.SIZE,
+    layout: 'vertical'
 }
 ".address-title":{
-	left: 0,
-	font: {
-		fontFamily: 'HelveticaNeue',
-		fontSize: '14dp',
-	}
+    left: 0,
+    font: {
+        fontFamily: 'HelveticaNeue',
+        fontSize: '14dp',
+    }
 }
 ".address-content":{
-	left: 0,
+    left: 0,
 }
 
 // Typography - Cite
 ".cite":{
-	width:'100%',
-	height: Ti.UI.SIZE,
-	layout: 'vertical'
+    width:'100%',
+    height: Ti.UI.SIZE,
+    layout: 'vertical'
 }
 ".cite-quote":{
-	width: '100%',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '18dp',
-	}
+    width: '100%',
+    font: {
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '18dp',
+    }
 }
 ".cite-source":{
-	width: '100%',
-	top: '5dp',
-	left: '10dp',
-	font: {
-		fontFamily: 'HelveticaNeue-LightItalic',
-		fontSize: '12dp',
-	}
+    width: '100%',
+    top: '5dp',
+    left: '10dp',
+    font: {
+        fontFamily: 'HelveticaNeue-LightItalic',
+        fontSize: '12dp',
+    }
 }
 
 
 // Button
 ".btn-border":{
-	width:Ti.UI.SIZE,
-	height:Ti.UI.SIZE,
-	borderRadius:'4dp',
-	borderWidth:'1dp'
+    width:Ti.UI.SIZE,
+    height:Ti.UI.SIZE,
+    borderRadius:'4dp',
+    borderWidth:'1dp'
 }
 ".btn-disabled":{
-	opacity: 0.65
+    opacity: 0.65
 }
 ".btn-default":{
-	color:'333333',
-	backgroundImage: 'btn-default.png'
+    color:'333333',
+    backgroundImage: 'btn-default.png'
 }
 ".btn-border-default":{
-	backgroundColor: 'ffffff',
-	borderColor:'cccccc'
+    backgroundColor: 'ffffff',
+    borderColor:'cccccc'
 }
 ".btn-primary":{
-	color:'ffffff',
-	backgroundImage: 'btn-primary.png'
+    color:'ffffff',
+    backgroundImage: 'btn-primary.png'
 }
 ".btn-border-primary":{
-	backgroundColor: '428bca',
-	borderColor:'285e8e'
+    backgroundColor: '428bca',
+    borderColor:'285e8e'
 }
 ".btn-warning":{
-	color:'ffffff',
-	backgroundImage: 'btn-warning.png'
+    color:'ffffff',
+    backgroundImage: 'btn-warning.png'
 }
 ".btn-border-warning":{
-	backgroundColor: 'f0ad4e',
-	borderColor:'eea236'
+    backgroundColor: 'f0ad4e',
+    borderColor:'eea236'
 }
 ".btn-success":{
-	color:'ffffff',
-	backgroundImage: 'btn-success.png'
+    color:'ffffff',
+    backgroundImage: 'btn-success.png'
 }
 ".btn-border-success":{
-	backgroundColor: '47a447',
-	borderColor:'398439'
+    backgroundColor: '47a447',
+    borderColor:'398439'
 }
 ".btn-info":{
-	color:'ffffff',
-	backgroundImage: 'btn-info.png'
+    color:'ffffff',
+    backgroundImage: 'btn-info.png'
 }
 ".btn-border-info":{
-	backgroundColor: '5bc0de',
-	borderColor:'46b8da'
+    backgroundColor: '5bc0de',
+    borderColor:'46b8da'
 }
 ".btn-danger":{
-	color:'ffffff',
-	backgroundImage: 'btn-danger.png'
+    color:'ffffff',
+    backgroundImage: 'btn-danger.png'
 }
 ".btn-border-danger":{
-	backgroundColor: 'd9534f',
-	borderColor:'eea236'
+    backgroundColor: 'd9534f',
+    borderColor:'eea236'
 }
 ".btn-lg":{
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize:'20dp'
-	}
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize:'20dp'
+    }
 }
 ".btn-sm":{
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize:'12dp'
-	}
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize:'12dp'
+    }
 }
 ".btn-xs":{
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize:'10dp'
-	}
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize:'10dp'
+    }
 }
 ".disabled":{
-	enabled: false
+    enabled: false
 }
 
 ".enabled":{
-	enabled: true
+    enabled: true
 }
 // Image
 ".img-rounded":{
-	borderRadius: '6dp'
+    borderRadius: '6dp'
 }
 ".img-circle":{
-	width:'140dp',
-	height:'140dp',
-	borderRadius: '70dp'
+    width:'140dp',
+    height:'140dp',
+    borderRadius: '70dp'
 }
 ".img-circle-sm":{
-	width:'60dp',
-	height:'60dp',
-	borderRadius: '30dp'
+    width:'60dp',
+    height:'60dp',
+    borderRadius: '30dp'
 }
 ".thumbnail-container":{
-	layout: 'composite',
-	width:'140dp',
-	height:'140dp',
-	borderRadius:'4dp',
-	borderWidth:'1dp',
-	borderColor: 'dddddd'
+    layout: 'composite',
+    width:'140dp',
+    height:'140dp',
+    borderRadius:'4dp',
+    borderWidth:'1dp',
+    borderColor: 'dddddd'
 }
 
 ".img-thumbnail":{
-	width:'130dp',
-	height:'130dp',
+    width:'130dp',
+    height:'130dp',
 }
 
 ".thumbnail-circle-container":{
-	layout: 'composite',
-	width:'140dp',
-	height:'140dp',
-	borderRadius:'70dp',
-	borderWidth:'1dp',
-	borderColor: 'dddddd'
+    layout: 'composite',
+    width:'140dp',
+    height:'140dp',
+    borderRadius:'70dp',
+    borderWidth:'1dp',
+    borderColor: 'dddddd'
 }
 
 ".img-thumbnail-circle":{
-	width:'130dp',
-	height:'130dp',
-	borderRadius: '65dp'
+    width:'130dp',
+    height:'130dp',
+    borderRadius: '65dp'
 }
 
 ".thumbnail-container-sm":{
-	layout: 'composite',
-	width:'60dp',
-	height:'60dp',
-	borderRadius:'4dp',
-	borderWidth:'1dp',
-	borderColor: 'dddddd'
+    layout: 'composite',
+    width:'60dp',
+    height:'60dp',
+    borderRadius:'4dp',
+    borderWidth:'1dp',
+    borderColor: 'dddddd'
 }
 
 ".img-thumbnail-sm":{
-	width:'50dp',
-	height:'50dp',
+    width:'50dp',
+    height:'50dp',
 }
 
 ".thumbnail-circle-container-sm":{
-	layout: 'composite',
-	width:'60dp',
-	height:'60dp',
-	borderRadius:'30dp',
-	borderWidth:'1dp',
-	borderColor: 'dddddd'
+    layout: 'composite',
+    width:'60dp',
+    height:'60dp',
+    borderRadius:'30dp',
+    borderWidth:'1dp',
+    borderColor: 'dddddd'
 }
 
 ".img-thumbnail-circle-sm":{
-	width:'50dp',
-	height:'50dp',
-	borderRadius: '25dp'
+    width:'50dp',
+    height:'50dp',
+    borderRadius: '25dp'
 }
 
 // Glyphish
@@ -2633,7 +2644,7 @@
 
 // Custom
 ".btn-drawer-icon":{
-	image:'drawer-icon.png'
+    image:'drawer-icon.png'
 }
 
 // iOS System Button
@@ -4093,10 +4104,10 @@
     width: '2095dp'
 }
 ".w-size":{
-	width: Ti.UI.SIZE
+    width: Ti.UI.SIZE
 }
 ".w-fill":{
-	width: Ti.UI.FILL
+    width: Ti.UI.FILL
 }
 
 
@@ -10968,16 +10979,16 @@
 }
 // Background helpers
 ".bg-0":{
-	backgroundImage: 'background-opacity-0.png'
+    backgroundImage: 'background-opacity-0.png'
 }
 ".bg-25":{
-	backgroundImage: 'background-opacity-25.png'
+    backgroundImage: 'background-opacity-25.png'
 }
 ".bg-50":{
-	backgroundImage: 'background-opacity-50.png'
+    backgroundImage: 'background-opacity-50.png'
 }
 ".bg-75":{
-	backgroundImage: 'background-opacity-75.png'
+    backgroundImage: 'background-opacity-75.png'
 }
 
 // bg-color helper
@@ -11005,7 +11016,7 @@
   backgroundColor: "3a87ad"
 }
 ".bg-transparent":{
-	backgroundColor: 'transparent'
+    backgroundColor: 'transparent'
 }
 ".bg-aliceblue":{
     backgroundColor: 'F0F8FF'
@@ -11870,491 +11881,491 @@
 // Alert
 
 ".alert-container-success":{
-	layout: 'horizontal',
-	width: '100%',
-	height: Ti.UI.SIZE,
-	backgroundColor: 'dff0d8',
-	borderColor: 'd6e9c6',
-	borderRadius: '4dp',
-	borderWidth: '1dp'	
+    layout: 'horizontal',
+    width: '100%',
+    height: Ti.UI.SIZE,
+    backgroundColor: 'dff0d8',
+    borderColor: 'd6e9c6',
+    borderRadius: '4dp',
+    borderWidth: '1dp'  
 }
 
 ".alert-success":{
-	left: '3%',
-	width: '94%',
-	top: '10dp',
-	bottom: '10dp',
-	height: Ti.UI.SIZE,
-	color: '468847',
-	backgroundColor: 'dff0d8'
+    left: '3%',
+    width: '94%',
+    top: '10dp',
+    bottom: '10dp',
+    height: Ti.UI.SIZE,
+    color: '468847',
+    backgroundColor: 'dff0d8'
 }
 
 ".alert-container-info":{
-	layout: 'horizontal',
-	width: '100%',
-	height: Ti.UI.SIZE,
-	backgroundColor: 'd9edf7',
-	borderColor: 'bce8f1',
-	borderRadius: '4dp',
-	borderWidth: '1dp'	
+    layout: 'horizontal',
+    width: '100%',
+    height: Ti.UI.SIZE,
+    backgroundColor: 'd9edf7',
+    borderColor: 'bce8f1',
+    borderRadius: '4dp',
+    borderWidth: '1dp'  
 }
 
 ".alert-info":{
-	left: '3%',
-	width: '94%',
-	top: '10dp',
-	bottom: '10dp',
-	height: Ti.UI.SIZE,
-	color: '3a87ad',
-	backgroundColor: 'd9edf7'
+    left: '3%',
+    width: '94%',
+    top: '10dp',
+    bottom: '10dp',
+    height: Ti.UI.SIZE,
+    color: '3a87ad',
+    backgroundColor: 'd9edf7'
 }
 
 ".alert-container-warning":{
-	layout: 'horizontal',
-	width: '100%',
-	height: Ti.UI.SIZE,
-	backgroundColor: 'fcf8e3',
-	borderColor: 'fbeed5',
-	borderRadius: '4dp',
-	borderWidth: '1dp'	
+    layout: 'horizontal',
+    width: '100%',
+    height: Ti.UI.SIZE,
+    backgroundColor: 'fcf8e3',
+    borderColor: 'fbeed5',
+    borderRadius: '4dp',
+    borderWidth: '1dp'  
 }
 
 ".alert-warning":{
-	left: '3%',
-	width: '94%',
-	top: '10dp',
-	bottom: '10dp',
-	height: Ti.UI.SIZE,
-	color: 'c09853',
-	backgroundColor: 'fcf8e3'
+    left: '3%',
+    width: '94%',
+    top: '10dp',
+    bottom: '10dp',
+    height: Ti.UI.SIZE,
+    color: 'c09853',
+    backgroundColor: 'fcf8e3'
 }
 
 ".alert-container-danger":{
-	layout: 'horizontal',
-	width: '100%',
-	height: Ti.UI.SIZE,
-	backgroundColor: 'f2dede',
-	borderColor: 'eed3d7',
-	borderRadius: '4dp',
-	borderWidth: '1dp'	
+    layout: 'horizontal',
+    width: '100%',
+    height: Ti.UI.SIZE,
+    backgroundColor: 'f2dede',
+    borderColor: 'eed3d7',
+    borderRadius: '4dp',
+    borderWidth: '1dp'  
 }
 
 ".alert-danger":{
-	left: '3%',
-	width: '94%',
-	top: '10dp',
-	bottom: '10dp',
-	height: Ti.UI.SIZE,
-	color: 'b94a48',
-	backgroundColor: 'f2dede'
+    left: '3%',
+    width: '94%',
+    top: '10dp',
+    bottom: '10dp',
+    height: Ti.UI.SIZE,
+    color: 'b94a48',
+    backgroundColor: 'f2dede'
 }
 
 
 // Panels
 ".panel-body":{
-	left: '3%',
-	width: '94%',
-	top: '5dp',
-	bottom: '5dp',
-	height: Ti.UI.SIZE,
-	color: '333333',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-	}
-	
+    left: '3%',
+    width: '94%',
+    top: '5dp',
+    bottom: '5dp',
+    height: Ti.UI.SIZE,
+    color: '333333',
+    font: {
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '14dp',
+    }
+    
 }
 ".panel-container-body":{
-	width: '100%',
-	height: Ti.UI.SIZE,
-	backgroundColor: 'ffffff',
+    width: '100%',
+    height: Ti.UI.SIZE,
+    backgroundColor: 'ffffff',
 }
 
 ".panel-default":{
-	width: '100%',
-	height: Ti.UI.SIZE,
-	layout: 'vertical',
-	borderColor: 'dddddd',
-	borderRadius: '4dp',
-	borderWidth: '1dp',
-	backgroundColor: 'f5f5f5'
+    width: '100%',
+    height: Ti.UI.SIZE,
+    layout: 'vertical',
+    borderColor: 'dddddd',
+    borderRadius: '4dp',
+    borderWidth: '1dp',
+    backgroundColor: 'f5f5f5'
 }
 ".panel-default-header":{
-	left: '3%',
-	width: '94%',
-	top: '5dp',
-	bottom: '5dp',
-	height: Ti.UI.SIZE,
-	color: '333333',
-	backgroundColor: 'f5f5f5',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-		fontWeight: 'bold'
-	}
+    left: '3%',
+    width: '94%',
+    top: '5dp',
+    bottom: '5dp',
+    height: Ti.UI.SIZE,
+    color: '333333',
+    backgroundColor: 'f5f5f5',
+    font: {
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '14dp',
+        fontWeight: 'bold'
+    }
 }
 
 ".panel-primary":{
-	width: '100%',
-	height: Ti.UI.SIZE,
-	layout: 'vertical',
-	borderColor: '428bca',
-	borderRadius: '4dp',
-	borderWidth: '1dp',
-	backgroundColor: '428bca'
+    width: '100%',
+    height: Ti.UI.SIZE,
+    layout: 'vertical',
+    borderColor: '428bca',
+    borderRadius: '4dp',
+    borderWidth: '1dp',
+    backgroundColor: '428bca'
 }
 ".panel-primary-header":{
-	left: '3%',
-	width: '94%',
-	top: '5dp',
-	bottom: '5dp',
-	height: Ti.UI.SIZE,
-	color: 'ffffff',
-	backgroundColor: '428bca',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-		fontWeight: 'bold'
-	}
+    left: '3%',
+    width: '94%',
+    top: '5dp',
+    bottom: '5dp',
+    height: Ti.UI.SIZE,
+    color: 'ffffff',
+    backgroundColor: '428bca',
+    font: {
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '14dp',
+        fontWeight: 'bold'
+    }
 }
 
 ".panel-success":{
-	width: '100%',
-	height: Ti.UI.SIZE,
-	layout: 'vertical',
-	borderColor: 'd6e9c6',
-	borderRadius: '4dp',
-	borderWidth: '1dp',
-	backgroundColor: 'dff0d8'
+    width: '100%',
+    height: Ti.UI.SIZE,
+    layout: 'vertical',
+    borderColor: 'd6e9c6',
+    borderRadius: '4dp',
+    borderWidth: '1dp',
+    backgroundColor: 'dff0d8'
 }
 ".panel-success-header":{
-	left: '3%',
-	width: '94%',
-	top: '5dp',
-	bottom: '5dp',
-	height: Ti.UI.SIZE,
-	color: '468847',
-	backgroundColor: 'dff0d8',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-		fontWeight: 'bold'
-	}
+    left: '3%',
+    width: '94%',
+    top: '5dp',
+    bottom: '5dp',
+    height: Ti.UI.SIZE,
+    color: '468847',
+    backgroundColor: 'dff0d8',
+    font: {
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '14dp',
+        fontWeight: 'bold'
+    }
 }
 
 ".panel-warning":{
-	width: '100%',
-	height: Ti.UI.SIZE,
-	layout: 'vertical',
-	borderColor: 'fbeed5',
-	borderRadius: '4dp',
-	borderWidth: '1dp',
-	backgroundColor: 'fcf8e3'
+    width: '100%',
+    height: Ti.UI.SIZE,
+    layout: 'vertical',
+    borderColor: 'fbeed5',
+    borderRadius: '4dp',
+    borderWidth: '1dp',
+    backgroundColor: 'fcf8e3'
 }
 ".panel-warning-header":{
-	left: '3%',
-	width: '94%',
-	top: '5dp',
-	bottom: '5dp',
-	height: Ti.UI.SIZE,
-	color: 'c09853',
-	backgroundColor: 'fcf8e3',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-		fontWeight: 'bold'
-	}
+    left: '3%',
+    width: '94%',
+    top: '5dp',
+    bottom: '5dp',
+    height: Ti.UI.SIZE,
+    color: 'c09853',
+    backgroundColor: 'fcf8e3',
+    font: {
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '14dp',
+        fontWeight: 'bold'
+    }
 }
 
 ".panel-danger":{
-	width: '100%',
-	height: Ti.UI.SIZE,
-	layout: 'vertical',
-	borderColor: 'eed3d7',
-	borderRadius: '4dp',
-	borderWidth: '1dp',
-	backgroundColor: 'f2dede'
+    width: '100%',
+    height: Ti.UI.SIZE,
+    layout: 'vertical',
+    borderColor: 'eed3d7',
+    borderRadius: '4dp',
+    borderWidth: '1dp',
+    backgroundColor: 'f2dede'
 }
 ".panel-danger-header":{
-	left: '3%',
-	width: '94%',
-	top: '5dp',
-	bottom: '5dp',
-	height: Ti.UI.SIZE,
-	color: 'b94a48',
-	backgroundColor: 'f2dede',
-	font: {
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '14dp',
-		fontWeight: 'bold'
-	}
+    left: '3%',
+    width: '94%',
+    top: '5dp',
+    bottom: '5dp',
+    height: Ti.UI.SIZE,
+    color: 'b94a48',
+    backgroundColor: 'f2dede',
+    font: {
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '14dp',
+        fontWeight: 'bold'
+    }
 }
 
 // Wells
 ".well":{
-	layout:'vertical',
-	width: '100%',
-	height: Ti.UI.SIZE,
-	backgroundColor: 'f5f5f5',
-	borderColor: 'e3e3e3',
-	borderRadius: '4dp',
-	borderWidth: '1dp'
+    layout:'vertical',
+    width: '100%',
+    height: Ti.UI.SIZE,
+    backgroundColor: 'f5f5f5',
+    borderColor: 'e3e3e3',
+    borderRadius: '4dp',
+    borderWidth: '1dp'
 }
 ".well-content":{
-	top:'10dp',
-	left: '3%',
-	bottom: '10dp',
-	width: '94%',
-	height: Ti.UI.SIZE
+    top:'10dp',
+    left: '3%',
+    bottom: '10dp',
+    width: '94%',
+    height: Ti.UI.SIZE
 }
 
 // Input helpers
 ".input-container":{
-	layout: 'horizontal',
-	width: '100%',
-	height: Ti.UI.SIZE,
-	borderColor: 'cccccc',
-	borderRadius: '4dp',
-	borderWidth: '1dp'
+    layout: 'horizontal',
+    width: '100%',
+    height: Ti.UI.SIZE,
+    borderColor: 'cccccc',
+    borderRadius: '4dp',
+    borderWidth: '1dp'
 }
 ".input-addon":{
-	width: '14.5%',
-	height: '44dp',
-	textAlign: 'center',
-	backgroundColor: 'eeeeee',
-	borderColor: 'cccccc',
-	borderWidth: '1dp',
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '20dp',
-		fontWeight: 'bold'
-	}
+    width: '14.5%',
+    height: '44dp',
+    textAlign: 'center',
+    backgroundColor: 'eeeeee',
+    borderColor: 'cccccc',
+    borderWidth: '1dp',
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '20dp',
+        fontWeight: 'bold'
+    }
 }
 ".input-tf":{
-	height: '44dp',
-	width: '85.5%',
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '20dp'
-	},
+    height: '44dp',
+    width: '85.5%',
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '20dp'
+    },
 }
 ".input-tf-2-addon":{
-	height: '44dp',
-	width: '70.888%',
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '20dp'
-	},
+    height: '44dp',
+    width: '70.888%',
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '20dp'
+    },
 }
 ".input-addon-sm":{
-	width: '11.3%',
-	height: '34dp',
-	textAlign: 'center',
-	backgroundColor: 'eeeeee',
-	borderColor: 'cccccc',
-	borderWidth: '1dp',
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '16dp',
-		fontWeight: 'bold'
-	}
+    width: '11.3%',
+    height: '34dp',
+    textAlign: 'center',
+    backgroundColor: 'eeeeee',
+    borderColor: 'cccccc',
+    borderWidth: '1dp',
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '16dp',
+        fontWeight: 'bold'
+    }
 }
 
 ".input-tf-sm":{
-	height: '34dp',
-	width: '88.8%',
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '16dp'
-	},
+    height: '34dp',
+    width: '88.8%',
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '16dp'
+    },
 }
 ".input-tf-2-addon-sm":{
-	height: '34dp',
-	width: '77.3%',
-	font:{
-		fontFamily: 'HelveticaNeue-Light',
-		fontSize: '16dp'
-	},
+    height: '34dp',
+    width: '77.3%',
+    font:{
+        fontFamily: 'HelveticaNeue-Light',
+        fontSize: '16dp'
+    },
 }
 ".input-border-rounded":{
-	borderStyle: Ti.UI.INPUT_BORDERSTYLE_ROUNDED
+    borderStyle: Ti.UI.INPUT_BORDERSTYLE_ROUNDED
 }
 ".input-border-bezel":{
-	borderStyle: Ti.UI.INPUT_BORDERSTYLE_BEZEL
+    borderStyle: Ti.UI.INPUT_BORDERSTYLE_BEZEL
 }
 ".input-border-line":{
-	borderStyle: Ti.UI.INPUT_BORDERSTYLE_LINE
+    borderStyle: Ti.UI.INPUT_BORDERSTYLE_LINE
 }
 ".input-border-none":{
-	borderStyle: Ti.UI.INPUT_BORDERSTYLE_NONE
+    borderStyle: Ti.UI.INPUT_BORDERSTYLE_NONE
 }
 ".input-password":{
-	passwordMask: true
+    passwordMask: true
 }
 ".input-kb-default":{
-	appearance: Ti.UI.KEYBOARD_APPEARANCE_DEFAULT
+    appearance: Ti.UI.KEYBOARD_APPEARANCE_DEFAULT
 }
 ".input-kb-alert":{
-	appearance: Ti.UI.KEYBOARD_APPEARANCE_ALERT
+    appearance: Ti.UI.KEYBOARD_APPEARANCE_ALERT
 }
 ".input-text-ac-none":{
-	autocapitalization: Ti.UI.TEXT_AUTOCAPITALIZATION_NONE
+    autocapitalization: Ti.UI.TEXT_AUTOCAPITALIZATION_NONE
 }
 ".input-text-ac-words":{
-	autocapitalization: Ti.UI.TEXT_AUTOCAPITALIZATION_WORDS
+    autocapitalization: Ti.UI.TEXT_AUTOCAPITALIZATION_WORDS
 }
 ".input-text-ac-sentences":{
-	autocapitalization: Ti.UI.TEXT_AUTOCAPITALIZATION_SENTENCES
+    autocapitalization: Ti.UI.TEXT_AUTOCAPITALIZATION_SENTENCES
 }
 ".input-text-ac-all":{
-	autocapitalization: Ti.UI.TEXT_AUTOCAPITALIZATION_ALL
+    autocapitalization: Ti.UI.TEXT_AUTOCAPITALIZATION_ALL
 }
 ".input-autocorrect":{
-	autocorrect: true
+    autocorrect: true
 }
 ".input-bm-always":{
-	clearButtonMode: Ti.UI.INPUT_BUTTONMODE_ALWAYS
+    clearButtonMode: Ti.UI.INPUT_BUTTONMODE_ALWAYS
 }
 ".input-bm-never":{
-	clearButtonMode: Ti.UI.INPUT_BUTTONMODE_NEVER
+    clearButtonMode: Ti.UI.INPUT_BUTTONMODE_NEVER
 }
 ".input-bm-onblur":{
-	clearButtonMode: Ti.UI.INPUT_BUTTONMODE_ONBLUR
+    clearButtonMode: Ti.UI.INPUT_BUTTONMODE_ONBLUR
 }
 ".input-bm-onfocus":{
-	clearButtonMode: Ti.UI.INPUT_BUTTONMODE_ONFOCUS
+    clearButtonMode: Ti.UI.INPUT_BUTTONMODE_ONFOCUS
 }
 ".input-clear-on-edit":{
-	clearOnEdit: true
+    clearOnEdit: true
 }
 ".input-enable-return-key":{
-	enableReturnKey:true
+    enableReturnKey:true
 }
 ".input-kb-ascii":{
-	keyboardType: Ti.UI.KEYBOARD_ASCII
+    keyboardType: Ti.UI.KEYBOARD_ASCII
 }
 ".input-kb-decimal-pad":{
-	keyboardType: Ti.UI.KEYBOARD_DECIMAL_PAD
+    keyboardType: Ti.UI.KEYBOARD_DECIMAL_PAD
 }
 ".input-kb-default":{
-	keyboardType: Ti.UI.KEYBOARD_DEFAULT
+    keyboardType: Ti.UI.KEYBOARD_DEFAULT
 }
 ".input-kb-email":{
-	keyboardType: Ti.UI.KEYBOARD_EMAIL
+    keyboardType: Ti.UI.KEYBOARD_EMAIL
 }
 ".input-kb-namephone-pad":{
-	keyboardType: Ti.UI.KEYBOARD_NAMEPHONE_PAD
+    keyboardType: Ti.UI.KEYBOARD_NAMEPHONE_PAD
 }
 ".input-kb-numbers-punctuation":{
-	keyboardType: Ti.UI.KEYBOARD_NUMBERS_PUNCTUATION
+    keyboardType: Ti.UI.KEYBOARD_NUMBERS_PUNCTUATION
 }
 ".input-kb-number-pad":{
-	keyboardType: Ti.UI.KEYBOARD_NUMBER_PAD
+    keyboardType: Ti.UI.KEYBOARD_NUMBER_PAD
 }
 ".input-kb-phone-pad":{
-	keyboardType: Ti.UI.KEYBOARD_PHONE_PAD
+    keyboardType: Ti.UI.KEYBOARD_PHONE_PAD
 }
 ".input-kb-url":{
-	keyboardType: Ti.UI.KEYBOARD_URL
+    keyboardType: Ti.UI.KEYBOARD_URL
 }
 ".input-rk-default":{
-	returnKeyType: Ti.UI.RETURNKEY_DEFAULT
+    returnKeyType: Ti.UI.RETURNKEY_DEFAULT
 }
 ".input-rk-done":{
-	returnKeyType: Ti.UI.RETURNKEY_DONE
+    returnKeyType: Ti.UI.RETURNKEY_DONE
 }
 ".input-rk-emergency_call":{
-	returnKeyType: Ti.UI.RETURNKEY_EMERGENCY_CALL
+    returnKeyType: Ti.UI.RETURNKEY_EMERGENCY_CALL
 }
 ".input-rk-go":{
-	returnKeyType: Ti.UI.RETURNKEY_GO
+    returnKeyType: Ti.UI.RETURNKEY_GO
 }
 ".input-rk-google":{
-	returnKeyType: Ti.UI.RETURNKEY_GOOGLE
+    returnKeyType: Ti.UI.RETURNKEY_GOOGLE
 }
 ".input-rk-join":{
-	returnKeyType: Ti.UI.RETURNKEY_JOIN
+    returnKeyType: Ti.UI.RETURNKEY_JOIN
 }
 ".input-rk-next":{
-	returnKeyType: Ti.UI.RETURNKEY_NEXT
+    returnKeyType: Ti.UI.RETURNKEY_NEXT
 }
 ".input-rk-route":{
-	returnKeyType: Ti.UI.RETURNKEY_ROUTE
+    returnKeyType: Ti.UI.RETURNKEY_ROUTE
 }
 ".input-rk-search":{
-	returnKeyType: Ti.UI.RETURNKEY_SEARCH
+    returnKeyType: Ti.UI.RETURNKEY_SEARCH
 }
 ".input-rk-send":{
-	returnKeyType: Ti.UI.RETURNKEY_SEND
+    returnKeyType: Ti.UI.RETURNKEY_SEND
 }
 ".input-rk-yahoo":{
-	returnKeyType: Ti.UI.RETURNKEY_YAHOO
+    returnKeyType: Ti.UI.RETURNKEY_YAHOO
 }
 ".input-supress-return":{
-	suppressReturn: true
+    suppressReturn: true
 }
 // Alignment helpers
 ".pull-left":{
-	left:'0dp'
+    left:'0dp'
 }
 
 ".pull-right":{
-	right:'0dp'
+    right:'0dp'
 }
 
 ".lo-vertical":{
-	layout: "vertical"
+    layout: "vertical"
 }
 
 ".lo-horizontal":{
-	layout: "horizontal"
+    layout: "horizontal"
 }
 ".lo-composite":{
-	layout: "composite"
+    layout: "composite"
 }
 
 // Table helpers
 ".table-style-plain":{
-	style: Titanium.UI.iPhone.TableViewStyle.PLAIN
+    style: Titanium.UI.iPhone.TableViewStyle.PLAIN
 }
 ".table-style-group":{
-	style: Titanium.UI.iPhone.TableViewStyle.GROUPED
+    style: Titanium.UI.iPhone.TableViewStyle.GROUPED
 }
 ".table-sep-style-none":{
-	separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.NONE
+    separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.NONE
 }
 ".table-sep-style-line":{
-	separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.SINGLE_LINE
+    separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.SINGLE_LINE
 }
 ".sep-color-none":{
-	separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.NONE
+    separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.NONE
 }
 ".table-sep-style-line":{
-	separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.SINGLE_LINE
+    separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.SINGLE_LINE
 }
 ".table-hide-vert-scroll":{
-	showVerticalScrollIndicator: false
+    showVerticalScrollIndicator: false
 }
 ".table-show-search":{
-	searchHidden: true
+    searchHidden: true
 }
 ".table-disable-scrollToTop":{
-	scrollsToTop: false
+    scrollsToTop: false
 }
 ".table-disable-scrollable":{
-	scrollable: false
+    scrollable: false
 }
 ".table-scroll-style-default":{
-	scrollIndicatorStyle:Titanium.UI.iPhone.ScrollIndicatorStyle.DEFAULT
+    scrollIndicatorStyle:Titanium.UI.iPhone.ScrollIndicatorStyle.DEFAULT
 }
 ".table-scroll-style-white":{
-	scrollIndicatorStyle:Titanium.UI.iPhone.ScrollIndicatorStyle.WHITE
+    scrollIndicatorStyle:Titanium.UI.iPhone.ScrollIndicatorStyle.WHITE
 }
 ".table-scroll-style-black":{
-	scrollIndicatorStyle:Titanium.UI.iPhone.ScrollIndicatorStyle.BLACK
+    scrollIndicatorStyle:Titanium.UI.iPhone.ScrollIndicatorStyle.BLACK
 }
 ".table-disable-selection":{
-	allowsSelection: false
+    allowsSelection: false
 }
 
 // Table Seperator Colors
