@@ -103,6 +103,106 @@
     width: '100%'
 }
 
+// New Layout 12 columns
+".n-container":{
+    width: '100%',
+    height: Ti.UI.SIZE,
+    layout: 'horizontal'
+}
+".n-col-1": {
+    left: 0,
+    height: Ti.UI.SIZE,
+    width: "8.25%"
+}
+".n-col-2": {
+    left: 0,
+    height: Ti.UI.SIZE,
+    width: "16.50%"
+}
+".n-col-3": {
+    left: 0,
+    height: Ti.UI.SIZE,
+    width: "24.75%"
+}
+".n-col-4": {
+    left: 0,
+    height: Ti.UI.SIZE,
+    width: "33%"
+}
+".n-col-5": {
+    left: 0,
+    height: Ti.UI.SIZE,
+    width: "41.25%"
+}
+".n-col-6": {
+    left: 0,
+    height: Ti.UI.SIZE,
+    width: "49.5%"
+}
+".n-col-7": {
+    left: 0,
+    height: Ti.UI.SIZE,
+    width: "57.75%"
+}
+".n-col-8": {
+    left: 0,
+    height: Ti.UI.SIZE,
+    width: "66%"
+}
+".n-col-9": {
+    left: 0,
+    height: Ti.UI.SIZE,
+    width: "74.25%"
+}
+".n-col-10": {
+    left: 0,
+    height: Ti.UI.SIZE,
+    width: "82.50%"
+}
+".n-col-11": {
+    left: 0,
+    height: Ti.UI.SIZE,
+    width: "90.75%"
+}
+".n-col-12": {
+    left: 0,
+    height: Ti.UI.SIZE,
+    width: "100%"
+}
+".n-col-push-1": {
+    left: "8.25%"
+}
+".n-col-push-2": {
+    left: "16.50%"
+}
+".n-col-push-3": {
+    left: "24.75%"
+}
+".n-col-push-4": {
+    left: "33%"
+}
+".n-col-push-5": {
+    left: "41.25%"
+}
+".n-col-push-6": {
+    left: "49.5%"
+}
+".n-col-push-7": {
+    left: "57.75%"
+}
+".n-col-push-8": {
+    left: "66%"
+}
+".n-col-push-9": {
+    left: "74.25%"
+}
+".n-col-push-10": {
+    left: "82.50%"
+}
+".n-col-push-11": {
+    left: "90.75%"
+}
+
 // Layout
 ".layout-default":{
     left: '3%',
