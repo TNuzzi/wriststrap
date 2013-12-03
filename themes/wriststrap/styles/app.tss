@@ -5662,6 +5662,9 @@
 ".t-100%":{
     top: '100%'
 }
+".t-0":{
+    top: '0dp'
+}
 ".t-1":{
     top: '1dp'
 }
@@ -7033,6 +7036,9 @@
 }
 ".b-100%":{
     bottom: '100%'
+}
+".b-0":{
+    bottom: '0dp'
 }
 ".b-1":{
     bottom: '1dp'
@@ -8406,6 +8412,9 @@
 ".l-100%":{
     left: '100%'
 }
+".l-0":{
+    left: '0dp'
+}
 ".l-1":{
     left: '1dp'
 }
@@ -9777,6 +9786,9 @@
 }
 ".r-100%":{
     right: '100%'
+}
+".r-0":{
+    right: '0dp'
 }
 ".r-1":{
     right: '1dp'
@@ -12446,7 +12458,7 @@
 ".table-sep-style-line":{
     separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.SINGLE_LINE
 }
-".sep-color-none":{
+".table-sep-style-none":{
     separatorStyle: Titanium.UI.iPhone.TableViewSeparatorStyle.NONE
 }
 ".table-sep-style-line":{
@@ -12915,6 +12927,16 @@
 }
 ".sep-color-yellowgreen":{
     separatorColor: '9ACD32'
+}
+
+".cell-select-style-blue":{
+    selectionStyle: Titanium.UI.iPhone.TableViewCellSelectionStyle.BLUE
+}
+".cell-select-style-gray":{
+    selectionStyle: Titanium.UI.iPhone.TableViewCellSelectionStyle.GRAY
+}
+".cell-select-style-none":{
+    selectionStyle: Titanium.UI.iPhone.TableViewCellSelectionStyle.NONE
 }
 
 //Font
