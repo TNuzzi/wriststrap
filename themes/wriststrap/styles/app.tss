@@ -45,6 +45,12 @@
     paddingLeft: '10%',
     paddingRight: '10%',
 }
+"TextArea":{
+    backgroundColor: 'ffffff',
+    color: '000000',
+    paddingLeft: '10%',
+    paddingRight: '10%',
+}
 ".sb-style-default":{
     statusBarStyle: Titanium.UI.iPhone.StatusBar.DEFAULT
 }
@@ -12348,6 +12354,9 @@
 }
 ".input-autocorrect":{
     autocorrect: true
+}
+".input-autocorrect-disabled":{
+    autocorrect: false
 }
 ".input-bm-always":{
     clearButtonMode: Ti.UI.INPUT_BUTTONMODE_ALWAYS
