@@ -1,0 +1,13 @@
+{
+	"id": "wriststrap.picker",
+	"name": "wriststrap.picker",
+	"description" : "A simple picker widget which allow for animating a picker from the button of the screen",
+	"author": "Tony Nuzzi",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2013",
+	"license":"Apache License v2.0",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"wriststrap, picker, animated",
+	"platforms":"ios"
+}

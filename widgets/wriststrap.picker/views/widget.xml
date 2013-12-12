@@ -1,0 +1,12 @@
+<Alloy>
+	<View class="w-full h-255" bottom="-265">
+            <View class="w-full h-40 bg-25">
+                <View id="doneButtonView" class="h-full col-1-push-3 t-5">
+                    <View class="h-30 btn-border btn-border-info l-5" width="70dp">
+                        <Button id="doneButton" class="btn-info btn-sm h-30" onClick="done">Done</Button>
+                    </View>
+                </View>
+            </View>
+            <Picker id="picker" class="b-0" selectionIndicator="true" useSpinner="true" />
+        </View>
+</Alloy>
