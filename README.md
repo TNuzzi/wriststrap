@@ -5361,6 +5361,7 @@ Widgets
 ### wriststrap.dialog
 A simple dialog widget which allow for animating a dropdown dialog.
 
+![Dialog](http://tnuzzi.github.io/wriststrap/imgs/dialog-widget.png "Dialog")
 
 #### Usage:
 For animated dropdown
