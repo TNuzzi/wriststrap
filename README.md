@@ -5355,6 +5355,40 @@ Titianium studio should look like this:
         <td>glyphicons-ios</td>
     </tr>
 </table>
+Widgets
+-------
+
+### wriststrap.dialog
+A simple dialog widget which allow for animating a dropdown dialog.
+
+
+#### Usage:
+For animated dropdown
+
+    var content = Alloy.createController("someContent");
+    var aboutPopover = Alloy.createWidget("wriststrap.dialog", "widget", {
+        content: content.getView(),
+        animate: true,
+        contentHeight: 400 // Used to hide the dialog off screen for animated dropdown
+
+    });
+
+    content.someButton.addEventListener("click", function() {
+        aboutPopover.getView().animateClose();
+    });
+
+For fade in/out
+
+    var content = Alloy.createController("someContent");
+    var aboutPopover = Alloy.createWidget("wriststrap.dialog", "widget", {
+        content: content.getView(),
+        fade: true,
+    });
+
+    content.someButton.addEventListener("click", function() {
+        aboutPopover.getView().fadeOutClose();
+    });
+
 Limitations
 -----------
 
