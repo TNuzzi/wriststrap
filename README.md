@@ -5359,9 +5359,23 @@ Widgets
 -------
 
 ### wriststrap.dialog
-A simple dialog widget which allow for animating a dropdown dialog.
+A simple dialog widget which allow for animating a dropdown dialog.  The widget does not contain the content rather takes a `View` that has content.
 
 ![Dialog](http://tnuzzi.github.io/wriststrap/imgs/dialog-widget.png "Dialog")
+
+Example Content `View`
+
+    <View class="well">
+        <View class="well-content">
+            <Label class="h2">About our app</Label>
+            <Label class="col col-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </Label>
+            <View class="col col-4 lo-horizontal">
+                <Button id="skip" class="col-2 btn-default">skip</Button>
+                <Button id="personalize" class="col-2 col-spacing btn-default">personalize</Button>
+            </View>
+        </View>
+    </View>
 
 #### Usage:
 For animated dropdown
@@ -5374,7 +5388,7 @@ For animated dropdown
 
     });
 
-    content.someButton.addEventListener("click", function() {
+    content.skip.addEventListener("click", function() {
         aboutPopover.getView().animateClose();
     });
 
@@ -5386,7 +5400,7 @@ For fade in/out
         fade: true,
     });
 
-    content.someButton.addEventListener("click", function() {
+    content.skip.addEventListener("click", function() {
         aboutPopover.getView().fadeOutClose();
     });
 
