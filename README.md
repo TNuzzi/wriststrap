@@ -5364,6 +5364,50 @@ A simple dialog widget which allow for animating a dropdown dialog.
 ![Dialog](http://tnuzzi.github.io/wriststrap/imgs/dialog-widget.png "Dialog")
 
 #### Usage:
+<table>
+     <thead>
+        <tr>
+          <th>Font Sizes</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td>14</td>
+    </tr>
+    <tr>
+        <td>18</td>
+    </tr>
+    <tr>
+        <td>24</td>
+    </tr>
+    <tr>
+        <td>30</td>
+    </tr>
+    <tr>
+        <td>36</td>
+    </tr>
+    <tr>
+        <td>48</td>
+    </tr>
+    <tr>
+        <td>60</td>
+    </tr>
+    <tr>
+        <td>72</td>
+    </tr>
+</table>
+
 For animated dropdown
 
     var content = Alloy.createController("someContent");
