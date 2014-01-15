@@ -2477,6 +2477,75 @@ See [Styles And Colors TSS Details] for page control seperator colors.
     </tr>
 </table>
 
+Widgets
+-------
+
+### wriststrap.dialog
+A simple dialog widget which allow for animating a dropdown dialog.  The widget does not contain the content rather takes a `View` that has content.
+
+![Dialog](http://tnuzzi.github.io/wriststrap/imgs/dialog-widget.png "Dialog")
+
+Example Content `View`
+
+    <View class="well">
+        <View class="well-content">
+            <Label class="h2">About our app</Label>
+            <Label class="col col-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </Label>
+            <View class="col col-4 lo-horizontal">
+                <Button id="skip" class="col-2 btn-default">skip</Button>
+                <Button id="personalize" class="col-2 col-spacing btn-default">personalize</Button>
+            </View>
+        </View>
+    </View>
+
+#### Usage:
+<table>
+     <thead>
+        <tr>
+          <th>argument</th>
+          <th>required</th>
+          <th>description</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>content</td>
+        <td>yes</td>
+        <td>Takes a <code>View</code>.  Containing the content of the dialog.  The content view will be auto-centered.</td>
+    </tr>
+    <tr>
+        <td>animated</td>
+        <td>no</td>
+        <td>Takes a <code>boolean</code>.  Will drop down the dialog</td>
+    </tr>
+</table>
+
+For animated dropdown
+
+    var content = Alloy.createController("someContent");
+    var aboutPopover = Alloy.createWidget("wriststrap.dialog", "widget", {
+        content: content.getView(),
+        animate: true,
+        contentHeight: 400 // Used to hide the dialog off screen for animated dropdown
+
+    });
+
+    content.skip.addEventListener("click", function() {
+        aboutPopover.getView().animateClose();
+    });
+
+For fade in/out
+
+    var content = Alloy.createController("someContent");
+    var aboutPopover = Alloy.createWidget("wriststrap.dialog", "widget", {
+        content: content.getView(),
+        fade: true,
+    });
+
+    content.skip.addEventListener("click", function() {
+        aboutPopover.getView().fadeOutClose();
+    });
+    
 ### Fonts
 The default font for Wriststrap is currently "HelveticaNeue-Light".  This font is lightweight and gives the app a clean feel.  The TSS classes are available in different font sizes.
 
@@ -5537,115 +5606,6 @@ Titianium studio should look like this:
         <td>glyphicons-ios</td>
     </tr>
 </table>
-Widgets
--------
-
-### wriststrap.dialog
-A simple dialog widget which allow for animating a dropdown dialog.  The widget does not contain the content rather takes a `View` that has content.
-
-![Dialog](http://tnuzzi.github.io/wriststrap/imgs/dialog-widget.png "Dialog")
-
-Example Content `View`
-
-    <View class="well">
-        <View class="well-content">
-            <Label class="h2">About our app</Label>
-            <Label class="col col-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </Label>
-            <View class="col col-4 lo-horizontal">
-                <Button id="skip" class="col-2 btn-default">skip</Button>
-                <Button id="personalize" class="col-2 col-spacing btn-default">personalize</Button>
-            </View>
-        </View>
-    </View>
-
-#### Usage:
-<table>
-     <thead>
-        <tr>
-<<<<<<< HEAD
-          <th>argument</th>
-          <th>required</th>
-          <th>description</th>
-        </tr>
-    </thead>
-    <tr>
-        <td>content</td>
-        <td>yes</td>
-        <td>Takes a <code>View</code>.  Containing the content of the dialog.  The content view will be auto-centered.</td>
-    </tr>
-    <tr>
-        <td>animated</td>
-        <td>no</td>
-        <td>Takes a <code>boolean</code>.  Will drop down the dialog</td>
-=======
-          <th>Font Sizes</th>
-        </tr>
-    </thead>
-    <tr>
-        <td>6</td>
-    </tr>
-    <tr>
-        <td>8</td>
->>>>>>> 2cc91b85ade99524f22915702a84e4e47ed4f8d0
-    </tr>
-    <tr>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>12</td>
-    </tr>
-    <tr>
-        <td>14</td>
-    </tr>
-    <tr>
-        <td>18</td>
-    </tr>
-    <tr>
-        <td>24</td>
-    </tr>
-    <tr>
-        <td>30</td>
-    </tr>
-    <tr>
-        <td>36</td>
-    </tr>
-    <tr>
-        <td>48</td>
-    </tr>
-    <tr>
-        <td>60</td>
-    </tr>
-    <tr>
-        <td>72</td>
-    </tr>
-</table>
-
-For animated dropdown
-
-    var content = Alloy.createController("someContent");
-    var aboutPopover = Alloy.createWidget("wriststrap.dialog", "widget", {
-        content: content.getView(),
-        animate: true,
-        contentHeight: 400 // Used to hide the dialog off screen for animated dropdown
-
-    });
-
-    content.skip.addEventListener("click", function() {
-        aboutPopover.getView().animateClose();
-    });
-
-For fade in/out
-
-    var content = Alloy.createController("someContent");
-    var aboutPopover = Alloy.createWidget("wriststrap.dialog", "widget", {
-        content: content.getView(),
-        fade: true,
-    });
-
-    content.skip.addEventListener("click", function() {
-        aboutPopover.getView().fadeOutClose();
-    });
 
 Limitations
 -----------
