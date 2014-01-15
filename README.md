@@ -851,11 +851,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-muted
             <br />color-muted
             <br />sep-color-muted
+            <br />pg-cntl-color-muted
         </td>
         <td>'999999'</td>
         <td>bg-primary
             <br />color-primary
             <br />sep-color-primary
+            <br />pg-cntl-color-primary
         </td>
         <td>'428bca'</td>
     </tr>
@@ -864,11 +866,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-warning
             <br />color-warning
             <br />sep-color-warning
+            <br />pg-cntl-color-warning
         </td>
         <td>'c09853'</td>
         <td>bg-danger
             <br />color-danger
             <br />sep-color-danger
+            <br />pg-cntl-color-danger
         </td>
         <td>'b94a48'</td>
     </tr>
@@ -877,11 +881,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-success
             <br />color-success
             <br />sep-color-success
+            <br />pg-cntl-color-success
         </td>
         <td>'468847'</td>
         <td>bg-info
             <br />color-info
             <br />sep-color-info
+            <br />pg-cntl-color-info
         </td>
         <td>'3a87ad'</td>
     </tr>
@@ -890,11 +896,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-transparent
             <br />color-transparent
             <br />sep-color-transparent
+            <br />pg-cntl-color-transparent
         </td>
         <td>'transparent'</td>
         <td>bg-aliceblue
             <br />color-aliceblue
             <br />sep-color-aliceblue
+            <br />pg-cntl-color-aliceblue
         </td>
         <td>'F0F8FF'</td>
     </tr>
@@ -903,11 +911,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-antiquewhite
             <br />color-antiquewhite
             <br />sep-color-antiquewhite
+            <br />pg-cntl-color-antiquewhite
         </td>
         <td>'FAEBD7'</td>
         <td>bg-aqua
             <br />color-aqua
             <br />sep-color-aqua
+            <br />pg-cntl-color-aqua
         </td>
         <td>'00FFFF'</td>
     </tr>
@@ -916,11 +926,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-aquamarine
             <br />color-aquamarine
             <br />sep-color-aquamarine
+            <br />pg-cntl-color-aquamarine
         </td>
         <td>'7FFFD4'</td>
         <td>bg-azure
             <br />color-azure
             <br />sep-color-azure
+            <br />pg-cntl-color-azure
         </td>
         <td>'F0FFFF'</td>
     </tr>
@@ -929,11 +941,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-beige
             <br />color-beige
             <br />sep-color-beige
+            <br />pg-cntl-color-beige
         </td>
         <td>'F5F5DC'</td>
         <td>bg-bisque
             <br />color-bisque
             <br />sep-color-bisque
+            <br />pg-cntl-color-bisque
         </td>
         <td>'FFE4C4'</td>
     </tr>
@@ -942,11 +956,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-black
             <br />color-black
             <br />sep-color-black
+            <br />pg-cntl-color-black
         </td>
         <td>'000000'</td>
         <td>bg-blanchedalmond
             <br />color-blanchedalmond
             <br />sep-color-blanchedalmond
+            <br />pg-cntl-color-blanchedalmond
         </td>
         <td>'FFEBCD'</td>
     </tr>
@@ -955,11 +971,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-blue
             <br />color-blue
             <br />sep-color-blue
+            <br />pg-cntl-color-blue
         </td>
         <td>'0000FF'</td>
         <td>bg-blueviolet
             <br />color-blueviolet
             <br />sep-color-blueviolet
+            <br />pg-cntl-color-blueviolet
         </td>
         <td>'8A2BE2'</td>
     </tr>
@@ -968,11 +986,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-brown
             <br />color-brown
             <br />sep-color-brown
+            <br />pg-cntl-color-brown
         </td>
         <td>'A52A2A'</td>
         <td>bg-burlywood
             <br />color-burlywood
             <br />sep-color-burlywood
+            <br />pg-cntl-color-burlywood
         </td>
         <td>'DEB887'</td>
     </tr>
@@ -981,11 +1001,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-cadetblue
             <br />color-cadetblue
             <br />sep-color-cadetblue
+            <br />pg-cntl-color-cadetblue
         </td>
         <td>'5F9EA0'</td>
         <td>bg-chartreuse
             <br />color-chartreuse
             <br />sep-color-chartreuse
+            <br />pg-cntl-color-chartreuse
         </td>
         <td>'7FFF00'</td>
     </tr>
@@ -994,11 +1016,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-chocolate
             <br />color-chocolate
             <br />sep-color-chocolate
+            <br />pg-cntl-color-chocolate
         </td>
         <td>'D2691E'</td>
         <td>bg-coral
             <br />color-coral
             <br />sep-color-coral
+            <br />pg-cntl-color-coral
         </td>
         <td>'FF7F50'</td>
     </tr>
@@ -1007,11 +1031,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-cornflowerblue
             <br />color-cornflowerblue
             <br />sep-color-cornflowerblue
+            <br />pg-cntl-color-cornflowerblue
         </td>
         <td>'6495ED'</td>
         <td>bg-cornsilk
             <br />color-cornsilk
             <br />sep-color-cornsilk
+            <br />pg-cntl-color-cornsilk
         </td>
         <td>'FFF8DC'</td>
     </tr>
@@ -1020,11 +1046,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-crimson
             <br />color-crimson
             <br />sep-color-crimson
+            <br />pg-cntl-color-crimson
         </td>
         <td>'DC143C'</td>
         <td>bg-cyan
             <br />color-cyan
             <br />sep-color-cyan
+            <br />pg-cntl-color-cyan
         </td>
         <td>'00FFFF'</td>
     </tr>
@@ -1033,11 +1061,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-darkblue
             <br />color-darkblue
             <br />sep-color-darkblue
+            <br />pg-cntl-color-darkblue
         </td>
         <td>'00008B'</td>
         <td>bg-darkcyan
             <br />color-darkcyan
             <br />sep-color-darkcyan
+            <br />pg-cntl-color-darkcyan
         </td>
         <td>'008B8B'</td>
     </tr>
@@ -1046,11 +1076,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-darkgoldenrod
             <br />color-darkgoldenrod
             <br />sep-color-darkgoldenrod
+            <br />pg-cntl-color-darkgoldenrod
         </td>
         <td>'B8860B'</td>
         <td>bg-darkgray
             <br />color-darkgray
             <br />sep-color-darkgray
+            <br />pg-cntl-color-darkgray
         </td>
         <td>'A9A9A9'</td>
     </tr>
@@ -1059,11 +1091,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-darkgreen
             <br />color-darkgreen
             <br />sep-color-darkgreen
+            <br />pg-cntl-color-darkgreen
         </td>
         <td>'006400'</td>
         <td>bg-darkkhaki
             <br />color-darkkhaki
             <br />sep-color-darkkhaki
+            <br />pg-cntl-color-darkkhaki
         </td>
         <td>'BDB76B'</td>
     </tr>
@@ -1072,11 +1106,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-darkmagenta
             <br />color-darkmagenta
             <br />sep-color-darkmagenta
+            <br />pg-cntl-color-darkmagenta
         </td>
         <td>'8B008B'</td>
         <td>bg-darkolivegreen
             <br />color-darkolivegreen
             <br />sep-color-darkolivegreen
+            <br />pg-cntl-color-darkolivegreen
         </td>
         <td>'556B2F'</td>
     </tr>
@@ -1085,11 +1121,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-darkorange
             <br />color-darkorange
             <br />sep-color-darkorange
+            <br />pg-cntl-color-darkorange
         </td>
         <td>'FF8C00'</td>
         <td>bg-darkorchid
             <br />color-darkorchid
             <br />sep-color-darkorchid
+            <br />pg-cntl-color-darkorchid
         </td>
         <td>'9932CC'</td>
     </tr>
@@ -1098,11 +1136,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-darkred
             <br />color-darkred
             <br />sep-color-darkred
+            <br />pg-cntl-color-darkred
         </td>
         <td>'8B0000'</td>
         <td>bg-darksalmon
             <br />color-darksalmon
             <br />sep-color-darksalmon
+            <br />pg-cntl-color-darksalmon
         </td>
         <td>'E9967A'</td>
     </tr>
@@ -1111,11 +1151,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-darkseagreen
             <br />color-darkseagreen
             <br />sep-color-darkseagreen
+            <br />pg-cntl-color-darkseagreen
         </td>
         <td>'8FBC8F'</td>
         <td>bg-darkslateblue
             <br />color-darkslateblue
             <br />sep-color-darkslateblue
+            <br />pg-cntl-color-darkslateblue
         </td>
         <td>'483D8B'</td>
     </tr>
@@ -1124,11 +1166,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-darkslategray
             <br />color-darkslategray
             <br />sep-color-darkslategray
+            <br />pg-cntl-color-darkslategray
         </td>
         <td>'2F4F4F'</td>
         <td>bg-darkturquoise
             <br />color-darkturquoise
             <br />sep-color-darkturquoise
+            <br />pg-cntl-color-darkturquoise
         </td>
         <td>'00CED1'</td>
     </tr>
@@ -1137,11 +1181,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-darkviolet
             <br />color-darkviolet
             <br />sep-color-darkviolet
+            <br />pg-cntl-color-darkviolet
         </td>
         <td>'9400D3'</td>
         <td>bg-deeppink
             <br />color-deeppink
             <br />sep-color-deeppink
+            <br />pg-cntl-color-deeppink
         </td>
         <td>'FF1493'</td>
     </tr>
@@ -1150,11 +1196,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-deepskyblue
             <br />color-deepskyblue
             <br />sep-color-deepskyblue
+            <br />pg-cntl-color-deepskyblue
         </td>
         <td>'00BFFF'</td>
         <td>bg-dimgray
             <br />color-dimgray
             <br />sep-color-dimgray
+            <br />pg-cntl-color-dimgray
         </td>
         <td>'696969'</td>
     </tr>
@@ -1163,11 +1211,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-dodgerblue
             <br />color-dodgerblue
             <br />sep-color-dodgerblue
+            <br />pg-cntl-color-dodgerblue
         </td>
         <td>'1E90FF'</td>
         <td>bg-firebrick
             <br />color-firebrick
             <br />sep-color-firebrick
+            <br />pg-cntl-color-firebrick
         </td>
         <td>'B22222'</td>
     </tr>
@@ -1176,11 +1226,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-floralwhite
             <br />color-floralwhite
             <br />sep-color-floralwhite
+            <br />pg-cntl-color-floralwhite
         </td>
         <td>'FFFAF0'</td>
         <td>bg-forestgreen
             <br />color-forestgreen
             <br />sep-color-forestgreen
+            <br />pg-cntl-color-forestgreen
         </td>
         <td>'228B22'</td>
     </tr>
@@ -1189,11 +1241,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-fuchsia
             <br />color-fuchsia
             <br />sep-color-fuchsia
+            <br />pg-cntl-color-fuchsia
         </td>
         <td>'FF00FF'</td>
         <td>bg-gainsboro
             <br />color-gainsboro
             <br />sep-color-gainsboro
+            <br />pg-cntl-color-gainsboro
         </td>
         <td>'DCDCDC'</td>
     </tr>
@@ -1202,11 +1256,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-ghostwhite
             <br />color-ghostwhite
             <br />sep-color-ghostwhite
+            <br />pg-cntl-color-ghostwhite
         </td>
         <td>'F8F8FF'</td>
         <td>bg-gold
             <br />color-gold
             <br />sep-color-gold
+            <br />pg-cntl-color-gold
         </td>
         <td>'FFD700'</td>
     </tr>
@@ -1215,11 +1271,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-goldenrod
             <br />color-goldenrod
             <br />sep-color-goldenrod
+            <br />pg-cntl-color-goldenrod
         </td>
         <td>'DAA520'</td>
         <td>bg-gray
             <br />color-gray
             <br />sep-color-gray
+            <br />pg-cntl-color-gray
         </td>
         <td>'808080'</td>
     </tr>
@@ -1228,11 +1286,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-green
             <br />color-green
             <br />sep-color-green
+            <br />pg-cntl-color-green
         </td>
         <td>'008000'</td>
         <td>bg-greenyellow
             <br />color-greenyellow
             <br />sep-color-greenyellow
+            <br />pg-cntl-color-greenyellow
         </td>
         <td>'ADFF2F'</td>
     </tr>
@@ -1241,11 +1301,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-honeydew
             <br />color-honeydew
             <br />sep-color-honeydew
+            <br />pg-cntl-color-honeydew
         </td>
         <td>'F0FFF0'</td>
         <td>bg-hotpink
             <br />color-hotpink
             <br />sep-color-hotpink
+            <br />pg-cntl-color-hotpink
         </td>
         <td>'FF69B4'</td>
     </tr>
@@ -1254,11 +1316,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-indianred
             <br />color-indianred
             <br />sep-color-indianred
+            <br />pg-cntl-color-indianred
         </td>
         <td>'CD5C5C'</td>
         <td>bg-indigo
             <br />color-indigo
             <br />sep-color-indigo
+            <br />pg-cntl-color-indigo
         </td>
         <td>'4B0082'</td>
     </tr>
@@ -1267,11 +1331,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-ivory
             <br />color-ivory
             <br />sep-color-ivory
+            <br />pg-cntl-color-ivory
         </td>
         <td>'FFFFF0'</td>
         <td>bg-khaki
             <br />color-khaki
             <br />sep-color-khaki
+            <br />pg-cntl-color-khaki
         </td>
         <td>'F0E68C'</td>
     </tr>
@@ -1280,11 +1346,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-lavender
             <br />color-lavender
             <br />sep-color-lavender
+            <br />pg-cntl-color-lavender
         </td>
         <td>'E6E6FA'</td>
         <td>bg-lavenderblush
             <br />color-lavenderblush
             <br />sep-color-lavenderblush
+            <br />pg-cntl-color-lavenderblush
         </td>
         <td>'FFF0F5'</td>
     </tr>
@@ -1293,11 +1361,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-lawngreen
             <br />color-lawngreen
             <br />sep-color-lawngreen
+            <br />pg-cntl-color-lawngreen
         </td>
         <td>'7CFC00'</td>
         <td>bg-lemonchiffon
             <br />color-lemonchiffon
             <br />sep-color-lemonchiffon
+            <br />pg-cntl-color-lemonchiffon
         </td>
         <td>'FFFACD'</td>
     </tr>
@@ -1306,11 +1376,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-lightblue
             <br />color-lightblue
             <br />sep-color-lightblue
+            <br />pg-cntl-color-lightblue
         </td>
         <td>'ADD8E6'</td>
         <td>bg-lightcoral
             <br />color-lightcoral
             <br />sep-color-lightcoral
+            <br />pg-cntl-color-lightcoral
         </td>
         <td>'F08080'</td>
     </tr>
@@ -1319,11 +1391,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-lightcyan
             <br />color-lightcyan
             <br />sep-color-lightcyan
+            <br />pg-cntl-color-lightcyan
         </td>
         <td>'E0FFFF'</td>
         <td>bg-lightgoldenrodyellow
             <br />color-lightgoldenrodyellow
             <br />sep-color-lightgoldenrodyellow
+            <br />pg-cntl-color-lightgoldenrodyellow
         </td>
         <td>'FAFAD2'</td>
     </tr>
@@ -1332,11 +1406,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-lightgray
             <br />color-lightgray
             <br />sep-color-lightgray
+            <br />pg-cntl-color-lightgray
         </td>
         <td>'D3D3D3'</td>
         <td>bg-lightgreen
             <br />color-lightgreen
             <br />sep-color-lightgreen
+            <br />pg-cntl-color-lightgreen
         </td>
         <td>'90EE90'</td>
     </tr>
@@ -1345,11 +1421,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-lightpink
             <br />color-lightpink
             <br />sep-color-lightpink
+            <br />pg-cntl-color-lightpink
         </td>
         <td>'FFB6C1'</td>
         <td>bg-lightsalmon
             <br />color-lightsalmon
             <br />sep-color-lightsalmon
+            <br />pg-cntl-color-lightsalmon
         </td>
         <td>'FFA07A'</td>
     </tr>
@@ -1358,11 +1436,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-lightseagreen
             <br />color-lightseagreen
             <br />sep-color-lightseagreen
+            <br />pg-cntl-color-lightseagreen
         </td>
         <td>'20B2AA'</td>
         <td>bg-lightskyblue
             <br />color-lightskyblue
             <br />sep-color-lightskyblue
+            <br />pg-cntl-color-lightskyblue
         </td>
         <td>'87CEFA'</td>
     </tr>
@@ -1371,11 +1451,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-lightslategray
             <br />color-lightslategray
             <br />sep-color-lightslategray
+            <br />pg-cntl-color-lightslategray
         </td>
         <td>'778899'</td>
         <td>bg-lightsteelblue
             <br />color-lightsteelblue
             <br />sep-color-lightsteelblue
+            <br />pg-cntl-color-lightsteelblue
         </td>
         <td>'B0C4DE'</td>
     </tr>
@@ -1384,11 +1466,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-lightyellow
             <br />color-lightyellow
             <br />sep-color-lightyellow
+            <br />pg-cntl-color-lightyellow
         </td>
         <td>'FFFFE0'</td>
         <td>bg-lime
             <br />color-lime
             <br />sep-color-lime
+            <br />pg-cntl-color-lime
         </td>
         <td>'00FF00'</td>
     </tr>
@@ -1397,11 +1481,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-limegreen
             <br />color-limegreen
             <br />sep-color-limegreen
+            <br />pg-cntl-color-limegreen
         </td>
         <td>'32CD32'</td>
         <td>bg-linen
             <br />color-linen
             <br />sep-color-linen
+            <br />pg-cntl-color-linen
         </td>
         <td>'FAF0E6'</td>
     </tr>
@@ -1410,11 +1496,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-magenta
             <br />color-magenta
             <br />sep-color-magenta
+            <br />pg-cntl-color-magenta
         </td>
         <td>'FF00FF'</td>
         <td>bg-maroon
             <br />color-maroon
             <br />sep-color-maroon
+            <br />pg-cntl-color-maroon
         </td>
         <td>'800000'</td>
     </tr>
@@ -1423,11 +1511,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-mediumaquamarine
             <br />color-mediumaquamarine
             <br />sep-color-mediumaquamarine
+            <br />pg-cntl-color-mediumaquamarine
         </td>
         <td>'66CDAA'</td>
         <td>bg-mediumblue
             <br />color-mediumblue
             <br />sep-color-mediumblue
+            <br />pg-cntl-color-mediumblue
         </td>
         <td>'0000CD'</td>
     </tr>
@@ -1436,11 +1526,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-mediumorchid
             <br />color-mediumorchid
             <br />sep-color-mediumorchid
+            <br />pg-cntl-color-mediumorchid
         </td>
         <td>'BA55D3'</td>
         <td>bg-mediumpurple
             <br />color-mediumpurple
             <br />sep-color-mediumpurple
+            <br />pg-cntl-color-mediumpurple
         </td>
         <td>'9370DB'</td>
     </tr>
@@ -1449,11 +1541,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-mediumseagreen
             <br />color-mediumseagreen
             <br />sep-color-mediumseagreen
+            <br />pg-cntl-color-mediumseagreen
         </td>
         <td>'3CB371'</td>
         <td>bg-mediumslateblue
             <br />color-mediumslateblue
             <br />sep-color-mediumslateblue
+            <br />pg-cntl-color-mediumslateblue
         </td>
         <td>'7B68EE'</td>
     </tr>
@@ -1462,11 +1556,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-mediumspringgreen
             <br />color-mediumspringgreen
             <br />sep-color-mediumspringgreen
+            <br />pg-cntl-color-mediumspringgreen
         </td>
         <td>'00FA9A'</td>
         <td>bg-mediumturquoise
             <br />color-mediumturquoise
             <br />sep-color-mediumturquoise
+            <br />pg-cntl-color-mediumturquoise
         </td>
         <td>'48D1CC'</td>
     </tr>
@@ -1475,11 +1571,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-mediumvioletred
             <br />color-mediumvioletred
             <br />sep-color-mediumvioletred
+            <br />pg-cntl-color-mediumvioletred
         </td>
         <td>'C71585'</td>
         <td>bg-midnightblue
             <br />color-midnightblue
             <br />sep-color-midnightblue
+            <br />pg-cntl-color-midnightblue
         </td>
         <td>'191970'</td>
     </tr>
@@ -1488,11 +1586,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-mintcream
             <br />color-mintcream
             <br />sep-color-mintcream
+            <br />pg-cntl-color-mintcream
         </td>
         <td>'F5FFFA'</td>
         <td>bg-mistyrose
             <br />color-mistyrose
             <br />sep-color-mistyrose
+            <br />pg-cntl-color-mistyrose
         </td>
         <td>'FFE4E1'</td>
     </tr>
@@ -1501,11 +1601,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-moccasin
             <br />color-moccasin
             <br />sep-color-moccasin
+            <br />pg-cntl-color-moccasin
         </td>
         <td>'FFE4B5'</td>
         <td>bg-navajowhite
             <br />color-navajowhite
             <br />sep-color-navajowhite
+            <br />pg-cntl-color-navajowhite
         </td>
         <td>'FFDEAD'</td>
     </tr>
@@ -1514,11 +1616,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-navy
             <br />color-navy
             <br />sep-color-navy
+            <br />pg-cntl-color-navy
         </td>
         <td>'000080'</td>
         <td>bg-oldlace
             <br />color-oldlace
             <br />sep-color-oldlace
+            <br />pg-cntl-color-oldlace
         </td>
         <td>'FDF5E6'</td>
     </tr>
@@ -1527,11 +1631,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-olive
             <br />color-olive
             <br />sep-color-olive
+            <br />pg-cntl-color-olive
         </td>
         <td>'808000'</td>
         <td>bg-olivedrab
             <br />color-olivedrab
             <br />sep-color-olivedrab
+            <br />pg-cntl-color-olivedrab
         </td>
         <td>'6B8E23'</td>
     </tr>
@@ -1540,11 +1646,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-orange
             <br />color-orange
             <br />sep-color-orange
+            <br />pg-cntl-color-orange
         </td>
         <td>'FFA500'</td>
         <td>bg-orangered
             <br />color-orangered
             <br />sep-color-orangered
+            <br />pg-cntl-color-orangered
         </td>
         <td>'FF4500'</td>
     </tr>
@@ -1553,11 +1661,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-orchid
             <br />color-orchid
             <br />sep-color-orchid
+            <br />pg-cntl-color-orchid
         </td>
         <td>'DA70D6'</td>
         <td>bg-palegoldenrod
             <br />color-palegoldenrod
             <br />sep-color-palegoldenrod
+            <br />pg-cntl-color-palegoldenrod
         </td>
         <td>'EEE8AA'</td>
     </tr>
@@ -1566,11 +1676,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-palegreen
             <br />color-palegreen
             <br />sep-color-palegreen
+            <br />pg-cntl-color-palegreen
         </td>
         <td>'98FB98'</td>
         <td>bg-paleturquoise
             <br />color-paleturquoise
             <br />sep-color-paleturquoise
+            <br />pg-cntl-color-paleturquoise
         </td>
         <td>'AFEEEE'</td>
     </tr>
@@ -1579,11 +1691,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-palevioletred
             <br />color-palevioletred
             <br />sep-color-palevioletred
+            <br />pg-cntl-color-palevioletred
         </td>
         <td>'DB7093'</td>
         <td>bg-papayawhip
             <br />color-papayawhip
             <br />sep-color-papayawhip
+            <br />pg-cntl-color-papayawhip
         </td>
         <td>'FFEFD5'</td>
     </tr>
@@ -1592,11 +1706,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-peachpuff
             <br />color-peachpuff
             <br />sep-color-peachpuff
+            <br />pg-cntl-color-peachpuff
         </td>
         <td>'FFDAB9'</td>
         <td>bg-peru
             <br />color-peru
             <br />sep-color-peru
+            <br />pg-cntl-color-peru
         </td>
         <td>'CD853F'</td>
     </tr>
@@ -1605,11 +1721,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-pink
             <br />color-pink
             <br />sep-color-pink
+            <br />pg-cntl-color-pink
         </td>
         <td>'FFC0CB'</td>
         <td>bg-plum
             <br />color-plum
             <br />sep-color-plum
+            <br />pg-cntl-color-plum
         </td>
         <td>'DDA0DD'</td>
     </tr>
@@ -1618,11 +1736,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-powderblue
             <br />color-powderblue
             <br />sep-color-powderblue
+            <br />pg-cntl-color-powderblue
         </td>
         <td>'B0E0E6'</td>
         <td>bg-purple
             <br />color-purple
             <br />sep-color-purple
+            <br />pg-cntl-color-purple
         </td>
         <td>'800080'</td>
     </tr>
@@ -1631,11 +1751,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-red
             <br />color-red
             <br />sep-color-red
+            <br />pg-cntl-color-red
         </td>
         <td>'FF0000'</td>
         <td>bg-rosybrown
             <br />color-rosybrown
             <br />sep-color-rosybrown
+            <br />pg-cntl-color-rosybrown
         </td>
         <td>'BC8F8F'</td>
     </tr>
@@ -1644,11 +1766,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-royalblue
             <br />color-royalblue
             <br />sep-color-royalblue
+            <br />pg-cntl-color-royalblue
         </td>
         <td>'4169E1'</td>
         <td>bg-saddlebrown
             <br />color-saddlebrown
             <br />sep-color-saddlebrown
+            <br />pg-cntl-color-saddlebrown
         </td>
         <td>'8B4513'</td>
     </tr>
@@ -1657,11 +1781,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-salmon
             <br />color-salmon
             <br />sep-color-salmon
+            <br />pg-cntl-color-salmon
         </td>
         <td>'FA8072'</td>
         <td>bg-sandybrown
             <br />color-sandybrown
             <br />sep-color-sandybrown
+            <br />pg-cntl-color-sandybrown
         </td>
         <td>'F4A460'</td>
     </tr>
@@ -1670,11 +1796,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-seagreen
             <br />color-seagreen
             <br />sep-color-seagreen
+            <br />pg-cntl-color-seagreen
         </td>
         <td>'2E8B57'</td>
         <td>bg-seashell
             <br />color-seashell
             <br />sep-color-seashell
+            <br />pg-cntl-color-seashell
         </td>
         <td>'FFF5EE'</td>
     </tr>
@@ -1683,11 +1811,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-sienna
             <br />color-sienna
             <br />sep-color-sienna
+            <br />pg-cntl-color-sienna
         </td>
         <td>'A0522D'</td>
         <td>bg-silver
             <br />color-silver
             <br />sep-color-silver
+            <br />pg-cntl-color-silver
         </td>
         <td>'C0C0C0'</td>
     </tr>
@@ -1696,11 +1826,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-skyblue
             <br />color-skyblue
             <br />sep-color-skyblue
+            <br />pg-cntl-color-skyblue
         </td>
         <td>'87CEEB'</td>
         <td>bg-slateblue
             <br />color-slateblue
             <br />sep-color-slateblue
+            <br />pg-cntl-color-slateblue
         </td>
         <td>'6A5ACD'</td>
     </tr>
@@ -1709,11 +1841,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-slategray
             <br />color-slategray
             <br />sep-color-slategray
+            <br />pg-cntl-color-slategray
         </td>
         <td>'708090'</td>
         <td>bg-snow
             <br />color-snow
             <br />sep-color-snow
+            <br />pg-cntl-color-snow
         </td>
         <td>'FFFAFA'</td>
     </tr>
@@ -1722,11 +1856,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-springgreen
             <br />color-springgreen
             <br />sep-color-springgreen
+            <br />pg-cntl-color-springgreen
         </td>
         <td>'00FF7F'</td>
         <td>bg-steelblue
             <br />color-steelblue
             <br />sep-color-steelblue
+            <br />pg-cntl-color-steelblue
         </td>
         <td>'4682B4'</td>
     </tr>
@@ -1735,11 +1871,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-tan
             <br />color-tan
             <br />sep-color-tan
+            <br />pg-cntl-color-tan
         </td>
         <td>'D2B48C'</td>
         <td>bg-teal
             <br />color-teal
             <br />sep-color-teal
+            <br />pg-cntl-color-teal
         </td>
         <td>'008080'</td>
     </tr>
@@ -1748,11 +1886,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-thistle
             <br />color-thistle
             <br />sep-color-thistle
+            <br />pg-cntl-color-thistle
         </td>
         <td>'D8BFD8'</td>
         <td>bg-tomato
             <br />color-tomato
             <br />sep-color-tomato
+            <br />pg-cntl-color-tomato
         </td>
         <td>'FF6347'</td>
     </tr>
@@ -1761,11 +1901,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-turquoise
             <br />color-turquoise
             <br />sep-color-turquoise
+            <br />pg-cntl-color-turquoise
         </td>
         <td>'40E0D0'</td>
         <td>bg-violet
             <br />color-violet
             <br />sep-color-violet
+            <br />pg-cntl-color-violet
         </td>
         <td>'EE82EE'</td>
     </tr>
@@ -1774,11 +1916,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-wheat
             <br />color-wheat
             <br />sep-color-wheat
+            <br />pg-cntl-color-wheat
         </td>
         <td>'F5DEB3'</td>
         <td>bg-white
             <br />color-white
             <br />sep-color-white
+            <br />pg-cntl-color-white
         </td>
         <td>'FFFFFF'</td>
     </tr>
@@ -1787,11 +1931,13 @@ Background, Color and Table Seperator Color TSS classes
             bg-whitesmoke
             <br />color-whitesmoke
             <br />sep-color-whitesmoke
+            <br />pg-cntl-color-whitesmoke
         </td>
         <td>'F5F5F5'</td>
         <td>bg-yellow
             <br />color-yellow
             <br />sep-color-yellow
+            <br />pg-cntl-color-yellow
         </td>
         <td>'FFFF00'</td>
     </tr>
@@ -1799,6 +1945,7 @@ Background, Color and Table Seperator Color TSS classes
         <td>bg-yellowgreen
             <br />color-yellowgreen
             <br />sep-color-yellowgreen
+            <br />pg-cntl-color-yellowgreen
         </td>
         <td>'9ACD32'</td>
     </tr>
@@ -2292,6 +2439,41 @@ See [Styles And Colors TSS Details] for table seperator colors.
     <tr>
         <td>table-disable-selection</td>
         <td>allowsSelection: false</td>
+    </tr>
+</table>
+
+### Scrollable
+The following are the TSS classes for the `ScrollableView` view.
+
+See [Styles And Colors TSS Details] for page control seperator colors.
+
+#### Scrollable TSS helper classes
+<table>
+    <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>show-page-control</td>
+        <td>showPagingControl: true</td>
+    </tr>
+    <tr>
+        <td>disable-bounce</td>
+        <td>disableBounce: true</td>
+    </tr>
+    <tr>
+        <td>overlay-enabled</td>
+        <td>overlayEnabled: true</td>
+    </tr>
+    <tr>
+        <td>paging-control-on-top</td>
+        <td>pagingControlOnTop: true</td>
+    </tr>
+    <tr>
+        <td>scrolling-enabled</td>
+        <td>scrollingEnabled: true</td>
     </tr>
 </table>
 
