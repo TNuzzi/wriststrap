@@ -5378,6 +5378,56 @@ Example Content `View`
     </View>
 
 #### Usage:
+<table>
+     <thead>
+        <tr>
+          <th>argument</th>
+          <th>required</th>
+          <th>description</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>content</td>
+        <td>yes</td>
+        <td>Takes a <code>View</code>.  Containing the content of the dialog.  The content view will be auto-centered.</td>
+    </tr>
+    <tr>
+        <td>animated</td>
+        <td>no</td>
+        <td>Takes a <code>boolean</code>.  Will drop down the dialog</td>
+    </tr>
+    <tr>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td>14</td>
+    </tr>
+    <tr>
+        <td>18</td>
+    </tr>
+    <tr>
+        <td>24</td>
+    </tr>
+    <tr>
+        <td>30</td>
+    </tr>
+    <tr>
+        <td>36</td>
+    </tr>
+    <tr>
+        <td>48</td>
+    </tr>
+    <tr>
+        <td>60</td>
+    </tr>
+    <tr>
+        <td>72</td>
+    </tr>
+</table>
+
 For animated dropdown
 
     var content = Alloy.createController("someContent");
