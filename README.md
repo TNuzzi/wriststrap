@@ -5381,6 +5381,7 @@ Example Content `View`
 <table>
      <thead>
         <tr>
+<<<<<<< HEAD
           <th>argument</th>
           <th>required</th>
           <th>description</th>
@@ -5395,6 +5396,16 @@ Example Content `View`
         <td>animated</td>
         <td>no</td>
         <td>Takes a <code>boolean</code>.  Will drop down the dialog</td>
+=======
+          <th>Font Sizes</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>8</td>
+>>>>>>> 2cc91b85ade99524f22915702a84e4e47ed4f8d0
     </tr>
     <tr>
         <td>10</td>

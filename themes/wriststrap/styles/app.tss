@@ -12443,15 +12443,12 @@
 ".pull-left":{
     left:'0dp'
 }
-
 ".pull-right":{
     right:'0dp'
 }
-
 ".lo-vertical":{
     layout: "vertical"
 }
-
 ".lo-horizontal":{
     layout: "horizontal"
 }
@@ -12942,7 +12939,6 @@
 ".sep-color-yellowgreen":{
     separatorColor: '9ACD32'
 }
-
 ".cell-select-style-blue":{
     selectionStyle: Titanium.UI.iPhone.TableViewCellSelectionStyle.BLUE
 }
@@ -12951,6 +12947,466 @@
 }
 ".cell-select-style-none":{
     selectionStyle: Titanium.UI.iPhone.TableViewCellSelectionStyle.NONE
+}
+
+// Scrollable
+".show-page-control":{
+    showPagingControl: true
+}
+".disable-bounce": {
+    disableBounce: true
+}
+".overlay-enabled": {
+    overlayEnabled: true
+}
+".paging-control-on-top": {
+    pagingControlOnTop: true
+}
+".scrolling-enabled": {
+    scrollingEnabled: true
+}
+
+// Scrollable Paging control color
+".pg-cntl-color-transperent": {
+  pagingControlColor: "transparent"
+}
+".pg-cntl-color-muted": {
+  pagingControlColor: "999999"
+}
+".pg-cntl-color-primary": {
+  pagingControlColor: "428bca"
+}
+".pg-cntl-color-warning": {
+  pagingControlColor: "c09853"
+}
+".pg-cntl-color-danger": {
+  pagingControlColor: "b94a48"
+}
+".pg-cntl-color-success": {
+  pagingControlColor: "468847"
+}
+".pg-cntl-color-info": {
+  pagingControlColor: "3a87ad"
+}
+".pg-cntl-color-aliceblue":{
+    pagingControlColor: 'F0F8FF'
+}
+".pg-cntl-color-antiquewhite":{
+    pagingControlColor: 'FAEBD7'
+}
+".pg-cntl-color-aqua":{
+    pagingControlColor: '00FFFF'
+}
+".pg-cntl-color-aquamarine":{
+    pagingControlColor: '7FFFD4'
+}
+".pg-cntl-color-azure":{
+    pagingControlColor: 'F0FFFF'
+}
+".pg-cntl-color-beige":{
+    pagingControlColor: 'F5F5DC'
+}
+".pg-cntl-color-bisque":{
+    pagingControlColor: 'FFE4C4'
+}
+".pg-cntl-color-black":{
+    pagingControlColor: '000000'
+}
+".pg-cntl-color-blanchedalmond":{
+    pagingControlColor: 'FFEBCD'
+}
+".pg-cntl-color-blue":{
+    pagingControlColor: '0000FF'
+}
+".pg-cntl-color-blueviolet":{
+    pagingControlColor: '8A2BE2'
+}
+".pg-cntl-color-brown":{
+    pagingControlColor: 'A52A2A'
+}
+".pg-cntl-color-burlywood":{
+    pagingControlColor: 'DEB887'
+}
+".pg-cntl-color-cadetblue":{
+    pagingControlColor: '5F9EA0'
+}
+".pg-cntl-color-chartreuse":{
+    pagingControlColor: '7FFF00'
+}
+".pg-cntl-color-chocolate":{
+    pagingControlColor: 'D2691E'
+}
+".pg-cntl-color-coral":{
+    pagingControlColor: 'FF7F50'
+}
+".pg-cntl-color-cornflowerblue":{
+    pagingControlColor: '6495ED'
+}
+".pg-cntl-color-cornsilk":{
+    pagingControlColor: 'FFF8DC'
+}
+".pg-cntl-color-crimson":{
+    pagingControlColor: 'DC143C'
+}
+".pg-cntl-color-cyan":{
+    pagingControlColor: '00FFFF'
+}
+".pg-cntl-color-darkblue":{
+    pagingControlColor: '00008B'
+}
+".pg-cntl-color-darkcyan":{
+    pagingControlColor: '008B8B'
+}
+".pg-cntl-color-darkgoldenrod":{
+    pagingControlColor: 'B8860B'
+}
+".pg-cntl-color-darkgray":{
+    pagingControlColor: 'A9A9A9'
+}
+".pg-cntl-color-darkgreen":{
+    pagingControlColor: '006400'
+}
+".pg-cntl-color-darkkhaki":{
+    pagingControlColor: 'BDB76B'
+}
+".pg-cntl-color-darkmagenta":{
+    pagingControlColor: '8B008B'
+}
+".pg-cntl-color-darkolivegreen":{
+    pagingControlColor: '556B2F'
+}
+".pg-cntl-color-darkorange":{
+    pagingControlColor: 'FF8C00'
+}
+".pg-cntl-color-darkorchid":{
+    pagingControlColor: '9932CC'
+}
+".pg-cntl-color-darkred":{
+    pagingControlColor: '8B0000'
+}
+".pg-cntl-color-darksalmon":{
+    pagingControlColor: 'E9967A'
+}
+".pg-cntl-color-darkseagreen":{
+    pagingControlColor: '8FBC8F'
+}
+".pg-cntl-color-darkslateblue":{
+    pagingControlColor: '483D8B'
+}
+".pg-cntl-color-darkslategray":{
+    pagingControlColor: '2F4F4F'
+}
+".pg-cntl-color-darkturquoise":{
+    pagingControlColor: '00CED1'
+}
+".pg-cntl-color-darkviolet":{
+    pagingControlColor: '9400D3'
+}
+".pg-cntl-color-deeppink":{
+    pagingControlColor: 'FF1493'
+}
+".pg-cntl-color-deepskyblue":{
+    pagingControlColor: '00BFFF'
+}
+".pg-cntl-color-dimgray":{
+    pagingControlColor: '696969'
+}
+".pg-cntl-color-dodgerblue":{
+    pagingControlColor: '1E90FF'
+}
+".pg-cntl-color-firebrick":{
+    pagingControlColor: 'B22222'
+}
+".pg-cntl-color-floralwhite":{
+    pagingControlColor: 'FFFAF0'
+}
+".pg-cntl-color-forestgreen":{
+    pagingControlColor: '228B22'
+}
+".pg-cntl-color-fuchsia":{
+    pagingControlColor: 'FF00FF'
+}
+".pg-cntl-color-gainsboro":{
+    pagingControlColor: 'DCDCDC'
+}
+".pg-cntl-color-ghostwhite":{
+    pagingControlColor: 'F8F8FF'
+}
+".pg-cntl-color-gold":{
+    pagingControlColor: 'FFD700'
+}
+".pg-cntl-color-goldenrod":{
+    pagingControlColor: 'DAA520'
+}
+".pg-cntl-color-gray":{
+    pagingControlColor: '808080'
+}
+".pg-cntl-color-green":{
+    pagingControlColor: '008000'
+}
+".pg-cntl-color-greenyellow":{
+    pagingControlColor: 'ADFF2F'
+}
+".pg-cntl-color-honeydew":{
+    pagingControlColor: 'F0FFF0'
+}
+".pg-cntl-color-hotpink":{
+    pagingControlColor: 'FF69B4'
+}
+".pg-cntl-color-indianred":{
+    pagingControlColor: 'CD5C5C'
+}
+".pg-cntl-color-indigo":{
+    pagingControlColor: '4B0082'
+}
+".pg-cntl-color-ivory":{
+    pagingControlColor: 'FFFFF0'
+}
+".pg-cntl-color-khaki":{
+    pagingControlColor: 'F0E68C'
+}
+".pg-cntl-color-lavender":{
+    pagingControlColor: 'E6E6FA'
+}
+".pg-cntl-color-lavenderblush":{
+    pagingControlColor: 'FFF0F5'
+}
+".pg-cntl-color-lawngreen":{
+    pagingControlColor: '7CFC00'
+}
+".pg-cntl-color-lemonchiffon":{
+    pagingControlColor: 'FFFACD'
+}
+".pg-cntl-color-lightblue":{
+    pagingControlColor: 'ADD8E6'
+}
+".pg-cntl-color-lightcoral":{
+    pagingControlColor: 'F08080'
+}
+".pg-cntl-color-lightcyan":{
+    pagingControlColor: 'E0FFFF'
+}
+".pg-cntl-color-lightgoldenrodyellow":{
+    pagingControlColor: 'FAFAD2'
+}
+".pg-cntl-color-lightgray":{
+    pagingControlColor: 'D3D3D3'
+}
+".pg-cntl-color-lightgreen":{
+    pagingControlColor: '90EE90'
+}
+".pg-cntl-color-lightpink":{
+    pagingControlColor: 'FFB6C1'
+}
+".pg-cntl-color-lightsalmon":{
+    pagingControlColor: 'FFA07A'
+}
+".pg-cntl-color-lightseagreen":{
+    pagingControlColor: '20B2AA'
+}
+".pg-cntl-color-lightskyblue":{
+    pagingControlColor: '87CEFA'
+}
+".pg-cntl-color-lightslategray":{
+    pagingControlColor: '778899'
+}
+".pg-cntl-color-lightsteelblue":{
+    pagingControlColor: 'B0C4DE'
+}
+".pg-cntl-color-lightyellow":{
+    pagingControlColor: 'FFFFE0'
+}
+".pg-cntl-color-lime":{
+    pagingControlColor: '00FF00'
+}
+".pg-cntl-color-limegreen":{
+    pagingControlColor: '32CD32'
+}
+".pg-cntl-color-linen":{
+    pagingControlColor: 'FAF0E6'
+}
+".pg-cntl-color-magenta":{
+    pagingControlColor: 'FF00FF'
+}
+".pg-cntl-color-maroon":{
+    pagingControlColor: '800000'
+}
+".pg-cntl-color-mediumaquamarine":{
+    pagingControlColor: '66CDAA'
+}
+".pg-cntl-color-mediumblue":{
+    pagingControlColor: '0000CD'
+}
+".pg-cntl-color-mediumorchid":{
+    pagingControlColor: 'BA55D3'
+}
+".pg-cntl-color-mediumpurple":{
+    pagingControlColor: '9370DB'
+}
+".pg-cntl-color-mediumseagreen":{
+    pagingControlColor: '3CB371'
+}
+".pg-cntl-color-mediumslateblue":{
+    pagingControlColor: '7B68EE'
+}
+".pg-cntl-color-mediumspringgreen":{
+    pagingControlColor: '00FA9A'
+}
+".pg-cntl-color-mediumturquoise":{
+    pagingControlColor: '48D1CC'
+}
+".pg-cntl-color-mediumvioletred":{
+    pagingControlColor: 'C71585'
+}
+".pg-cntl-color-midnightblue":{
+    pagingControlColor: '191970'
+}
+".pg-cntl-color-mintcream":{
+    pagingControlColor: 'F5FFFA'
+}
+".pg-cntl-color-mistyrose":{
+    pagingControlColor: 'FFE4E1'
+}
+".pg-cntl-color-moccasin":{
+    pagingControlColor: 'FFE4B5'
+}
+".pg-cntl-color-navajowhite":{
+    pagingControlColor: 'FFDEAD'
+}
+".pg-cntl-color-navy":{
+    pagingControlColor: '000080'
+}
+".pg-cntl-color-oldlace":{
+    pagingControlColor: 'FDF5E6'
+}
+".pg-cntl-color-olive":{
+    pagingControlColor: '808000'
+}
+".pg-cntl-color-olivedrab":{
+    pagingControlColor: '6B8E23'
+}
+".pg-cntl-color-orange":{
+    pagingControlColor: 'FFA500'
+}
+".pg-cntl-color-orangered":{
+    pagingControlColor: 'FF4500'
+}
+".pg-cntl-color-orchid":{
+    pagingControlColor: 'DA70D6'
+}
+".pg-cntl-color-palegoldenrod":{
+    pagingControlColor: 'EEE8AA'
+}
+".pg-cntl-color-palegreen":{
+    pagingControlColor: '98FB98'
+}
+".pg-cntl-color-paleturquoise":{
+    pagingControlColor: 'AFEEEE'
+}
+".pg-cntl-color-palevioletred":{
+    pagingControlColor: 'DB7093'
+}
+".pg-cntl-color-papayawhip":{
+    pagingControlColor: 'FFEFD5'
+}
+".pg-cntl-color-peachpuff":{
+    pagingControlColor: 'FFDAB9'
+}
+".pg-cntl-color-peru":{
+    pagingControlColor: 'CD853F'
+}
+".pg-cntl-color-pink":{
+    pagingControlColor: 'FFC0CB'
+}
+".pg-cntl-color-plum":{
+    pagingControlColor: 'DDA0DD'
+}
+".pg-cntl-color-powderblue":{
+    pagingControlColor: 'B0E0E6'
+}
+".pg-cntl-color-purple":{
+    pagingControlColor: '800080'
+}
+".pg-cntl-color-red":{
+    pagingControlColor: 'FF0000'
+}
+".pg-cntl-color-rosybrown":{
+    pagingControlColor: 'BC8F8F'
+}
+".pg-cntl-color-royalblue":{
+    pagingControlColor: '4169E1'
+}
+".pg-cntl-color-saddlebrown":{
+    pagingControlColor: '8B4513'
+}
+".pg-cntl-color-salmon":{
+    pagingControlColor: 'FA8072'
+}
+".pg-cntl-color-sandybrown":{
+    pagingControlColor: 'F4A460'
+}
+".pg-cntl-color-seagreen":{
+    pagingControlColor: '2E8B57'
+}
+".pg-cntl-color-seashell":{
+    pagingControlColor: 'FFF5EE'
+}
+".pg-cntl-color-sienna":{
+    pagingControlColor: 'A0522D'
+}
+".pg-cntl-color-silver":{
+    pagingControlColor: 'C0C0C0'
+}
+".pg-cntl-color-skyblue":{
+    pagingControlColor: '87CEEB'
+}
+".pg-cntl-color-slateblue":{
+    pagingControlColor: '6A5ACD'
+}
+".pg-cntl-color-slategray":{
+    pagingControlColor: '708090'
+}
+".pg-cntl-color-snow":{
+    pagingControlColor: 'FFFAFA'
+}
+".pg-cntl-color-springgreen":{
+    pagingControlColor: '00FF7F'
+}
+".pg-cntl-color-steelblue":{
+    pagingControlColor: '4682B4'
+}
+".pg-cntl-color-tan":{
+    pagingControlColor: 'D2B48C'
+}
+".pg-cntl-color-teal":{
+    pagingControlColor: '008080'
+}
+".pg-cntl-color-thistle":{
+    pagingControlColor: 'D8BFD8'
+}
+".pg-cntl-color-tomato":{
+    pagingControlColor: 'FF6347'
+}
+".pg-cntl-color-turquoise":{
+    pagingControlColor: '40E0D0'
+}
+".pg-cntl-color-violet":{
+    pagingControlColor: 'EE82EE'
+}
+".pg-cntl-color-wheat":{
+    pagingControlColor: 'F5DEB3'
+}
+".pg-cntl-color-white":{
+    pagingControlColor: 'FFFFFF'
+}
+".pg-cntl-color-whitesmoke":{
+    pagingControlColor: 'F5F5F5'
+}
+".pg-cntl-color-yellow":{
+    pagingControlColor: 'FFFF00'
+}
+".pg-cntl-color-yellowgreen":{
+    pagingControlColor: '9ACD32'
 }
 
 //Font
