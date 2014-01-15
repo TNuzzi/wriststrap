@@ -2545,7 +2545,10 @@ For fade in/out
     content.skip.addEventListener("click", function() {
         aboutPopover.getView().fadeOutClose();
     });
-    
+
+Appendix
+--------
+
 ### Fonts
 The default font for Wriststrap is currently "HelveticaNeue-Light".  This font is lightweight and gives the app a clean feel.  The TSS classes are available in different font sizes.
 
@@ -5609,9 +5612,6 @@ Titianium studio should look like this:
 
 Limitations
 -----------
-
-Appendix
---------
 
 Designed and built by [@nuzzis](https://twitter.com/nuzzis) with the inspiration of [bootstrap](http://www.getbootstrap.com).<br />
 Code licensed under [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0), documentation under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
