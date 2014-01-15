@@ -843,7 +843,7 @@ For transparent background use TSS classes `bg-0` (fully transparent), `bg-25` (
 
 **NOTE** MD is not allowing me to color the table cells to give a visual color with the hex number.  For now here is the TSS class name with the assigned hex numbers.
 
-Background, Color and Table Seperator Color TSS classes
+Background, Color, Table Seperator Color, and Scrollable Page Control Seperator TSS classes
 
 <table>
     <tr>
