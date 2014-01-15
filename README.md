@@ -50,6 +50,10 @@ A Twitter Bootstrap inspired framework for [Appcelerator Titanium](http://www.ap
     </tr>
 </table>
 
+Examples
+--------
+Cut and paste examples are available at the [Wriststrap Examples](https://github.com/TNuzzi/wriststrap-examples) github repo.
+
 About
 -----
 Wriststrap was born out of the need to quickly prototype and visualize mobile UI in the Appcelerator Titanium [Alloy framework](http://docs.appcelerator.com/titanium/3.0/#!/guide/Alloy_Framework).  With the creation of the Alloy, Titanium now has the ability to apply CSS class like attributes to UI elements (think HTML).  As with HTML this allow for a clean seperation from layout logic and application functionality (contained within JS files).  Wriststrap applies the same principles as Bootstrap in allowing non-visual designers (like myself) to create and layout a visually aesthetically pleasing looking mobile UI.
