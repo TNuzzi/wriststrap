@@ -5,15 +5,24 @@ for pointing me in the right direction
 
 var animation = require('alloy/animation');
 var args = arguments[0] || {};
-var tbclass = args.tbclass || '';
-var hintText = args.hintText || '';
+
+// Required for widget (specify either dataSource or set 'data' in the parent controller)
 var dataSource = args.dataSource || undefined;
-var tableHeight = args.tableHeight || '200dp';
+
+// Data array
 var suggestionData = [];
+exports.data = function(data) {
+    suggestionData = data;
+};
+
+// Optional
+var tfclass = args.tfclass || '';
+var hintText = args.hintText || '';
+var tableHeight = args.tableHeight || '200dp';
 var suggestAfter = args.suggestAfter || 0;
 
-if (tbclass !== '') {
-    $.resetClass($.autoCompleteTF, tbclass);
+if (tfclass !== '') {
+    $.resetClass($.autoCompleteTF, tfclass);
 }
 
 if (hintText !== '') {
@@ -45,10 +54,7 @@ function showSuggestions(e) {
             $.suggestions.opacity = 1;
         });
     } else if ($.autoCompleteTF.value.length <= suggestAfter && $.suggestions.opacity == 1) {
-        animation.fadeOut($.suggestions, 500, function() {
-            $.suggestions.height = '0';
-            $.suggestions.opacity = 0;
-        });
+        hideSuggestions();
     }
 
     if ($.autoCompleteTF.value.length !== 0) {
@@ -66,10 +72,6 @@ function selectSuggestions(e) {
     $.autoCompleteTF.value = e.row.suggestion;
     $.autoCompleteTF.blur();
 }
-
-exports.data = function setData(data) {
-    suggestionData = data;
-};
 
 //Returns the array which contains a match with the pattern
 function patternMatch(arrayToSearch, pattern) {
@@ -95,4 +97,11 @@ function createAutoCompleteSuggestions(searchResults) {
         tableData.push(row.getView());
     }
     $.suggestionsTable.setData(tableData);
+}
+
+function hideSuggestions() {
+    animation.fadeOut($.suggestions, 500, function() {
+            $.suggestions.height = '0';
+            $.suggestions.opacity = 0;
+        });
 }

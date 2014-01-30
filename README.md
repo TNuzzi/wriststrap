@@ -2487,6 +2487,8 @@ Widgets
 ### wriststrap.dialog
 A simple dialog widget which allow for animating a dropdown dialog.  The widget does not contain the content rather takes a `View` that has content.
 
+NOTE: At this time, this picker is not a visual widget and can't be added via the `Require` tag.
+
 ![Dialog](http://tnuzzi.github.io/wriststrap/imgs/dialog-widget.png "Dialog")
 
 Example Content `View`
@@ -2552,6 +2554,8 @@ For fade in/out
 
 ### wriststrap.picker
 A simple picker widget which had animated show and hide (slide up and down from the bottom of the screen).  The widget takes a data array as input.  
+
+NOTE: At this time, this picker is not a visual widget and can't be added via the `Require` tag.
 
 ![Picker](http://tnuzzi.github.io/wriststrap/imgs/picker-widget-1.png "Picker")
 ![Picker](http://tnuzzi.github.io/wriststrap/imgs/picker-widget-2.png "Picker")
@@ -2628,6 +2632,91 @@ In index.xml
             </View>
         </Window>
     </Alloy>
+
+### wriststrap.autocomplete
+A widget that couples a `TextField` and `Table` to show 'type ahead' content as the user types.
+
+![Autocomplete](http://tnuzzi.github.io/wriststrap/imgs/autocomplete-widget-1.png "Autocomplete")
+![Autocomplete](http://tnuzzi.github.io/wriststrap/imgs/autocomplete-widget-2.png "Autocomplete")
+
+#### Usage:
+Use the `Require` tag to add the auto-complete `TextField` to your `View`.  By default, it contains a view with `col-4` set to the outer `View`. This means it can be added directly to a `View` with `container` set in the class attribute.  Use one of two methods to populate the auto-complete array (both can't be used at the same time).  
+
+<table>
+     <thead>
+        <tr>
+          <th>argument</th>
+          <th>required</th>
+          <th>description</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>data()</td>
+        <td>yes</td>
+        <td>Use the <code>data</code> function to set an array which will contain the auto-complete suggestions.  Call this function in the parent controller (see example below).</td>
+    </tr>
+    <tr>
+        <td>dataSource</td>
+        <td>yes</td>
+        <td>Use the <code>dataSource</code> argument on the <code>Require</code> tag to pass a URL to retrieve the Javascript array that contains the auto-complete suggestions.  NOTE: The widget will attempt to prefetch the array once the widget is initalized.</td>
+    </tr>
+    <tr>
+        <td>tfclass</td>
+        <td>no</td>
+        <td>Use this argument to change the display of the TextField.  You can use any TSS classes.  Default classes used are: <code>input-border-rounded input-tf input-bm-always input-enable-return-key input-autocorrect-disabled input-text-ac-none bg-transparent t-0</code></td>
+    </tr>
+    <tr>
+        <td>hintText</td>
+        <td>no</td>
+        <td>Sets the <code>hintText</code> of the <code>TextField</code></td>
+    </tr>
+    <tr>
+        <td>tableHeight</td>
+        <td>no</td>
+        <td>Set the auto-complete suggestion table height.  Default height is <code>200dp</code></td>
+    </tr>
+    <tr>
+        <td>suggestAfter</td>
+        <td>no</td>
+        <td>Use this argument to control when the auto-complete suggestion table is displayed after N number of letters are entered in the <code>TextField</code>.  Default is 0</td>
+    </tr>
+</table>
+
+Example of usage using the `data` function to populate the auto-complete array:
+
+In index.xml
+
+    <Alloy>
+        <Window class="lo-composite bg-lightblue">
+            <View class="container t-20">
+                 <Require src="wriststrap.autocomplete" type="widget" id="autocomplete"/>
+            </View>
+        </Window>
+    </Alloy>
+
+In index.js
+    ...
+    stuff
+
+    $.autocomplete.data(["apple", "apple1", "apple2", "apple3", "apple4", "apple5", "orange", "orange1", "orange2", "orange3", "orange4", "orange5", "mango", "mango1", "mango2" ]);
+
+    stuff
+    ...
+
+Example of usage using the `dataSource` argument to populate the auto-complete array:
+
+NOTE: No further code is needed in index.js
+
+In index.xml
+
+    <Alloy>
+        <Window class="lo-composite bg-lightblue">
+            <View class="container t-20">
+                 <Require src="wriststrap.autocomplete" type="widget" dataSource="http://www.somedomain.com/api/autocomplete" id="autocomplete"/>
+            </View>
+        </Window>
+    </Alloy>
+
 
 Appendix
 --------
