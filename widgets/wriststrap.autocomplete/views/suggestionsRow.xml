@@ -1,0 +1,7 @@
+<Alloy>
+    <TableViewRow class="bg-transparent">
+        <View class="container bg-transparent">
+            <Label id="suggestion" />
+        </View>
+    </TableViewRow>
+</Alloy>

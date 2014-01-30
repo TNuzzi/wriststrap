@@ -1,0 +1,13 @@
+{
+	"id": "wriststrap.autocomplete",
+	"name": "wriststrap.autocomplete",
+	"description" : "A textbox with an associated table to show autocomplete suggestions.",
+	"author": "Tony Nuzzi",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2013-2014",
+	"license":"Apache License v2.0",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"wriststrap, textbox autocomplete",
+	"platforms":"ios"
+}

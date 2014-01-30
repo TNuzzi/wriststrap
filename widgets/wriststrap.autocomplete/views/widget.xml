@@ -1,0 +1,14 @@
+<Alloy>
+    <View class="col-4">
+        <TextField id="autoCompleteTF" class="input-border-rounded 
+                          input-tf 
+                          input-bm-always 
+                          input-enable-return-key 
+                          input-autocorrect-disabled 
+                          bg-transparent t-0" width="100%" onChange="showSuggestions" />
+        <View id="suggestions" class="bg-muted rounded-border-4 h-0 t-0" opacity="0">
+            <Label id="suggestionHeader" class="w-90% text-right color-white" />
+            <TableView id="suggestionsTable" class="w-100% h-fill" maxRowHeight="35dp" minRowHeight="35dp" onClick="selectSuggestions" backgroundColor="#EFEFEF" />
+        </View>
+    </View>
+</Alloy>
