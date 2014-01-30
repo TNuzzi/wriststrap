@@ -2557,7 +2557,7 @@ A simple picker widget which had animated show and hide (slide up and down from 
 ![Picker](http://tnuzzi.github.io/wriststrap/imgs/picker-widget-2.png "Picker")
 
 #### Usage:
-The wriststrap.picker is added to base window where the layout must be `lo-composite`.
+The wriststrap.picker is added to the base `Window` where the layout must be `lo-composite`.
 
     <Window class="lo-composite">
     ... stuff
@@ -2620,6 +2620,7 @@ In index.js
     }
 
 In index.xml
+
     <Alloy>
         <Window class="lo-composite bg-lightblue">
             <View class="t-20 w-100% h-40">
