@@ -2550,6 +2550,84 @@ For fade in/out
         aboutPopover.getView().fadeOutClose();
     });
 
+### wriststrap.picker
+A simple picker widget which had animated show and hide (slide up and down from the bottom of the screen).  The widget takes a data array as input.  
+
+![Picker](http://tnuzzi.github.io/wriststrap/imgs/picker-widget-1.png "Picker")
+![Picker](http://tnuzzi.github.io/wriststrap/imgs/picker-widget-2.png "Picker")
+
+#### Usage:
+The wriststrap.picker is added to base window where the layout must be `lo-composite`.
+
+    <Window class="lo-composite">
+    ... stuff
+    </Window>
+
+<table>
+     <thead>
+        <tr>
+          <th>argument</th>
+          <th>required</th>
+          <th>description</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>data</td>
+        <td>yes</td>
+        <td>Takes an JSON array (or array of arrays) of items that will be displayed in the picker.  The contents of the array will be a JSON object that will contain 2 properties.  A <code>title</code> and a <code>id</code>.  The title will be displayed when the picker is shown and the id is passed to the onDone function for which item was picked.</td>
+    </tr>
+    <tr>
+        <td>onDone</td>
+        <td>yes</td>
+        <td>A callback function will be be called when the <code>done</code> button is pressed on the picker.  The value return to the <code>onDone</code> callback is an array of values selected.  If the picker has multiple columns the array index correlates to the column.</td>
+    </tr>
+    <tr>
+        <td>showPicker()</td>
+        <td>yes</td>
+        <td>This function is used to display the picker.  It is called in the controller where it is attached to the <code>Window</code></td>
+    </tr>
+</table>
+
+Example of usage:
+
+In index.js
+
+    var picker = Alloy.createWidget("wriststrap.picker", "widget", {
+        data: [[{
+                title: 'test',
+                id: 'testId'
+            },{
+                title: 'test1',
+                id: 'test1Id'
+            },{
+                title: 'test2',
+                id: 'test2Id'
+            },{
+                title: 'test3',
+                id: 'test3Id'
+            }]],
+        onDone: function (selectedValues) {
+            alert(selectedValues);
+        }
+    });
+
+    $.index.add(picker.getView());
+
+    $.index.open();
+
+    function showDialog() {
+        picker.getView().showPicker();
+    }
+
+In index.xml
+    <Alloy>
+        <Window class="lo-composite bg-lightblue">
+            <View class="t-20 w-100% h-40">
+                <Button class="btn-primary" onClick="showDialog">Show Dialog</Button>
+            </View>
+        </Window>
+    </Alloy>
+
 Appendix
 --------
 
