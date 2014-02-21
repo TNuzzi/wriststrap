@@ -1,0 +1,10 @@
+<Alloy>
+    <Window id="win" modal="true" class="lo-vertical">
+        <View class="h-20 w-fill bg-gray" />
+        <WebView id="webview" class="lo-composite" class="w-fill h-fill">
+            <View class="r-5 t-10 h-44 w-44 bg-25 rounded-border-4" onClick="close">
+                <Label class="h1 color-white touch-disabled">X</Label>
+            </View>
+        </WebView>
+    </Window>
+</Alloy>

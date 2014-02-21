@@ -1,0 +1,13 @@
+{
+    "id": "wriststrap.webview",
+    "name": "wriststrap.webview",
+    "description": "A simple modal window that contains a webview and a semi-transparent close button.",
+    "author": "Tony Nuzzi",
+    "version": "1.0",
+    "copyright": "Copyright (c) 2014",
+    "license": "Apache License v2.0",
+    "min-alloy-version": "1.0",
+    "min-titanium-version": "2.1",
+    "tags": "wriststrap, webview",
+    "platforms": "ios"
+}
