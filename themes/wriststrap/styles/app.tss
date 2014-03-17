@@ -1,21 +1,21 @@
 "Window":{
     layout: 'vertical',
-    backgroundColor: 'ffffff'
+    backgroundColor: '#ffffff'
 }
 "View":{
     layout: 'vertical',
-    color: 'ffffff' 
+    color: '#ffffff' 
 }
 "ScrollView":{
     layout: 'vertical',
-    color: 'ffffff' 
+    color: '#ffffff' 
 }
 "Label":{
     font: {
-        fontFamily: 'HelveticaNeue-Light',
+        fontFamily: 'Helvetica Neue Light',
         fontSize: '14dp',
     },
-    color: '333333'
+    color: '#333333'
 }
 "Button":{
     font: {
@@ -40,14 +40,14 @@
 }
 "TextField":{
     height: '44dp',
-    backgroundColor: 'ffffff',
-    color: '000000',
+    backgroundColor: '#ffffff',
+    color: '#000000',
     paddingLeft: '10%',
     paddingRight: '10%',
 }
 "TextArea":{
-    backgroundColor: 'ffffff',
-    color: '000000',
+    backgroundColor: '#ffffff',
+    color: '#000000',
     paddingLeft: '10%',
     paddingRight: '10%',
 }
@@ -439,52 +439,52 @@
     opacity: 0.65
 }
 ".btn-default":{
-    color:'333333',
-    backgroundImage: 'btn-default.png'
+    color:'#333333',
+    backgroundImage: '/btn-default.png'
 }
 ".btn-border-default":{
-    backgroundColor: 'ffffff',
-    borderColor:'cccccc'
+    backgroundColor: '#ffffff',
+    borderColor:'#cccccc'
 }
 ".btn-primary":{
-    color:'ffffff',
-    backgroundImage: 'btn-primary.png'
+    color:'#ffffff',
+    backgroundImage: '/btn-primary.png'
 }
 ".btn-border-primary":{
-    backgroundColor: '428bca',
-    borderColor:'285e8e'
+    backgroundColor: '#428bca',
+    borderColor:'#285e8e'
 }
 ".btn-warning":{
-    color:'ffffff',
-    backgroundImage: 'btn-warning.png'
+    color:'#ffffff',
+    backgroundImage: '/btn-warning.png'
 }
 ".btn-border-warning":{
-    backgroundColor: 'f0ad4e',
-    borderColor:'eea236'
+    backgroundColor: '#f0ad4e',
+    borderColor:'#eea236'
 }
 ".btn-success":{
-    color:'ffffff',
-    backgroundImage: 'btn-success.png'
+    color:'#ffffff',
+    backgroundImage: '/btn-success.png'
 }
 ".btn-border-success":{
-    backgroundColor: '47a447',
-    borderColor:'398439'
+    backgroundColor: '#47a447',
+    borderColor:'#398439'
 }
 ".btn-info":{
-    color:'ffffff',
-    backgroundImage: 'btn-info.png'
+    color:'#ffffff',
+    backgroundImage: '/btn-info.png'
 }
 ".btn-border-info":{
-    backgroundColor: '5bc0de',
-    borderColor:'46b8da'
+    backgroundColor: '#5bc0de',
+    borderColor:'#46b8da'
 }
 ".btn-danger":{
-    color:'ffffff',
-    backgroundImage: 'btn-danger.png'
+    color:'#ffffff',
+    backgroundImage: '/btn-danger.png'
 }
 ".btn-border-danger":{
-    backgroundColor: 'd9534f',
-    borderColor:'eea236'
+    backgroundColor: '#d9534f',
+    borderColor:'#eea236'
 }
 ".btn-lg":{
     font:{
@@ -531,7 +531,7 @@
     height:'140dp',
     borderRadius:'4dp',
     borderWidth:'1dp',
-    borderColor: 'dddddd'
+    borderColor: '#dddddd'
 }
 
 ".img-thumbnail":{
@@ -545,7 +545,7 @@
     height:'140dp',
     borderRadius:'70dp',
     borderWidth:'1dp',
-    borderColor: 'dddddd'
+    borderColor: '#dddddd'
 }
 
 ".img-thumbnail-circle":{
@@ -560,7 +560,7 @@
     height:'60dp',
     borderRadius:'4dp',
     borderWidth:'1dp',
-    borderColor: 'dddddd'
+    borderColor: '#dddddd'
 }
 
 ".img-thumbnail-sm":{
@@ -574,7 +574,7 @@
     height:'60dp',
     borderRadius:'30dp',
     borderWidth:'1dp',
-    borderColor: 'dddddd'
+    borderColor: '#dddddd'
 }
 
 ".img-thumbnail-circle-sm":{
@@ -585,2172 +585,2172 @@
 
 // Glyphish
 ".glyphish-refresh":{
-    image:"glyphish/icons/01-refresh.png"
+    image:"/glyphish/icons/01-refresh.png"
 }
 ".glyphish-redo":{
-    image:"glyphish/icons/02-redo.png"
+    image:"/glyphish/icons/02-redo.png"
 }
 ".glyphish-loopback":{
-    image:"glyphish/icons/03-loopback.png"
+    image:"/glyphish/icons/03-loopback.png"
 }
 ".glyphish-squiggle":{
-    image:"glyphish/icons/04-squiggle.png"
+    image:"/glyphish/icons/04-squiggle.png"
 }
 ".glyphish-shuffle":{
-    image:"glyphish/icons/05-shuffle.png"
+    image:"/glyphish/icons/05-shuffle.png"
 }
 ".glyphish-magnify":{
-    image:"glyphish/icons/06-magnify.png"
+    image:"/glyphish/icons/06-magnify.png"
 }
 ".glyphish-map-marker":{
-    image:"glyphish/icons/07-map-marker.png"
+    image:"/glyphish/icons/07-map-marker.png"
 }
 ".glyphish-chat":{
-    image:"glyphish/icons/08-chat.png"
+    image:"/glyphish/icons/08-chat.png"
 }
 ".glyphish-chat-2":{
-    image:"glyphish/icons/09-chat-2.png"
+    image:"/glyphish/icons/09-chat-2.png"
 }
 ".glyphish-medical":{
-    image:"glyphish/icons/10-medical.png"
+    image:"/glyphish/icons/10-medical.png"
 }
 ".glyphish-clock":{
-    image:"glyphish/icons/11-clock.png"
+    image:"/glyphish/icons/11-clock.png"
 }
 ".glyphish-eye":{
-    image:"glyphish/icons/12-eye.png"
+    image:"/glyphish/icons/12-eye.png"
 }
 ".glyphish-target":{
-    image:"glyphish/icons/13-target.png"
+    image:"/glyphish/icons/13-target.png"
 }
 ".glyphish-tag":{
-    image:"glyphish/icons/14-tag.png"
+    image:"/glyphish/icons/14-tag.png"
 }
 ".glyphish-tags":{
-    image:"glyphish/icons/15-tags.png"
+    image:"/glyphish/icons/15-tags.png"
 }
 ".glyphish-line-chart":{
-    image:"glyphish/icons/16-line-chart.png"
+    image:"/glyphish/icons/16-line-chart.png"
 }
 ".glyphish-bar-chart":{
-    image:"glyphish/icons/17-bar-chart.png"
+    image:"/glyphish/icons/17-bar-chart.png"
 }
 ".glyphish-envelope":{
-    image:"glyphish/icons/18-envelope.png"
+    image:"/glyphish/icons/18-envelope.png"
 }
 ".glyphish-gear":{
-    image:"glyphish/icons/19-gear.png"
+    image:"/glyphish/icons/19-gear.png"
 }
 ".glyphish-gear2":{
-    image:"glyphish/icons/20-gear2.png"
+    image:"/glyphish/icons/20-gear2.png"
 }
 ".glyphish-skull":{
-    image:"glyphish/icons/21-skull.png"
+    image:"/glyphish/icons/21-skull.png"
 }
 ".glyphish-skull-n-bones":{
-    image:"glyphish/icons/22-skull-n-bones.png"
+    image:"/glyphish/icons/22-skull-n-bones.png"
 }
 ".glyphish-bird":{
-    image:"glyphish/icons/23-bird.png"
+    image:"/glyphish/icons/23-bird.png"
 }
 ".glyphish-gift":{
-    image:"glyphish/icons/24-gift.png"
+    image:"/glyphish/icons/24-gift.png"
 }
 ".glyphish-weather":{
-    image:"glyphish/icons/25-weather.png"
+    image:"/glyphish/icons/25-weather.png"
 }
 ".glyphish-bandaid":{
-    image:"glyphish/icons/26-bandaid.png"
+    image:"/glyphish/icons/26-bandaid.png"
 }
 ".glyphish-planet":{
-    image:"glyphish/icons/27-planet.png"
+    image:"/glyphish/icons/27-planet.png"
 }
 ".glyphish-star":{
-    image:"glyphish/icons/28-star.png"
+    image:"/glyphish/icons/28-star.png"
 }
 ".glyphish-heart":{
-    image:"glyphish/icons/29-heart.png"
+    image:"/glyphish/icons/29-heart.png"
 }
 ".glyphish-key":{
-    image:"glyphish/icons/30-key.png"
+    image:"/glyphish/icons/30-key.png"
 }
 ".glyphish-ipod":{
-    image:"glyphish/icons/31-ipod.png"
+    image:"/glyphish/icons/31-ipod.png"
 }
 ".glyphish-iphone":{
-    image:"glyphish/icons/32-iphone.png"
+    image:"/glyphish/icons/32-iphone.png"
 }
 ".glyphish-cabinet":{
-    image:"glyphish/icons/33-cabinet.png"
+    image:"/glyphish/icons/33-cabinet.png"
 }
 ".glyphish-coffee":{
-    image:"glyphish/icons/34-coffee.png"
+    image:"/glyphish/icons/34-coffee.png"
 }
 ".glyphish-shopping":{
-    image:"glyphish/icons/35-shopping.png"
+    image:"/glyphish/icons/35-shopping.png"
 }
 ".glyphish-toolbox":{
-    image:"glyphish/icons/36-toolbox.png"
+    image:"/glyphish/icons/36-toolbox.png"
 }
 ".glyphish-suitcase":{
-    image:"glyphish/icons/37-suitcase.png"
+    image:"/glyphish/icons/37-suitcase.png"
 }
 ".glyphish-airplane":{
-    image:"glyphish/icons/38-airplane.png"
+    image:"/glyphish/icons/38-airplane.png"
 }
 ".glyphish-spraycan":{
-    image:"glyphish/icons/39-spraycan.png"
+    image:"/glyphish/icons/39-spraycan.png"
 }
 ".glyphish-inbox":{
-    image:"glyphish/icons/40-inbox.png"
+    image:"/glyphish/icons/40-inbox.png"
 }
 ".glyphish-picture-frame":{
-    image:"glyphish/icons/41-picture-frame.png"
+    image:"/glyphish/icons/41-picture-frame.png"
 }
 ".glyphish-photos":{
-    image:"glyphish/icons/42-photos.png"
+    image:"/glyphish/icons/42-photos.png"
 }
 ".glyphish-film-roll":{
-    image:"glyphish/icons/43-film-roll.png"
+    image:"/glyphish/icons/43-film-roll.png"
 }
 ".glyphish-shoebox":{
-    image:"glyphish/icons/44-shoebox.png"
+    image:"/glyphish/icons/44-shoebox.png"
 }
 ".glyphish-movie-1":{
-    image:"glyphish/icons/45-movie-1.png"
+    image:"/glyphish/icons/45-movie-1.png"
 }
 ".glyphish-movie-2":{
-    image:"glyphish/icons/46-movie-2.png"
+    image:"/glyphish/icons/46-movie-2.png"
 }
 ".glyphish-fuel":{
-    image:"glyphish/icons/47-fuel.png"
+    image:"/glyphish/icons/47-fuel.png"
 }
 ".glyphish-fork-and-knife":{
-    image:"glyphish/icons/48-fork-and-knife.png"
+    image:"/glyphish/icons/48-fork-and-knife.png"
 }
 ".glyphish-battery":{
-    image:"glyphish/icons/49-battery.png"
+    image:"/glyphish/icons/49-battery.png"
 }
 ".glyphish-beaker":{
-    image:"glyphish/icons/50-beaker.png"
+    image:"/glyphish/icons/50-beaker.png"
 }
 ".glyphish-outlet":{
-    image:"glyphish/icons/51-outlet.png"
+    image:"/glyphish/icons/51-outlet.png"
 }
 ".glyphish-pine-tree":{
-    image:"glyphish/icons/52-pine-tree.png"
+    image:"/glyphish/icons/52-pine-tree.png"
 }
 ".glyphish-house":{
-    image:"glyphish/icons/53-house.png"
+    image:"/glyphish/icons/53-house.png"
 }
 ".glyphish-lock":{
-    image:"glyphish/icons/54-lock.png"
+    image:"/glyphish/icons/54-lock.png"
 }
 ".glyphish-network":{
-    image:"glyphish/icons/55-network.png"
+    image:"/glyphish/icons/55-network.png"
 }
 ".glyphish-cloud":{
-    image:"glyphish/icons/56-cloud.png"
+    image:"/glyphish/icons/56-cloud.png"
 }
 ".glyphish-download":{
-    image:"glyphish/icons/57-download.png"
+    image:"/glyphish/icons/57-download.png"
 }
 ".glyphish-bookmark":{
-    image:"glyphish/icons/58-bookmark.png"
+    image:"/glyphish/icons/58-bookmark.png"
 }
 ".glyphish-flag":{
-    image:"glyphish/icons/59-flag.png"
+    image:"/glyphish/icons/59-flag.png"
 }
 ".glyphish-signpost":{
-    image:"glyphish/icons/60-signpost.png"
+    image:"/glyphish/icons/60-signpost.png"
 }
 ".glyphish-brightness":{
-    image:"glyphish/icons/61-brightness.png"
+    image:"/glyphish/icons/61-brightness.png"
 }
 ".glyphish-contrast":{
-    image:"glyphish/icons/62-contrast.png"
+    image:"/glyphish/icons/62-contrast.png"
 }
 ".glyphish-runner":{
-    image:"glyphish/icons/63-runner.png"
+    image:"/glyphish/icons/63-runner.png"
 }
 ".glyphish-zap":{
-    image:"glyphish/icons/64-zap.png"
+    image:"/glyphish/icons/64-zap.png"
 }
 ".glyphish-note":{
-    image:"glyphish/icons/65-note.png"
+    image:"/glyphish/icons/65-note.png"
 }
 ".glyphish-microphone":{
-    image:"glyphish/icons/66-microphone.png"
+    image:"/glyphish/icons/66-microphone.png"
 }
 ".glyphish-tshirt":{
-    image:"glyphish/icons/67-tshirt.png"
+    image:"/glyphish/icons/67-tshirt.png"
 }
 ".glyphish-paperclip":{
-    image:"glyphish/icons/68-paperclip.png"
+    image:"/glyphish/icons/68-paperclip.png"
 }
 ".glyphish-display":{
-    image:"glyphish/icons/69-display.png"
+    image:"/glyphish/icons/69-display.png"
 }
 ".glyphish-tv":{
-    image:"glyphish/icons/70-tv.png"
+    image:"/glyphish/icons/70-tv.png"
 }
 ".glyphish-compass":{
-    image:"glyphish/icons/71-compass.png"
+    image:"/glyphish/icons/71-compass.png"
 }
 ".glyphish-pin":{
-    image:"glyphish/icons/72-pin.png"
+    image:"/glyphish/icons/72-pin.png"
 }
 ".glyphish-radar":{
-    image:"glyphish/icons/73-radar.png"
+    image:"/glyphish/icons/73-radar.png"
 }
 ".glyphish-location":{
-    image:"glyphish/icons/74-location.png"
+    image:"/glyphish/icons/74-location.png"
 }
 ".glyphish-phone":{
-    image:"glyphish/icons/75-phone.png"
+    image:"/glyphish/icons/75-phone.png"
 }
 ".glyphish-baby":{
-    image:"glyphish/icons/76-baby.png"
+    image:"/glyphish/icons/76-baby.png"
 }
 ".glyphish-ekg":{
-    image:"glyphish/icons/77-ekg.png"
+    image:"/glyphish/icons/77-ekg.png"
 }
 ".glyphish-stopwatch":{
-    image:"glyphish/icons/78-stopwatch.png"
+    image:"/glyphish/icons/78-stopwatch.png"
 }
 ".glyphish-medical-bag":{
-    image:"glyphish/icons/79-medical-bag.png"
+    image:"/glyphish/icons/79-medical-bag.png"
 }
 ".glyphish-shopping-cart":{
-    image:"glyphish/icons/80-shopping-cart.png"
+    image:"/glyphish/icons/80-shopping-cart.png"
 }
 ".glyphish-dashboard":{
-    image:"glyphish/icons/81-dashboard.png"
+    image:"/glyphish/icons/81-dashboard.png"
 }
 ".glyphish-dog-paw":{
-    image:"glyphish/icons/82-dog-paw.png"
+    image:"/glyphish/icons/82-dog-paw.png"
 }
 ".glyphish-calendar":{
-    image:"glyphish/icons/83-calendar.png"
+    image:"/glyphish/icons/83-calendar.png"
 }
 ".glyphish-lightbulb":{
-    image:"glyphish/icons/84-lightbulb.png"
+    image:"/glyphish/icons/84-lightbulb.png"
 }
 ".glyphish-trophy":{
-    image:"glyphish/icons/85-trophy.png"
+    image:"/glyphish/icons/85-trophy.png"
 }
 ".glyphish-camera":{
-    image:"glyphish/icons/86-camera.png"
+    image:"/glyphish/icons/86-camera.png"
 }
 ".glyphish-wine-glass":{
-    image:"glyphish/icons/87-wine-glass.png"
+    image:"/glyphish/icons/87-wine-glass.png"
 }
 ".glyphish-beer-mug":{
-    image:"glyphish/icons/88-beer-mug.png"
+    image:"/glyphish/icons/88-beer-mug.png"
 }
 ".glyphish-dumbell":{
-    image:"glyphish/icons/89-dumbell.png"
+    image:"/glyphish/icons/89-dumbell.png"
 }
 ".glyphish-life-buoy":{
-    image:"glyphish/icons/90-life-buoy.png"
+    image:"/glyphish/icons/90-life-buoy.png"
 }
 ".glyphish-beaker-2":{
-    image:"glyphish/icons/91-beaker-2.png"
+    image:"/glyphish/icons/91-beaker-2.png"
 }
 ".glyphish-test-tube":{
-    image:"glyphish/icons/92-test-tube.png"
+    image:"/glyphish/icons/92-test-tube.png"
 }
 ".glyphish-thermometer":{
-    image:"glyphish/icons/93-thermometer.png"
+    image:"/glyphish/icons/93-thermometer.png"
 }
 ".glyphish-pill":{
-    image:"glyphish/icons/94-pill.png"
+    image:"/glyphish/icons/94-pill.png"
 }
 ".glyphish-equalizer":{
-    image:"glyphish/icons/95-equalizer.png"
+    image:"/glyphish/icons/95-equalizer.png"
 }
 ".glyphish-book":{
-    image:"glyphish/icons/96-book.png"
+    image:"/glyphish/icons/96-book.png"
 }
 ".glyphish-puzzle":{
-    image:"glyphish/icons/97-puzzle.png"
+    image:"/glyphish/icons/97-puzzle.png"
 }
 ".glyphish-palette":{
-    image:"glyphish/icons/98-palette.png"
+    image:"/glyphish/icons/98-palette.png"
 }
 ".glyphish-umbrella":{
-    image:"glyphish/icons/99-umbrella.png"
+    image:"/glyphish/icons/99-umbrella.png"
 }
 ".glyphish-coffee":{
-    image:"glyphish/icons/100-coffee.png"
+    image:"/glyphish/icons/100-coffee.png"
 }
 ".glyphish-gameplan":{
-    image:"glyphish/icons/101-gameplan.png"
+    image:"/glyphish/icons/101-gameplan.png"
 }
 ".glyphish-walk":{
-    image:"glyphish/icons/102-walk.png"
+    image:"/glyphish/icons/102-walk.png"
 }
 ".glyphish-map":{
-    image:"glyphish/icons/103-map.png"
+    image:"/glyphish/icons/103-map.png"
 }
 ".glyphish-index-cards":{
-    image:"glyphish/icons/104-index-cards.png"
+    image:"/glyphish/icons/104-index-cards.png"
 }
 ".glyphish-piano":{
-    image:"glyphish/icons/105-piano.png"
+    image:"/glyphish/icons/105-piano.png"
 }
 ".glyphish-sliders":{
-    image:"glyphish/icons/106-sliders.png"
+    image:"/glyphish/icons/106-sliders.png"
 }
 ".glyphish-widescreen":{
-    image:"glyphish/icons/107-widescreen.png"
+    image:"/glyphish/icons/107-widescreen.png"
 }
 ".glyphish-badge":{
-    image:"glyphish/icons/108-badge.png"
+    image:"/glyphish/icons/108-badge.png"
 }
 ".glyphish-chicken":{
-    image:"glyphish/icons/109-chicken.png"
+    image:"/glyphish/icons/109-chicken.png"
 }
 ".glyphish-bug":{
-    image:"glyphish/icons/110-bug.png"
+    image:"/glyphish/icons/110-bug.png"
 }
 ".glyphish-user":{
-    image:"glyphish/icons/111-user.png"
+    image:"/glyphish/icons/111-user.png"
 }
 ".glyphish-group":{
-    image:"glyphish/icons/112-group.png"
+    image:"/glyphish/icons/112-group.png"
 }
 ".glyphish-navigation":{
-    image:"glyphish/icons/113-navigation.png"
+    image:"/glyphish/icons/113-navigation.png"
 }
 ".glyphish-balloon":{
-    image:"glyphish/icons/114-balloon.png"
+    image:"/glyphish/icons/114-balloon.png"
 }
 ".glyphish-bow-and-arrow":{
-    image:"glyphish/icons/115-bow-and-arrow.png"
+    image:"/glyphish/icons/115-bow-and-arrow.png"
 }
 ".glyphish-controller":{
-    image:"glyphish/icons/116-controller.png"
+    image:"/glyphish/icons/116-controller.png"
 }
 ".glyphish-todo":{
-    image:"glyphish/icons/117-todo.png"
+    image:"/glyphish/icons/117-todo.png"
 }
 ".glyphish-coat-hanger":{
-    image:"glyphish/icons/118-coat-hanger.png"
+    image:"/glyphish/icons/118-coat-hanger.png"
 }
 ".glyphish-piggy-bank":{
-    image:"glyphish/icons/119-piggy-bank.png"
+    image:"/glyphish/icons/119-piggy-bank.png"
 }
 ".glyphish-headphones":{
-    image:"glyphish/icons/120-headphones.png"
+    image:"/glyphish/icons/120-headphones.png"
 }
 ".glyphish-landscape":{
-    image:"glyphish/icons/121-landscape.png"
+    image:"/glyphish/icons/121-landscape.png"
 }
 ".glyphish-stats":{
-    image:"glyphish/icons/122-stats.png"
+    image:"/glyphish/icons/122-stats.png"
 }
 ".glyphish-id-card":{
-    image:"glyphish/icons/123-id-card.png"
+    image:"/glyphish/icons/123-id-card.png"
 }
 ".glyphish-bullhorn":{
-    image:"glyphish/icons/124-bullhorn.png"
+    image:"/glyphish/icons/124-bullhorn.png"
 }
 ".glyphish-food":{
-    image:"glyphish/icons/125-food.png"
+    image:"/glyphish/icons/125-food.png"
 }
 ".glyphish-moon":{
-    image:"glyphish/icons/126-moon.png"
+    image:"/glyphish/icons/126-moon.png"
 }
 ".glyphish-sock":{
-    image:"glyphish/icons/127-sock.png"
+    image:"/glyphish/icons/127-sock.png"
 }
 ".glyphish-bone":{
-    image:"glyphish/icons/128-bone.png"
+    image:"/glyphish/icons/128-bone.png"
 }
 ".glyphish-golf":{
-    image:"glyphish/icons/129-golf.png"
+    image:"/glyphish/icons/129-golf.png"
 }
 ".glyphish-dice":{
-    image:"glyphish/icons/130-dice.png"
+    image:"/glyphish/icons/130-dice.png"
 }
 ".glyphish-tower":{
-    image:"glyphish/icons/131-tower.png"
+    image:"/glyphish/icons/131-tower.png"
 }
 ".glyphish-ghost":{
-    image:"glyphish/icons/132-ghost.png"
+    image:"/glyphish/icons/132-ghost.png"
 }
 ".glyphish-ufo":{
-    image:"glyphish/icons/133-ufo.png"
+    image:"/glyphish/icons/133-ufo.png"
 }
 ".glyphish-viking":{
-    image:"glyphish/icons/134-viking.png"
+    image:"/glyphish/icons/134-viking.png"
 }
 ".glyphish-hockeymask":{
-    image:"glyphish/icons/135-hockeymask.png"
+    image:"/glyphish/icons/135-hockeymask.png"
 }
 ".glyphish-tractor":{
-    image:"glyphish/icons/136-tractor.png"
+    image:"/glyphish/icons/136-tractor.png"
 }
 ".glyphish-presentation":{
-    image:"glyphish/icons/137-presentation.png"
+    image:"/glyphish/icons/137-presentation.png"
 }
 ".glyphish-scales":{
-    image:"glyphish/icons/138-scales.png"
+    image:"/glyphish/icons/138-scales.png"
 }
 ".glyphish-flags":{
-    image:"glyphish/icons/139-flags.png"
+    image:"/glyphish/icons/139-flags.png"
 }
 ".glyphish-gradhat":{
-    image:"glyphish/icons/140-gradhat.png"
+    image:"/glyphish/icons/140-gradhat.png"
 }
 ".glyphish-lamp":{
-    image:"glyphish/icons/141-lamp.png"
+    image:"/glyphish/icons/141-lamp.png"
 }
 ".glyphish-wine-bottle":{
-    image:"glyphish/icons/142-wine-bottle.png"
+    image:"/glyphish/icons/142-wine-bottle.png"
 }
 ".glyphish-liquor-bottle":{
-    image:"glyphish/icons/143-liquor-bottle.png"
+    image:"/glyphish/icons/143-liquor-bottle.png"
 }
 ".glyphish-martini":{
-    image:"glyphish/icons/144-martini.png"
+    image:"/glyphish/icons/144-martini.png"
 }
 ".glyphish-persondot":{
-    image:"glyphish/icons/145-persondot.png"
+    image:"/glyphish/icons/145-persondot.png"
 }
 ".glyphish-gavel":{
-    image:"glyphish/icons/146-gavel.png"
+    image:"/glyphish/icons/146-gavel.png"
 }
 ".glyphish-popsicle":{
-    image:"glyphish/icons/147-popsicle.png"
+    image:"/glyphish/icons/147-popsicle.png"
 }
 ".glyphish-doghouse":{
-    image:"glyphish/icons/148-doghouse.png"
+    image:"/glyphish/icons/148-doghouse.png"
 }
 ".glyphish-windmill":{
-    image:"glyphish/icons/149-windmill.png"
+    image:"/glyphish/icons/149-windmill.png"
 }
 ".glyphish-sailboat":{
-    image:"glyphish/icons/150-sailboat.png"
+    image:"/glyphish/icons/150-sailboat.png"
 }
 ".glyphish-telescope":{
-    image:"glyphish/icons/151-telescope.png"
+    image:"/glyphish/icons/151-telescope.png"
 }
 ".glyphish-rolodex":{
-    image:"glyphish/icons/152-rolodex.png"
+    image:"/glyphish/icons/152-rolodex.png"
 }
 ".glyphish-guitar":{
-    image:"glyphish/icons/153-guitar.png"
+    image:"/glyphish/icons/153-guitar.png"
 }
 ".glyphish-necktie":{
-    image:"glyphish/icons/154-necktie.png"
+    image:"/glyphish/icons/154-necktie.png"
 }
 ".glyphish-bowtie":{
-    image:"glyphish/icons/155-bowtie.png"
+    image:"/glyphish/icons/155-bowtie.png"
 }
 ".glyphish-controlpad":{
-    image:"glyphish/icons/156-controlpad.png"
+    image:"/glyphish/icons/156-controlpad.png"
 }
 ".glyphish-wrench":{
-    image:"glyphish/icons/157-wrench.png"
+    image:"/glyphish/icons/157-wrench.png"
 }
 ".glyphish-wrench-2":{
-    image:"glyphish/icons/158-wrench-2.png"
+    image:"/glyphish/icons/158-wrench-2.png"
 }
 ".glyphish-voicemail":{
-    image:"glyphish/icons/159-voicemail.png"
+    image:"/glyphish/icons/159-voicemail.png"
 }
 ".glyphish-voicemail-2":{
-    image:"glyphish/icons/160-voicemail-2.png"
+    image:"/glyphish/icons/160-voicemail-2.png"
 }
 ".glyphish-calculator":{
-    image:"glyphish/icons/161-calculator.png"
+    image:"/glyphish/icons/161-calculator.png"
 }
 ".glyphish-receipt":{
-    image:"glyphish/icons/162-receipt.png"
+    image:"/glyphish/icons/162-receipt.png"
 }
 ".glyphish-glasses-1":{
-    image:"glyphish/icons/163-glasses-1.png"
+    image:"/glyphish/icons/163-glasses-1.png"
 }
 ".glyphish-glasses-2":{
-    image:"glyphish/icons/164-glasses-2.png"
+    image:"/glyphish/icons/164-glasses-2.png"
 }
 ".glyphish-glasses-3":{
-    image:"glyphish/icons/165-glasses-3.png"
+    image:"/glyphish/icons/165-glasses-3.png"
 }
 ".glyphish-newspaper":{
-    image:"glyphish/icons/166-newspaper.png"
+    image:"/glyphish/icons/166-newspaper.png"
 }
 ".glyphish-upload-photo":{
-    image:"glyphish/icons/167-upload-photo.png"
+    image:"/glyphish/icons/167-upload-photo.png"
 }
 ".glyphish-upload-photo-2":{
-    image:"glyphish/icons/168-upload-photo-2.png"
+    image:"/glyphish/icons/168-upload-photo-2.png"
 }
 ".glyphish-8ball":{
-    image:"glyphish/icons/169-8ball.png"
+    image:"/glyphish/icons/169-8ball.png"
 }
 ".glyphish-butterfly":{
-    image:"glyphish/icons/170-butterfly.png"
+    image:"/glyphish/icons/170-butterfly.png"
 }
 ".glyphish-sun":{
-    image:"glyphish/icons/171-sun.png"
+    image:"/glyphish/icons/171-sun.png"
 }
 ".glyphish-pricetag":{
-    image:"glyphish/icons/172-pricetag.png"
+    image:"/glyphish/icons/172-pricetag.png"
 }
 ".glyphish-eyedropper":{
-    image:"glyphish/icons/173-eyedropper.png"
+    image:"/glyphish/icons/173-eyedropper.png"
 }
 ".glyphish-imac":{
-    image:"glyphish/icons/174-imac.png"
+    image:"/glyphish/icons/174-imac.png"
 }
 ".glyphish-macbook":{
-    image:"glyphish/icons/175-macbook.png"
+    image:"/glyphish/icons/175-macbook.png"
 }
 ".glyphish-ipad":{
-    image:"glyphish/icons/176-ipad.png"
+    image:"/glyphish/icons/176-ipad.png"
 }
 ".glyphish-building":{
-    image:"glyphish/icons/177-building.png"
+    image:"/glyphish/icons/177-building.png"
 }
 ".glyphish-city":{
-    image:"glyphish/icons/178-city.png"
+    image:"/glyphish/icons/178-city.png"
 }
 ".glyphish-notepad":{
-    image:"glyphish/icons/179-notepad.png"
+    image:"/glyphish/icons/179-notepad.png"
 }
 ".glyphish-stickynote":{
-    image:"glyphish/icons/180-stickynote.png"
+    image:"/glyphish/icons/180-stickynote.png"
 }
 ".glyphish-hammer":{
-    image:"glyphish/icons/181-hammer.png"
+    image:"/glyphish/icons/181-hammer.png"
 }
 ".glyphish-messenger-bag":{
-    image:"glyphish/icons/182-messenger-bag.png"
+    image:"/glyphish/icons/182-messenger-bag.png"
 }
 ".glyphish-genie-lamp":{
-    image:"glyphish/icons/183-genie-lamp.png"
+    image:"/glyphish/icons/183-genie-lamp.png"
 }
 ".glyphish-warning":{
-    image:"glyphish/icons/184-warning.png"
+    image:"/glyphish/icons/184-warning.png"
 }
 ".glyphish-printer":{
-    image:"glyphish/icons/185-printer.png"
+    image:"/glyphish/icons/185-printer.png"
 }
 ".glyphish-ruler":{
-    image:"glyphish/icons/186-ruler.png"
+    image:"/glyphish/icons/186-ruler.png"
 }
 ".glyphish-pencil":{
-    image:"glyphish/icons/187-pencil.png"
+    image:"/glyphish/icons/187-pencil.png"
 }
 ".glyphish-paint-roller":{
-    image:"glyphish/icons/188-paint-roller.png"
+    image:"/glyphish/icons/188-paint-roller.png"
 }
 ".glyphish-plant":{
-    image:"glyphish/icons/189-plant.png"
+    image:"/glyphish/icons/189-plant.png"
 }
 ".glyphish-bank":{
-    image:"glyphish/icons/190-bank.png"
+    image:"/glyphish/icons/190-bank.png"
 }
 ".glyphish-collection":{
-    image:"glyphish/icons/191-collection.png"
+    image:"/glyphish/icons/191-collection.png"
 }
 ".glyphish-credit-card":{
-    image:"glyphish/icons/192-credit-card.png"
+    image:"/glyphish/icons/192-credit-card.png"
 }
 ".glyphish-location-arrow":{
-    image:"glyphish/icons/193-location-arrow.png"
+    image:"/glyphish/icons/193-location-arrow.png"
 }
 ".glyphish-note-2":{
-    image:"glyphish/icons/194-note-2.png"
+    image:"/glyphish/icons/194-note-2.png"
 }
 ".glyphish-barcode":{
-    image:"glyphish/icons/195-barcode.png"
+    image:"/glyphish/icons/195-barcode.png"
 }
 ".glyphish-radiation":{
-    image:"glyphish/icons/196-radiation.png"
+    image:"/glyphish/icons/196-radiation.png"
 }
 ".glyphish-card-diamonds":{
-    image:"glyphish/icons/197-card-diamonds.png"
+    image:"/glyphish/icons/197-card-diamonds.png"
 }
 ".glyphish-card-spades":{
-    image:"glyphish/icons/198-card-spades.png"
+    image:"/glyphish/icons/198-card-spades.png"
 }
 ".glyphish-card-hearts":{
-    image:"glyphish/icons/199-card-hearts.png"
+    image:"/glyphish/icons/199-card-hearts.png"
 }
 ".glyphish-card-clubs":{
-    image:"glyphish/icons/200-card-clubs.png"
+    image:"/glyphish/icons/200-card-clubs.png"
 }
 // Glyphicons
 ".glyphicons_glass":{
-    image:'glyphicons/glyphicons/png/glyphicons_000_glass.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_000_glass.png'
 }
 ".glyphicons_leaf":{
-    image:'glyphicons/glyphicons/png/glyphicons_001_leaf.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_001_leaf.png'
 }
 ".glyphicons_dog":{
-    image:'glyphicons/glyphicons/png/glyphicons_002_dog.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_002_dog.png'
 }
 ".glyphicons_user":{
-    image:'glyphicons/glyphicons/png/glyphicons_003_user.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_003_user.png'
 }
 ".glyphicons_girl":{
-    image:'glyphicons/glyphicons/png/glyphicons_004_girl.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_004_girl.png'
 }
 ".glyphicons_car":{
-    image:'glyphicons/glyphicons/png/glyphicons_005_car.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_005_car.png'
 }
 ".glyphicons_user_add":{
-    image:'glyphicons/glyphicons/png/glyphicons_006_user_add.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_006_user_add.png'
 }
 ".glyphicons_user_remove":{
-    image:'glyphicons/glyphicons/png/glyphicons_007_user_remove.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_007_user_remove.png'
 }
 ".glyphicons_film":{
-    image:'glyphicons/glyphicons/png/glyphicons_008_film.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_008_film.png'
 }
 ".glyphicons_magic":{
-    image:'glyphicons/glyphicons/png/glyphicons_009_magic.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_009_magic.png'
 }
 ".glyphicons_envelope":{
-    image:'glyphicons/glyphicons/png/glyphicons_010_envelope.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_010_envelope.png'
 }
 ".glyphicons_camera":{
-    image:'glyphicons/glyphicons/png/glyphicons_011_camera.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_011_camera.png'
 }
 ".glyphicons_heart":{
-    image:'glyphicons/glyphicons/png/glyphicons_012_heart.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_012_heart.png'
 }
 ".glyphicons_beach_umbrella":{
-    image:'glyphicons/glyphicons/png/glyphicons_013_beach_umbrella.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_013_beach_umbrella.png'
 }
 ".glyphicons_train":{
-    image:'glyphicons/glyphicons/png/glyphicons_014_train.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_014_train.png'
 }
 ".glyphicons_print":{
-    image:'glyphicons/glyphicons/png/glyphicons_015_print.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_015_print.png'
 }
 ".glyphicons_bin":{
-    image:'glyphicons/glyphicons/png/glyphicons_016_bin.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_016_bin.png'
 }
 ".glyphicons_music":{
-    image:'glyphicons/glyphicons/png/glyphicons_017_music.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_017_music.png'
 }
 ".glyphicons_note":{
-    image:'glyphicons/glyphicons/png/glyphicons_018_note.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_018_note.png'
 }
 ".glyphicons_heart_empty":{
-    image:'glyphicons/glyphicons/png/glyphicons_019_heart_empty.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_019_heart_empty.png'
 }
 ".glyphicons_home":{
-    image:'glyphicons/glyphicons/png/glyphicons_020_home.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_020_home.png'
 }
 ".glyphicons_snowflake":{
-    image:'glyphicons/glyphicons/png/glyphicons_021_snowflake.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_021_snowflake.png'
 }
 ".glyphicons_fire":{
-    image:'glyphicons/glyphicons/png/glyphicons_022_fire.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_022_fire.png'
 }
 ".glyphicons_magnet":{
-    image:'glyphicons/glyphicons/png/glyphicons_023_magnet.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_023_magnet.png'
 }
 ".glyphicons_parents":{
-    image:'glyphicons/glyphicons/png/glyphicons_024_parents.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_024_parents.png'
 }
 ".glyphicons_binoculars":{
-    image:'glyphicons/glyphicons/png/glyphicons_025_binoculars.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_025_binoculars.png'
 }
 ".glyphicons_road":{
-    image:'glyphicons/glyphicons/png/glyphicons_026_road.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_026_road.png'
 }
 ".glyphicons_search":{
-    image:'glyphicons/glyphicons/png/glyphicons_027_search.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_027_search.png'
 }
 ".glyphicons_cars":{
-    image:'glyphicons/glyphicons/png/glyphicons_028_cars.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_028_cars.png'
 }
 ".glyphicons_notes_2":{
-    image:'glyphicons/glyphicons/png/glyphicons_029_notes_2.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_029_notes_2.png'
 }
 ".glyphicons_pencil":{
-    image:'glyphicons/glyphicons/png/glyphicons_030_pencil.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_030_pencil.png'
 }
 ".glyphicons_bus":{
-    image:'glyphicons/glyphicons/png/glyphicons_031_bus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_031_bus.png'
 }
 ".glyphicons_wifi_alt":{
-    image:'glyphicons/glyphicons/png/glyphicons_032_wifi_alt.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_032_wifi_alt.png'
 }
 ".glyphicons_luggage":{
-    image:'glyphicons/glyphicons/png/glyphicons_033_luggage.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_033_luggage.png'
 }
 ".glyphicons_old_man":{
-    image:'glyphicons/glyphicons/png/glyphicons_034_old_man.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_034_old_man.png'
 }
 ".glyphicons_woman":{
-    image:'glyphicons/glyphicons/png/glyphicons_035_woman.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_035_woman.png'
 }
 ".glyphicons_file":{
-    image:'glyphicons/glyphicons/png/glyphicons_036_file.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_036_file.png'
 }
 ".glyphicons_coins":{
-    image:'glyphicons/glyphicons/png/glyphicons_037_coins.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_037_coins.png'
 }
 ".glyphicons_airplane":{
-    image:'glyphicons/glyphicons/png/glyphicons_038_airplane.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_038_airplane.png'
 }
 ".glyphicons_notes":{
-    image:'glyphicons/glyphicons/png/glyphicons_039_notes.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_039_notes.png'
 }
 ".glyphicons_stats":{
-    image:'glyphicons/glyphicons/png/glyphicons_040_stats.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_040_stats.png'
 }
 ".glyphicons_charts":{
-    image:'glyphicons/glyphicons/png/glyphicons_041_charts.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_041_charts.png'
 }
 ".glyphicons_pie_chart":{
-    image:'glyphicons/glyphicons/png/glyphicons_042_pie_chart.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_042_pie_chart.png'
 }
 ".glyphicons_group":{
-    image:'glyphicons/glyphicons/png/glyphicons_043_group.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_043_group.png'
 }
 ".glyphicons_keys":{
-    image:'glyphicons/glyphicons/png/glyphicons_044_keys.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_044_keys.png'
 }
 ".glyphicons_calendar":{
-    image:'glyphicons/glyphicons/png/glyphicons_045_calendar.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_045_calendar.png'
 }
 ".glyphicons_router":{
-    image:'glyphicons/glyphicons/png/glyphicons_046_router.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_046_router.png'
 }
 ".glyphicons_camera_small":{
-    image:'glyphicons/glyphicons/png/glyphicons_047_camera_small.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_047_camera_small.png'
 }
 ".glyphicons_dislikes":{
-    image:'glyphicons/glyphicons/png/glyphicons_048_dislikes.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_048_dislikes.png'
 }
 ".glyphicons_star":{
-    image:'glyphicons/glyphicons/png/glyphicons_049_star.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_049_star.png'
 }
 ".glyphicons_link":{
-    image:'glyphicons/glyphicons/png/glyphicons_050_link.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_050_link.png'
 }
 ".glyphicons_eye_open":{
-    image:'glyphicons/glyphicons/png/glyphicons_051_eye_open.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_051_eye_open.png'
 }
 ".glyphicons_eye_close":{
-    image:'glyphicons/glyphicons/png/glyphicons_052_eye_close.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_052_eye_close.png'
 }
 ".glyphicons_alarm":{
-    image:'glyphicons/glyphicons/png/glyphicons_053_alarm.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_053_alarm.png'
 }
 ".glyphicons_clock":{
-    image:'glyphicons/glyphicons/png/glyphicons_054_clock.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_054_clock.png'
 }
 ".glyphicons_stopwatch":{
-    image:'glyphicons/glyphicons/png/glyphicons_055_stopwatch.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_055_stopwatch.png'
 }
 ".glyphicons_projector":{
-    image:'glyphicons/glyphicons/png/glyphicons_056_projector.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_056_projector.png'
 }
 ".glyphicons_history":{
-    image:'glyphicons/glyphicons/png/glyphicons_057_history.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_057_history.png'
 }
 ".glyphicons_truck":{
-    image:'glyphicons/glyphicons/png/glyphicons_058_truck.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_058_truck.png'
 }
 ".glyphicons_cargo":{
-    image:'glyphicons/glyphicons/png/glyphicons_059_cargo.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_059_cargo.png'
 }
 ".glyphicons_compass":{
-    image:'glyphicons/glyphicons/png/glyphicons_060_compass.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_060_compass.png'
 }
 ".glyphicons_keynote":{
-    image:'glyphicons/glyphicons/png/glyphicons_061_keynote.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_061_keynote.png'
 }
 ".glyphicons_paperclip":{
-    image:'glyphicons/glyphicons/png/glyphicons_062_paperclip.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_062_paperclip.png'
 }
 ".glyphicons_power":{
-    image:'glyphicons/glyphicons/png/glyphicons_063_power.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_063_power.png'
 }
 ".glyphicons_lightbulb":{
-    image:'glyphicons/glyphicons/png/glyphicons_064_lightbulb.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_064_lightbulb.png'
 }
 ".glyphicons_tag":{
-    image:'glyphicons/glyphicons/png/glyphicons_065_tag.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_065_tag.png'
 }
 ".glyphicons_tags":{
-    image:'glyphicons/glyphicons/png/glyphicons_066_tags.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_066_tags.png'
 }
 ".glyphicons_cleaning":{
-    image:'glyphicons/glyphicons/png/glyphicons_067_cleaning.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_067_cleaning.png'
 }
 ".glyphicons_ruller":{
-    image:'glyphicons/glyphicons/png/glyphicons_068_ruller.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_068_ruller.png'
 }
 ".glyphicons_gift":{
-    image:'glyphicons/glyphicons/png/glyphicons_069_gift.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_069_gift.png'
 }
 ".glyphicons_umbrella":{
-    image:'glyphicons/glyphicons/png/glyphicons_070_umbrella.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_070_umbrella.png'
 }
 ".glyphicons_book":{
-    image:'glyphicons/glyphicons/png/glyphicons_071_book.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_071_book.png'
 }
 ".glyphicons_bookmark":{
-    image:'glyphicons/glyphicons/png/glyphicons_072_bookmark.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_072_bookmark.png'
 }
 ".glyphicons_wifi":{
-    image:'glyphicons/glyphicons/png/glyphicons_073_wifi.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_073_wifi.png'
 }
 ".glyphicons_cup":{
-    image:'glyphicons/glyphicons/png/glyphicons_074_cup.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_074_cup.png'
 }
 ".glyphicons_stroller":{
-    image:'glyphicons/glyphicons/png/glyphicons_075_stroller.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_075_stroller.png'
 }
 ".glyphicons_headphones":{
-    image:'glyphicons/glyphicons/png/glyphicons_076_headphones.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_076_headphones.png'
 }
 ".glyphicons_headset":{
-    image:'glyphicons/glyphicons/png/glyphicons_077_headset.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_077_headset.png'
 }
 ".glyphicons_warning_sign":{
-    image:'glyphicons/glyphicons/png/glyphicons_078_warning_sign.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_078_warning_sign.png'
 }
 ".glyphicons_signal":{
-    image:'glyphicons/glyphicons/png/glyphicons_079_signal.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_079_signal.png'
 }
 ".glyphicons_retweet":{
-    image:'glyphicons/glyphicons/png/glyphicons_080_retweet.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_080_retweet.png'
 }
 ".glyphicons_refresh":{
-    image:'glyphicons/glyphicons/png/glyphicons_081_refresh.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_081_refresh.png'
 }
 ".glyphicons_roundabout":{
-    image:'glyphicons/glyphicons/png/glyphicons_082_roundabout.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_082_roundabout.png'
 }
 ".glyphicons_random":{
-    image:'glyphicons/glyphicons/png/glyphicons_083_random.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_083_random.png'
 }
 ".glyphicons_heat":{
-    image:'glyphicons/glyphicons/png/glyphicons_084_heat.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_084_heat.png'
 }
 ".glyphicons_repeat":{
-    image:'glyphicons/glyphicons/png/glyphicons_085_repeat.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_085_repeat.png'
 }
 ".glyphicons_display":{
-    image:'glyphicons/glyphicons/png/glyphicons_086_display.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_086_display.png'
 }
 ".glyphicons_log_book":{
-    image:'glyphicons/glyphicons/png/glyphicons_087_log_book.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_087_log_book.png'
 }
 ".glyphicons_address_book":{
-    image:'glyphicons/glyphicons/png/glyphicons_088_address_book.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_088_address_book.png'
 }
 ".glyphicons_building":{
-    image:'glyphicons/glyphicons/png/glyphicons_089_building.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_089_building.png'
 }
 ".glyphicons_eyedropper":{
-    image:'glyphicons/glyphicons/png/glyphicons_090_eyedropper.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_090_eyedropper.png'
 }
 ".glyphicons_adjust":{
-    image:'glyphicons/glyphicons/png/glyphicons_091_adjust.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_091_adjust.png'
 }
 ".glyphicons_tint":{
-    image:'glyphicons/glyphicons/png/glyphicons_092_tint.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_092_tint.png'
 }
 ".glyphicons_crop":{
-    image:'glyphicons/glyphicons/png/glyphicons_093_crop.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_093_crop.png'
 }
 ".glyphicons_vector_path_square":{
-    image:'glyphicons/glyphicons/png/glyphicons_094_vector_path_square.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_094_vector_path_square.png'
 }
 ".glyphicons_vector_path_circle":{
-    image:'glyphicons/glyphicons/png/glyphicons_095_vector_path_circle.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_095_vector_path_circle.png'
 }
 ".glyphicons_vector_path_polygon":{
-    image:'glyphicons/glyphicons/png/glyphicons_096_vector_path_polygon.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_096_vector_path_polygon.png'
 }
 ".glyphicons_vector_path_line":{
-    image:'glyphicons/glyphicons/png/glyphicons_097_vector_path_line.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_097_vector_path_line.png'
 }
 ".glyphicons_vector_path_curve":{
-    image:'glyphicons/glyphicons/png/glyphicons_098_vector_path_curve.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_098_vector_path_curve.png'
 }
 ".glyphicons_vector_path_all":{
-    image:'glyphicons/glyphicons/png/glyphicons_099_vector_path_all.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_099_vector_path_all.png'
 }
 ".glyphicons_font":{
-    image:'glyphicons/glyphicons/png/glyphicons_100_font.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_100_font.png'
 }
 ".glyphicons_italic":{
-    image:'glyphicons/glyphicons/png/glyphicons_101_italic.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_101_italic.png'
 }
 ".glyphicons_bold":{
-    image:'glyphicons/glyphicons/png/glyphicons_102_bold.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_102_bold.png'
 }
 ".glyphicons_text_underline":{
-    image:'glyphicons/glyphicons/png/glyphicons_103_text_underline.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_103_text_underline.png'
 }
 ".glyphicons_text_strike":{
-    image:'glyphicons/glyphicons/png/glyphicons_104_text_strike.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_104_text_strike.png'
 }
 ".glyphicons_text_height":{
-    image:'glyphicons/glyphicons/png/glyphicons_105_text_height.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_105_text_height.png'
 }
 ".glyphicons_text_width":{
-    image:'glyphicons/glyphicons/png/glyphicons_106_text_width.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_106_text_width.png'
 }
 ".glyphicons_text_resize":{
-    image:'glyphicons/glyphicons/png/glyphicons_107_text_resize.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_107_text_resize.png'
 }
 ".glyphicons_left_indent":{
-    image:'glyphicons/glyphicons/png/glyphicons_108_left_indent.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_108_left_indent.png'
 }
 ".glyphicons_right_indent":{
-    image:'glyphicons/glyphicons/png/glyphicons_109_right_indent.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_109_right_indent.png'
 }
 ".glyphicons_align_left":{
-    image:'glyphicons/glyphicons/png/glyphicons_110_align_left.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_110_align_left.png'
 }
 ".glyphicons_align_center":{
-    image:'glyphicons/glyphicons/png/glyphicons_111_align_center.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_111_align_center.png'
 }
 ".glyphicons_align_right":{
-    image:'glyphicons/glyphicons/png/glyphicons_112_align_right.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_112_align_right.png'
 }
 ".glyphicons_justify":{
-    image:'glyphicons/glyphicons/png/glyphicons_113_justify.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_113_justify.png'
 }
 ".glyphicons_list":{
-    image:'glyphicons/glyphicons/png/glyphicons_114_list.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_114_list.png'
 }
 ".glyphicons_text_smaller":{
-    image:'glyphicons/glyphicons/png/glyphicons_115_text_smaller.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_115_text_smaller.png'
 }
 ".glyphicons_text_bigger":{
-    image:'glyphicons/glyphicons/png/glyphicons_116_text_bigger.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_116_text_bigger.png'
 }
 ".glyphicons_embed":{
-    image:'glyphicons/glyphicons/png/glyphicons_117_embed.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_117_embed.png'
 }
 ".glyphicons_embed_close":{
-    image:'glyphicons/glyphicons/png/glyphicons_118_embed_close.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_118_embed_close.png'
 }
 ".glyphicons_table":{
-    image:'glyphicons/glyphicons/png/glyphicons_119_table.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_119_table.png'
 }
 ".glyphicons_message_full":{
-    image:'glyphicons/glyphicons/png/glyphicons_120_message_full.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_120_message_full.png'
 }
 ".glyphicons_message_empty":{
-    image:'glyphicons/glyphicons/png/glyphicons_121_message_empty.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_121_message_empty.png'
 }
 ".glyphicons_message_in":{
-    image:'glyphicons/glyphicons/png/glyphicons_122_message_in.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_122_message_in.png'
 }
 ".glyphicons_message_out":{
-    image:'glyphicons/glyphicons/png/glyphicons_123_message_out.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_123_message_out.png'
 }
 ".glyphicons_message_plus":{
-    image:'glyphicons/glyphicons/png/glyphicons_124_message_plus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_124_message_plus.png'
 }
 ".glyphicons_message_minus":{
-    image:'glyphicons/glyphicons/png/glyphicons_125_message_minus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_125_message_minus.png'
 }
 ".glyphicons_message_ban":{
-    image:'glyphicons/glyphicons/png/glyphicons_126_message_ban.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_126_message_ban.png'
 }
 ".glyphicons_message_flag":{
-    image:'glyphicons/glyphicons/png/glyphicons_127_message_flag.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_127_message_flag.png'
 }
 ".glyphicons_message_lock":{
-    image:'glyphicons/glyphicons/png/glyphicons_128_message_lock.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_128_message_lock.png'
 }
 ".glyphicons_message_new":{
-    image:'glyphicons/glyphicons/png/glyphicons_129_message_new.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_129_message_new.png'
 }
 ".glyphicons_inbox":{
-    image:'glyphicons/glyphicons/png/glyphicons_130_inbox.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_130_inbox.png'
 }
 ".glyphicons_inbox_plus":{
-    image:'glyphicons/glyphicons/png/glyphicons_131_inbox_plus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_131_inbox_plus.png'
 }
 ".glyphicons_inbox_minus":{
-    image:'glyphicons/glyphicons/png/glyphicons_132_inbox_minus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_132_inbox_minus.png'
 }
 ".glyphicons_inbox_lock":{
-    image:'glyphicons/glyphicons/png/glyphicons_133_inbox_lock.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_133_inbox_lock.png'
 }
 ".glyphicons_inbox_in":{
-    image:'glyphicons/glyphicons/png/glyphicons_134_inbox_in.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_134_inbox_in.png'
 }
 ".glyphicons_inbox_out":{
-    image:'glyphicons/glyphicons/png/glyphicons_135_inbox_out.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_135_inbox_out.png'
 }
 ".glyphicons_cogwheel":{
-    image:'glyphicons/glyphicons/png/glyphicons_136_cogwheel.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_136_cogwheel.png'
 }
 ".glyphicons_cogwheels":{
-    image:'glyphicons/glyphicons/png/glyphicons_137_cogwheels.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_137_cogwheels.png'
 }
 ".glyphicons_picture":{
-    image:'glyphicons/glyphicons/png/glyphicons_138_picture.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_138_picture.png'
 }
 ".glyphicons_adjust_alt":{
-    image:'glyphicons/glyphicons/png/glyphicons_139_adjust_alt.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_139_adjust_alt.png'
 }
 ".glyphicons_database_lock":{
-    image:'glyphicons/glyphicons/png/glyphicons_140_database_lock.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_140_database_lock.png'
 }
 ".glyphicons_database_plus":{
-    image:'glyphicons/glyphicons/png/glyphicons_141_database_plus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_141_database_plus.png'
 }
 ".glyphicons_database_minus":{
-    image:'glyphicons/glyphicons/png/glyphicons_142_database_minus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_142_database_minus.png'
 }
 ".glyphicons_database_ban":{
-    image:'glyphicons/glyphicons/png/glyphicons_143_database_ban.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_143_database_ban.png'
 }
 ".glyphicons_folder_open":{
-    image:'glyphicons/glyphicons/png/glyphicons_144_folder_open.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_144_folder_open.png'
 }
 ".glyphicons_folder_plus":{
-    image:'glyphicons/glyphicons/png/glyphicons_145_folder_plus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_145_folder_plus.png'
 }
 ".glyphicons_folder_minus":{
-    image:'glyphicons/glyphicons/png/glyphicons_146_folder_minus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_146_folder_minus.png'
 }
 ".glyphicons_folder_lock":{
-    image:'glyphicons/glyphicons/png/glyphicons_147_folder_lock.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_147_folder_lock.png'
 }
 ".glyphicons_folder_flag":{
-    image:'glyphicons/glyphicons/png/glyphicons_148_folder_flag.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_148_folder_flag.png'
 }
 ".glyphicons_folder_new":{
-    image:'glyphicons/glyphicons/png/glyphicons_149_folder_new.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_149_folder_new.png'
 }
 ".glyphicons_edit":{
-    image:'glyphicons/glyphicons/png/glyphicons_150_edit.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_150_edit.png'
 }
 ".glyphicons_new_window":{
-    image:'glyphicons/glyphicons/png/glyphicons_151_new_window.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_151_new_window.png'
 }
 ".glyphicons_check":{
-    image:'glyphicons/glyphicons/png/glyphicons_152_check.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_152_check.png'
 }
 ".glyphicons_unchecked":{
-    image:'glyphicons/glyphicons/png/glyphicons_153_unchecked.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_153_unchecked.png'
 }
 ".glyphicons_more_windows":{
-    image:'glyphicons/glyphicons/png/glyphicons_154_more_windows.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_154_more_windows.png'
 }
 ".glyphicons_show_big_thumbnails":{
-    image:'glyphicons/glyphicons/png/glyphicons_155_show_big_thumbnails.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_155_show_big_thumbnails.png'
 }
 ".glyphicons_show_thumbnails":{
-    image:'glyphicons/glyphicons/png/glyphicons_156_show_thumbnails.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_156_show_thumbnails.png'
 }
 ".glyphicons_show_thumbnails_with_lines":{
-    image:'glyphicons/glyphicons/png/glyphicons_157_show_thumbnails_with_lines.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_157_show_thumbnails_with_lines.png'
 }
 ".glyphicons_show_lines":{
-    image:'glyphicons/glyphicons/png/glyphicons_158_show_lines.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_158_show_lines.png'
 }
 ".glyphicons_playlist":{
-    image:'glyphicons/glyphicons/png/glyphicons_159_playlist.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_159_playlist.png'
 }
 ".glyphicons_imac":{
-    image:'glyphicons/glyphicons/png/glyphicons_160_imac.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_160_imac.png'
 }
 ".glyphicons_macbook":{
-    image:'glyphicons/glyphicons/png/glyphicons_161_macbook.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_161_macbook.png'
 }
 ".glyphicons_ipad":{
-    image:'glyphicons/glyphicons/png/glyphicons_162_ipad.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_162_ipad.png'
 }
 ".glyphicons_iphone":{
-    image:'glyphicons/glyphicons/png/glyphicons_163_iphone.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_163_iphone.png'
 }
 ".glyphicons_iphone_transfer":{
-    image:'glyphicons/glyphicons/png/glyphicons_164_iphone_transfer.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_164_iphone_transfer.png'
 }
 ".glyphicons_iphone_exchange":{
-    image:'glyphicons/glyphicons/png/glyphicons_165_iphone_exchange.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_165_iphone_exchange.png'
 }
 ".glyphicons_ipod":{
-    image:'glyphicons/glyphicons/png/glyphicons_166_ipod.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_166_ipod.png'
 }
 ".glyphicons_ipod_shuffle":{
-    image:'glyphicons/glyphicons/png/glyphicons_167_ipod_shuffle.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_167_ipod_shuffle.png'
 }
 ".glyphicons_ear_plugs":{
-    image:'glyphicons/glyphicons/png/glyphicons_168_ear_plugs.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_168_ear_plugs.png'
 }
 ".glyphicons_record":{
-    image:'glyphicons/glyphicons/png/glyphicons_169_record.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_169_record.png'
 }
 ".glyphicons_step_backward":{
-    image:'glyphicons/glyphicons/png/glyphicons_170_step_backward.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_170_step_backward.png'
 }
 ".glyphicons_fast_backward":{
-    image:'glyphicons/glyphicons/png/glyphicons_171_fast_backward.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_171_fast_backward.png'
 }
 ".glyphicons_rewind":{
-    image:'glyphicons/glyphicons/png/glyphicons_172_rewind.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_172_rewind.png'
 }
 ".glyphicons_play":{
-    image:'glyphicons/glyphicons/png/glyphicons_173_play.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_173_play.png'
 }
 ".glyphicons_pause":{
-    image:'glyphicons/glyphicons/png/glyphicons_174_pause.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_174_pause.png'
 }
 ".glyphicons_stop":{
-    image:'glyphicons/glyphicons/png/glyphicons_175_stop.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_175_stop.png'
 }
 ".glyphicons_forward":{
-    image:'glyphicons/glyphicons/png/glyphicons_176_forward.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_176_forward.png'
 }
 ".glyphicons_fast_forward":{
-    image:'glyphicons/glyphicons/png/glyphicons_177_fast_forward.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_177_fast_forward.png'
 }
 ".glyphicons_step_forward":{
-    image:'glyphicons/glyphicons/png/glyphicons_178_step_forward.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_178_step_forward.png'
 }
 ".glyphicons_eject":{
-    image:'glyphicons/glyphicons/png/glyphicons_179_eject.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_179_eject.png'
 }
 ".glyphicons_facetime_video":{
-    image:'glyphicons/glyphicons/png/glyphicons_180_facetime_video.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_180_facetime_video.png'
 }
 ".glyphicons_download_alt":{
-    image:'glyphicons/glyphicons/png/glyphicons_181_download_alt.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_181_download_alt.png'
 }
 ".glyphicons_mute":{
-    image:'glyphicons/glyphicons/png/glyphicons_182_mute.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_182_mute.png'
 }
 ".glyphicons_volume_down":{
-    image:'glyphicons/glyphicons/png/glyphicons_183_volume_down.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_183_volume_down.png'
 }
 ".glyphicons_volume_up":{
-    image:'glyphicons/glyphicons/png/glyphicons_184_volume_up.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_184_volume_up.png'
 }
 ".glyphicons_screenshot":{
-    image:'glyphicons/glyphicons/png/glyphicons_185_screenshot.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_185_screenshot.png'
 }
 ".glyphicons_move":{
-    image:'glyphicons/glyphicons/png/glyphicons_186_move.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_186_move.png'
 }
 ".glyphicons_more":{
-    image:'glyphicons/glyphicons/png/glyphicons_187_more.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_187_more.png'
 }
 ".glyphicons_brightness_reduce":{
-    image:'glyphicons/glyphicons/png/glyphicons_188_brightness_reduce.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_188_brightness_reduce.png'
 }
 ".glyphicons_brightness_increase":{
-    image:'glyphicons/glyphicons/png/glyphicons_189_brightness_increase.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_189_brightness_increase.png'
 }
 ".glyphicons_circle_plus":{
-    image:'glyphicons/glyphicons/png/glyphicons_190_circle_plus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_190_circle_plus.png'
 }
 ".glyphicons_circle_minus":{
-    image:'glyphicons/glyphicons/png/glyphicons_191_circle_minus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_191_circle_minus.png'
 }
 ".glyphicons_circle_remove":{
-    image:'glyphicons/glyphicons/png/glyphicons_192_circle_remove.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_192_circle_remove.png'
 }
 ".glyphicons_circle_ok":{
-    image:'glyphicons/glyphicons/png/glyphicons_193_circle_ok.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_193_circle_ok.png'
 }
 ".glyphicons_circle_question_mark":{
-    image:'glyphicons/glyphicons/png/glyphicons_194_circle_question_mark.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_194_circle_question_mark.png'
 }
 ".glyphicons_circle_info":{
-    image:'glyphicons/glyphicons/png/glyphicons_195_circle_info.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_195_circle_info.png'
 }
 ".glyphicons_circle_exclamation_mark":{
-    image:'glyphicons/glyphicons/png/glyphicons_196_circle_exclamation_mark.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_196_circle_exclamation_mark.png'
 }
 ".glyphicons_remove":{
-    image:'glyphicons/glyphicons/png/glyphicons_197_remove.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_197_remove.png'
 }
 ".glyphicons_ok":{
-    image:'glyphicons/glyphicons/png/glyphicons_198_ok.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_198_ok.png'
 }
 ".glyphicons_ban":{
-    image:'glyphicons/glyphicons/png/glyphicons_199_ban.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_199_ban.png'
 }
 ".glyphicons_download":{
-    image:'glyphicons/glyphicons/png/glyphicons_200_download.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_200_download.png'
 }
 ".glyphicons_upload":{
-    image:'glyphicons/glyphicons/png/glyphicons_201_upload.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_201_upload.png'
 }
 ".glyphicons_shopping_cart":{
-    image:'glyphicons/glyphicons/png/glyphicons_202_shopping_cart.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_202_shopping_cart.png'
 }
 ".glyphicons_lock":{
-    image:'glyphicons/glyphicons/png/glyphicons_203_lock.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_203_lock.png'
 }
 ".glyphicons_unlock":{
-    image:'glyphicons/glyphicons/png/glyphicons_204_unlock.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_204_unlock.png'
 }
 ".glyphicons_electricity":{
-    image:'glyphicons/glyphicons/png/glyphicons_205_electricity.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_205_electricity.png'
 }
 ".glyphicons_ok_2":{
-    image:'glyphicons/glyphicons/png/glyphicons_206_ok_2.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_206_ok_2.png'
 }
 ".glyphicons_remove_2":{
-    image:'glyphicons/glyphicons/png/glyphicons_207_remove_2.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_207_remove_2.png'
 }
 ".glyphicons_cart_out":{
-    image:'glyphicons/glyphicons/png/glyphicons_208_cart_out.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_208_cart_out.png'
 }
 ".glyphicons_cart_in":{
-    image:'glyphicons/glyphicons/png/glyphicons_209_cart_in.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_209_cart_in.png'
 }
 ".glyphicons_left_arrow":{
-    image:'glyphicons/glyphicons/png/glyphicons_210_left_arrow.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_210_left_arrow.png'
 }
 ".glyphicons_right_arrow":{
-    image:'glyphicons/glyphicons/png/glyphicons_211_right_arrow.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_211_right_arrow.png'
 }
 ".glyphicons_down_arrow":{
-    image:'glyphicons/glyphicons/png/glyphicons_212_down_arrow.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_212_down_arrow.png'
 }
 ".glyphicons_up_arrow":{
-    image:'glyphicons/glyphicons/png/glyphicons_213_up_arrow.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_213_up_arrow.png'
 }
 ".glyphicons_resize_small":{
-    image:'glyphicons/glyphicons/png/glyphicons_214_resize_small.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_214_resize_small.png'
 }
 ".glyphicons_resize_full":{
-    image:'glyphicons/glyphicons/png/glyphicons_215_resize_full.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_215_resize_full.png'
 }
 ".glyphicons_circle_arrow_left":{
-    image:'glyphicons/glyphicons/png/glyphicons_216_circle_arrow_left.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_216_circle_arrow_left.png'
 }
 ".glyphicons_circle_arrow_right":{
-    image:'glyphicons/glyphicons/png/glyphicons_217_circle_arrow_right.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_217_circle_arrow_right.png'
 }
 ".glyphicons_circle_arrow_top":{
-    image:'glyphicons/glyphicons/png/glyphicons_218_circle_arrow_top.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_218_circle_arrow_top.png'
 }
 ".glyphicons_circle_arrow_down":{
-    image:'glyphicons/glyphicons/png/glyphicons_219_circle_arrow_down.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_219_circle_arrow_down.png'
 }
 ".glyphicons_play_button":{
-    image:'glyphicons/glyphicons/png/glyphicons_220_play_button.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_220_play_button.png'
 }
 ".glyphicons_unshare":{
-    image:'glyphicons/glyphicons/png/glyphicons_221_unshare.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_221_unshare.png'
 }
 ".glyphicons_share":{
-    image:'glyphicons/glyphicons/png/glyphicons_222_share.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_222_share.png'
 }
 ".glyphicons_chevron-right":{
-    image:'glyphicons/glyphicons/png/glyphicons_223_chevron-right.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_223_chevron-right.png'
 }
 ".glyphicons_chevron-left":{
-    image:'glyphicons/glyphicons/png/glyphicons_224_chevron-left.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_224_chevron-left.png'
 }
 ".glyphicons_bluetooth":{
-    image:'glyphicons/glyphicons/png/glyphicons_225_bluetooth.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_225_bluetooth.png'
 }
 ".glyphicons_euro":{
-    image:'glyphicons/glyphicons/png/glyphicons_226_euro.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_226_euro.png'
 }
 ".glyphicons_usd":{
-    image:'glyphicons/glyphicons/png/glyphicons_227_usd.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_227_usd.png'
 }
 ".glyphicons_gbp":{
-    image:'glyphicons/glyphicons/png/glyphicons_228_gbp.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_228_gbp.png'
 }
 ".glyphicons_retweet_2":{
-    image:'glyphicons/glyphicons/png/glyphicons_229_retweet_2.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_229_retweet_2.png'
 }
 ".glyphicons_moon":{
-    image:'glyphicons/glyphicons/png/glyphicons_230_moon.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_230_moon.png'
 }
 ".glyphicons_sun":{
-    image:'glyphicons/glyphicons/png/glyphicons_231_sun.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_231_sun.png'
 }
 ".glyphicons_cloud":{
-    image:'glyphicons/glyphicons/png/glyphicons_232_cloud.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_232_cloud.png'
 }
 ".glyphicons_direction":{
-    image:'glyphicons/glyphicons/png/glyphicons_233_direction.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_233_direction.png'
 }
 ".glyphicons_brush":{
-    image:'glyphicons/glyphicons/png/glyphicons_234_brush.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_234_brush.png'
 }
 ".glyphicons_pen":{
-    image:'glyphicons/glyphicons/png/glyphicons_235_pen.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_235_pen.png'
 }
 ".glyphicons_zoom_in":{
-    image:'glyphicons/glyphicons/png/glyphicons_236_zoom_in.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_236_zoom_in.png'
 }
 ".glyphicons_zoom_out":{
-    image:'glyphicons/glyphicons/png/glyphicons_237_zoom_out.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_237_zoom_out.png'
 }
 ".glyphicons_pin":{
-    image:'glyphicons/glyphicons/png/glyphicons_238_pin.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_238_pin.png'
 }
 ".glyphicons_albums":{
-    image:'glyphicons/glyphicons/png/glyphicons_239_albums.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_239_albums.png'
 }
 ".glyphicons_rotation_lock":{
-    image:'glyphicons/glyphicons/png/glyphicons_240_rotation_lock.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_240_rotation_lock.png'
 }
 ".glyphicons_flash":{
-    image:'glyphicons/glyphicons/png/glyphicons_241_flash.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_241_flash.png'
 }
 ".glyphicons_google_maps":{
-    image:'glyphicons/glyphicons/png/glyphicons_242_google_maps.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_242_google_maps.png'
 }
 ".glyphicons_anchor":{
-    image:'glyphicons/glyphicons/png/glyphicons_243_anchor.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_243_anchor.png'
 }
 ".glyphicons_conversation":{
-    image:'glyphicons/glyphicons/png/glyphicons_244_conversation.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_244_conversation.png'
 }
 ".glyphicons_chat":{
-    image:'glyphicons/glyphicons/png/glyphicons_245_chat.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_245_chat.png'
 }
 ".glyphicons_male":{
-    image:'glyphicons/glyphicons/png/glyphicons_246_male.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_246_male.png'
 }
 ".glyphicons_female":{
-    image:'glyphicons/glyphicons/png/glyphicons_247_female.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_247_female.png'
 }
 ".glyphicons_asterisk":{
-    image:'glyphicons/glyphicons/png/glyphicons_248_asterisk.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_248_asterisk.png'
 }
 ".glyphicons_divide":{
-    image:'glyphicons/glyphicons/png/glyphicons_249_divide.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_249_divide.png'
 }
 ".glyphicons_snorkel_diving":{
-    image:'glyphicons/glyphicons/png/glyphicons_250_snorkel_diving.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_250_snorkel_diving.png'
 }
 ".glyphicons_scuba_diving":{
-    image:'glyphicons/glyphicons/png/glyphicons_251_scuba_diving.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_251_scuba_diving.png'
 }
 ".glyphicons_oxygen_bottle":{
-    image:'glyphicons/glyphicons/png/glyphicons_252_oxygen_bottle.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_252_oxygen_bottle.png'
 }
 ".glyphicons_fins":{
-    image:'glyphicons/glyphicons/png/glyphicons_253_fins.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_253_fins.png'
 }
 ".glyphicons_fishes":{
-    image:'glyphicons/glyphicons/png/glyphicons_254_fishes.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_254_fishes.png'
 }
 ".glyphicons_boat":{
-    image:'glyphicons/glyphicons/png/glyphicons_255_boat.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_255_boat.png'
 }
 ".glyphicons_delete":{
-    image:'glyphicons/glyphicons/png/glyphicons_256_delete.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_256_delete.png'
 }
 ".glyphicons_sheriffs_star":{
-    image:'glyphicons/glyphicons/png/glyphicons_257_sheriffs_star.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_257_sheriffs_star.png'
 }
 ".glyphicons_qrcode":{
-    image:'glyphicons/glyphicons/png/glyphicons_258_qrcode.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_258_qrcode.png'
 }
 ".glyphicons_barcode":{
-    image:'glyphicons/glyphicons/png/glyphicons_259_barcode.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_259_barcode.png'
 }
 ".glyphicons_pool":{
-    image:'glyphicons/glyphicons/png/glyphicons_260_pool.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_260_pool.png'
 }
 ".glyphicons_buoy":{
-    image:'glyphicons/glyphicons/png/glyphicons_261_buoy.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_261_buoy.png'
 }
 ".glyphicons_spade":{
-    image:'glyphicons/glyphicons/png/glyphicons_262_spade.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_262_spade.png'
 }
 ".glyphicons_bank":{
-    image:'glyphicons/glyphicons/png/glyphicons_263_bank.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_263_bank.png'
 }
 ".glyphicons_vcard":{
-    image:'glyphicons/glyphicons/png/glyphicons_264_vcard.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_264_vcard.png'
 }
 ".glyphicons_electrical_plug":{
-    image:'glyphicons/glyphicons/png/glyphicons_265_electrical_plug.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_265_electrical_plug.png'
 }
 ".glyphicons_flag":{
-    image:'glyphicons/glyphicons/png/glyphicons_266_flag.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_266_flag.png'
 }
 ".glyphicons_credit_card":{
-    image:'glyphicons/glyphicons/png/glyphicons_267_credit_card.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_267_credit_card.png'
 }
 ".glyphicons_keyboard_wireless":{
-    image:'glyphicons/glyphicons/png/glyphicons_268_keyboard_wireless.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_268_keyboard_wireless.png'
 }
 ".glyphicons_keyboard_wireless":{
-    image:'glyphicons/glyphicons/png/glyphicons_269_keyboard_wireless.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_269_keyboard_wireless.png'
 }
 ".glyphicons_shield":{
-    image:'glyphicons/glyphicons/png/glyphicons_270_shield.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_270_shield.png'
 }
 ".glyphicons_ring":{
-    image:'glyphicons/glyphicons/png/glyphicons_271_ring.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_271_ring.png'
 }
 ".glyphicons_cake":{
-    image:'glyphicons/glyphicons/png/glyphicons_272_cake.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_272_cake.png'
 }
 ".glyphicons_drink":{
-    image:'glyphicons/glyphicons/png/glyphicons_273_drink.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_273_drink.png'
 }
 ".glyphicons_beer":{
-    image:'glyphicons/glyphicons/png/glyphicons_274_beer.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_274_beer.png'
 }
 ".glyphicons_fast_food":{
-    image:'glyphicons/glyphicons/png/glyphicons_275_fast_food.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_275_fast_food.png'
 }
 ".glyphicons_cutlery":{
-    image:'glyphicons/glyphicons/png/glyphicons_276_cutlery.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_276_cutlery.png'
 }
 ".glyphicons_pizza":{
-    image:'glyphicons/glyphicons/png/glyphicons_277_pizza.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_277_pizza.png'
 }
 ".glyphicons_birthday_cake":{
-    image:'glyphicons/glyphicons/png/glyphicons_278_birthday_cake.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_278_birthday_cake.png'
 }
 ".glyphicons_tablet":{
-    image:'glyphicons/glyphicons/png/glyphicons_279_tablet.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_279_tablet.png'
 }
 ".glyphicons_settings":{
-    image:'glyphicons/glyphicons/png/glyphicons_280_settings.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_280_settings.png'
 }
 ".glyphicons_bullets":{
-    image:'glyphicons/glyphicons/png/glyphicons_281_bullets.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_281_bullets.png'
 }
 ".glyphicons_cardio":{
-    image:'glyphicons/glyphicons/png/glyphicons_282_cardio.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_282_cardio.png'
 }
 ".glyphicons_t-shirt":{
-    image:'glyphicons/glyphicons/png/glyphicons_283_t-shirt.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_283_t-shirt.png'
 }
 ".glyphicons_pants":{
-    image:'glyphicons/glyphicons/png/glyphicons_284_pants.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_284_pants.png'
 }
 ".glyphicons_sweater":{
-    image:'glyphicons/glyphicons/png/glyphicons_285_sweater.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_285_sweater.png'
 }
 ".glyphicons_fabric":{
-    image:'glyphicons/glyphicons/png/glyphicons_286_fabric.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_286_fabric.png'
 }
 ".glyphicons_leather":{
-    image:'glyphicons/glyphicons/png/glyphicons_287_leather.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_287_leather.png'
 }
 ".glyphicons_scissors":{
-    image:'glyphicons/glyphicons/png/glyphicons_288_scissors.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_288_scissors.png'
 }
 ".glyphicons_bomb":{
-    image:'glyphicons/glyphicons/png/glyphicons_289_bomb.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_289_bomb.png'
 }
 ".glyphicons_skull":{
-    image:'glyphicons/glyphicons/png/glyphicons_290_skull.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_290_skull.png'
 }
 ".glyphicons_celebration":{
-    image:'glyphicons/glyphicons/png/glyphicons_291_celebration.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_291_celebration.png'
 }
 ".glyphicons_tea_kettle":{
-    image:'glyphicons/glyphicons/png/glyphicons_292_tea_kettle.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_292_tea_kettle.png'
 }
 ".glyphicons_french_press":{
-    image:'glyphicons/glyphicons/png/glyphicons_293_french_press.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_293_french_press.png'
 }
 ".glyphicons_coffe_cup":{
-    image:'glyphicons/glyphicons/png/glyphicons_294_coffe_cup.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_294_coffe_cup.png'
 }
 ".glyphicons_pot":{
-    image:'glyphicons/glyphicons/png/glyphicons_295_pot.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_295_pot.png'
 }
 ".glyphicons_grater":{
-    image:'glyphicons/glyphicons/png/glyphicons_296_grater.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_296_grater.png'
 }
 ".glyphicons_kettle":{
-    image:'glyphicons/glyphicons/png/glyphicons_297_kettle.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_297_kettle.png'
 }
 ".glyphicons_hospital":{
-    image:'glyphicons/glyphicons/png/glyphicons_298_hospital.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_298_hospital.png'
 }
 ".glyphicons_hospital_h":{
-    image:'glyphicons/glyphicons/png/glyphicons_299_hospital_h.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_299_hospital_h.png'
 }
 ".glyphicons_microphone":{
-    image:'glyphicons/glyphicons/png/glyphicons_300_microphone.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_300_microphone.png'
 }
 ".glyphicons_webcam":{
-    image:'glyphicons/glyphicons/png/glyphicons_301_webcam.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_301_webcam.png'
 }
 ".glyphicons_temple_christianity_church":{
-    image:'glyphicons/glyphicons/png/glyphicons_302_temple_christianity_church.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_302_temple_christianity_church.png'
 }
 ".glyphicons_temple_islam":{
-    image:'glyphicons/glyphicons/png/glyphicons_303_temple_islam.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_303_temple_islam.png'
 }
 ".glyphicons_temple_hindu":{
-    image:'glyphicons/glyphicons/png/glyphicons_304_temple_hindu.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_304_temple_hindu.png'
 }
 ".glyphicons_temple_buddhist":{
-    image:'glyphicons/glyphicons/png/glyphicons_305_temple_buddhist.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_305_temple_buddhist.png'
 }
 ".glyphicons_bicycle":{
-    image:'glyphicons/glyphicons/png/glyphicons_306_bicycle.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_306_bicycle.png'
 }
 ".glyphicons_life_preserver":{
-    image:'glyphicons/glyphicons/png/glyphicons_307_life_preserver.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_307_life_preserver.png'
 }
 ".glyphicons_share_alt":{
-    image:'glyphicons/glyphicons/png/glyphicons_308_share_alt.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_308_share_alt.png'
 }
 ".glyphicons_comments":{
-    image:'glyphicons/glyphicons/png/glyphicons_309_comments.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_309_comments.png'
 }
 ".glyphicons_flower":{
-    image:'glyphicons/glyphicons/png/glyphicons_310_flower.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_310_flower.png'
 }
 ".glyphicons_baseball":{
-    image:'glyphicons/glyphicons/png/glyphicons_311_baseball.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_311_baseball.png'
 }
 ".glyphicons_rugby":{
-    image:'glyphicons/glyphicons/png/glyphicons_312_rugby.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_312_rugby.png'
 }
 ".glyphicons_ax":{
-    image:'glyphicons/glyphicons/png/glyphicons_313_ax.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_313_ax.png'
 }
 ".glyphicons_table_tennis":{
-    image:'glyphicons/glyphicons/png/glyphicons_314_table_tennis.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_314_table_tennis.png'
 }
 ".glyphicons_bowling":{
-    image:'glyphicons/glyphicons/png/glyphicons_315_bowling.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_315_bowling.png'
 }
 ".glyphicons_tree_conifer":{
-    image:'glyphicons/glyphicons/png/glyphicons_316_tree_conifer.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_316_tree_conifer.png'
 }
 ".glyphicons_tree_deciduous":{
-    image:'glyphicons/glyphicons/png/glyphicons_317_tree_deciduous.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_317_tree_deciduous.png'
 }
 ".glyphicons_more_items":{
-    image:'glyphicons/glyphicons/png/glyphicons_318_more_items.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_318_more_items.png'
 }
 ".glyphicons_sort":{
-    image:'glyphicons/glyphicons/png/glyphicons_319_sort.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_319_sort.png'
 }
 ".glyphicons_filter":{
-    image:'glyphicons/glyphicons/png/glyphicons_320_filter.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_320_filter.png'
 }
 ".glyphicons_gamepad":{
-    image:'glyphicons/glyphicons/png/glyphicons_321_gamepad.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_321_gamepad.png'
 }
 ".glyphicons_playing_dices":{
-    image:'glyphicons/glyphicons/png/glyphicons_322_playing_dices.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_322_playing_dices.png'
 }
 ".glyphicons_calculator":{
-    image:'glyphicons/glyphicons/png/glyphicons_323_calculator.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_323_calculator.png'
 }
 ".glyphicons_tie":{
-    image:'glyphicons/glyphicons/png/glyphicons_324_tie.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_324_tie.png'
 }
 ".glyphicons_wallet":{
-    image:'glyphicons/glyphicons/png/glyphicons_325_wallet.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_325_wallet.png'
 }
 ".glyphicons_piano":{
-    image:'glyphicons/glyphicons/png/glyphicons_326_piano.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_326_piano.png'
 }
 ".glyphicons_sampler":{
-    image:'glyphicons/glyphicons/png/glyphicons_327_sampler.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_327_sampler.png'
 }
 ".glyphicons_podium":{
-    image:'glyphicons/glyphicons/png/glyphicons_328_podium.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_328_podium.png'
 }
 ".glyphicons_soccer_ball":{
-    image:'glyphicons/glyphicons/png/glyphicons_329_soccer_ball.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_329_soccer_ball.png'
 }
 ".glyphicons_blog":{
-    image:'glyphicons/glyphicons/png/glyphicons_330_blog.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_330_blog.png'
 }
 ".glyphicons_dashboard":{
-    image:'glyphicons/glyphicons/png/glyphicons_331_dashboard.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_331_dashboard.png'
 }
 ".glyphicons_certificate":{
-    image:'glyphicons/glyphicons/png/glyphicons_332_certificate.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_332_certificate.png'
 }
 ".glyphicons_bell":{
-    image:'glyphicons/glyphicons/png/glyphicons_333_bell.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_333_bell.png'
 }
 ".glyphicons_candle":{
-    image:'glyphicons/glyphicons/png/glyphicons_334_candle.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_334_candle.png'
 }
 ".glyphicons_pushpin":{
-    image:'glyphicons/glyphicons/png/glyphicons_335_pushpin.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_335_pushpin.png'
 }
 ".glyphicons_iphone_shake":{
-    image:'glyphicons/glyphicons/png/glyphicons_336_iphone_shake.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_336_iphone_shake.png'
 }
 ".glyphicons_pin_flag":{
-    image:'glyphicons/glyphicons/png/glyphicons_337_pin_flag.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_337_pin_flag.png'
 }
 ".glyphicons_turtle":{
-    image:'glyphicons/glyphicons/png/glyphicons_338_turtle.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_338_turtle.png'
 }
 ".glyphicons_rabbit":{
-    image:'glyphicons/glyphicons/png/glyphicons_339_rabbit.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_339_rabbit.png'
 }
 ".glyphicons_globe":{
-    image:'glyphicons/glyphicons/png/glyphicons_340_globe.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_340_globe.png'
 }
 ".glyphicons_briefcase":{
-    image:'glyphicons/glyphicons/png/glyphicons_341_briefcase.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_341_briefcase.png'
 }
 ".glyphicons_hdd":{
-    image:'glyphicons/glyphicons/png/glyphicons_342_hdd.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_342_hdd.png'
 }
 ".glyphicons_thumbs_up":{
-    image:'glyphicons/glyphicons/png/glyphicons_343_thumbs_up.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_343_thumbs_up.png'
 }
 ".glyphicons_thumbs_down":{
-    image:'glyphicons/glyphicons/png/glyphicons_344_thumbs_down.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_344_thumbs_down.png'
 }
 ".glyphicons_hand_right":{
-    image:'glyphicons/glyphicons/png/glyphicons_345_hand_right.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_345_hand_right.png'
 }
 ".glyphicons_hand_left":{
-    image:'glyphicons/glyphicons/png/glyphicons_346_hand_left.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_346_hand_left.png'
 }
 ".glyphicons_hand_up":{
-    image:'glyphicons/glyphicons/png/glyphicons_347_hand_up.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_347_hand_up.png'
 }
 ".glyphicons_hand_down":{
-    image:'glyphicons/glyphicons/png/glyphicons_348_hand_down.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_348_hand_down.png'
 }
 ".glyphicons_fullscreen":{
-    image:'glyphicons/glyphicons/png/glyphicons_349_fullscreen.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_349_fullscreen.png'
 }
 ".glyphicons_shopping_bag":{
-    image:'glyphicons/glyphicons/png/glyphicons_350_shopping_bag.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_350_shopping_bag.png'
 }
 ".glyphicons_book_open":{
-    image:'glyphicons/glyphicons/png/glyphicons_351_book_open.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_351_book_open.png'
 }
 ".glyphicons_nameplate":{
-    image:'glyphicons/glyphicons/png/glyphicons_352_nameplate.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_352_nameplate.png'
 }
 ".glyphicons_nameplate_alt":{
-    image:'glyphicons/glyphicons/png/glyphicons_353_nameplate_alt.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_353_nameplate_alt.png'
 }
 ".glyphicons_vases":{
-    image:'glyphicons/glyphicons/png/glyphicons_354_vases.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_354_vases.png'
 }
 ".glyphicons_bullhorn":{
-    image:'glyphicons/glyphicons/png/glyphicons_355_bullhorn.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_355_bullhorn.png'
 }
 ".glyphicons_dumbbell":{
-    image:'glyphicons/glyphicons/png/glyphicons_356_dumbbell.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_356_dumbbell.png'
 }
 ".glyphicons_suitcase":{
-    image:'glyphicons/glyphicons/png/glyphicons_357_suitcase.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_357_suitcase.png'
 }
 ".glyphicons_file_import":{
-    image:'glyphicons/glyphicons/png/glyphicons_358_file_import.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_358_file_import.png'
 }
 ".glyphicons_file_export":{
-    image:'glyphicons/glyphicons/png/glyphicons_359_file_export.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_359_file_export.png'
 }
 ".glyphicons_bug":{
-    image:'glyphicons/glyphicons/png/glyphicons_360_bug.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_360_bug.png'
 }
 ".glyphicons_crown":{
-    image:'glyphicons/glyphicons/png/glyphicons_361_crown.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_361_crown.png'
 }
 ".glyphicons_smoking":{
-    image:'glyphicons/glyphicons/png/glyphicons_362_smoking.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_362_smoking.png'
 }
 ".glyphicons_cloud_upload":{
-    image:'glyphicons/glyphicons/png/glyphicons_363_cloud_upload.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_363_cloud_upload.png'
 }
 ".glyphicons_cloud_download":{
-    image:'glyphicons/glyphicons/png/glyphicons_364_cloud_download.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_364_cloud_download.png'
 }
 ".glyphicons_restart":{
-    image:'glyphicons/glyphicons/png/glyphicons_365_restart.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_365_restart.png'
 }
 ".glyphicons_security_camera":{
-    image:'glyphicons/glyphicons/png/glyphicons_366_security_camera.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_366_security_camera.png'
 }
 ".glyphicons_expand":{
-    image:'glyphicons/glyphicons/png/glyphicons_367_expand.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_367_expand.png'
 }
 ".glyphicons_collapse":{
-    image:'glyphicons/glyphicons/png/glyphicons_368_collapse.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_368_collapse.png'
 }
 ".glyphicons_collapse_top":{
-    image:'glyphicons/glyphicons/png/glyphicons_369_collapse_top.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_369_collapse_top.png'
 }
 ".glyphicons_globe_af":{
-    image:'glyphicons/glyphicons/png/glyphicons_370_globe_af.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_370_globe_af.png'
 }
 ".glyphicons_global":{
-    image:'glyphicons/glyphicons/png/glyphicons_371_global.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_371_global.png'
 }
 ".glyphicons_spray":{
-    image:'glyphicons/glyphicons/png/glyphicons_372_spray.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_372_spray.png'
 }
 ".glyphicons_nails":{
-    image:'glyphicons/glyphicons/png/glyphicons_373_nails.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_373_nails.png'
 }
 ".glyphicons_claw_hammer":{
-    image:'glyphicons/glyphicons/png/glyphicons_374_claw_hammer.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_374_claw_hammer.png'
 }
 ".glyphicons_classic_hammer":{
-    image:'glyphicons/glyphicons/png/glyphicons_375_classic_hammer.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_375_classic_hammer.png'
 }
 ".glyphicons_hand_saw":{
-    image:'glyphicons/glyphicons/png/glyphicons_376_hand_saw.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_376_hand_saw.png'
 }
 ".glyphicons_riflescope":{
-    image:'glyphicons/glyphicons/png/glyphicons_377_riflescope.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_377_riflescope.png'
 }
 ".glyphicons_electrical_socket_eu":{
-    image:'glyphicons/glyphicons/png/glyphicons_378_electrical_socket_eu.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_378_electrical_socket_eu.png'
 }
 ".glyphicons_electrical_socket_us":{
-    image:'glyphicons/glyphicons/png/glyphicons_379_electrical_socket_us.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_379_electrical_socket_us.png'
 }
 ".glyphicons_message_forward":{
-    image:'glyphicons/glyphicons/png/glyphicons_380_message_forward.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_380_message_forward.png'
 }
 ".glyphicons_coat_hanger":{
-    image:'glyphicons/glyphicons/png/glyphicons_381_coat_hanger.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_381_coat_hanger.png'
 }
 ".glyphicons_dress":{
-    image:'glyphicons/glyphicons/png/glyphicons_382_dress.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_382_dress.png'
 }
 ".glyphicons_bathrobe":{
-    image:'glyphicons/glyphicons/png/glyphicons_383_bathrobe.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_383_bathrobe.png'
 }
 ".glyphicons_shirt":{
-    image:'glyphicons/glyphicons/png/glyphicons_384_shirt.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_384_shirt.png'
 }
 ".glyphicons_underwear":{
-    image:'glyphicons/glyphicons/png/glyphicons_385_underwear.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_385_underwear.png'
 }
 ".glyphicons_log_in":{
-    image:'glyphicons/glyphicons/png/glyphicons_386_log_in.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_386_log_in.png'
 }
 ".glyphicons_log_out":{
-    image:'glyphicons/glyphicons/png/glyphicons_387_log_out.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_387_log_out.png'
 }
 ".glyphicons_exit":{
-    image:'glyphicons/glyphicons/png/glyphicons_388_exit.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_388_exit.png'
 }
 ".glyphicons_new_window_alt":{
-    image:'glyphicons/glyphicons/png/glyphicons_389_new_window_alt.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_389_new_window_alt.png'
 }
 ".glyphicons_video_sd":{
-    image:'glyphicons/glyphicons/png/glyphicons_390_video_sd.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_390_video_sd.png'
 }
 ".glyphicons_video_hd":{
-    image:'glyphicons/glyphicons/png/glyphicons_391_video_hd.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_391_video_hd.png'
 }
 ".glyphicons_subtitles":{
-    image:'glyphicons/glyphicons/png/glyphicons_392_subtitles.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_392_subtitles.png'
 }
 ".glyphicons_sound_stereo":{
-    image:'glyphicons/glyphicons/png/glyphicons_393_sound_stereo.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_393_sound_stereo.png'
 }
 ".glyphicons_sound_dolby":{
-    image:'glyphicons/glyphicons/png/glyphicons_394_sound_dolby.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_394_sound_dolby.png'
 }
 ".glyphicons_sound_5_1":{
-    image:'glyphicons/glyphicons/png/glyphicons_395_sound_5_1.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_395_sound_5_1.png'
 }
 ".glyphicons_sound_6_1":{
-    image:'glyphicons/glyphicons/png/glyphicons_396_sound_6_1.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_396_sound_6_1.png'
 }
 ".glyphicons_sound_7_1":{
-    image:'glyphicons/glyphicons/png/glyphicons_397_sound_7_1.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_397_sound_7_1.png'
 }
 ".glyphicons_copyright_mark":{
-    image:'glyphicons/glyphicons/png/glyphicons_398_copyright_mark.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_398_copyright_mark.png'
 }
 ".glyphicons_registration_mark":{
-    image:'glyphicons/glyphicons/png/glyphicons_399_registration_mark.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_399_registration_mark.png'
 }
 ".glyphicons_radar":{
-    image:'glyphicons/glyphicons/png/glyphicons_400_radar.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_400_radar.png'
 }
 ".glyphicons_skateboard":{
-    image:'glyphicons/glyphicons/png/glyphicons_401_skateboard.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_401_skateboard.png'
 }
 ".glyphicons_golf_course":{
-    image:'glyphicons/glyphicons/png/glyphicons_402_golf_course.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_402_golf_course.png'
 }
 ".glyphicons_sorting":{
-    image:'glyphicons/glyphicons/png/glyphicons_403_sorting.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_403_sorting.png'
 }
 ".glyphicons_sort-by-alphabet":{
-    image:'glyphicons/glyphicons/png/glyphicons_404_sort-by-alphabet.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_404_sort-by-alphabet.png'
 }
 ".glyphicons_sort-by-alphabet-alt":{
-    image:'glyphicons/glyphicons/png/glyphicons_405_sort-by-alphabet-alt.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_405_sort-by-alphabet-alt.png'
 }
 ".glyphicons_sort-by-order":{
-    image:'glyphicons/glyphicons/png/glyphicons_406_sort-by-order.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_406_sort-by-order.png'
 }
 ".glyphicons_sort-by-order-alt":{
-    image:'glyphicons/glyphicons/png/glyphicons_407_sort-by-order-alt.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_407_sort-by-order-alt.png'
 }
 ".glyphicons_sort-by-attributes":{
-    image:'glyphicons/glyphicons/png/glyphicons_408_sort-by-attributes.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_408_sort-by-attributes.png'
 }
 ".glyphicons_sort-by-attributes-alt":{
-    image:'glyphicons/glyphicons/png/glyphicons_409_sort-by-attributes-alt.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_409_sort-by-attributes-alt.png'
 }
 ".glyphicons_compressed":{
-    image:'glyphicons/glyphicons/png/glyphicons_410_compressed.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_410_compressed.png'
 }
 ".glyphicons_package":{
-    image:'glyphicons/glyphicons/png/glyphicons_411_package.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_411_package.png'
 }
 ".glyphicons_cloud_plus":{
-    image:'glyphicons/glyphicons/png/glyphicons_412_cloud_plus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_412_cloud_plus.png'
 }
 ".glyphicons_cloud_minus":{
-    image:'glyphicons/glyphicons/png/glyphicons_413_cloud_minus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_413_cloud_minus.png'
 }
 ".glyphicons_disk_save":{
-    image:'glyphicons/glyphicons/png/glyphicons_414_disk_save.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_414_disk_save.png'
 }
 ".glyphicons_disk_open":{
-    image:'glyphicons/glyphicons/png/glyphicons_415_disk_open.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_415_disk_open.png'
 }
 ".glyphicons_disk_saved":{
-    image:'glyphicons/glyphicons/png/glyphicons_416_disk_saved.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_416_disk_saved.png'
 }
 ".glyphicons_disk_remove":{
-    image:'glyphicons/glyphicons/png/glyphicons_417_disk_remove.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_417_disk_remove.png'
 }
 ".glyphicons_disk_import":{
-    image:'glyphicons/glyphicons/png/glyphicons_418_disk_import.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_418_disk_import.png'
 }
 ".glyphicons_disk_export":{
-    image:'glyphicons/glyphicons/png/glyphicons_419_disk_export.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_419_disk_export.png'
 }
 ".glyphicons_tower":{
-    image:'glyphicons/glyphicons/png/glyphicons_420_tower.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_420_tower.png'
 }
 ".glyphicons_send":{
-    image:'glyphicons/glyphicons/png/glyphicons_421_send.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_421_send.png'
 }
 ".glyphicons_git_branch":{
-    image:'glyphicons/glyphicons/png/glyphicons_422_git_branch.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_422_git_branch.png'
 }
 ".glyphicons_git_create":{
-    image:'glyphicons/glyphicons/png/glyphicons_423_git_create.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_423_git_create.png'
 }
 ".glyphicons_git_private":{
-    image:'glyphicons/glyphicons/png/glyphicons_424_git_private.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_424_git_private.png'
 }
 ".glyphicons_git_delete":{
-    image:'glyphicons/glyphicons/png/glyphicons_425_git_delete.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_425_git_delete.png'
 }
 ".glyphicons_git_merge":{
-    image:'glyphicons/glyphicons/png/glyphicons_426_git_merge.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_426_git_merge.png'
 }
 ".glyphicons_git_pull_request":{
-    image:'glyphicons/glyphicons/png/glyphicons_427_git_pull_request.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_427_git_pull_request.png'
 }
 ".glyphicons_git_compare":{
-    image:'glyphicons/glyphicons/png/glyphicons_428_git_compare.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_428_git_compare.png'
 }
 ".glyphicons_git_commit":{
-    image:'glyphicons/glyphicons/png/glyphicons_429_git_commit.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_429_git_commit.png'
 }
 ".glyphicons_construction_cone":{
-    image:'glyphicons/glyphicons/png/glyphicons_430_construction_cone.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_430_construction_cone.png'
 }
 ".glyphicons_shoe_steps":{
-    image:'glyphicons/glyphicons/png/glyphicons_431_shoe_steps.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_431_shoe_steps.png'
 }
 ".glyphicons_plus":{
-    image:'glyphicons/glyphicons/png/glyphicons_432_plus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_432_plus.png'
 }
 ".glyphicons_minus":{
-    image:'glyphicons/glyphicons/png/glyphicons_433_minus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_433_minus.png'
 }
 ".glyphicons_redo":{
-    image:'glyphicons/glyphicons/png/glyphicons_434_redo.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_434_redo.png'
 }
 ".glyphicons_undo":{
-    image:'glyphicons/glyphicons/png/glyphicons_435_undo.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_435_undo.png'
 }
 ".glyphicons_golf":{
-    image:'glyphicons/glyphicons/png/glyphicons_436_golf.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_436_golf.png'
 }
 ".glyphicons_hockey":{
-    image:'glyphicons/glyphicons/png/glyphicons_437_hockey.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_437_hockey.png'
 }
 ".glyphicons_pipe":{
-    image:'glyphicons/glyphicons/png/glyphicons_438_pipe.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_438_pipe.png'
 }
 ".glyphicons_wrench":{
-    image:'glyphicons/glyphicons/png/glyphicons_439_wrench.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_439_wrench.png'
 }
 ".glyphicons_folder_closed":{
-    image:'glyphicons/glyphicons/png/glyphicons_440_folder_closed.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_440_folder_closed.png'
 }
 ".glyphicons_phone_alt":{
-    image:'glyphicons/glyphicons/png/glyphicons_441_phone_alt.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_441_phone_alt.png'
 }
 ".glyphicons_earphone":{
-    image:'glyphicons/glyphicons/png/glyphicons_442_earphone.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_442_earphone.png'
 }
 ".glyphicons_floppy_disk":{
-    image:'glyphicons/glyphicons/png/glyphicons_443_floppy_disk.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_443_floppy_disk.png'
 }
 ".glyphicons_floppy_saved":{
-    image:'glyphicons/glyphicons/png/glyphicons_444_floppy_saved.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_444_floppy_saved.png'
 }
 ".glyphicons_floppy_remove":{
-    image:'glyphicons/glyphicons/png/glyphicons_445_floppy_remove.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_445_floppy_remove.png'
 }
 ".glyphicons_floppy_save":{
-    image:'glyphicons/glyphicons/png/glyphicons_446_floppy_save.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_446_floppy_save.png'
 }
 ".glyphicons_floppy_open":{
-    image:'glyphicons/glyphicons/png/glyphicons_447_floppy_open.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_447_floppy_open.png'
 }
 ".glyphicons_translate":{
-    image:'glyphicons/glyphicons/png/glyphicons_448_translate.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_448_translate.png'
 }
 ".glyphicons_fax":{
-    image:'glyphicons/glyphicons/png/glyphicons_449_fax.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_449_fax.png'
 }
 ".glyphicons_factory":{
-    image:'glyphicons/glyphicons/png/glyphicons_450_factory.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_450_factory.png'
 }
 ".glyphicons_shop_window":{
-    image:'glyphicons/glyphicons/png/glyphicons_451_shop_window.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_451_shop_window.png'
 }
 ".glyphicons_shop":{
-    image:'glyphicons/glyphicons/png/glyphicons_452_shop.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_452_shop.png'
 }
 ".glyphicons_kiosk":{
-    image:'glyphicons/glyphicons/png/glyphicons_453_kiosk.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_453_kiosk.png'
 }
 ".glyphicons_kiosk_wheels":{
-    image:'glyphicons/glyphicons/png/glyphicons_454_kiosk_wheels.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_454_kiosk_wheels.png'
 }
 ".glyphicons_kiosk_light":{
-    image:'glyphicons/glyphicons/png/glyphicons_455_kiosk_light.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_455_kiosk_light.png'
 }
 ".glyphicons_kiosk_food":{
-    image:'glyphicons/glyphicons/png/glyphicons_456_kiosk_food.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_456_kiosk_food.png'
 }
 ".glyphicons_transfer":{
-    image:'glyphicons/glyphicons/png/glyphicons_457_transfer.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_457_transfer.png'
 }
 ".glyphicons_money":{
-    image:'glyphicons/glyphicons/png/glyphicons_458_money.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_458_money.png'
 }
 ".glyphicons_header":{
-    image:'glyphicons/glyphicons/png/glyphicons_459_header.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_459_header.png'
 }
 ".glyphicons_blacksmith":{
-    image:'glyphicons/glyphicons/png/glyphicons_460_blacksmith.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_460_blacksmith.png'
 }
 ".glyphicons_saw_blade":{
-    image:'glyphicons/glyphicons/png/glyphicons_461_saw_blade.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_461_saw_blade.png'
 }
 ".glyphicons_basketball":{
-    image:'glyphicons/glyphicons/png/glyphicons_462_basketball.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_462_basketball.png'
 }
 ".glyphicons_server":{
-    image:'glyphicons/glyphicons/png/glyphicons_463_server.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_463_server.png'
 }
 ".glyphicons_server_plus":{
-    image:'glyphicons/glyphicons/png/glyphicons_464_server_plus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_464_server_plus.png'
 }
 ".glyphicons_server_minus":{
-    image:'glyphicons/glyphicons/png/glyphicons_465_server_minus.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_465_server_minus.png'
 }
 ".glyphicons_server_ban":{
-    image:'glyphicons/glyphicons/png/glyphicons_466_server_ban.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_466_server_ban.png'
 }
 ".glyphicons_server_flag":{
-    image:'glyphicons/glyphicons/png/glyphicons_467_server_flag.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_467_server_flag.png'
 }
 ".glyphicons_server_lock":{
-    image:'glyphicons/glyphicons/png/glyphicons_468_server_lock.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_468_server_lock.png'
 }
 ".glyphicons_server_new":{
-    image:'glyphicons/glyphicons/png/glyphicons_469_server_new.png'
+    image:'/glyphicons/glyphicons/png/glyphicons_469_server_new.png'
 }
 
 // Glyphicons - Social
 ".glyphicons-pinterest":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_00_pinterest.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_00_pinterest.png'
 }
 ".glyphicons-dropbox":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_01_dropbox.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_01_dropbox.png'
 }
 ".glyphicons-google_plus":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_02_google_plus.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_02_google_plus.png'
 }
 ".glyphicons-jolicloud":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_03_jolicloud.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_03_jolicloud.png'
 }
 ".glyphicons-yahoo":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_04_yahoo.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_04_yahoo.png'
 }
 ".glyphicons-blogger":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_05_blogger.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_05_blogger.png'
 }
 ".glyphicons-picasa":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_06_picasa.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_06_picasa.png'
 }
 ".glyphicons-amazon":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_07_amazon.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_07_amazon.png'
 }
 ".glyphicons-tumblr":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_08_tumblr.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_08_tumblr.png'
 }
 ".glyphicons-wordpress":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_09_wordpress.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_09_wordpress.png'
 }
 ".glyphicons-instapaper":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_10_instapaper.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_10_instapaper.png'
 }
 ".glyphicons-evernote":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_11_evernote.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_11_evernote.png'
 }
 ".glyphicons-xing":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_12_xing.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_12_xing.png'
 }
 ".glyphicons-zootool":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_13_zootool.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_13_zootool.png'
 }
 ".glyphicons-dribbble":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_14_dribbble.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_14_dribbble.png'
 }
 ".glyphicons-deviantart":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_15_deviantart.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_15_deviantart.png'
 }
 ".glyphicons-read_it_later":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_16_read_it_later.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_16_read_it_later.png'
 }
 ".glyphicons-linked_in":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_17_linked_in.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_17_linked_in.png'
 }
 ".glyphicons-forrst":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_18_forrst.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_18_forrst.png'
 }
 ".glyphicons-pinboard":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_19_pinboard.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_19_pinboard.png'
 }
 ".glyphicons-behance":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_20_behance.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_20_behance.png'
 }
 ".glyphicons-github":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_21_github.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_21_github.png'
 }
 ".glyphicons-youtube":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_22_youtube.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_22_youtube.png'
 }
 ".glyphicons-skitch":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_23_skitch.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_23_skitch.png'
 }
 ".glyphicons-4square":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_24_4square.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_24_4square.png'
 }
 ".glyphicons-quora":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_25_quora.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_25_quora.png'
 }
 ".glyphicons-badoo":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_26_badoo.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_26_badoo.png'
 }
 ".glyphicons-spotify":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_27_spotify.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_27_spotify.png'
 }
 ".glyphicons-stumbleupon":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_28_stumbleupon.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_28_stumbleupon.png'
 }
 ".glyphicons-readability":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_29_readability.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_29_readability.png'
 }
 ".glyphicons-facebook":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_30_facebook.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_30_facebook.png'
 }
 ".glyphicons-twitter":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_31_twitter.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_31_twitter.png'
 }
 ".glyphicons-instagram":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_32_instagram.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_32_instagram.png'
 }
 ".glyphicons-posterous_spaces":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_33_posterous_spaces.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_33_posterous_spaces.png'
 }
 ".glyphicons-vimeo":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_34_vimeo.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_34_vimeo.png'
 }
 ".glyphicons-flickr":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_35_flickr.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_35_flickr.png'
 }
 ".glyphicons-last_fm":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_36_last_fm.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_36_last_fm.png'
 }
 ".glyphicons-rss":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_37_rss.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_37_rss.png'
 }
 ".glyphicons-skype":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_38_skype.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_38_skype.png'
 }
 ".glyphicons-e-mail":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_39_e-mail.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_39_e-mail.png'
 }
 ".glyphicons-vine":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_40_vine.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_40_vine.png'
 }
 ".glyphicons-myspace":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_41_myspace.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_41_myspace.png'
 }
 ".glyphicons-goodreads":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_42_goodreads.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_42_goodreads.png'
 }
 ".glyphicons-apple":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_43_apple.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_43_apple.png'
 }
 ".glyphicons-windows":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_44_windows.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_44_windows.png'
 }
 ".glyphicons-yelp":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_45_yelp.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_45_yelp.png'
 }
 ".glyphicons-playstation":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_46_playstation.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_46_playstation.png'
 }
 ".glyphicons-xbox":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_47_xbox.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_47_xbox.png'
 }
 ".glyphicons-android":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_48_android.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_48_android.png'
 }
 ".glyphicons-ios":{
-    image:'glyphicons/glyphicons_social/png/glyphicons_social_49_ios.png'
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_49_ios.png'
 }
 
 // Custom
 ".btn-drawer-icon":{
-    image:'drawer-icon.png'
+    image:'/drawer-icon.png'
 }
 
 // iOS System Button
@@ -11111,904 +11111,904 @@
 }
 // Background helpers
 ".bg-0":{
-    backgroundImage: 'background-opacity-0.png'
+    backgroundImage: '/background-opacity-0.png'
 }
 ".bg-25":{
-    backgroundImage: 'background-opacity-25.png'
+    backgroundImage: '/background-opacity-25.png'
 }
 ".bg-50":{
-    backgroundImage: 'background-opacity-50.png'
+    backgroundImage: '/background-opacity-50.png'
 }
 ".bg-75":{
-    backgroundImage: 'background-opacity-75.png'
+    backgroundImage: '/background-opacity-75.png'
 }
 
 // bg-color helper
 ".bg-muted": {
-  backgroundColor: "999999"
+  backgroundColor: "#999999"
 }
 
 ".bg-primary": {
-  backgroundColor: "428bca"
+  backgroundColor: "#428bca"
 }
 
 ".bg-warning": {
-  backgroundColor: "c09853"
+  backgroundColor: "#c09853"
 }
 
 ".bg-danger": {
-  backgroundColor: "b94a48"
+  backgroundColor: "#b94a48"
 }
 
 ".bg-success": {
-  backgroundColor: "468847"
+  backgroundColor: "#468847"
 }
 
 ".bg-info": {
-  backgroundColor: "3a87ad"
+  backgroundColor: "#3a87ad"
 }
 ".bg-transparent":{
     backgroundColor: 'transparent'
 }
 ".bg-aliceblue":{
-    backgroundColor: 'F0F8FF'
+    backgroundColor: '#F0F8FF'
 }
 ".bg-antiquewhite":{
-    backgroundColor: 'FAEBD7'
+    backgroundColor: '#FAEBD7'
 }
 ".bg-aqua":{
-    backgroundColor: '00FFFF'
+    backgroundColor: '#00FFFF'
 }
 ".bg-aquamarine":{
-    backgroundColor: '7FFFD4'
+    backgroundColor: '#7FFFD4'
 }
 ".bg-azure":{
-    backgroundColor: 'F0FFFF'
+    backgroundColor: '#F0FFFF'
 }
 ".bg-beige":{
-    backgroundColor: 'F5F5DC'
+    backgroundColor: '#F5F5DC'
 }
 ".bg-bisque":{
-    backgroundColor: 'FFE4C4'
+    backgroundColor: '#FFE4C4'
 }
 ".bg-black":{
-    backgroundColor: '000000'
+    backgroundColor: '#000000'
 }
 ".bg-blanchedalmond":{
-    backgroundColor: 'FFEBCD'
+    backgroundColor: '#FFEBCD'
 }
 ".bg-blue":{
-    backgroundColor: '0000FF'
+    backgroundColor: '#0000FF'
 }
 ".bg-blueviolet":{
-    backgroundColor: '8A2BE2'
+    backgroundColor: '#8A2BE2'
 }
 ".bg-brown":{
-    backgroundColor: 'A52A2A'
+    backgroundColor: '#A52A2A'
 }
 ".bg-burlywood":{
-    backgroundColor: 'DEB887'
+    backgroundColor: '#DEB887'
 }
 ".bg-cadetblue":{
-    backgroundColor: '5F9EA0'
+    backgroundColor: '#5F9EA0'
 }
 ".bg-chartreuse":{
-    backgroundColor: '7FFF00'
+    backgroundColor: '#7FFF00'
 }
 ".bg-chocolate":{
-    backgroundColor: 'D2691E'
+    backgroundColor: '#D2691E'
 }
 ".bg-coral":{
-    backgroundColor: 'FF7F50'
+    backgroundColor: '#FF7F50'
 }
 ".bg-cornflowerblue":{
-    backgroundColor: '6495ED'
+    backgroundColor: '#6495ED'
 }
 ".bg-cornsilk":{
-    backgroundColor: 'FFF8DC'
+    backgroundColor: '#FFF8DC'
 }
 ".bg-crimson":{
-    backgroundColor: 'DC143C'
+    backgroundColor: '#DC143C'
 }
 ".bg-cyan":{
-    backgroundColor: '00FFFF'
+    backgroundColor: '#00FFFF'
 }
 ".bg-darkblue":{
-    backgroundColor: '00008B'
+    backgroundColor: '#00008B'
 }
 ".bg-darkcyan":{
-    backgroundColor: '008B8B'
+    backgroundColor: '#008B8B'
 }
 ".bg-darkgoldenrod":{
-    backgroundColor: 'B8860B'
+    backgroundColor: '#B8860B'
 }
 ".bg-darkgray":{
-    backgroundColor: 'A9A9A9'
+    backgroundColor: '#A9A9A9'
 }
 ".bg-darkgreen":{
-    backgroundColor: '006400'
+    backgroundColor: '#006400'
 }
 ".bg-darkkhaki":{
-    backgroundColor: 'BDB76B'
+    backgroundColor: '#BDB76B'
 }
 ".bg-darkmagenta":{
-    backgroundColor: '8B008B'
+    backgroundColor: '#8B008B'
 }
 ".bg-darkolivegreen":{
-    backgroundColor: '556B2F'
+    backgroundColor: '#556B2F'
 }
 ".bg-darkorange":{
-    backgroundColor: 'FF8C00'
+    backgroundColor: '#FF8C00'
 }
 ".bg-darkorchid":{
-    backgroundColor: '9932CC'
+    backgroundColor: '#9932CC'
 }
 ".bg-darkred":{
-    backgroundColor: '8B0000'
+    backgroundColor: '#8B0000'
 }
 ".bg-darksalmon":{
-    backgroundColor: 'E9967A'
+    backgroundColor: '#E9967A'
 }
 ".bg-darkseagreen":{
-    backgroundColor: '8FBC8F'
+    backgroundColor: '#8FBC8F'
 }
 ".bg-darkslateblue":{
-    backgroundColor: '483D8B'
+    backgroundColor: '#483D8B'
 }
 ".bg-darkslategray":{
-    backgroundColor: '2F4F4F'
+    backgroundColor: '#2F4F4F'
 }
 ".bg-darkturquoise":{
-    backgroundColor: '00CED1'
+    backgroundColor: '#00CED1'
 }
 ".bg-darkviolet":{
-    backgroundColor: '9400D3'
+    backgroundColor: '#9400D3'
 }
 ".bg-deeppink":{
-    backgroundColor: 'FF1493'
+    backgroundColor: '#FF1493'
 }
 ".bg-deepskyblue":{
-    backgroundColor: '00BFFF'
+    backgroundColor: '#00BFFF'
 }
 ".bg-dimgray":{
-    backgroundColor: '696969'
+    backgroundColor: '#696969'
 }
 ".bg-dodgerblue":{
-    backgroundColor: '1E90FF'
+    backgroundColor: '#1E90FF'
 }
 ".bg-firebrick":{
-    backgroundColor: 'B22222'
+    backgroundColor: '#B22222'
 }
 ".bg-floralwhite":{
-    backgroundColor: 'FFFAF0'
+    backgroundColor: '#FFFAF0'
 }
 ".bg-forestgreen":{
-    backgroundColor: '228B22'
+    backgroundColor: '#228B22'
 }
 ".bg-fuchsia":{
-    backgroundColor: 'FF00FF'
+    backgroundColor: '#FF00FF'
 }
 ".bg-gainsboro":{
-    backgroundColor: 'DCDCDC'
+    backgroundColor: '#DCDCDC'
 }
 ".bg-ghostwhite":{
-    backgroundColor: 'F8F8FF'
+    backgroundColor: '#F8F8FF'
 }
 ".bg-gold":{
-    backgroundColor: 'FFD700'
+    backgroundColor: '#FFD700'
 }
 ".bg-goldenrod":{
-    backgroundColor: 'DAA520'
+    backgroundColor: '#DAA520'
 }
 ".bg-gray":{
-    backgroundColor: '808080'
+    backgroundColor: '#808080'
 }
 ".bg-green":{
-    backgroundColor: '008000'
+    backgroundColor: '#008000'
 }
 ".bg-greenyellow":{
-    backgroundColor: 'ADFF2F'
+    backgroundColor: '#ADFF2F'
 }
 ".bg-honeydew":{
-    backgroundColor: 'F0FFF0'
+    backgroundColor: '#F0FFF0'
 }
 ".bg-hotpink":{
-    backgroundColor: 'FF69B4'
+    backgroundColor: '#FF69B4'
 }
 ".bg-indianred":{
-    backgroundColor: 'CD5C5C'
+    backgroundColor: '#CD5C5C'
 }
 ".bg-indigo":{
-    backgroundColor: '4B0082'
+    backgroundColor: '#4B0082'
 }
 ".bg-ivory":{
-    backgroundColor: 'FFFFF0'
+    backgroundColor: '#FFFFF0'
 }
 ".bg-khaki":{
-    backgroundColor: 'F0E68C'
+    backgroundColor: '#F0E68C'
 }
 ".bg-lavender":{
-    backgroundColor: 'E6E6FA'
+    backgroundColor: '#E6E6FA'
 }
 ".bg-lavenderblush":{
-    backgroundColor: 'FFF0F5'
+    backgroundColor: '#FFF0F5'
 }
 ".bg-lawngreen":{
-    backgroundColor: '7CFC00'
+    backgroundColor: '#7CFC00'
 }
 ".bg-lemonchiffon":{
-    backgroundColor: 'FFFACD'
+    backgroundColor: '#FFFACD'
 }
 ".bg-lightblue":{
-    backgroundColor: 'ADD8E6'
+    backgroundColor: '#ADD8E6'
 }
 ".bg-lightcoral":{
-    backgroundColor: 'F08080'
+    backgroundColor: '#F08080'
 }
 ".bg-lightcyan":{
-    backgroundColor: 'E0FFFF'
+    backgroundColor: '#E0FFFF'
 }
 ".bg-lightgoldenrodyellow":{
-    backgroundColor: 'FAFAD2'
+    backgroundColor: '#FAFAD2'
 }
 ".bg-lightgray":{
-    backgroundColor: 'D3D3D3'
+    backgroundColor: '#D3D3D3'
 }
 ".bg-lightgreen":{
-    backgroundColor: '90EE90'
+    backgroundColor: '#90EE90'
 }
 ".bg-lightpink":{
-    backgroundColor: 'FFB6C1'
+    backgroundColor: '#FFB6C1'
 }
 ".bg-lightsalmon":{
-    backgroundColor: 'FFA07A'
+    backgroundColor: '#FFA07A'
 }
 ".bg-lightseagreen":{
-    backgroundColor: '20B2AA'
+    backgroundColor: '#20B2AA'
 }
 ".bg-lightskyblue":{
-    backgroundColor: '87CEFA'
+    backgroundColor: '#87CEFA'
 }
 ".bg-lightslategray":{
-    backgroundColor: '778899'
+    backgroundColor: '#778899'
 }
 ".bg-lightsteelblue":{
-    backgroundColor: 'B0C4DE'
+    backgroundColor: '#B0C4DE'
 }
 ".bg-lightyellow":{
-    backgroundColor: 'FFFFE0'
+    backgroundColor: '#FFFFE0'
 }
 ".bg-lime":{
-    backgroundColor: '00FF00'
+    backgroundColor: '#00FF00'
 }
 ".bg-limegreen":{
-    backgroundColor: '32CD32'
+    backgroundColor: '#32CD32'
 }
 ".bg-linen":{
-    backgroundColor: 'FAF0E6'
+    backgroundColor: '#FAF0E6'
 }
 ".bg-magenta":{
-    backgroundColor: 'FF00FF'
+    backgroundColor: '#FF00FF'
 }
 ".bg-maroon":{
-    backgroundColor: '800000'
+    backgroundColor: '#800000'
 }
 ".bg-mediumaquamarine":{
-    backgroundColor: '66CDAA'
+    backgroundColor: '#66CDAA'
 }
 ".bg-mediumblue":{
-    backgroundColor: '0000CD'
+    backgroundColor: '#0000CD'
 }
 ".bg-mediumorchid":{
-    backgroundColor: 'BA55D3'
+    backgroundColor: '#BA55D3'
 }
 ".bg-mediumpurple":{
-    backgroundColor: '9370DB'
+    backgroundColor: '#9370DB'
 }
 ".bg-mediumseagreen":{
-    backgroundColor: '3CB371'
+    backgroundColor: '#3CB371'
 }
 ".bg-mediumslateblue":{
-    backgroundColor: '7B68EE'
+    backgroundColor: '#7B68EE'
 }
 ".bg-mediumspringgreen":{
-    backgroundColor: '00FA9A'
+    backgroundColor: '#00FA9A'
 }
 ".bg-mediumturquoise":{
-    backgroundColor: '48D1CC'
+    backgroundColor: '#48D1CC'
 }
 ".bg-mediumvioletred":{
-    backgroundColor: 'C71585'
+    backgroundColor: '#C71585'
 }
 ".bg-midnightblue":{
-    backgroundColor: '191970'
+    backgroundColor: '#191970'
 }
 ".bg-mintcream":{
-    backgroundColor: 'F5FFFA'
+    backgroundColor: '#F5FFFA'
 }
 ".bg-mistyrose":{
-    backgroundColor: 'FFE4E1'
+    backgroundColor: '#FFE4E1'
 }
 ".bg-moccasin":{
-    backgroundColor: 'FFE4B5'
+    backgroundColor: '#FFE4B5'
 }
 ".bg-navajowhite":{
-    backgroundColor: 'FFDEAD'
+    backgroundColor: '#FFDEAD'
 }
 ".bg-navy":{
-    backgroundColor: '000080'
+    backgroundColor: '#000080'
 }
 ".bg-oldlace":{
-    backgroundColor: 'FDF5E6'
+    backgroundColor: '#FDF5E6'
 }
 ".bg-olive":{
-    backgroundColor: '808000'
+    backgroundColor: '#808000'
 }
 ".bg-olivedrab":{
-    backgroundColor: '6B8E23'
+    backgroundColor: '#6B8E23'
 }
 ".bg-orange":{
-    backgroundColor: 'FFA500'
+    backgroundColor: '#FFA500'
 }
 ".bg-orangered":{
-    backgroundColor: 'FF4500'
+    backgroundColor: '#FF4500'
 }
 ".bg-orchid":{
-    backgroundColor: 'DA70D6'
+    backgroundColor: '#DA70D6'
 }
 ".bg-palegoldenrod":{
-    backgroundColor: 'EEE8AA'
+    backgroundColor: '#EEE8AA'
 }
 ".bg-palegreen":{
-    backgroundColor: '98FB98'
+    backgroundColor: '#98FB98'
 }
 ".bg-paleturquoise":{
-    backgroundColor: 'AFEEEE'
+    backgroundColor: '#AFEEEE'
 }
 ".bg-palevioletred":{
-    backgroundColor: 'DB7093'
+    backgroundColor: '#DB7093'
 }
 ".bg-papayawhip":{
-    backgroundColor: 'FFEFD5'
+    backgroundColor: '#FFEFD5'
 }
 ".bg-peachpuff":{
-    backgroundColor: 'FFDAB9'
+    backgroundColor: '#FFDAB9'
 }
 ".bg-peru":{
-    backgroundColor: 'CD853F'
+    backgroundColor: '#CD853F'
 }
 ".bg-pink":{
-    backgroundColor: 'FFC0CB'
+    backgroundColor: '#FFC0CB'
 }
 ".bg-plum":{
-    backgroundColor: 'DDA0DD'
+    backgroundColor: '#DDA0DD'
 }
 ".bg-powderblue":{
-    backgroundColor: 'B0E0E6'
+    backgroundColor: '#B0E0E6'
 }
 ".bg-purple":{
-    backgroundColor: '800080'
+    backgroundColor: '#800080'
 }
 ".bg-red":{
-    backgroundColor: 'FF0000'
+    backgroundColor: '#FF0000'
 }
 ".bg-rosybrown":{
-    backgroundColor: 'BC8F8F'
+    backgroundColor: '#BC8F8F'
 }
 ".bg-royalblue":{
-    backgroundColor: '4169E1'
+    backgroundColor: '#4169E1'
 }
 ".bg-saddlebrown":{
-    backgroundColor: '8B4513'
+    backgroundColor: '#8B4513'
 }
 ".bg-salmon":{
-    backgroundColor: 'FA8072'
+    backgroundColor: '#FA8072'
 }
 ".bg-sandybrown":{
-    backgroundColor: 'F4A460'
+    backgroundColor: '#F4A460'
 }
 ".bg-seagreen":{
-    backgroundColor: '2E8B57'
+    backgroundColor: '#2E8B57'
 }
 ".bg-seashell":{
-    backgroundColor: 'FFF5EE'
+    backgroundColor: '#FFF5EE'
 }
 ".bg-sienna":{
-    backgroundColor: 'A0522D'
+    backgroundColor: '#A0522D'
 }
 ".bg-silver":{
-    backgroundColor: 'C0C0C0'
+    backgroundColor: '#C0C0C0'
 }
 ".bg-skyblue":{
-    backgroundColor: '87CEEB'
+    backgroundColor: '#87CEEB'
 }
 ".bg-slateblue":{
-    backgroundColor: '6A5ACD'
+    backgroundColor: '#6A5ACD'
 }
 ".bg-slategray":{
-    backgroundColor: '708090'
+    backgroundColor: '#708090'
 }
 ".bg-snow":{
-    backgroundColor: 'FFFAFA'
+    backgroundColor: '#FFFAFA'
 }
 ".bg-springgreen":{
-    backgroundColor: '00FF7F'
+    backgroundColor: '#00FF7F'
 }
 ".bg-steelblue":{
-    backgroundColor: '4682B4'
+    backgroundColor: '#4682B4'
 }
 ".bg-tan":{
-    backgroundColor: 'D2B48C'
+    backgroundColor: '#D2B48C'
 }
 ".bg-teal":{
-    backgroundColor: '008080'
+    backgroundColor: '#008080'
 }
 ".bg-thistle":{
-    backgroundColor: 'D8BFD8'
+    backgroundColor: '#D8BFD8'
 }
 ".bg-tomato":{
-    backgroundColor: 'FF6347'
+    backgroundColor: '#FF6347'
 }
 ".bg-turquoise":{
-    backgroundColor: '40E0D0'
+    backgroundColor: '#40E0D0'
 }
 ".bg-violet":{
-    backgroundColor: 'EE82EE'
+    backgroundColor: '#EE82EE'
 }
 ".bg-wheat":{
-    backgroundColor: 'F5DEB3'
+    backgroundColor: '#F5DEB3'
 }
 ".bg-white":{
-    backgroundColor: 'FFFFFF'
+    backgroundColor: '#FFFFFF'
 }
 ".bg-whitesmoke":{
-    backgroundColor: 'F5F5F5'
+    backgroundColor: '#F5F5F5'
 }
 ".bg-yellow":{
-    backgroundColor: 'FFFF00'
+    backgroundColor: '#FFFF00'
 }
 ".bg-yellowgreen":{
-    backgroundColor: '9ACD32'
+    backgroundColor: '#9ACD32'
 }
 
 // Colors
 ".color-muted": {
-  color: "999999"
+  color: "#999999"
 }
 ".color-primary": {
-  color: "428bca"
+  color: "#428bca"
 }
 ".color-warning": {
-  color: "c09853"
+  color: "#c09853"
 }
 ".color-danger": {
-  color: "b94a48"
+  color: "#b94a48"
 }
 ".color-success": {
-  color: "468847"
+  color: "#468847"
 }
 ".color-info": {
-  color: "3a87ad"
+  color: "#3a87ad"
 }
 ".color-aliceblue":{
-    color: 'F0F8FF'
+    color: '#F0F8FF'
 }
 ".color-antiquewhite":{
-    color: 'FAEBD7'
+    color: '#FAEBD7'
 }
 ".color-aqua":{
-    color: '00FFFF'
+    color: '#00FFFF'
 }
 ".color-aquamarine":{
-    color: '7FFFD4'
+    color: '#7FFFD4'
 }
 ".color-azure":{
-    color: 'F0FFFF'
+    color: '#F0FFFF'
 }
 ".color-beige":{
-    color: 'F5F5DC'
+    color: '#F5F5DC'
 }
 ".color-bisque":{
-    color: 'FFE4C4'
+    color: '#FFE4C4'
 }
 ".color-black":{
-    color: '000000'
+    color: '#000000'
 }
 ".color-blanchedalmond":{
-    color: 'FFEBCD'
+    color: '#FFEBCD'
 }
 ".color-blue":{
-    color: '0000FF'
+    color: '#0000FF'
 }
 ".color-blueviolet":{
-    color: '8A2BE2'
+    color: '#8A2BE2'
 }
 ".color-brown":{
-    color: 'A52A2A'
+    color: '#A52A2A'
 }
 ".color-burlywood":{
-    color: 'DEB887'
+    color: '#DEB887'
 }
 ".color-cadetblue":{
-    color: '5F9EA0'
+    color: '#5F9EA0'
 }
 ".color-chartreuse":{
-    color: '7FFF00'
+    color: '#7FFF00'
 }
 ".color-chocolate":{
-    color: 'D2691E'
+    color: '#D2691E'
 }
 ".color-coral":{
-    color: 'FF7F50'
+    color: '#FF7F50'
 }
 ".color-cornflowerblue":{
-    color: '6495ED'
+    color: '#6495ED'
 }
 ".color-cornsilk":{
-    color: 'FFF8DC'
+    color: '#FFF8DC'
 }
 ".color-crimson":{
-    color: 'DC143C'
+    color: '#DC143C'
 }
 ".color-cyan":{
-    color: '00FFFF'
+    color: '#00FFFF'
 }
 ".color-darkblue":{
-    color: '00008B'
+    color: '#00008B'
 }
 ".color-darkcyan":{
-    color: '008B8B'
+    color: '#008B8B'
 }
 ".color-darkgoldenrod":{
-    color: 'B8860B'
+    color: '#B8860B'
 }
 ".color-darkgray":{
-    color: 'A9A9A9'
+    color: '#A9A9A9'
 }
 ".color-darkgreen":{
-    color: '006400'
+    color: '#006400'
 }
 ".color-darkkhaki":{
-    color: 'BDB76B'
+    color: '#BDB76B'
 }
 ".color-darkmagenta":{
-    color: '8B008B'
+    color: '#8B008B'
 }
 ".color-darkolivegreen":{
-    color: '556B2F'
+    color: '#556B2F'
 }
 ".color-darkorange":{
-    color: 'FF8C00'
+    color: '#FF8C00'
 }
 ".color-darkorchid":{
-    color: '9932CC'
+    color: '#9932CC'
 }
 ".color-darkred":{
-    color: '8B0000'
+    color: '#8B0000'
 }
 ".color-darksalmon":{
-    color: 'E9967A'
+    color: '#E9967A'
 }
 ".color-darkseagreen":{
-    color: '8FBC8F'
+    color: '#8FBC8F'
 }
 ".color-darkslateblue":{
-    color: '483D8B'
+    color: '#483D8B'
 }
 ".color-darkslategray":{
-    color: '2F4F4F'
+    color: '#2F4F4F'
 }
 ".color-darkturquoise":{
-    color: '00CED1'
+    color: '#00CED1'
 }
 ".color-darkviolet":{
-    color: '9400D3'
+    color: '#9400D3'
 }
 ".color-deeppink":{
-    color: 'FF1493'
+    color: '#FF1493'
 }
 ".color-deepskyblue":{
-    color: '00BFFF'
+    color: '#00BFFF'
 }
 ".color-dimgray":{
-    color: '696969'
+    color: '#696969'
 }
 ".color-dodgerblue":{
-    color: '1E90FF'
+    color: '#1E90FF'
 }
 ".color-firebrick":{
-    color: 'B22222'
+    color: '#B22222'
 }
 ".color-floralwhite":{
-    color: 'FFFAF0'
+    color: '#FFFAF0'
 }
 ".color-forestgreen":{
-    color: '228B22'
+    color: '#228B22'
 }
 ".color-fuchsia":{
-    color: 'FF00FF'
+    color: '#FF00FF'
 }
 ".color-gainsboro":{
-    color: 'DCDCDC'
+    color: '#DCDCDC'
 }
 ".color-ghostwhite":{
-    color: 'F8F8FF'
+    color: '#F8F8FF'
 }
 ".color-gold":{
-    color: 'FFD700'
+    color: '#FFD700'
 }
 ".color-goldenrod":{
-    color: 'DAA520'
+    color: '#DAA520'
 }
 ".color-gray":{
-    color: '808080'
+    color: '#808080'
 }
 ".color-green":{
-    color: '008000'
+    color: '#008000'
 }
 ".color-greenyellow":{
-    color: 'ADFF2F'
+    color: '#ADFF2F'
 }
 ".color-honeydew":{
-    color: 'F0FFF0'
+    color: '#F0FFF0'
 }
 ".color-hotpink":{
-    color: 'FF69B4'
+    color: '#FF69B4'
 }
 ".color-indianred":{
-    color: 'CD5C5C'
+    color: '#CD5C5C'
 }
 ".color-indigo":{
-    color: '4B0082'
+    color: '#4B0082'
 }
 ".color-ivory":{
-    color: 'FFFFF0'
+    color: '#FFFFF0'
 }
 ".color-khaki":{
-    color: 'F0E68C'
+    color: '#F0E68C'
 }
 ".color-lavender":{
-    color: 'E6E6FA'
+    color: '#E6E6FA'
 }
 ".color-lavenderblush":{
-    color: 'FFF0F5'
+    color: '#FFF0F5'
 }
 ".color-lawngreen":{
-    color: '7CFC00'
+    color: '#7CFC00'
 }
 ".color-lemonchiffon":{
-    color: 'FFFACD'
+    color: '#FFFACD'
 }
 ".color-lightblue":{
-    color: 'ADD8E6'
+    color: '#ADD8E6'
 }
 ".color-lightcoral":{
-    color: 'F08080'
+    color: '#F08080'
 }
 ".color-lightcyan":{
-    color: 'E0FFFF'
+    color: '#E0FFFF'
 }
 ".color-lightgoldenrodyellow":{
-    color: 'FAFAD2'
+    color: '#FAFAD2'
 }
 ".color-lightgray":{
-    color: 'D3D3D3'
+    color: '#D3D3D3'
 }
 ".color-lightgreen":{
-    color: '90EE90'
+    color: '#90EE90'
 }
 ".color-lightpink":{
-    color: 'FFB6C1'
+    color: '#FFB6C1'
 }
 ".color-lightsalmon":{
-    color: 'FFA07A'
+    color: '#FFA07A'
 }
 ".color-lightseagreen":{
-    color: '20B2AA'
+    color: '#20B2AA'
 }
 ".color-lightskyblue":{
-    color: '87CEFA'
+    color: '#87CEFA'
 }
 ".color-lightslategray":{
-    color: '778899'
+    color: '#778899'
 }
 ".color-lightsteelblue":{
-    color: 'B0C4DE'
+    color: '#B0C4DE'
 }
 ".color-lightyellow":{
-    color: 'FFFFE0'
+    color: '#FFFFE0'
 }
 ".color-lime":{
-    color: '00FF00'
+    color: '#00FF00'
 }
 ".color-limegreen":{
-    color: '32CD32'
+    color: '#32CD32'
 }
 ".color-linen":{
-    color: 'FAF0E6'
+    color: '#FAF0E6'
 }
 ".color-magenta":{
-    color: 'FF00FF'
+    color: '#FF00FF'
 }
 ".color-maroon":{
-    color: '800000'
+    color: '#800000'
 }
 ".color-mediumaquamarine":{
-    color: '66CDAA'
+    color: '#66CDAA'
 }
 ".color-mediumblue":{
-    color: '0000CD'
+    color: '#0000CD'
 }
 ".color-mediumorchid":{
-    color: 'BA55D3'
+    color: '#BA55D3'
 }
 ".color-mediumpurple":{
-    color: '9370DB'
+    color: '#9370DB'
 }
 ".color-mediumseagreen":{
-    color: '3CB371'
+    color: '#3CB371'
 }
 ".color-mediumslateblue":{
-    color: '7B68EE'
+    color: '#7B68EE'
 }
 ".color-mediumspringgreen":{
-    color: '00FA9A'
+    color: '#00FA9A'
 }
 ".color-mediumturquoise":{
-    color: '48D1CC'
+    color: '#48D1CC'
 }
 ".color-mediumvioletred":{
-    color: 'C71585'
+    color: '#C71585'
 }
 ".color-midnightblue":{
-    color: '191970'
+    color: '#191970'
 }
 ".color-mintcream":{
-    color: 'F5FFFA'
+    color: '#F5FFFA'
 }
 ".color-mistyrose":{
-    color: 'FFE4E1'
+    color: '#FFE4E1'
 }
 ".color-moccasin":{
-    color: 'FFE4B5'
+    color: '#FFE4B5'
 }
 ".color-navajowhite":{
-    color: 'FFDEAD'
+    color: '#FFDEAD'
 }
 ".color-navy":{
-    color: '000080'
+    color: '#000080'
 }
 ".color-oldlace":{
-    color: 'FDF5E6'
+    color: '#FDF5E6'
 }
 ".color-olive":{
-    color: '808000'
+    color: '#808000'
 }
 ".color-olivedrab":{
-    color: '6B8E23'
+    color: '#6B8E23'
 }
 ".color-orange":{
-    color: 'FFA500'
+    color: '#FFA500'
 }
 ".color-orangered":{
-    color: 'FF4500'
+    color: '#FF4500'
 }
 ".color-orchid":{
-    color: 'DA70D6'
+    color: '#DA70D6'
 }
 ".color-palegoldenrod":{
-    color: 'EEE8AA'
+    color: '#EEE8AA'
 }
 ".color-palegreen":{
-    color: '98FB98'
+    color: '#98FB98'
 }
 ".color-paleturquoise":{
-    color: 'AFEEEE'
+    color: '#AFEEEE'
 }
 ".color-palevioletred":{
-    color: 'DB7093'
+    color: '#DB7093'
 }
 ".color-papayawhip":{
-    color: 'FFEFD5'
+    color: '#FFEFD5'
 }
 ".color-peachpuff":{
-    color: 'FFDAB9'
+    color: '#FFDAB9'
 }
 ".color-peru":{
-    color: 'CD853F'
+    color: '#CD853F'
 }
 ".color-pink":{
-    color: 'FFC0CB'
+    color: '#FFC0CB'
 }
 ".color-plum":{
-    color: 'DDA0DD'
+    color: '#DDA0DD'
 }
 ".color-powderblue":{
-    color: 'B0E0E6'
+    color: '#B0E0E6'
 }
 ".color-purple":{
-    color: '800080'
+    color: '#800080'
 }
 ".color-red":{
-    color: 'FF0000'
+    color: '#FF0000'
 }
 ".color-rosybrown":{
-    color: 'BC8F8F'
+    color: '#BC8F8F'
 }
 ".color-royalblue":{
-    color: '4169E1'
+    color: '#4169E1'
 }
 ".color-saddlebrown":{
-    color: '8B4513'
+    color: '#8B4513'
 }
 ".color-salmon":{
-    color: 'FA8072'
+    color: '#FA8072'
 }
 ".color-sandybrown":{
-    color: 'F4A460'
+    color: '#F4A460'
 }
 ".color-seagreen":{
-    color: '2E8B57'
+    color: '#2E8B57'
 }
 ".color-seashell":{
-    color: 'FFF5EE'
+    color: '#FFF5EE'
 }
 ".color-sienna":{
-    color: 'A0522D'
+    color: '#A0522D'
 }
 ".color-silver":{
-    color: 'C0C0C0'
+    color: '#C0C0C0'
 }
 ".color-skyblue":{
-    color: '87CEEB'
+    color: '#87CEEB'
 }
 ".color-slateblue":{
-    color: '6A5ACD'
+    color: '#6A5ACD'
 }
 ".color-slategray":{
-    color: '708090'
+    color: '#708090'
 }
 ".color-snow":{
-    color: 'FFFAFA'
+    color: '#FFFAFA'
 }
 ".color-springgreen":{
-    color: '00FF7F'
+    color: '#00FF7F'
 }
 ".color-steelblue":{
-    color: '4682B4'
+    color: '#4682B4'
 }
 ".color-tan":{
-    color: 'D2B48C'
+    color: '#D2B48C'
 }
 ".color-teal":{
-    color: '008080'
+    color: '#008080'
 }
 ".color-thistle":{
-    color: 'D8BFD8'
+    color: '#D8BFD8'
 }
 ".color-tomato":{
-    color: 'FF6347'
+    color: '#FF6347'
 }
 ".color-turquoise":{
-    color: '40E0D0'
+    color: '#40E0D0'
 }
 ".color-violet":{
-    color: 'EE82EE'
+    color: '#EE82EE'
 }
 ".color-wheat":{
-    color: 'F5DEB3'
+    color: '#F5DEB3'
 }
 ".color-white":{
-    color: 'FFFFFF'
+    color: '#FFFFFF'
 }
 ".color-whitesmoke":{
-    color: 'F5F5F5'
+    color: '#F5F5F5'
 }
 ".color-yellow":{
-    color: 'FFFF00'
+    color: '#FFFF00'
 }
 ".color-yellowgreen":{
-    color: '9ACD32'
+    color: '#9ACD32'
 }
 // Alert
 
@@ -12016,8 +12016,8 @@
     layout: 'horizontal',
     width: '100%',
     height: Ti.UI.SIZE,
-    backgroundColor: 'dff0d8',
-    borderColor: 'd6e9c6',
+    backgroundColor: '#dff0d8',
+    borderColor: '#d6e9c6',
     borderRadius: '4dp',
     borderWidth: '1dp'  
 }
@@ -12028,16 +12028,16 @@
     top: '10dp',
     bottom: '10dp',
     height: Ti.UI.SIZE,
-    color: '468847',
-    backgroundColor: 'dff0d8'
+    color: '#468847',
+    backgroundColor: '#dff0d8'
 }
 
 ".alert-container-info":{
     layout: 'horizontal',
     width: '100%',
     height: Ti.UI.SIZE,
-    backgroundColor: 'd9edf7',
-    borderColor: 'bce8f1',
+    backgroundColor: '#d9edf7',
+    borderColor: '#bce8f1',
     borderRadius: '4dp',
     borderWidth: '1dp'  
 }
@@ -12048,16 +12048,16 @@
     top: '10dp',
     bottom: '10dp',
     height: Ti.UI.SIZE,
-    color: '3a87ad',
-    backgroundColor: 'd9edf7'
+    color: '#3a87ad',
+    backgroundColor: '#d9edf7'
 }
 
 ".alert-container-warning":{
     layout: 'horizontal',
     width: '100%',
     height: Ti.UI.SIZE,
-    backgroundColor: 'fcf8e3',
-    borderColor: 'fbeed5',
+    backgroundColor: '#fcf8e3',
+    borderColor: '#fbeed5',
     borderRadius: '4dp',
     borderWidth: '1dp'  
 }
@@ -12068,16 +12068,16 @@
     top: '10dp',
     bottom: '10dp',
     height: Ti.UI.SIZE,
-    color: 'c09853',
-    backgroundColor: 'fcf8e3'
+    color: '#c09853',
+    backgroundColor: '#fcf8e3'
 }
 
 ".alert-container-danger":{
     layout: 'horizontal',
     width: '100%',
     height: Ti.UI.SIZE,
-    backgroundColor: 'f2dede',
-    borderColor: 'eed3d7',
+    backgroundColor: '#f2dede',
+    borderColor: '#eed3d7',
     borderRadius: '4dp',
     borderWidth: '1dp'  
 }
@@ -12088,8 +12088,8 @@
     top: '10dp',
     bottom: '10dp',
     height: Ti.UI.SIZE,
-    color: 'b94a48',
-    backgroundColor: 'f2dede'
+    color: '#b94a48',
+    backgroundColor: '#f2dede'
 }
 
 
@@ -12100,7 +12100,7 @@
     top: '5dp',
     bottom: '5dp',
     height: Ti.UI.SIZE,
-    color: '333333',
+    color: '#333333',
     font: {
         fontFamily: 'HelveticaNeue-Light',
         fontSize: '14dp',
@@ -12110,17 +12110,17 @@
 ".panel-container-body":{
     width: '100%',
     height: Ti.UI.SIZE,
-    backgroundColor: 'ffffff',
+    backgroundColor: '#ffffff',
 }
 
 ".panel-default":{
     width: '100%',
     height: Ti.UI.SIZE,
     layout: 'vertical',
-    borderColor: 'dddddd',
+    borderColor: '#dddddd',
     borderRadius: '4dp',
     borderWidth: '1dp',
-    backgroundColor: 'f5f5f5'
+    backgroundColor: '#f5f5f5'
 }
 ".panel-default-header":{
     left: '3%',
@@ -12128,8 +12128,8 @@
     top: '5dp',
     bottom: '5dp',
     height: Ti.UI.SIZE,
-    color: '333333',
-    backgroundColor: 'f5f5f5',
+    color: '#333333',
+    backgroundColor: '#f5f5f5',
     font: {
         fontFamily: 'HelveticaNeue-Light',
         fontSize: '14dp',
@@ -12141,10 +12141,10 @@
     width: '100%',
     height: Ti.UI.SIZE,
     layout: 'vertical',
-    borderColor: '428bca',
+    borderColor: '#428bca',
     borderRadius: '4dp',
     borderWidth: '1dp',
-    backgroundColor: '428bca'
+    backgroundColor: '#428bca'
 }
 ".panel-primary-header":{
     left: '3%',
@@ -12152,8 +12152,8 @@
     top: '5dp',
     bottom: '5dp',
     height: Ti.UI.SIZE,
-    color: 'ffffff',
-    backgroundColor: '428bca',
+    color: '#ffffff',
+    backgroundColor: '#428bca',
     font: {
         fontFamily: 'HelveticaNeue-Light',
         fontSize: '14dp',
@@ -12165,10 +12165,10 @@
     width: '100%',
     height: Ti.UI.SIZE,
     layout: 'vertical',
-    borderColor: 'd6e9c6',
+    borderColor: '#d6e9c6',
     borderRadius: '4dp',
     borderWidth: '1dp',
-    backgroundColor: 'dff0d8'
+    backgroundColor: '#dff0d8'
 }
 ".panel-success-header":{
     left: '3%',
@@ -12176,8 +12176,8 @@
     top: '5dp',
     bottom: '5dp',
     height: Ti.UI.SIZE,
-    color: '468847',
-    backgroundColor: 'dff0d8',
+    color: '#468847',
+    backgroundColor: '#dff0d8',
     font: {
         fontFamily: 'HelveticaNeue-Light',
         fontSize: '14dp',
@@ -12189,10 +12189,10 @@
     width: '100%',
     height: Ti.UI.SIZE,
     layout: 'vertical',
-    borderColor: 'fbeed5',
+    borderColor: '#fbeed5',
     borderRadius: '4dp',
     borderWidth: '1dp',
-    backgroundColor: 'fcf8e3'
+    backgroundColor: '#fcf8e3'
 }
 ".panel-warning-header":{
     left: '3%',
@@ -12200,8 +12200,8 @@
     top: '5dp',
     bottom: '5dp',
     height: Ti.UI.SIZE,
-    color: 'c09853',
-    backgroundColor: 'fcf8e3',
+    color: '#c09853',
+    backgroundColor: '#fcf8e3',
     font: {
         fontFamily: 'HelveticaNeue-Light',
         fontSize: '14dp',
@@ -12213,10 +12213,10 @@
     width: '100%',
     height: Ti.UI.SIZE,
     layout: 'vertical',
-    borderColor: 'eed3d7',
+    borderColor: '#eed3d7',
     borderRadius: '4dp',
     borderWidth: '1dp',
-    backgroundColor: 'f2dede'
+    backgroundColor: '#f2dede'
 }
 ".panel-danger-header":{
     left: '3%',
@@ -12224,8 +12224,8 @@
     top: '5dp',
     bottom: '5dp',
     height: Ti.UI.SIZE,
-    color: 'b94a48',
-    backgroundColor: 'f2dede',
+    color: '#b94a48',
+    backgroundColor: '#f2dede',
     font: {
         fontFamily: 'HelveticaNeue-Light',
         fontSize: '14dp',
@@ -12238,8 +12238,8 @@
     layout:'vertical',
     width: '100%',
     height: Ti.UI.SIZE,
-    backgroundColor: 'f5f5f5',
-    borderColor: 'e3e3e3',
+    backgroundColor: '#f5f5f5',
+    borderColor: '#e3e3e3',
     borderRadius: '4dp',
     borderWidth: '1dp'
 }
@@ -12256,7 +12256,7 @@
     layout: 'horizontal',
     width: '100%',
     height: Ti.UI.SIZE,
-    borderColor: 'cccccc',
+    borderColor: '#cccccc',
     borderRadius: '4dp',
     borderWidth: '1dp'
 }
@@ -12264,8 +12264,8 @@
     width: '14.5%',
     height: '44dp',
     textAlign: 'center',
-    backgroundColor: 'eeeeee',
-    borderColor: 'cccccc',
+    backgroundColor: '#eeeeee',
+    borderColor: '#cccccc',
     borderWidth: '1dp',
     font:{
         fontFamily: 'HelveticaNeue-Light',
@@ -12293,8 +12293,8 @@
     width: '11.3%',
     height: '34dp',
     textAlign: 'center',
-    backgroundColor: 'eeeeee',
-    borderColor: 'cccccc',
+    backgroundColor: '#eeeeee',
+    borderColor: '#cccccc',
     borderWidth: '1dp',
     font:{
         fontFamily: 'HelveticaNeue-Light',
@@ -12502,442 +12502,442 @@
 
 // Table Seperator Colors
 ".sep-color-muted": {
-  separatorColor: "999999"
+  separatorColor: "#999999"
 }
 ".sep-color-primary": {
-  separatorColor: "428bca"
+  separatorColor: "#428bca"
 }
 ".sep-color-warning": {
-  separatorColor: "c09853"
+  separatorColor: "#c09853"
 }
 ".sep-color-danger": {
-  separatorColor: "b94a48"
+  separatorColor: "#b94a48"
 }
 ".sep-color-success": {
-  separatorColor: "468847"
+  separatorColor: "#468847"
 }
 ".sep-color-info": {
-  separatorColor: "3a87ad"
+  separatorColor: "#3a87ad"
 }
 ".sep-color-aliceblue":{
-    separatorColor: 'F0F8FF'
+    separatorColor: '#F0F8FF'
 }
 ".sep-color-antiquewhite":{
-    separatorColor: 'FAEBD7'
+    separatorColor: '#FAEBD7'
 }
 ".sep-color-aqua":{
-    separatorColor: '00FFFF'
+    separatorColor: '#00FFFF'
 }
 ".sep-color-aquamarine":{
-    separatorColor: '7FFFD4'
+    separatorColor: '#7FFFD4'
 }
 ".sep-color-azure":{
-    separatorColor: 'F0FFFF'
+    separatorColor: '#F0FFFF'
 }
 ".sep-color-beige":{
-    separatorColor: 'F5F5DC'
+    separatorColor: '#F5F5DC'
 }
 ".sep-color-bisque":{
-    separatorColor: 'FFE4C4'
+    separatorColor: '#FFE4C4'
 }
 ".sep-color-black":{
-    separatorColor: '000000'
+    separatorColor: '#000000'
 }
 ".sep-color-blanchedalmond":{
-    separatorColor: 'FFEBCD'
+    separatorColor: '#FFEBCD'
 }
 ".sep-color-blue":{
-    separatorColor: '0000FF'
+    separatorColor: '#0000FF'
 }
 ".sep-color-blueviolet":{
-    separatorColor: '8A2BE2'
+    separatorColor: '#8A2BE2'
 }
 ".sep-color-brown":{
-    separatorColor: 'A52A2A'
+    separatorColor: '#A52A2A'
 }
 ".sep-color-burlywood":{
-    separatorColor: 'DEB887'
+    separatorColor: '#DEB887'
 }
 ".sep-color-cadetblue":{
-    separatorColor: '5F9EA0'
+    separatorColor: '#5F9EA0'
 }
 ".sep-color-chartreuse":{
-    separatorColor: '7FFF00'
+    separatorColor: '#7FFF00'
 }
 ".sep-color-chocolate":{
-    separatorColor: 'D2691E'
+    separatorColor: '#D2691E'
 }
 ".sep-color-coral":{
-    separatorColor: 'FF7F50'
+    separatorColor: '#FF7F50'
 }
 ".sep-color-cornflowerblue":{
-    separatorColor: '6495ED'
+    separatorColor: '#6495ED'
 }
 ".sep-color-cornsilk":{
-    separatorColor: 'FFF8DC'
+    separatorColor: '#FFF8DC'
 }
 ".sep-color-crimson":{
-    separatorColor: 'DC143C'
+    separatorColor: '#DC143C'
 }
 ".sep-color-cyan":{
-    separatorColor: '00FFFF'
+    separatorColor: '#00FFFF'
 }
 ".sep-color-darkblue":{
-    separatorColor: '00008B'
+    separatorColor: '#00008B'
 }
 ".sep-color-darkcyan":{
-    separatorColor: '008B8B'
+    separatorColor: '#008B8B'
 }
 ".sep-color-darkgoldenrod":{
-    separatorColor: 'B8860B'
+    separatorColor: '#B8860B'
 }
 ".sep-color-darkgray":{
-    separatorColor: 'A9A9A9'
+    separatorColor: '#A9A9A9'
 }
 ".sep-color-darkgreen":{
-    separatorColor: '006400'
+    separatorColor: '#006400'
 }
 ".sep-color-darkkhaki":{
-    separatorColor: 'BDB76B'
+    separatorColor: '#BDB76B'
 }
 ".sep-color-darkmagenta":{
-    separatorColor: '8B008B'
+    separatorColor: '#8B008B'
 }
 ".sep-color-darkolivegreen":{
-    separatorColor: '556B2F'
+    separatorColor: '#556B2F'
 }
 ".sep-color-darkorange":{
-    separatorColor: 'FF8C00'
+    separatorColor: '#FF8C00'
 }
 ".sep-color-darkorchid":{
-    separatorColor: '9932CC'
+    separatorColor: '#9932CC'
 }
 ".sep-color-darkred":{
-    separatorColor: '8B0000'
+    separatorColor: '#8B0000'
 }
 ".sep-color-darksalmon":{
-    separatorColor: 'E9967A'
+    separatorColor: '#E9967A'
 }
 ".sep-color-darkseagreen":{
-    separatorColor: '8FBC8F'
+    separatorColor: '#8FBC8F'
 }
 ".sep-color-darkslateblue":{
-    separatorColor: '483D8B'
+    separatorColor: '#483D8B'
 }
 ".sep-color-darkslategray":{
-    separatorColor: '2F4F4F'
+    separatorColor: '#2F4F4F'
 }
 ".sep-color-darkturquoise":{
-    separatorColor: '00CED1'
+    separatorColor: '#00CED1'
 }
 ".sep-color-darkviolet":{
-    separatorColor: '9400D3'
+    separatorColor: '#9400D3'
 }
 ".sep-color-deeppink":{
-    separatorColor: 'FF1493'
+    separatorColor: '#FF1493'
 }
 ".sep-color-deepskyblue":{
-    separatorColor: '00BFFF'
+    separatorColor: '#00BFFF'
 }
 ".sep-color-dimgray":{
-    separatorColor: '696969'
+    separatorColor: '#696969'
 }
 ".sep-color-dodgerblue":{
-    separatorColor: '1E90FF'
+    separatorColor: '#1E90FF'
 }
 ".sep-color-firebrick":{
-    separatorColor: 'B22222'
+    separatorColor: '#B22222'
 }
 ".sep-color-floralwhite":{
-    separatorColor: 'FFFAF0'
+    separatorColor: '#FFFAF0'
 }
 ".sep-color-forestgreen":{
-    separatorColor: '228B22'
+    separatorColor: '#228B22'
 }
 ".sep-color-fuchsia":{
-    separatorColor: 'FF00FF'
+    separatorColor: '#FF00FF'
 }
 ".sep-color-gainsboro":{
-    separatorColor: 'DCDCDC'
+    separatorColor: '#DCDCDC'
 }
 ".sep-color-ghostwhite":{
-    separatorColor: 'F8F8FF'
+    separatorColor: '#F8F8FF'
 }
 ".sep-color-gold":{
-    separatorColor: 'FFD700'
+    separatorColor: '#FFD700'
 }
 ".sep-color-goldenrod":{
-    separatorColor: 'DAA520'
+    separatorColor: '#DAA520'
 }
 ".sep-color-gray":{
-    separatorColor: '808080'
+    separatorColor: '#808080'
 }
 ".sep-color-green":{
-    separatorColor: '008000'
+    separatorColor: '#008000'
 }
 ".sep-color-greenyellow":{
-    separatorColor: 'ADFF2F'
+    separatorColor: '#ADFF2F'
 }
 ".sep-color-honeydew":{
-    separatorColor: 'F0FFF0'
+    separatorColor: '#F0FFF0'
 }
 ".sep-color-hotpink":{
-    separatorColor: 'FF69B4'
+    separatorColor: '#FF69B4'
 }
 ".sep-color-indianred":{
-    separatorColor: 'CD5C5C'
+    separatorColor: '#CD5C5C'
 }
 ".sep-color-indigo":{
-    separatorColor: '4B0082'
+    separatorColor: '#4B0082'
 }
 ".sep-color-ivory":{
-    separatorColor: 'FFFFF0'
+    separatorColor: '#FFFFF0'
 }
 ".sep-color-khaki":{
-    separatorColor: 'F0E68C'
+    separatorColor: '#F0E68C'
 }
 ".sep-color-lavender":{
-    separatorColor: 'E6E6FA'
+    separatorColor: '#E6E6FA'
 }
 ".sep-color-lavenderblush":{
-    separatorColor: 'FFF0F5'
+    separatorColor: '#FFF0F5'
 }
 ".sep-color-lawngreen":{
-    separatorColor: '7CFC00'
+    separatorColor: '#7CFC00'
 }
 ".sep-color-lemonchiffon":{
-    separatorColor: 'FFFACD'
+    separatorColor: '#FFFACD'
 }
 ".sep-color-lightblue":{
-    separatorColor: 'ADD8E6'
+    separatorColor: '#ADD8E6'
 }
 ".sep-color-lightcoral":{
-    separatorColor: 'F08080'
+    separatorColor: '#F08080'
 }
 ".sep-color-lightcyan":{
-    separatorColor: 'E0FFFF'
+    separatorColor: '#E0FFFF'
 }
 ".sep-color-lightgoldenrodyellow":{
-    separatorColor: 'FAFAD2'
+    separatorColor: '#FAFAD2'
 }
 ".sep-color-lightgray":{
-    separatorColor: 'D3D3D3'
+    separatorColor: '#D3D3D3'
 }
 ".sep-color-lightgreen":{
-    separatorColor: '90EE90'
+    separatorColor: '#90EE90'
 }
 ".sep-color-lightpink":{
-    separatorColor: 'FFB6C1'
+    separatorColor: '#FFB6C1'
 }
 ".sep-color-lightsalmon":{
-    separatorColor: 'FFA07A'
+    separatorColor: '#FFA07A'
 }
 ".sep-color-lightseagreen":{
-    separatorColor: '20B2AA'
+    separatorColor: '#20B2AA'
 }
 ".sep-color-lightskyblue":{
-    separatorColor: '87CEFA'
+    separatorColor: '#87CEFA'
 }
 ".sep-color-lightslategray":{
-    separatorColor: '778899'
+    separatorColor: '#778899'
 }
 ".sep-color-lightsteelblue":{
-    separatorColor: 'B0C4DE'
+    separatorColor: '#B0C4DE'
 }
 ".sep-color-lightyellow":{
-    separatorColor: 'FFFFE0'
+    separatorColor: '#FFFFE0'
 }
 ".sep-color-lime":{
-    separatorColor: '00FF00'
+    separatorColor: '#00FF00'
 }
 ".sep-color-limegreen":{
-    separatorColor: '32CD32'
+    separatorColor: '#32CD32'
 }
 ".sep-color-linen":{
-    separatorColor: 'FAF0E6'
+    separatorColor: '#FAF0E6'
 }
 ".sep-color-magenta":{
-    separatorColor: 'FF00FF'
+    separatorColor: '#FF00FF'
 }
 ".sep-color-maroon":{
-    separatorColor: '800000'
+    separatorColor: '#800000'
 }
 ".sep-color-mediumaquamarine":{
-    separatorColor: '66CDAA'
+    separatorColor: '#66CDAA'
 }
 ".sep-color-mediumblue":{
-    separatorColor: '0000CD'
+    separatorColor: '#0000CD'
 }
 ".sep-color-mediumorchid":{
-    separatorColor: 'BA55D3'
+    separatorColor: '#BA55D3'
 }
 ".sep-color-mediumpurple":{
-    separatorColor: '9370DB'
+    separatorColor: '#9370DB'
 }
 ".sep-color-mediumseagreen":{
-    separatorColor: '3CB371'
+    separatorColor: '#3CB371'
 }
 ".sep-color-mediumslateblue":{
-    separatorColor: '7B68EE'
+    separatorColor: '#7B68EE'
 }
 ".sep-color-mediumspringgreen":{
-    separatorColor: '00FA9A'
+    separatorColor: '#00FA9A'
 }
 ".sep-color-mediumturquoise":{
-    separatorColor: '48D1CC'
+    separatorColor: '#48D1CC'
 }
 ".sep-color-mediumvioletred":{
-    separatorColor: 'C71585'
+    separatorColor: '#C71585'
 }
 ".sep-color-midnightblue":{
-    separatorColor: '191970'
+    separatorColor: '#191970'
 }
 ".sep-color-mintcream":{
-    separatorColor: 'F5FFFA'
+    separatorColor: '#F5FFFA'
 }
 ".sep-color-mistyrose":{
-    separatorColor: 'FFE4E1'
+    separatorColor: '#FFE4E1'
 }
 ".sep-color-moccasin":{
-    separatorColor: 'FFE4B5'
+    separatorColor: '#FFE4B5'
 }
 ".sep-color-navajowhite":{
-    separatorColor: 'FFDEAD'
+    separatorColor: '#FFDEAD'
 }
 ".sep-color-navy":{
-    separatorColor: '000080'
+    separatorColor: '#000080'
 }
 ".sep-color-oldlace":{
-    separatorColor: 'FDF5E6'
+    separatorColor: '#FDF5E6'
 }
 ".sep-color-olive":{
-    separatorColor: '808000'
+    separatorColor: '#808000'
 }
 ".sep-color-olivedrab":{
-    separatorColor: '6B8E23'
+    separatorColor: '#6B8E23'
 }
 ".sep-color-orange":{
-    separatorColor: 'FFA500'
+    separatorColor: '#FFA500'
 }
 ".sep-color-orangered":{
-    separatorColor: 'FF4500'
+    separatorColor: '#FF4500'
 }
 ".sep-color-orchid":{
-    separatorColor: 'DA70D6'
+    separatorColor: '#DA70D6'
 }
 ".sep-color-palegoldenrod":{
-    separatorColor: 'EEE8AA'
+    separatorColor: '#EEE8AA'
 }
 ".sep-color-palegreen":{
-    separatorColor: '98FB98'
+    separatorColor: '#98FB98'
 }
 ".sep-color-paleturquoise":{
-    separatorColor: 'AFEEEE'
+    separatorColor: '#AFEEEE'
 }
 ".sep-color-palevioletred":{
-    separatorColor: 'DB7093'
+    separatorColor: '#DB7093'
 }
 ".sep-color-papayawhip":{
-    separatorColor: 'FFEFD5'
+    separatorColor: '#FFEFD5'
 }
 ".sep-color-peachpuff":{
-    separatorColor: 'FFDAB9'
+    separatorColor: '#FFDAB9'
 }
 ".sep-color-peru":{
-    separatorColor: 'CD853F'
+    separatorColor: '#CD853F'
 }
 ".sep-color-pink":{
-    separatorColor: 'FFC0CB'
+    separatorColor: '#FFC0CB'
 }
 ".sep-color-plum":{
-    separatorColor: 'DDA0DD'
+    separatorColor: '#DDA0DD'
 }
 ".sep-color-powderblue":{
-    separatorColor: 'B0E0E6'
+    separatorColor: '#B0E0E6'
 }
 ".sep-color-purple":{
-    separatorColor: '800080'
+    separatorColor: '#800080'
 }
 ".sep-color-red":{
-    separatorColor: 'FF0000'
+    separatorColor: '#FF0000'
 }
 ".sep-color-rosybrown":{
-    separatorColor: 'BC8F8F'
+    separatorColor: '#BC8F8F'
 }
 ".sep-color-royalblue":{
-    separatorColor: '4169E1'
+    separatorColor: '#4169E1'
 }
 ".sep-color-saddlebrown":{
-    separatorColor: '8B4513'
+    separatorColor: '#8B4513'
 }
 ".sep-color-salmon":{
-    separatorColor: 'FA8072'
+    separatorColor: '#FA8072'
 }
 ".sep-color-sandybrown":{
-    separatorColor: 'F4A460'
+    separatorColor: '#F4A460'
 }
 ".sep-color-seagreen":{
-    separatorColor: '2E8B57'
+    separatorColor: '#2E8B57'
 }
 ".sep-color-seashell":{
-    separatorColor: 'FFF5EE'
+    separatorColor: '#FFF5EE'
 }
 ".sep-color-sienna":{
-    separatorColor: 'A0522D'
+    separatorColor: '#A0522D'
 }
 ".sep-color-silver":{
-    separatorColor: 'C0C0C0'
+    separatorColor: '#C0C0C0'
 }
 ".sep-color-skyblue":{
-    separatorColor: '87CEEB'
+    separatorColor: '#87CEEB'
 }
 ".sep-color-slateblue":{
-    separatorColor: '6A5ACD'
+    separatorColor: '#6A5ACD'
 }
 ".sep-color-slategray":{
-    separatorColor: '708090'
+    separatorColor: '#708090'
 }
 ".sep-color-snow":{
-    separatorColor: 'FFFAFA'
+    separatorColor: '#FFFAFA'
 }
 ".sep-color-springgreen":{
-    separatorColor: '00FF7F'
+    separatorColor: '#00FF7F'
 }
 ".sep-color-steelblue":{
-    separatorColor: '4682B4'
+    separatorColor: '#4682B4'
 }
 ".sep-color-tan":{
-    separatorColor: 'D2B48C'
+    separatorColor: '#D2B48C'
 }
 ".sep-color-teal":{
-    separatorColor: '008080'
+    separatorColor: '#008080'
 }
 ".sep-color-thistle":{
-    separatorColor: 'D8BFD8'
+    separatorColor: '#D8BFD8'
 }
 ".sep-color-tomato":{
-    separatorColor: 'FF6347'
+    separatorColor: '#FF6347'
 }
 ".sep-color-turquoise":{
-    separatorColor: '40E0D0'
+    separatorColor: '#40E0D0'
 }
 ".sep-color-violet":{
-    separatorColor: 'EE82EE'
+    separatorColor: '#EE82EE'
 }
 ".sep-color-wheat":{
-    separatorColor: 'F5DEB3'
+    separatorColor: '#F5DEB3'
 }
 ".sep-color-white":{
-    separatorColor: 'FFFFFF'
+    separatorColor: '#FFFFFF'
 }
 ".sep-color-whitesmoke":{
-    separatorColor: 'F5F5F5'
+    separatorColor: '#F5F5F5'
 }
 ".sep-color-yellow":{
-    separatorColor: 'FFFF00'
+    separatorColor: '#FFFF00'
 }
 ".sep-color-yellowgreen":{
-    separatorColor: '9ACD32'
+    separatorColor: '#9ACD32'
 }
 ".cell-select-style-blue":{
     selectionStyle: Titanium.UI.iPhone.TableViewCellSelectionStyle.BLUE
@@ -12971,442 +12971,442 @@
   pagingControlColor: "transparent"
 }
 ".pg-cntl-color-muted": {
-  pagingControlColor: "999999"
+  pagingControlColor: "#999999"
 }
 ".pg-cntl-color-primary": {
-  pagingControlColor: "428bca"
+  pagingControlColor: "#428bca"
 }
 ".pg-cntl-color-warning": {
-  pagingControlColor: "c09853"
+  pagingControlColor: "#c09853"
 }
 ".pg-cntl-color-danger": {
-  pagingControlColor: "b94a48"
+  pagingControlColor: "#b94a48"
 }
 ".pg-cntl-color-success": {
-  pagingControlColor: "468847"
+  pagingControlColor: "#468847"
 }
 ".pg-cntl-color-info": {
-  pagingControlColor: "3a87ad"
+  pagingControlColor: "#3a87ad"
 }
 ".pg-cntl-color-aliceblue":{
-    pagingControlColor: 'F0F8FF'
+    pagingControlColor: '#F0F8FF'
 }
 ".pg-cntl-color-antiquewhite":{
-    pagingControlColor: 'FAEBD7'
+    pagingControlColor: '#FAEBD7'
 }
 ".pg-cntl-color-aqua":{
-    pagingControlColor: '00FFFF'
+    pagingControlColor: '#00FFFF'
 }
 ".pg-cntl-color-aquamarine":{
-    pagingControlColor: '7FFFD4'
+    pagingControlColor: '#7FFFD4'
 }
 ".pg-cntl-color-azure":{
-    pagingControlColor: 'F0FFFF'
+    pagingControlColor: '#F0FFFF'
 }
 ".pg-cntl-color-beige":{
-    pagingControlColor: 'F5F5DC'
+    pagingControlColor: '#F5F5DC'
 }
 ".pg-cntl-color-bisque":{
-    pagingControlColor: 'FFE4C4'
+    pagingControlColor: '#FFE4C4'
 }
 ".pg-cntl-color-black":{
-    pagingControlColor: '000000'
+    pagingControlColor: '#000000'
 }
 ".pg-cntl-color-blanchedalmond":{
-    pagingControlColor: 'FFEBCD'
+    pagingControlColor: '#FFEBCD'
 }
 ".pg-cntl-color-blue":{
-    pagingControlColor: '0000FF'
+    pagingControlColor: '#0000FF'
 }
 ".pg-cntl-color-blueviolet":{
-    pagingControlColor: '8A2BE2'
+    pagingControlColor: '#8A2BE2'
 }
 ".pg-cntl-color-brown":{
-    pagingControlColor: 'A52A2A'
+    pagingControlColor: '#A52A2A'
 }
 ".pg-cntl-color-burlywood":{
-    pagingControlColor: 'DEB887'
+    pagingControlColor: '#DEB887'
 }
 ".pg-cntl-color-cadetblue":{
-    pagingControlColor: '5F9EA0'
+    pagingControlColor: '#5F9EA0'
 }
 ".pg-cntl-color-chartreuse":{
-    pagingControlColor: '7FFF00'
+    pagingControlColor: '#7FFF00'
 }
 ".pg-cntl-color-chocolate":{
-    pagingControlColor: 'D2691E'
+    pagingControlColor: '#D2691E'
 }
 ".pg-cntl-color-coral":{
-    pagingControlColor: 'FF7F50'
+    pagingControlColor: '#FF7F50'
 }
 ".pg-cntl-color-cornflowerblue":{
-    pagingControlColor: '6495ED'
+    pagingControlColor: '#6495ED'
 }
 ".pg-cntl-color-cornsilk":{
-    pagingControlColor: 'FFF8DC'
+    pagingControlColor: '#FFF8DC'
 }
 ".pg-cntl-color-crimson":{
-    pagingControlColor: 'DC143C'
+    pagingControlColor: '#DC143C'
 }
 ".pg-cntl-color-cyan":{
-    pagingControlColor: '00FFFF'
+    pagingControlColor: '#00FFFF'
 }
 ".pg-cntl-color-darkblue":{
-    pagingControlColor: '00008B'
+    pagingControlColor: '#00008B'
 }
 ".pg-cntl-color-darkcyan":{
-    pagingControlColor: '008B8B'
+    pagingControlColor: '#008B8B'
 }
 ".pg-cntl-color-darkgoldenrod":{
-    pagingControlColor: 'B8860B'
+    pagingControlColor: '#B8860B'
 }
 ".pg-cntl-color-darkgray":{
-    pagingControlColor: 'A9A9A9'
+    pagingControlColor: '#A9A9A9'
 }
 ".pg-cntl-color-darkgreen":{
-    pagingControlColor: '006400'
+    pagingControlColor: '#006400'
 }
 ".pg-cntl-color-darkkhaki":{
-    pagingControlColor: 'BDB76B'
+    pagingControlColor: '#BDB76B'
 }
 ".pg-cntl-color-darkmagenta":{
-    pagingControlColor: '8B008B'
+    pagingControlColor: '#8B008B'
 }
 ".pg-cntl-color-darkolivegreen":{
-    pagingControlColor: '556B2F'
+    pagingControlColor: '#556B2F'
 }
 ".pg-cntl-color-darkorange":{
-    pagingControlColor: 'FF8C00'
+    pagingControlColor: '#FF8C00'
 }
 ".pg-cntl-color-darkorchid":{
-    pagingControlColor: '9932CC'
+    pagingControlColor: '#9932CC'
 }
 ".pg-cntl-color-darkred":{
-    pagingControlColor: '8B0000'
+    pagingControlColor: '#8B0000'
 }
 ".pg-cntl-color-darksalmon":{
-    pagingControlColor: 'E9967A'
+    pagingControlColor: '#E9967A'
 }
 ".pg-cntl-color-darkseagreen":{
-    pagingControlColor: '8FBC8F'
+    pagingControlColor: '#8FBC8F'
 }
 ".pg-cntl-color-darkslateblue":{
-    pagingControlColor: '483D8B'
+    pagingControlColor: '#483D8B'
 }
 ".pg-cntl-color-darkslategray":{
-    pagingControlColor: '2F4F4F'
+    pagingControlColor: '#2F4F4F'
 }
 ".pg-cntl-color-darkturquoise":{
-    pagingControlColor: '00CED1'
+    pagingControlColor: '#00CED1'
 }
 ".pg-cntl-color-darkviolet":{
-    pagingControlColor: '9400D3'
+    pagingControlColor: '#9400D3'
 }
 ".pg-cntl-color-deeppink":{
-    pagingControlColor: 'FF1493'
+    pagingControlColor: '#FF1493'
 }
 ".pg-cntl-color-deepskyblue":{
-    pagingControlColor: '00BFFF'
+    pagingControlColor: '#00BFFF'
 }
 ".pg-cntl-color-dimgray":{
-    pagingControlColor: '696969'
+    pagingControlColor: '#696969'
 }
 ".pg-cntl-color-dodgerblue":{
-    pagingControlColor: '1E90FF'
+    pagingControlColor: '#1E90FF'
 }
 ".pg-cntl-color-firebrick":{
-    pagingControlColor: 'B22222'
+    pagingControlColor: '#B22222'
 }
 ".pg-cntl-color-floralwhite":{
-    pagingControlColor: 'FFFAF0'
+    pagingControlColor: '#FFFAF0'
 }
 ".pg-cntl-color-forestgreen":{
-    pagingControlColor: '228B22'
+    pagingControlColor: '#228B22'
 }
 ".pg-cntl-color-fuchsia":{
-    pagingControlColor: 'FF00FF'
+    pagingControlColor: '#FF00FF'
 }
 ".pg-cntl-color-gainsboro":{
-    pagingControlColor: 'DCDCDC'
+    pagingControlColor: '#DCDCDC'
 }
 ".pg-cntl-color-ghostwhite":{
-    pagingControlColor: 'F8F8FF'
+    pagingControlColor: '#F8F8FF'
 }
 ".pg-cntl-color-gold":{
-    pagingControlColor: 'FFD700'
+    pagingControlColor: '#FFD700'
 }
 ".pg-cntl-color-goldenrod":{
-    pagingControlColor: 'DAA520'
+    pagingControlColor: '#DAA520'
 }
 ".pg-cntl-color-gray":{
-    pagingControlColor: '808080'
+    pagingControlColor: '#808080'
 }
 ".pg-cntl-color-green":{
-    pagingControlColor: '008000'
+    pagingControlColor: '#008000'
 }
 ".pg-cntl-color-greenyellow":{
-    pagingControlColor: 'ADFF2F'
+    pagingControlColor: '#ADFF2F'
 }
 ".pg-cntl-color-honeydew":{
-    pagingControlColor: 'F0FFF0'
+    pagingControlColor: '#F0FFF0'
 }
 ".pg-cntl-color-hotpink":{
-    pagingControlColor: 'FF69B4'
+    pagingControlColor: '#FF69B4'
 }
 ".pg-cntl-color-indianred":{
-    pagingControlColor: 'CD5C5C'
+    pagingControlColor: '#CD5C5C'
 }
 ".pg-cntl-color-indigo":{
-    pagingControlColor: '4B0082'
+    pagingControlColor: '#4B0082'
 }
 ".pg-cntl-color-ivory":{
-    pagingControlColor: 'FFFFF0'
+    pagingControlColor: '#FFFFF0'
 }
 ".pg-cntl-color-khaki":{
-    pagingControlColor: 'F0E68C'
+    pagingControlColor: '#F0E68C'
 }
 ".pg-cntl-color-lavender":{
-    pagingControlColor: 'E6E6FA'
+    pagingControlColor: '#E6E6FA'
 }
 ".pg-cntl-color-lavenderblush":{
-    pagingControlColor: 'FFF0F5'
+    pagingControlColor: '#FFF0F5'
 }
 ".pg-cntl-color-lawngreen":{
-    pagingControlColor: '7CFC00'
+    pagingControlColor: '#7CFC00'
 }
 ".pg-cntl-color-lemonchiffon":{
-    pagingControlColor: 'FFFACD'
+    pagingControlColor: '#FFFACD'
 }
 ".pg-cntl-color-lightblue":{
-    pagingControlColor: 'ADD8E6'
+    pagingControlColor: '#ADD8E6'
 }
 ".pg-cntl-color-lightcoral":{
-    pagingControlColor: 'F08080'
+    pagingControlColor: '#F08080'
 }
 ".pg-cntl-color-lightcyan":{
-    pagingControlColor: 'E0FFFF'
+    pagingControlColor: '#E0FFFF'
 }
 ".pg-cntl-color-lightgoldenrodyellow":{
-    pagingControlColor: 'FAFAD2'
+    pagingControlColor: '#FAFAD2'
 }
 ".pg-cntl-color-lightgray":{
-    pagingControlColor: 'D3D3D3'
+    pagingControlColor: '#D3D3D3'
 }
 ".pg-cntl-color-lightgreen":{
-    pagingControlColor: '90EE90'
+    pagingControlColor: '#90EE90'
 }
 ".pg-cntl-color-lightpink":{
-    pagingControlColor: 'FFB6C1'
+    pagingControlColor: '#FFB6C1'
 }
 ".pg-cntl-color-lightsalmon":{
-    pagingControlColor: 'FFA07A'
+    pagingControlColor: '#FFA07A'
 }
 ".pg-cntl-color-lightseagreen":{
-    pagingControlColor: '20B2AA'
+    pagingControlColor: '#20B2AA'
 }
 ".pg-cntl-color-lightskyblue":{
-    pagingControlColor: '87CEFA'
+    pagingControlColor: '#87CEFA'
 }
 ".pg-cntl-color-lightslategray":{
-    pagingControlColor: '778899'
+    pagingControlColor: '#778899'
 }
 ".pg-cntl-color-lightsteelblue":{
-    pagingControlColor: 'B0C4DE'
+    pagingControlColor: '#B0C4DE'
 }
 ".pg-cntl-color-lightyellow":{
-    pagingControlColor: 'FFFFE0'
+    pagingControlColor: '#FFFFE0'
 }
 ".pg-cntl-color-lime":{
-    pagingControlColor: '00FF00'
+    pagingControlColor: '#00FF00'
 }
 ".pg-cntl-color-limegreen":{
-    pagingControlColor: '32CD32'
+    pagingControlColor: '#32CD32'
 }
 ".pg-cntl-color-linen":{
-    pagingControlColor: 'FAF0E6'
+    pagingControlColor: '#FAF0E6'
 }
 ".pg-cntl-color-magenta":{
-    pagingControlColor: 'FF00FF'
+    pagingControlColor: '#FF00FF'
 }
 ".pg-cntl-color-maroon":{
-    pagingControlColor: '800000'
+    pagingControlColor: '#800000'
 }
 ".pg-cntl-color-mediumaquamarine":{
-    pagingControlColor: '66CDAA'
+    pagingControlColor: '#66CDAA'
 }
 ".pg-cntl-color-mediumblue":{
-    pagingControlColor: '0000CD'
+    pagingControlColor: '#0000CD'
 }
 ".pg-cntl-color-mediumorchid":{
-    pagingControlColor: 'BA55D3'
+    pagingControlColor: '#BA55D3'
 }
 ".pg-cntl-color-mediumpurple":{
-    pagingControlColor: '9370DB'
+    pagingControlColor: '#9370DB'
 }
 ".pg-cntl-color-mediumseagreen":{
-    pagingControlColor: '3CB371'
+    pagingControlColor: '#3CB371'
 }
 ".pg-cntl-color-mediumslateblue":{
-    pagingControlColor: '7B68EE'
+    pagingControlColor: '#7B68EE'
 }
 ".pg-cntl-color-mediumspringgreen":{
-    pagingControlColor: '00FA9A'
+    pagingControlColor: '#00FA9A'
 }
 ".pg-cntl-color-mediumturquoise":{
-    pagingControlColor: '48D1CC'
+    pagingControlColor: '#48D1CC'
 }
 ".pg-cntl-color-mediumvioletred":{
-    pagingControlColor: 'C71585'
+    pagingControlColor: '#C71585'
 }
 ".pg-cntl-color-midnightblue":{
-    pagingControlColor: '191970'
+    pagingControlColor: '#191970'
 }
 ".pg-cntl-color-mintcream":{
-    pagingControlColor: 'F5FFFA'
+    pagingControlColor: '#F5FFFA'
 }
 ".pg-cntl-color-mistyrose":{
-    pagingControlColor: 'FFE4E1'
+    pagingControlColor: '#FFE4E1'
 }
 ".pg-cntl-color-moccasin":{
-    pagingControlColor: 'FFE4B5'
+    pagingControlColor: '#FFE4B5'
 }
 ".pg-cntl-color-navajowhite":{
-    pagingControlColor: 'FFDEAD'
+    pagingControlColor: '#FFDEAD'
 }
 ".pg-cntl-color-navy":{
-    pagingControlColor: '000080'
+    pagingControlColor: '#000080'
 }
 ".pg-cntl-color-oldlace":{
-    pagingControlColor: 'FDF5E6'
+    pagingControlColor: '#FDF5E6'
 }
 ".pg-cntl-color-olive":{
-    pagingControlColor: '808000'
+    pagingControlColor: '#808000'
 }
 ".pg-cntl-color-olivedrab":{
-    pagingControlColor: '6B8E23'
+    pagingControlColor: '#6B8E23'
 }
 ".pg-cntl-color-orange":{
-    pagingControlColor: 'FFA500'
+    pagingControlColor: '#FFA500'
 }
 ".pg-cntl-color-orangered":{
-    pagingControlColor: 'FF4500'
+    pagingControlColor: '#FF4500'
 }
 ".pg-cntl-color-orchid":{
-    pagingControlColor: 'DA70D6'
+    pagingControlColor: '#DA70D6'
 }
 ".pg-cntl-color-palegoldenrod":{
-    pagingControlColor: 'EEE8AA'
+    pagingControlColor: '#EEE8AA'
 }
 ".pg-cntl-color-palegreen":{
-    pagingControlColor: '98FB98'
+    pagingControlColor: '#98FB98'
 }
 ".pg-cntl-color-paleturquoise":{
-    pagingControlColor: 'AFEEEE'
+    pagingControlColor: '#AFEEEE'
 }
 ".pg-cntl-color-palevioletred":{
-    pagingControlColor: 'DB7093'
+    pagingControlColor: '#DB7093'
 }
 ".pg-cntl-color-papayawhip":{
-    pagingControlColor: 'FFEFD5'
+    pagingControlColor: '#FFEFD5'
 }
 ".pg-cntl-color-peachpuff":{
-    pagingControlColor: 'FFDAB9'
+    pagingControlColor: '#FFDAB9'
 }
 ".pg-cntl-color-peru":{
-    pagingControlColor: 'CD853F'
+    pagingControlColor: '#CD853F'
 }
 ".pg-cntl-color-pink":{
-    pagingControlColor: 'FFC0CB'
+    pagingControlColor: '#FFC0CB'
 }
 ".pg-cntl-color-plum":{
-    pagingControlColor: 'DDA0DD'
+    pagingControlColor: '#DDA0DD'
 }
 ".pg-cntl-color-powderblue":{
-    pagingControlColor: 'B0E0E6'
+    pagingControlColor: '#B0E0E6'
 }
 ".pg-cntl-color-purple":{
-    pagingControlColor: '800080'
+    pagingControlColor: '#800080'
 }
 ".pg-cntl-color-red":{
-    pagingControlColor: 'FF0000'
+    pagingControlColor: '#FF0000'
 }
 ".pg-cntl-color-rosybrown":{
-    pagingControlColor: 'BC8F8F'
+    pagingControlColor: '#BC8F8F'
 }
 ".pg-cntl-color-royalblue":{
-    pagingControlColor: '4169E1'
+    pagingControlColor: '#4169E1'
 }
 ".pg-cntl-color-saddlebrown":{
-    pagingControlColor: '8B4513'
+    pagingControlColor: '#8B4513'
 }
 ".pg-cntl-color-salmon":{
-    pagingControlColor: 'FA8072'
+    pagingControlColor: '#FA8072'
 }
 ".pg-cntl-color-sandybrown":{
-    pagingControlColor: 'F4A460'
+    pagingControlColor: '#F4A460'
 }
 ".pg-cntl-color-seagreen":{
-    pagingControlColor: '2E8B57'
+    pagingControlColor: '#2E8B57'
 }
 ".pg-cntl-color-seashell":{
-    pagingControlColor: 'FFF5EE'
+    pagingControlColor: '#FFF5EE'
 }
 ".pg-cntl-color-sienna":{
-    pagingControlColor: 'A0522D'
+    pagingControlColor: '#A0522D'
 }
 ".pg-cntl-color-silver":{
-    pagingControlColor: 'C0C0C0'
+    pagingControlColor: '#C0C0C0'
 }
 ".pg-cntl-color-skyblue":{
-    pagingControlColor: '87CEEB'
+    pagingControlColor: '#87CEEB'
 }
 ".pg-cntl-color-slateblue":{
-    pagingControlColor: '6A5ACD'
+    pagingControlColor: '#6A5ACD'
 }
 ".pg-cntl-color-slategray":{
-    pagingControlColor: '708090'
+    pagingControlColor: '#708090'
 }
 ".pg-cntl-color-snow":{
-    pagingControlColor: 'FFFAFA'
+    pagingControlColor: '#FFFAFA'
 }
 ".pg-cntl-color-springgreen":{
-    pagingControlColor: '00FF7F'
+    pagingControlColor: '#00FF7F'
 }
 ".pg-cntl-color-steelblue":{
-    pagingControlColor: '4682B4'
+    pagingControlColor: '#4682B4'
 }
 ".pg-cntl-color-tan":{
-    pagingControlColor: 'D2B48C'
+    pagingControlColor: '#D2B48C'
 }
 ".pg-cntl-color-teal":{
-    pagingControlColor: '008080'
+    pagingControlColor: '#008080'
 }
 ".pg-cntl-color-thistle":{
-    pagingControlColor: 'D8BFD8'
+    pagingControlColor: '#D8BFD8'
 }
 ".pg-cntl-color-tomato":{
-    pagingControlColor: 'FF6347'
+    pagingControlColor: '#FF6347'
 }
 ".pg-cntl-color-turquoise":{
-    pagingControlColor: '40E0D0'
+    pagingControlColor: '#40E0D0'
 }
 ".pg-cntl-color-violet":{
-    pagingControlColor: 'EE82EE'
+    pagingControlColor: '#EE82EE'
 }
 ".pg-cntl-color-wheat":{
-    pagingControlColor: 'F5DEB3'
+    pagingControlColor: '#F5DEB3'
 }
 ".pg-cntl-color-white":{
-    pagingControlColor: 'FFFFFF'
+    pagingControlColor: '#FFFFFF'
 }
 ".pg-cntl-color-whitesmoke":{
-    pagingControlColor: 'F5F5F5'
+    pagingControlColor: '#F5F5F5'
 }
 ".pg-cntl-color-yellow":{
-    pagingControlColor: 'FFFF00'
+    pagingControlColor: '#FFFF00'
 }
 ".pg-cntl-color-yellowgreen":{
-    pagingControlColor: '9ACD32'
+    pagingControlColor: '#9ACD32'
 }
 
 //Font
