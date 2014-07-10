@@ -46,6 +46,7 @@
     paddingRight: '10%',
 }
 "TextArea":{
+    height: '44dp',
     backgroundColor: '#ffffff',
     color: '#000000',
     paddingLeft: '10%',
@@ -387,6 +388,13 @@
     textAlign: Ti.UI.TEXT_ALIGNMENT_RIGHT
 }
 
+"h-wrap": {
+    horizontalWrap: true
+}
+
+"h-wrap-disable": {
+    horizontalWrap: false
+}
 // Typography - Addresses
 ".address":{
     width:'100%',
@@ -2750,7 +2758,11 @@
 
 // Custom
 ".btn-drawer-icon":{
-    image:'/drawer-icon.png'
+    image:'/images/icons/menu.png'
+}
+
+".btn-search-icon":{
+    image:'images/icons/search.png'
 }
 
 // iOS System Button
@@ -12437,7 +12449,7 @@
     returnKeyType: Ti.UI.RETURNKEY_YAHOO
 }
 ".input-supress-return":{
-    suppressReturn: true
+    suppressReturn: false
 }
 // Alignment helpers
 ".pull-left":{
