@@ -2758,12 +2758,9 @@
 
 // Custom
 ".btn-drawer-icon":{
-    image:'/images/icons/menu.png'
+    image:'/drawer-icon.png'
 }
 
-".btn-search-icon":{
-    image:'images/icons/search.png'
-}
 
 // iOS System Button
 ".btn-action":{
