@@ -12,7 +12,7 @@
 }
 "Label":{
     font: {
-        fontFamily: 'Helvetica Neue Light',
+        fontFamily: 'HelveticaNeue-Light',
         fontSize: '14dp',
     },
     color: '#333333'
