@@ -1,0 +1,2164 @@
+// Glyphish
+".glyphish-refresh":{
+    image:"/glyphish/icons/01-refresh.png"
+}
+".glyphish-redo":{
+    image:"/glyphish/icons/02-redo.png"
+}
+".glyphish-loopback":{
+    image:"/glyphish/icons/03-loopback.png"
+}
+".glyphish-squiggle":{
+    image:"/glyphish/icons/04-squiggle.png"
+}
+".glyphish-shuffle":{
+    image:"/glyphish/icons/05-shuffle.png"
+}
+".glyphish-magnify":{
+    image:"/glyphish/icons/06-magnify.png"
+}
+".glyphish-map-marker":{
+    image:"/glyphish/icons/07-map-marker.png"
+}
+".glyphish-chat":{
+    image:"/glyphish/icons/08-chat.png"
+}
+".glyphish-chat-2":{
+    image:"/glyphish/icons/09-chat-2.png"
+}
+".glyphish-medical":{
+    image:"/glyphish/icons/10-medical.png"
+}
+".glyphish-clock":{
+    image:"/glyphish/icons/11-clock.png"
+}
+".glyphish-eye":{
+    image:"/glyphish/icons/12-eye.png"
+}
+".glyphish-target":{
+    image:"/glyphish/icons/13-target.png"
+}
+".glyphish-tag":{
+    image:"/glyphish/icons/14-tag.png"
+}
+".glyphish-tags":{
+    image:"/glyphish/icons/15-tags.png"
+}
+".glyphish-line-chart":{
+    image:"/glyphish/icons/16-line-chart.png"
+}
+".glyphish-bar-chart":{
+    image:"/glyphish/icons/17-bar-chart.png"
+}
+".glyphish-envelope":{
+    image:"/glyphish/icons/18-envelope.png"
+}
+".glyphish-gear":{
+    image:"/glyphish/icons/19-gear.png"
+}
+".glyphish-gear2":{
+    image:"/glyphish/icons/20-gear2.png"
+}
+".glyphish-skull":{
+    image:"/glyphish/icons/21-skull.png"
+}
+".glyphish-skull-n-bones":{
+    image:"/glyphish/icons/22-skull-n-bones.png"
+}
+".glyphish-bird":{
+    image:"/glyphish/icons/23-bird.png"
+}
+".glyphish-gift":{
+    image:"/glyphish/icons/24-gift.png"
+}
+".glyphish-weather":{
+    image:"/glyphish/icons/25-weather.png"
+}
+".glyphish-bandaid":{
+    image:"/glyphish/icons/26-bandaid.png"
+}
+".glyphish-planet":{
+    image:"/glyphish/icons/27-planet.png"
+}
+".glyphish-star":{
+    image:"/glyphish/icons/28-star.png"
+}
+".glyphish-heart":{
+    image:"/glyphish/icons/29-heart.png"
+}
+".glyphish-key":{
+    image:"/glyphish/icons/30-key.png"
+}
+".glyphish-ipod":{
+    image:"/glyphish/icons/31-ipod.png"
+}
+".glyphish-iphone":{
+    image:"/glyphish/icons/32-iphone.png"
+}
+".glyphish-cabinet":{
+    image:"/glyphish/icons/33-cabinet.png"
+}
+".glyphish-coffee":{
+    image:"/glyphish/icons/34-coffee.png"
+}
+".glyphish-shopping":{
+    image:"/glyphish/icons/35-shopping.png"
+}
+".glyphish-toolbox":{
+    image:"/glyphish/icons/36-toolbox.png"
+}
+".glyphish-suitcase":{
+    image:"/glyphish/icons/37-suitcase.png"
+}
+".glyphish-airplane":{
+    image:"/glyphish/icons/38-airplane.png"
+}
+".glyphish-spraycan":{
+    image:"/glyphish/icons/39-spraycan.png"
+}
+".glyphish-inbox":{
+    image:"/glyphish/icons/40-inbox.png"
+}
+".glyphish-picture-frame":{
+    image:"/glyphish/icons/41-picture-frame.png"
+}
+".glyphish-photos":{
+    image:"/glyphish/icons/42-photos.png"
+}
+".glyphish-film-roll":{
+    image:"/glyphish/icons/43-film-roll.png"
+}
+".glyphish-shoebox":{
+    image:"/glyphish/icons/44-shoebox.png"
+}
+".glyphish-movie-1":{
+    image:"/glyphish/icons/45-movie-1.png"
+}
+".glyphish-movie-2":{
+    image:"/glyphish/icons/46-movie-2.png"
+}
+".glyphish-fuel":{
+    image:"/glyphish/icons/47-fuel.png"
+}
+".glyphish-fork-and-knife":{
+    image:"/glyphish/icons/48-fork-and-knife.png"
+}
+".glyphish-battery":{
+    image:"/glyphish/icons/49-battery.png"
+}
+".glyphish-beaker":{
+    image:"/glyphish/icons/50-beaker.png"
+}
+".glyphish-outlet":{
+    image:"/glyphish/icons/51-outlet.png"
+}
+".glyphish-pine-tree":{
+    image:"/glyphish/icons/52-pine-tree.png"
+}
+".glyphish-house":{
+    image:"/glyphish/icons/53-house.png"
+}
+".glyphish-lock":{
+    image:"/glyphish/icons/54-lock.png"
+}
+".glyphish-network":{
+    image:"/glyphish/icons/55-network.png"
+}
+".glyphish-cloud":{
+    image:"/glyphish/icons/56-cloud.png"
+}
+".glyphish-download":{
+    image:"/glyphish/icons/57-download.png"
+}
+".glyphish-bookmark":{
+    image:"/glyphish/icons/58-bookmark.png"
+}
+".glyphish-flag":{
+    image:"/glyphish/icons/59-flag.png"
+}
+".glyphish-signpost":{
+    image:"/glyphish/icons/60-signpost.png"
+}
+".glyphish-brightness":{
+    image:"/glyphish/icons/61-brightness.png"
+}
+".glyphish-contrast":{
+    image:"/glyphish/icons/62-contrast.png"
+}
+".glyphish-runner":{
+    image:"/glyphish/icons/63-runner.png"
+}
+".glyphish-zap":{
+    image:"/glyphish/icons/64-zap.png"
+}
+".glyphish-note":{
+    image:"/glyphish/icons/65-note.png"
+}
+".glyphish-microphone":{
+    image:"/glyphish/icons/66-microphone.png"
+}
+".glyphish-tshirt":{
+    image:"/glyphish/icons/67-tshirt.png"
+}
+".glyphish-paperclip":{
+    image:"/glyphish/icons/68-paperclip.png"
+}
+".glyphish-display":{
+    image:"/glyphish/icons/69-display.png"
+}
+".glyphish-tv":{
+    image:"/glyphish/icons/70-tv.png"
+}
+".glyphish-compass":{
+    image:"/glyphish/icons/71-compass.png"
+}
+".glyphish-pin":{
+    image:"/glyphish/icons/72-pin.png"
+}
+".glyphish-radar":{
+    image:"/glyphish/icons/73-radar.png"
+}
+".glyphish-location":{
+    image:"/glyphish/icons/74-location.png"
+}
+".glyphish-phone":{
+    image:"/glyphish/icons/75-phone.png"
+}
+".glyphish-baby":{
+    image:"/glyphish/icons/76-baby.png"
+}
+".glyphish-ekg":{
+    image:"/glyphish/icons/77-ekg.png"
+}
+".glyphish-stopwatch":{
+    image:"/glyphish/icons/78-stopwatch.png"
+}
+".glyphish-medical-bag":{
+    image:"/glyphish/icons/79-medical-bag.png"
+}
+".glyphish-shopping-cart":{
+    image:"/glyphish/icons/80-shopping-cart.png"
+}
+".glyphish-dashboard":{
+    image:"/glyphish/icons/81-dashboard.png"
+}
+".glyphish-dog-paw":{
+    image:"/glyphish/icons/82-dog-paw.png"
+}
+".glyphish-calendar":{
+    image:"/glyphish/icons/83-calendar.png"
+}
+".glyphish-lightbulb":{
+    image:"/glyphish/icons/84-lightbulb.png"
+}
+".glyphish-trophy":{
+    image:"/glyphish/icons/85-trophy.png"
+}
+".glyphish-camera":{
+    image:"/glyphish/icons/86-camera.png"
+}
+".glyphish-wine-glass":{
+    image:"/glyphish/icons/87-wine-glass.png"
+}
+".glyphish-beer-mug":{
+    image:"/glyphish/icons/88-beer-mug.png"
+}
+".glyphish-dumbell":{
+    image:"/glyphish/icons/89-dumbell.png"
+}
+".glyphish-life-buoy":{
+    image:"/glyphish/icons/90-life-buoy.png"
+}
+".glyphish-beaker-2":{
+    image:"/glyphish/icons/91-beaker-2.png"
+}
+".glyphish-test-tube":{
+    image:"/glyphish/icons/92-test-tube.png"
+}
+".glyphish-thermometer":{
+    image:"/glyphish/icons/93-thermometer.png"
+}
+".glyphish-pill":{
+    image:"/glyphish/icons/94-pill.png"
+}
+".glyphish-equalizer":{
+    image:"/glyphish/icons/95-equalizer.png"
+}
+".glyphish-book":{
+    image:"/glyphish/icons/96-book.png"
+}
+".glyphish-puzzle":{
+    image:"/glyphish/icons/97-puzzle.png"
+}
+".glyphish-palette":{
+    image:"/glyphish/icons/98-palette.png"
+}
+".glyphish-umbrella":{
+    image:"/glyphish/icons/99-umbrella.png"
+}
+".glyphish-coffee":{
+    image:"/glyphish/icons/100-coffee.png"
+}
+".glyphish-gameplan":{
+    image:"/glyphish/icons/101-gameplan.png"
+}
+".glyphish-walk":{
+    image:"/glyphish/icons/102-walk.png"
+}
+".glyphish-map":{
+    image:"/glyphish/icons/103-map.png"
+}
+".glyphish-index-cards":{
+    image:"/glyphish/icons/104-index-cards.png"
+}
+".glyphish-piano":{
+    image:"/glyphish/icons/105-piano.png"
+}
+".glyphish-sliders":{
+    image:"/glyphish/icons/106-sliders.png"
+}
+".glyphish-widescreen":{
+    image:"/glyphish/icons/107-widescreen.png"
+}
+".glyphish-badge":{
+    image:"/glyphish/icons/108-badge.png"
+}
+".glyphish-chicken":{
+    image:"/glyphish/icons/109-chicken.png"
+}
+".glyphish-bug":{
+    image:"/glyphish/icons/110-bug.png"
+}
+".glyphish-user":{
+    image:"/glyphish/icons/111-user.png"
+}
+".glyphish-group":{
+    image:"/glyphish/icons/112-group.png"
+}
+".glyphish-navigation":{
+    image:"/glyphish/icons/113-navigation.png"
+}
+".glyphish-balloon":{
+    image:"/glyphish/icons/114-balloon.png"
+}
+".glyphish-bow-and-arrow":{
+    image:"/glyphish/icons/115-bow-and-arrow.png"
+}
+".glyphish-controller":{
+    image:"/glyphish/icons/116-controller.png"
+}
+".glyphish-todo":{
+    image:"/glyphish/icons/117-todo.png"
+}
+".glyphish-coat-hanger":{
+    image:"/glyphish/icons/118-coat-hanger.png"
+}
+".glyphish-piggy-bank":{
+    image:"/glyphish/icons/119-piggy-bank.png"
+}
+".glyphish-headphones":{
+    image:"/glyphish/icons/120-headphones.png"
+}
+".glyphish-landscape":{
+    image:"/glyphish/icons/121-landscape.png"
+}
+".glyphish-stats":{
+    image:"/glyphish/icons/122-stats.png"
+}
+".glyphish-id-card":{
+    image:"/glyphish/icons/123-id-card.png"
+}
+".glyphish-bullhorn":{
+    image:"/glyphish/icons/124-bullhorn.png"
+}
+".glyphish-food":{
+    image:"/glyphish/icons/125-food.png"
+}
+".glyphish-moon":{
+    image:"/glyphish/icons/126-moon.png"
+}
+".glyphish-sock":{
+    image:"/glyphish/icons/127-sock.png"
+}
+".glyphish-bone":{
+    image:"/glyphish/icons/128-bone.png"
+}
+".glyphish-golf":{
+    image:"/glyphish/icons/129-golf.png"
+}
+".glyphish-dice":{
+    image:"/glyphish/icons/130-dice.png"
+}
+".glyphish-tower":{
+    image:"/glyphish/icons/131-tower.png"
+}
+".glyphish-ghost":{
+    image:"/glyphish/icons/132-ghost.png"
+}
+".glyphish-ufo":{
+    image:"/glyphish/icons/133-ufo.png"
+}
+".glyphish-viking":{
+    image:"/glyphish/icons/134-viking.png"
+}
+".glyphish-hockeymask":{
+    image:"/glyphish/icons/135-hockeymask.png"
+}
+".glyphish-tractor":{
+    image:"/glyphish/icons/136-tractor.png"
+}
+".glyphish-presentation":{
+    image:"/glyphish/icons/137-presentation.png"
+}
+".glyphish-scales":{
+    image:"/glyphish/icons/138-scales.png"
+}
+".glyphish-flags":{
+    image:"/glyphish/icons/139-flags.png"
+}
+".glyphish-gradhat":{
+    image:"/glyphish/icons/140-gradhat.png"
+}
+".glyphish-lamp":{
+    image:"/glyphish/icons/141-lamp.png"
+}
+".glyphish-wine-bottle":{
+    image:"/glyphish/icons/142-wine-bottle.png"
+}
+".glyphish-liquor-bottle":{
+    image:"/glyphish/icons/143-liquor-bottle.png"
+}
+".glyphish-martini":{
+    image:"/glyphish/icons/144-martini.png"
+}
+".glyphish-persondot":{
+    image:"/glyphish/icons/145-persondot.png"
+}
+".glyphish-gavel":{
+    image:"/glyphish/icons/146-gavel.png"
+}
+".glyphish-popsicle":{
+    image:"/glyphish/icons/147-popsicle.png"
+}
+".glyphish-doghouse":{
+    image:"/glyphish/icons/148-doghouse.png"
+}
+".glyphish-windmill":{
+    image:"/glyphish/icons/149-windmill.png"
+}
+".glyphish-sailboat":{
+    image:"/glyphish/icons/150-sailboat.png"
+}
+".glyphish-telescope":{
+    image:"/glyphish/icons/151-telescope.png"
+}
+".glyphish-rolodex":{
+    image:"/glyphish/icons/152-rolodex.png"
+}
+".glyphish-guitar":{
+    image:"/glyphish/icons/153-guitar.png"
+}
+".glyphish-necktie":{
+    image:"/glyphish/icons/154-necktie.png"
+}
+".glyphish-bowtie":{
+    image:"/glyphish/icons/155-bowtie.png"
+}
+".glyphish-controlpad":{
+    image:"/glyphish/icons/156-controlpad.png"
+}
+".glyphish-wrench":{
+    image:"/glyphish/icons/157-wrench.png"
+}
+".glyphish-wrench-2":{
+    image:"/glyphish/icons/158-wrench-2.png"
+}
+".glyphish-voicemail":{
+    image:"/glyphish/icons/159-voicemail.png"
+}
+".glyphish-voicemail-2":{
+    image:"/glyphish/icons/160-voicemail-2.png"
+}
+".glyphish-calculator":{
+    image:"/glyphish/icons/161-calculator.png"
+}
+".glyphish-receipt":{
+    image:"/glyphish/icons/162-receipt.png"
+}
+".glyphish-glasses-1":{
+    image:"/glyphish/icons/163-glasses-1.png"
+}
+".glyphish-glasses-2":{
+    image:"/glyphish/icons/164-glasses-2.png"
+}
+".glyphish-glasses-3":{
+    image:"/glyphish/icons/165-glasses-3.png"
+}
+".glyphish-newspaper":{
+    image:"/glyphish/icons/166-newspaper.png"
+}
+".glyphish-upload-photo":{
+    image:"/glyphish/icons/167-upload-photo.png"
+}
+".glyphish-upload-photo-2":{
+    image:"/glyphish/icons/168-upload-photo-2.png"
+}
+".glyphish-8ball":{
+    image:"/glyphish/icons/169-8ball.png"
+}
+".glyphish-butterfly":{
+    image:"/glyphish/icons/170-butterfly.png"
+}
+".glyphish-sun":{
+    image:"/glyphish/icons/171-sun.png"
+}
+".glyphish-pricetag":{
+    image:"/glyphish/icons/172-pricetag.png"
+}
+".glyphish-eyedropper":{
+    image:"/glyphish/icons/173-eyedropper.png"
+}
+".glyphish-imac":{
+    image:"/glyphish/icons/174-imac.png"
+}
+".glyphish-macbook":{
+    image:"/glyphish/icons/175-macbook.png"
+}
+".glyphish-ipad":{
+    image:"/glyphish/icons/176-ipad.png"
+}
+".glyphish-building":{
+    image:"/glyphish/icons/177-building.png"
+}
+".glyphish-city":{
+    image:"/glyphish/icons/178-city.png"
+}
+".glyphish-notepad":{
+    image:"/glyphish/icons/179-notepad.png"
+}
+".glyphish-stickynote":{
+    image:"/glyphish/icons/180-stickynote.png"
+}
+".glyphish-hammer":{
+    image:"/glyphish/icons/181-hammer.png"
+}
+".glyphish-messenger-bag":{
+    image:"/glyphish/icons/182-messenger-bag.png"
+}
+".glyphish-genie-lamp":{
+    image:"/glyphish/icons/183-genie-lamp.png"
+}
+".glyphish-warning":{
+    image:"/glyphish/icons/184-warning.png"
+}
+".glyphish-printer":{
+    image:"/glyphish/icons/185-printer.png"
+}
+".glyphish-ruler":{
+    image:"/glyphish/icons/186-ruler.png"
+}
+".glyphish-pencil":{
+    image:"/glyphish/icons/187-pencil.png"
+}
+".glyphish-paint-roller":{
+    image:"/glyphish/icons/188-paint-roller.png"
+}
+".glyphish-plant":{
+    image:"/glyphish/icons/189-plant.png"
+}
+".glyphish-bank":{
+    image:"/glyphish/icons/190-bank.png"
+}
+".glyphish-collection":{
+    image:"/glyphish/icons/191-collection.png"
+}
+".glyphish-credit-card":{
+    image:"/glyphish/icons/192-credit-card.png"
+}
+".glyphish-location-arrow":{
+    image:"/glyphish/icons/193-location-arrow.png"
+}
+".glyphish-note-2":{
+    image:"/glyphish/icons/194-note-2.png"
+}
+".glyphish-barcode":{
+    image:"/glyphish/icons/195-barcode.png"
+}
+".glyphish-radiation":{
+    image:"/glyphish/icons/196-radiation.png"
+}
+".glyphish-card-diamonds":{
+    image:"/glyphish/icons/197-card-diamonds.png"
+}
+".glyphish-card-spades":{
+    image:"/glyphish/icons/198-card-spades.png"
+}
+".glyphish-card-hearts":{
+    image:"/glyphish/icons/199-card-hearts.png"
+}
+".glyphish-card-clubs":{
+    image:"/glyphish/icons/200-card-clubs.png"
+}
+// Glyphicons
+".glyphicons_glass":{
+    image:'/glyphicons/glyphicons/png/glyphicons_000_glass.png'
+}
+".glyphicons_leaf":{
+    image:'/glyphicons/glyphicons/png/glyphicons_001_leaf.png'
+}
+".glyphicons_dog":{
+    image:'/glyphicons/glyphicons/png/glyphicons_002_dog.png'
+}
+".glyphicons_user":{
+    image:'/glyphicons/glyphicons/png/glyphicons_003_user.png'
+}
+".glyphicons_girl":{
+    image:'/glyphicons/glyphicons/png/glyphicons_004_girl.png'
+}
+".glyphicons_car":{
+    image:'/glyphicons/glyphicons/png/glyphicons_005_car.png'
+}
+".glyphicons_user_add":{
+    image:'/glyphicons/glyphicons/png/glyphicons_006_user_add.png'
+}
+".glyphicons_user_remove":{
+    image:'/glyphicons/glyphicons/png/glyphicons_007_user_remove.png'
+}
+".glyphicons_film":{
+    image:'/glyphicons/glyphicons/png/glyphicons_008_film.png'
+}
+".glyphicons_magic":{
+    image:'/glyphicons/glyphicons/png/glyphicons_009_magic.png'
+}
+".glyphicons_envelope":{
+    image:'/glyphicons/glyphicons/png/glyphicons_010_envelope.png'
+}
+".glyphicons_camera":{
+    image:'/glyphicons/glyphicons/png/glyphicons_011_camera.png'
+}
+".glyphicons_heart":{
+    image:'/glyphicons/glyphicons/png/glyphicons_012_heart.png'
+}
+".glyphicons_beach_umbrella":{
+    image:'/glyphicons/glyphicons/png/glyphicons_013_beach_umbrella.png'
+}
+".glyphicons_train":{
+    image:'/glyphicons/glyphicons/png/glyphicons_014_train.png'
+}
+".glyphicons_print":{
+    image:'/glyphicons/glyphicons/png/glyphicons_015_print.png'
+}
+".glyphicons_bin":{
+    image:'/glyphicons/glyphicons/png/glyphicons_016_bin.png'
+}
+".glyphicons_music":{
+    image:'/glyphicons/glyphicons/png/glyphicons_017_music.png'
+}
+".glyphicons_note":{
+    image:'/glyphicons/glyphicons/png/glyphicons_018_note.png'
+}
+".glyphicons_heart_empty":{
+    image:'/glyphicons/glyphicons/png/glyphicons_019_heart_empty.png'
+}
+".glyphicons_home":{
+    image:'/glyphicons/glyphicons/png/glyphicons_020_home.png'
+}
+".glyphicons_snowflake":{
+    image:'/glyphicons/glyphicons/png/glyphicons_021_snowflake.png'
+}
+".glyphicons_fire":{
+    image:'/glyphicons/glyphicons/png/glyphicons_022_fire.png'
+}
+".glyphicons_magnet":{
+    image:'/glyphicons/glyphicons/png/glyphicons_023_magnet.png'
+}
+".glyphicons_parents":{
+    image:'/glyphicons/glyphicons/png/glyphicons_024_parents.png'
+}
+".glyphicons_binoculars":{
+    image:'/glyphicons/glyphicons/png/glyphicons_025_binoculars.png'
+}
+".glyphicons_road":{
+    image:'/glyphicons/glyphicons/png/glyphicons_026_road.png'
+}
+".glyphicons_search":{
+    image:'/glyphicons/glyphicons/png/glyphicons_027_search.png'
+}
+".glyphicons_cars":{
+    image:'/glyphicons/glyphicons/png/glyphicons_028_cars.png'
+}
+".glyphicons_notes_2":{
+    image:'/glyphicons/glyphicons/png/glyphicons_029_notes_2.png'
+}
+".glyphicons_pencil":{
+    image:'/glyphicons/glyphicons/png/glyphicons_030_pencil.png'
+}
+".glyphicons_bus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_031_bus.png'
+}
+".glyphicons_wifi_alt":{
+    image:'/glyphicons/glyphicons/png/glyphicons_032_wifi_alt.png'
+}
+".glyphicons_luggage":{
+    image:'/glyphicons/glyphicons/png/glyphicons_033_luggage.png'
+}
+".glyphicons_old_man":{
+    image:'/glyphicons/glyphicons/png/glyphicons_034_old_man.png'
+}
+".glyphicons_woman":{
+    image:'/glyphicons/glyphicons/png/glyphicons_035_woman.png'
+}
+".glyphicons_file":{
+    image:'/glyphicons/glyphicons/png/glyphicons_036_file.png'
+}
+".glyphicons_coins":{
+    image:'/glyphicons/glyphicons/png/glyphicons_037_coins.png'
+}
+".glyphicons_airplane":{
+    image:'/glyphicons/glyphicons/png/glyphicons_038_airplane.png'
+}
+".glyphicons_notes":{
+    image:'/glyphicons/glyphicons/png/glyphicons_039_notes.png'
+}
+".glyphicons_stats":{
+    image:'/glyphicons/glyphicons/png/glyphicons_040_stats.png'
+}
+".glyphicons_charts":{
+    image:'/glyphicons/glyphicons/png/glyphicons_041_charts.png'
+}
+".glyphicons_pie_chart":{
+    image:'/glyphicons/glyphicons/png/glyphicons_042_pie_chart.png'
+}
+".glyphicons_group":{
+    image:'/glyphicons/glyphicons/png/glyphicons_043_group.png'
+}
+".glyphicons_keys":{
+    image:'/glyphicons/glyphicons/png/glyphicons_044_keys.png'
+}
+".glyphicons_calendar":{
+    image:'/glyphicons/glyphicons/png/glyphicons_045_calendar.png'
+}
+".glyphicons_router":{
+    image:'/glyphicons/glyphicons/png/glyphicons_046_router.png'
+}
+".glyphicons_camera_small":{
+    image:'/glyphicons/glyphicons/png/glyphicons_047_camera_small.png'
+}
+".glyphicons_dislikes":{
+    image:'/glyphicons/glyphicons/png/glyphicons_048_dislikes.png'
+}
+".glyphicons_star":{
+    image:'/glyphicons/glyphicons/png/glyphicons_049_star.png'
+}
+".glyphicons_link":{
+    image:'/glyphicons/glyphicons/png/glyphicons_050_link.png'
+}
+".glyphicons_eye_open":{
+    image:'/glyphicons/glyphicons/png/glyphicons_051_eye_open.png'
+}
+".glyphicons_eye_close":{
+    image:'/glyphicons/glyphicons/png/glyphicons_052_eye_close.png'
+}
+".glyphicons_alarm":{
+    image:'/glyphicons/glyphicons/png/glyphicons_053_alarm.png'
+}
+".glyphicons_clock":{
+    image:'/glyphicons/glyphicons/png/glyphicons_054_clock.png'
+}
+".glyphicons_stopwatch":{
+    image:'/glyphicons/glyphicons/png/glyphicons_055_stopwatch.png'
+}
+".glyphicons_projector":{
+    image:'/glyphicons/glyphicons/png/glyphicons_056_projector.png'
+}
+".glyphicons_history":{
+    image:'/glyphicons/glyphicons/png/glyphicons_057_history.png'
+}
+".glyphicons_truck":{
+    image:'/glyphicons/glyphicons/png/glyphicons_058_truck.png'
+}
+".glyphicons_cargo":{
+    image:'/glyphicons/glyphicons/png/glyphicons_059_cargo.png'
+}
+".glyphicons_compass":{
+    image:'/glyphicons/glyphicons/png/glyphicons_060_compass.png'
+}
+".glyphicons_keynote":{
+    image:'/glyphicons/glyphicons/png/glyphicons_061_keynote.png'
+}
+".glyphicons_paperclip":{
+    image:'/glyphicons/glyphicons/png/glyphicons_062_paperclip.png'
+}
+".glyphicons_power":{
+    image:'/glyphicons/glyphicons/png/glyphicons_063_power.png'
+}
+".glyphicons_lightbulb":{
+    image:'/glyphicons/glyphicons/png/glyphicons_064_lightbulb.png'
+}
+".glyphicons_tag":{
+    image:'/glyphicons/glyphicons/png/glyphicons_065_tag.png'
+}
+".glyphicons_tags":{
+    image:'/glyphicons/glyphicons/png/glyphicons_066_tags.png'
+}
+".glyphicons_cleaning":{
+    image:'/glyphicons/glyphicons/png/glyphicons_067_cleaning.png'
+}
+".glyphicons_ruller":{
+    image:'/glyphicons/glyphicons/png/glyphicons_068_ruller.png'
+}
+".glyphicons_gift":{
+    image:'/glyphicons/glyphicons/png/glyphicons_069_gift.png'
+}
+".glyphicons_umbrella":{
+    image:'/glyphicons/glyphicons/png/glyphicons_070_umbrella.png'
+}
+".glyphicons_book":{
+    image:'/glyphicons/glyphicons/png/glyphicons_071_book.png'
+}
+".glyphicons_bookmark":{
+    image:'/glyphicons/glyphicons/png/glyphicons_072_bookmark.png'
+}
+".glyphicons_wifi":{
+    image:'/glyphicons/glyphicons/png/glyphicons_073_wifi.png'
+}
+".glyphicons_cup":{
+    image:'/glyphicons/glyphicons/png/glyphicons_074_cup.png'
+}
+".glyphicons_stroller":{
+    image:'/glyphicons/glyphicons/png/glyphicons_075_stroller.png'
+}
+".glyphicons_headphones":{
+    image:'/glyphicons/glyphicons/png/glyphicons_076_headphones.png'
+}
+".glyphicons_headset":{
+    image:'/glyphicons/glyphicons/png/glyphicons_077_headset.png'
+}
+".glyphicons_warning_sign":{
+    image:'/glyphicons/glyphicons/png/glyphicons_078_warning_sign.png'
+}
+".glyphicons_signal":{
+    image:'/glyphicons/glyphicons/png/glyphicons_079_signal.png'
+}
+".glyphicons_retweet":{
+    image:'/glyphicons/glyphicons/png/glyphicons_080_retweet.png'
+}
+".glyphicons_refresh":{
+    image:'/glyphicons/glyphicons/png/glyphicons_081_refresh.png'
+}
+".glyphicons_roundabout":{
+    image:'/glyphicons/glyphicons/png/glyphicons_082_roundabout.png'
+}
+".glyphicons_random":{
+    image:'/glyphicons/glyphicons/png/glyphicons_083_random.png'
+}
+".glyphicons_heat":{
+    image:'/glyphicons/glyphicons/png/glyphicons_084_heat.png'
+}
+".glyphicons_repeat":{
+    image:'/glyphicons/glyphicons/png/glyphicons_085_repeat.png'
+}
+".glyphicons_display":{
+    image:'/glyphicons/glyphicons/png/glyphicons_086_display.png'
+}
+".glyphicons_log_book":{
+    image:'/glyphicons/glyphicons/png/glyphicons_087_log_book.png'
+}
+".glyphicons_address_book":{
+    image:'/glyphicons/glyphicons/png/glyphicons_088_address_book.png'
+}
+".glyphicons_building":{
+    image:'/glyphicons/glyphicons/png/glyphicons_089_building.png'
+}
+".glyphicons_eyedropper":{
+    image:'/glyphicons/glyphicons/png/glyphicons_090_eyedropper.png'
+}
+".glyphicons_adjust":{
+    image:'/glyphicons/glyphicons/png/glyphicons_091_adjust.png'
+}
+".glyphicons_tint":{
+    image:'/glyphicons/glyphicons/png/glyphicons_092_tint.png'
+}
+".glyphicons_crop":{
+    image:'/glyphicons/glyphicons/png/glyphicons_093_crop.png'
+}
+".glyphicons_vector_path_square":{
+    image:'/glyphicons/glyphicons/png/glyphicons_094_vector_path_square.png'
+}
+".glyphicons_vector_path_circle":{
+    image:'/glyphicons/glyphicons/png/glyphicons_095_vector_path_circle.png'
+}
+".glyphicons_vector_path_polygon":{
+    image:'/glyphicons/glyphicons/png/glyphicons_096_vector_path_polygon.png'
+}
+".glyphicons_vector_path_line":{
+    image:'/glyphicons/glyphicons/png/glyphicons_097_vector_path_line.png'
+}
+".glyphicons_vector_path_curve":{
+    image:'/glyphicons/glyphicons/png/glyphicons_098_vector_path_curve.png'
+}
+".glyphicons_vector_path_all":{
+    image:'/glyphicons/glyphicons/png/glyphicons_099_vector_path_all.png'
+}
+".glyphicons_font":{
+    image:'/glyphicons/glyphicons/png/glyphicons_100_font.png'
+}
+".glyphicons_italic":{
+    image:'/glyphicons/glyphicons/png/glyphicons_101_italic.png'
+}
+".glyphicons_bold":{
+    image:'/glyphicons/glyphicons/png/glyphicons_102_bold.png'
+}
+".glyphicons_text_underline":{
+    image:'/glyphicons/glyphicons/png/glyphicons_103_text_underline.png'
+}
+".glyphicons_text_strike":{
+    image:'/glyphicons/glyphicons/png/glyphicons_104_text_strike.png'
+}
+".glyphicons_text_height":{
+    image:'/glyphicons/glyphicons/png/glyphicons_105_text_height.png'
+}
+".glyphicons_text_width":{
+    image:'/glyphicons/glyphicons/png/glyphicons_106_text_width.png'
+}
+".glyphicons_text_resize":{
+    image:'/glyphicons/glyphicons/png/glyphicons_107_text_resize.png'
+}
+".glyphicons_left_indent":{
+    image:'/glyphicons/glyphicons/png/glyphicons_108_left_indent.png'
+}
+".glyphicons_right_indent":{
+    image:'/glyphicons/glyphicons/png/glyphicons_109_right_indent.png'
+}
+".glyphicons_align_left":{
+    image:'/glyphicons/glyphicons/png/glyphicons_110_align_left.png'
+}
+".glyphicons_align_center":{
+    image:'/glyphicons/glyphicons/png/glyphicons_111_align_center.png'
+}
+".glyphicons_align_right":{
+    image:'/glyphicons/glyphicons/png/glyphicons_112_align_right.png'
+}
+".glyphicons_justify":{
+    image:'/glyphicons/glyphicons/png/glyphicons_113_justify.png'
+}
+".glyphicons_list":{
+    image:'/glyphicons/glyphicons/png/glyphicons_114_list.png'
+}
+".glyphicons_text_smaller":{
+    image:'/glyphicons/glyphicons/png/glyphicons_115_text_smaller.png'
+}
+".glyphicons_text_bigger":{
+    image:'/glyphicons/glyphicons/png/glyphicons_116_text_bigger.png'
+}
+".glyphicons_embed":{
+    image:'/glyphicons/glyphicons/png/glyphicons_117_embed.png'
+}
+".glyphicons_embed_close":{
+    image:'/glyphicons/glyphicons/png/glyphicons_118_embed_close.png'
+}
+".glyphicons_table":{
+    image:'/glyphicons/glyphicons/png/glyphicons_119_table.png'
+}
+".glyphicons_message_full":{
+    image:'/glyphicons/glyphicons/png/glyphicons_120_message_full.png'
+}
+".glyphicons_message_empty":{
+    image:'/glyphicons/glyphicons/png/glyphicons_121_message_empty.png'
+}
+".glyphicons_message_in":{
+    image:'/glyphicons/glyphicons/png/glyphicons_122_message_in.png'
+}
+".glyphicons_message_out":{
+    image:'/glyphicons/glyphicons/png/glyphicons_123_message_out.png'
+}
+".glyphicons_message_plus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_124_message_plus.png'
+}
+".glyphicons_message_minus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_125_message_minus.png'
+}
+".glyphicons_message_ban":{
+    image:'/glyphicons/glyphicons/png/glyphicons_126_message_ban.png'
+}
+".glyphicons_message_flag":{
+    image:'/glyphicons/glyphicons/png/glyphicons_127_message_flag.png'
+}
+".glyphicons_message_lock":{
+    image:'/glyphicons/glyphicons/png/glyphicons_128_message_lock.png'
+}
+".glyphicons_message_new":{
+    image:'/glyphicons/glyphicons/png/glyphicons_129_message_new.png'
+}
+".glyphicons_inbox":{
+    image:'/glyphicons/glyphicons/png/glyphicons_130_inbox.png'
+}
+".glyphicons_inbox_plus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_131_inbox_plus.png'
+}
+".glyphicons_inbox_minus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_132_inbox_minus.png'
+}
+".glyphicons_inbox_lock":{
+    image:'/glyphicons/glyphicons/png/glyphicons_133_inbox_lock.png'
+}
+".glyphicons_inbox_in":{
+    image:'/glyphicons/glyphicons/png/glyphicons_134_inbox_in.png'
+}
+".glyphicons_inbox_out":{
+    image:'/glyphicons/glyphicons/png/glyphicons_135_inbox_out.png'
+}
+".glyphicons_cogwheel":{
+    image:'/glyphicons/glyphicons/png/glyphicons_136_cogwheel.png'
+}
+".glyphicons_cogwheels":{
+    image:'/glyphicons/glyphicons/png/glyphicons_137_cogwheels.png'
+}
+".glyphicons_picture":{
+    image:'/glyphicons/glyphicons/png/glyphicons_138_picture.png'
+}
+".glyphicons_adjust_alt":{
+    image:'/glyphicons/glyphicons/png/glyphicons_139_adjust_alt.png'
+}
+".glyphicons_database_lock":{
+    image:'/glyphicons/glyphicons/png/glyphicons_140_database_lock.png'
+}
+".glyphicons_database_plus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_141_database_plus.png'
+}
+".glyphicons_database_minus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_142_database_minus.png'
+}
+".glyphicons_database_ban":{
+    image:'/glyphicons/glyphicons/png/glyphicons_143_database_ban.png'
+}
+".glyphicons_folder_open":{
+    image:'/glyphicons/glyphicons/png/glyphicons_144_folder_open.png'
+}
+".glyphicons_folder_plus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_145_folder_plus.png'
+}
+".glyphicons_folder_minus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_146_folder_minus.png'
+}
+".glyphicons_folder_lock":{
+    image:'/glyphicons/glyphicons/png/glyphicons_147_folder_lock.png'
+}
+".glyphicons_folder_flag":{
+    image:'/glyphicons/glyphicons/png/glyphicons_148_folder_flag.png'
+}
+".glyphicons_folder_new":{
+    image:'/glyphicons/glyphicons/png/glyphicons_149_folder_new.png'
+}
+".glyphicons_edit":{
+    image:'/glyphicons/glyphicons/png/glyphicons_150_edit.png'
+}
+".glyphicons_new_window":{
+    image:'/glyphicons/glyphicons/png/glyphicons_151_new_window.png'
+}
+".glyphicons_check":{
+    image:'/glyphicons/glyphicons/png/glyphicons_152_check.png'
+}
+".glyphicons_unchecked":{
+    image:'/glyphicons/glyphicons/png/glyphicons_153_unchecked.png'
+}
+".glyphicons_more_windows":{
+    image:'/glyphicons/glyphicons/png/glyphicons_154_more_windows.png'
+}
+".glyphicons_show_big_thumbnails":{
+    image:'/glyphicons/glyphicons/png/glyphicons_155_show_big_thumbnails.png'
+}
+".glyphicons_show_thumbnails":{
+    image:'/glyphicons/glyphicons/png/glyphicons_156_show_thumbnails.png'
+}
+".glyphicons_show_thumbnails_with_lines":{
+    image:'/glyphicons/glyphicons/png/glyphicons_157_show_thumbnails_with_lines.png'
+}
+".glyphicons_show_lines":{
+    image:'/glyphicons/glyphicons/png/glyphicons_158_show_lines.png'
+}
+".glyphicons_playlist":{
+    image:'/glyphicons/glyphicons/png/glyphicons_159_playlist.png'
+}
+".glyphicons_imac":{
+    image:'/glyphicons/glyphicons/png/glyphicons_160_imac.png'
+}
+".glyphicons_macbook":{
+    image:'/glyphicons/glyphicons/png/glyphicons_161_macbook.png'
+}
+".glyphicons_ipad":{
+    image:'/glyphicons/glyphicons/png/glyphicons_162_ipad.png'
+}
+".glyphicons_iphone":{
+    image:'/glyphicons/glyphicons/png/glyphicons_163_iphone.png'
+}
+".glyphicons_iphone_transfer":{
+    image:'/glyphicons/glyphicons/png/glyphicons_164_iphone_transfer.png'
+}
+".glyphicons_iphone_exchange":{
+    image:'/glyphicons/glyphicons/png/glyphicons_165_iphone_exchange.png'
+}
+".glyphicons_ipod":{
+    image:'/glyphicons/glyphicons/png/glyphicons_166_ipod.png'
+}
+".glyphicons_ipod_shuffle":{
+    image:'/glyphicons/glyphicons/png/glyphicons_167_ipod_shuffle.png'
+}
+".glyphicons_ear_plugs":{
+    image:'/glyphicons/glyphicons/png/glyphicons_168_ear_plugs.png'
+}
+".glyphicons_record":{
+    image:'/glyphicons/glyphicons/png/glyphicons_169_record.png'
+}
+".glyphicons_step_backward":{
+    image:'/glyphicons/glyphicons/png/glyphicons_170_step_backward.png'
+}
+".glyphicons_fast_backward":{
+    image:'/glyphicons/glyphicons/png/glyphicons_171_fast_backward.png'
+}
+".glyphicons_rewind":{
+    image:'/glyphicons/glyphicons/png/glyphicons_172_rewind.png'
+}
+".glyphicons_play":{
+    image:'/glyphicons/glyphicons/png/glyphicons_173_play.png'
+}
+".glyphicons_pause":{
+    image:'/glyphicons/glyphicons/png/glyphicons_174_pause.png'
+}
+".glyphicons_stop":{
+    image:'/glyphicons/glyphicons/png/glyphicons_175_stop.png'
+}
+".glyphicons_forward":{
+    image:'/glyphicons/glyphicons/png/glyphicons_176_forward.png'
+}
+".glyphicons_fast_forward":{
+    image:'/glyphicons/glyphicons/png/glyphicons_177_fast_forward.png'
+}
+".glyphicons_step_forward":{
+    image:'/glyphicons/glyphicons/png/glyphicons_178_step_forward.png'
+}
+".glyphicons_eject":{
+    image:'/glyphicons/glyphicons/png/glyphicons_179_eject.png'
+}
+".glyphicons_facetime_video":{
+    image:'/glyphicons/glyphicons/png/glyphicons_180_facetime_video.png'
+}
+".glyphicons_download_alt":{
+    image:'/glyphicons/glyphicons/png/glyphicons_181_download_alt.png'
+}
+".glyphicons_mute":{
+    image:'/glyphicons/glyphicons/png/glyphicons_182_mute.png'
+}
+".glyphicons_volume_down":{
+    image:'/glyphicons/glyphicons/png/glyphicons_183_volume_down.png'
+}
+".glyphicons_volume_up":{
+    image:'/glyphicons/glyphicons/png/glyphicons_184_volume_up.png'
+}
+".glyphicons_screenshot":{
+    image:'/glyphicons/glyphicons/png/glyphicons_185_screenshot.png'
+}
+".glyphicons_move":{
+    image:'/glyphicons/glyphicons/png/glyphicons_186_move.png'
+}
+".glyphicons_more":{
+    image:'/glyphicons/glyphicons/png/glyphicons_187_more.png'
+}
+".glyphicons_brightness_reduce":{
+    image:'/glyphicons/glyphicons/png/glyphicons_188_brightness_reduce.png'
+}
+".glyphicons_brightness_increase":{
+    image:'/glyphicons/glyphicons/png/glyphicons_189_brightness_increase.png'
+}
+".glyphicons_circle_plus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_190_circle_plus.png'
+}
+".glyphicons_circle_minus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_191_circle_minus.png'
+}
+".glyphicons_circle_remove":{
+    image:'/glyphicons/glyphicons/png/glyphicons_192_circle_remove.png'
+}
+".glyphicons_circle_ok":{
+    image:'/glyphicons/glyphicons/png/glyphicons_193_circle_ok.png'
+}
+".glyphicons_circle_question_mark":{
+    image:'/glyphicons/glyphicons/png/glyphicons_194_circle_question_mark.png'
+}
+".glyphicons_circle_info":{
+    image:'/glyphicons/glyphicons/png/glyphicons_195_circle_info.png'
+}
+".glyphicons_circle_exclamation_mark":{
+    image:'/glyphicons/glyphicons/png/glyphicons_196_circle_exclamation_mark.png'
+}
+".glyphicons_remove":{
+    image:'/glyphicons/glyphicons/png/glyphicons_197_remove.png'
+}
+".glyphicons_ok":{
+    image:'/glyphicons/glyphicons/png/glyphicons_198_ok.png'
+}
+".glyphicons_ban":{
+    image:'/glyphicons/glyphicons/png/glyphicons_199_ban.png'
+}
+".glyphicons_download":{
+    image:'/glyphicons/glyphicons/png/glyphicons_200_download.png'
+}
+".glyphicons_upload":{
+    image:'/glyphicons/glyphicons/png/glyphicons_201_upload.png'
+}
+".glyphicons_shopping_cart":{
+    image:'/glyphicons/glyphicons/png/glyphicons_202_shopping_cart.png'
+}
+".glyphicons_lock":{
+    image:'/glyphicons/glyphicons/png/glyphicons_203_lock.png'
+}
+".glyphicons_unlock":{
+    image:'/glyphicons/glyphicons/png/glyphicons_204_unlock.png'
+}
+".glyphicons_electricity":{
+    image:'/glyphicons/glyphicons/png/glyphicons_205_electricity.png'
+}
+".glyphicons_ok_2":{
+    image:'/glyphicons/glyphicons/png/glyphicons_206_ok_2.png'
+}
+".glyphicons_remove_2":{
+    image:'/glyphicons/glyphicons/png/glyphicons_207_remove_2.png'
+}
+".glyphicons_cart_out":{
+    image:'/glyphicons/glyphicons/png/glyphicons_208_cart_out.png'
+}
+".glyphicons_cart_in":{
+    image:'/glyphicons/glyphicons/png/glyphicons_209_cart_in.png'
+}
+".glyphicons_left_arrow":{
+    image:'/glyphicons/glyphicons/png/glyphicons_210_left_arrow.png'
+}
+".glyphicons_right_arrow":{
+    image:'/glyphicons/glyphicons/png/glyphicons_211_right_arrow.png'
+}
+".glyphicons_down_arrow":{
+    image:'/glyphicons/glyphicons/png/glyphicons_212_down_arrow.png'
+}
+".glyphicons_up_arrow":{
+    image:'/glyphicons/glyphicons/png/glyphicons_213_up_arrow.png'
+}
+".glyphicons_resize_small":{
+    image:'/glyphicons/glyphicons/png/glyphicons_214_resize_small.png'
+}
+".glyphicons_resize_full":{
+    image:'/glyphicons/glyphicons/png/glyphicons_215_resize_full.png'
+}
+".glyphicons_circle_arrow_left":{
+    image:'/glyphicons/glyphicons/png/glyphicons_216_circle_arrow_left.png'
+}
+".glyphicons_circle_arrow_right":{
+    image:'/glyphicons/glyphicons/png/glyphicons_217_circle_arrow_right.png'
+}
+".glyphicons_circle_arrow_top":{
+    image:'/glyphicons/glyphicons/png/glyphicons_218_circle_arrow_top.png'
+}
+".glyphicons_circle_arrow_down":{
+    image:'/glyphicons/glyphicons/png/glyphicons_219_circle_arrow_down.png'
+}
+".glyphicons_play_button":{
+    image:'/glyphicons/glyphicons/png/glyphicons_220_play_button.png'
+}
+".glyphicons_unshare":{
+    image:'/glyphicons/glyphicons/png/glyphicons_221_unshare.png'
+}
+".glyphicons_share":{
+    image:'/glyphicons/glyphicons/png/glyphicons_222_share.png'
+}
+".glyphicons_chevron-right":{
+    image:'/glyphicons/glyphicons/png/glyphicons_223_chevron-right.png'
+}
+".glyphicons_chevron-left":{
+    image:'/glyphicons/glyphicons/png/glyphicons_224_chevron-left.png'
+}
+".glyphicons_bluetooth":{
+    image:'/glyphicons/glyphicons/png/glyphicons_225_bluetooth.png'
+}
+".glyphicons_euro":{
+    image:'/glyphicons/glyphicons/png/glyphicons_226_euro.png'
+}
+".glyphicons_usd":{
+    image:'/glyphicons/glyphicons/png/glyphicons_227_usd.png'
+}
+".glyphicons_gbp":{
+    image:'/glyphicons/glyphicons/png/glyphicons_228_gbp.png'
+}
+".glyphicons_retweet_2":{
+    image:'/glyphicons/glyphicons/png/glyphicons_229_retweet_2.png'
+}
+".glyphicons_moon":{
+    image:'/glyphicons/glyphicons/png/glyphicons_230_moon.png'
+}
+".glyphicons_sun":{
+    image:'/glyphicons/glyphicons/png/glyphicons_231_sun.png'
+}
+".glyphicons_cloud":{
+    image:'/glyphicons/glyphicons/png/glyphicons_232_cloud.png'
+}
+".glyphicons_direction":{
+    image:'/glyphicons/glyphicons/png/glyphicons_233_direction.png'
+}
+".glyphicons_brush":{
+    image:'/glyphicons/glyphicons/png/glyphicons_234_brush.png'
+}
+".glyphicons_pen":{
+    image:'/glyphicons/glyphicons/png/glyphicons_235_pen.png'
+}
+".glyphicons_zoom_in":{
+    image:'/glyphicons/glyphicons/png/glyphicons_236_zoom_in.png'
+}
+".glyphicons_zoom_out":{
+    image:'/glyphicons/glyphicons/png/glyphicons_237_zoom_out.png'
+}
+".glyphicons_pin":{
+    image:'/glyphicons/glyphicons/png/glyphicons_238_pin.png'
+}
+".glyphicons_albums":{
+    image:'/glyphicons/glyphicons/png/glyphicons_239_albums.png'
+}
+".glyphicons_rotation_lock":{
+    image:'/glyphicons/glyphicons/png/glyphicons_240_rotation_lock.png'
+}
+".glyphicons_flash":{
+    image:'/glyphicons/glyphicons/png/glyphicons_241_flash.png'
+}
+".glyphicons_google_maps":{
+    image:'/glyphicons/glyphicons/png/glyphicons_242_google_maps.png'
+}
+".glyphicons_anchor":{
+    image:'/glyphicons/glyphicons/png/glyphicons_243_anchor.png'
+}
+".glyphicons_conversation":{
+    image:'/glyphicons/glyphicons/png/glyphicons_244_conversation.png'
+}
+".glyphicons_chat":{
+    image:'/glyphicons/glyphicons/png/glyphicons_245_chat.png'
+}
+".glyphicons_male":{
+    image:'/glyphicons/glyphicons/png/glyphicons_246_male.png'
+}
+".glyphicons_female":{
+    image:'/glyphicons/glyphicons/png/glyphicons_247_female.png'
+}
+".glyphicons_asterisk":{
+    image:'/glyphicons/glyphicons/png/glyphicons_248_asterisk.png'
+}
+".glyphicons_divide":{
+    image:'/glyphicons/glyphicons/png/glyphicons_249_divide.png'
+}
+".glyphicons_snorkel_diving":{
+    image:'/glyphicons/glyphicons/png/glyphicons_250_snorkel_diving.png'
+}
+".glyphicons_scuba_diving":{
+    image:'/glyphicons/glyphicons/png/glyphicons_251_scuba_diving.png'
+}
+".glyphicons_oxygen_bottle":{
+    image:'/glyphicons/glyphicons/png/glyphicons_252_oxygen_bottle.png'
+}
+".glyphicons_fins":{
+    image:'/glyphicons/glyphicons/png/glyphicons_253_fins.png'
+}
+".glyphicons_fishes":{
+    image:'/glyphicons/glyphicons/png/glyphicons_254_fishes.png'
+}
+".glyphicons_boat":{
+    image:'/glyphicons/glyphicons/png/glyphicons_255_boat.png'
+}
+".glyphicons_delete":{
+    image:'/glyphicons/glyphicons/png/glyphicons_256_delete.png'
+}
+".glyphicons_sheriffs_star":{
+    image:'/glyphicons/glyphicons/png/glyphicons_257_sheriffs_star.png'
+}
+".glyphicons_qrcode":{
+    image:'/glyphicons/glyphicons/png/glyphicons_258_qrcode.png'
+}
+".glyphicons_barcode":{
+    image:'/glyphicons/glyphicons/png/glyphicons_259_barcode.png'
+}
+".glyphicons_pool":{
+    image:'/glyphicons/glyphicons/png/glyphicons_260_pool.png'
+}
+".glyphicons_buoy":{
+    image:'/glyphicons/glyphicons/png/glyphicons_261_buoy.png'
+}
+".glyphicons_spade":{
+    image:'/glyphicons/glyphicons/png/glyphicons_262_spade.png'
+}
+".glyphicons_bank":{
+    image:'/glyphicons/glyphicons/png/glyphicons_263_bank.png'
+}
+".glyphicons_vcard":{
+    image:'/glyphicons/glyphicons/png/glyphicons_264_vcard.png'
+}
+".glyphicons_electrical_plug":{
+    image:'/glyphicons/glyphicons/png/glyphicons_265_electrical_plug.png'
+}
+".glyphicons_flag":{
+    image:'/glyphicons/glyphicons/png/glyphicons_266_flag.png'
+}
+".glyphicons_credit_card":{
+    image:'/glyphicons/glyphicons/png/glyphicons_267_credit_card.png'
+}
+".glyphicons_keyboard_wireless":{
+    image:'/glyphicons/glyphicons/png/glyphicons_268_keyboard_wireless.png'
+}
+".glyphicons_keyboard_wireless":{
+    image:'/glyphicons/glyphicons/png/glyphicons_269_keyboard_wireless.png'
+}
+".glyphicons_shield":{
+    image:'/glyphicons/glyphicons/png/glyphicons_270_shield.png'
+}
+".glyphicons_ring":{
+    image:'/glyphicons/glyphicons/png/glyphicons_271_ring.png'
+}
+".glyphicons_cake":{
+    image:'/glyphicons/glyphicons/png/glyphicons_272_cake.png'
+}
+".glyphicons_drink":{
+    image:'/glyphicons/glyphicons/png/glyphicons_273_drink.png'
+}
+".glyphicons_beer":{
+    image:'/glyphicons/glyphicons/png/glyphicons_274_beer.png'
+}
+".glyphicons_fast_food":{
+    image:'/glyphicons/glyphicons/png/glyphicons_275_fast_food.png'
+}
+".glyphicons_cutlery":{
+    image:'/glyphicons/glyphicons/png/glyphicons_276_cutlery.png'
+}
+".glyphicons_pizza":{
+    image:'/glyphicons/glyphicons/png/glyphicons_277_pizza.png'
+}
+".glyphicons_birthday_cake":{
+    image:'/glyphicons/glyphicons/png/glyphicons_278_birthday_cake.png'
+}
+".glyphicons_tablet":{
+    image:'/glyphicons/glyphicons/png/glyphicons_279_tablet.png'
+}
+".glyphicons_settings":{
+    image:'/glyphicons/glyphicons/png/glyphicons_280_settings.png'
+}
+".glyphicons_bullets":{
+    image:'/glyphicons/glyphicons/png/glyphicons_281_bullets.png'
+}
+".glyphicons_cardio":{
+    image:'/glyphicons/glyphicons/png/glyphicons_282_cardio.png'
+}
+".glyphicons_t-shirt":{
+    image:'/glyphicons/glyphicons/png/glyphicons_283_t-shirt.png'
+}
+".glyphicons_pants":{
+    image:'/glyphicons/glyphicons/png/glyphicons_284_pants.png'
+}
+".glyphicons_sweater":{
+    image:'/glyphicons/glyphicons/png/glyphicons_285_sweater.png'
+}
+".glyphicons_fabric":{
+    image:'/glyphicons/glyphicons/png/glyphicons_286_fabric.png'
+}
+".glyphicons_leather":{
+    image:'/glyphicons/glyphicons/png/glyphicons_287_leather.png'
+}
+".glyphicons_scissors":{
+    image:'/glyphicons/glyphicons/png/glyphicons_288_scissors.png'
+}
+".glyphicons_bomb":{
+    image:'/glyphicons/glyphicons/png/glyphicons_289_bomb.png'
+}
+".glyphicons_skull":{
+    image:'/glyphicons/glyphicons/png/glyphicons_290_skull.png'
+}
+".glyphicons_celebration":{
+    image:'/glyphicons/glyphicons/png/glyphicons_291_celebration.png'
+}
+".glyphicons_tea_kettle":{
+    image:'/glyphicons/glyphicons/png/glyphicons_292_tea_kettle.png'
+}
+".glyphicons_french_press":{
+    image:'/glyphicons/glyphicons/png/glyphicons_293_french_press.png'
+}
+".glyphicons_coffe_cup":{
+    image:'/glyphicons/glyphicons/png/glyphicons_294_coffe_cup.png'
+}
+".glyphicons_pot":{
+    image:'/glyphicons/glyphicons/png/glyphicons_295_pot.png'
+}
+".glyphicons_grater":{
+    image:'/glyphicons/glyphicons/png/glyphicons_296_grater.png'
+}
+".glyphicons_kettle":{
+    image:'/glyphicons/glyphicons/png/glyphicons_297_kettle.png'
+}
+".glyphicons_hospital":{
+    image:'/glyphicons/glyphicons/png/glyphicons_298_hospital.png'
+}
+".glyphicons_hospital_h":{
+    image:'/glyphicons/glyphicons/png/glyphicons_299_hospital_h.png'
+}
+".glyphicons_microphone":{
+    image:'/glyphicons/glyphicons/png/glyphicons_300_microphone.png'
+}
+".glyphicons_webcam":{
+    image:'/glyphicons/glyphicons/png/glyphicons_301_webcam.png'
+}
+".glyphicons_temple_christianity_church":{
+    image:'/glyphicons/glyphicons/png/glyphicons_302_temple_christianity_church.png'
+}
+".glyphicons_temple_islam":{
+    image:'/glyphicons/glyphicons/png/glyphicons_303_temple_islam.png'
+}
+".glyphicons_temple_hindu":{
+    image:'/glyphicons/glyphicons/png/glyphicons_304_temple_hindu.png'
+}
+".glyphicons_temple_buddhist":{
+    image:'/glyphicons/glyphicons/png/glyphicons_305_temple_buddhist.png'
+}
+".glyphicons_bicycle":{
+    image:'/glyphicons/glyphicons/png/glyphicons_306_bicycle.png'
+}
+".glyphicons_life_preserver":{
+    image:'/glyphicons/glyphicons/png/glyphicons_307_life_preserver.png'
+}
+".glyphicons_share_alt":{
+    image:'/glyphicons/glyphicons/png/glyphicons_308_share_alt.png'
+}
+".glyphicons_comments":{
+    image:'/glyphicons/glyphicons/png/glyphicons_309_comments.png'
+}
+".glyphicons_flower":{
+    image:'/glyphicons/glyphicons/png/glyphicons_310_flower.png'
+}
+".glyphicons_baseball":{
+    image:'/glyphicons/glyphicons/png/glyphicons_311_baseball.png'
+}
+".glyphicons_rugby":{
+    image:'/glyphicons/glyphicons/png/glyphicons_312_rugby.png'
+}
+".glyphicons_ax":{
+    image:'/glyphicons/glyphicons/png/glyphicons_313_ax.png'
+}
+".glyphicons_table_tennis":{
+    image:'/glyphicons/glyphicons/png/glyphicons_314_table_tennis.png'
+}
+".glyphicons_bowling":{
+    image:'/glyphicons/glyphicons/png/glyphicons_315_bowling.png'
+}
+".glyphicons_tree_conifer":{
+    image:'/glyphicons/glyphicons/png/glyphicons_316_tree_conifer.png'
+}
+".glyphicons_tree_deciduous":{
+    image:'/glyphicons/glyphicons/png/glyphicons_317_tree_deciduous.png'
+}
+".glyphicons_more_items":{
+    image:'/glyphicons/glyphicons/png/glyphicons_318_more_items.png'
+}
+".glyphicons_sort":{
+    image:'/glyphicons/glyphicons/png/glyphicons_319_sort.png'
+}
+".glyphicons_filter":{
+    image:'/glyphicons/glyphicons/png/glyphicons_320_filter.png'
+}
+".glyphicons_gamepad":{
+    image:'/glyphicons/glyphicons/png/glyphicons_321_gamepad.png'
+}
+".glyphicons_playing_dices":{
+    image:'/glyphicons/glyphicons/png/glyphicons_322_playing_dices.png'
+}
+".glyphicons_calculator":{
+    image:'/glyphicons/glyphicons/png/glyphicons_323_calculator.png'
+}
+".glyphicons_tie":{
+    image:'/glyphicons/glyphicons/png/glyphicons_324_tie.png'
+}
+".glyphicons_wallet":{
+    image:'/glyphicons/glyphicons/png/glyphicons_325_wallet.png'
+}
+".glyphicons_piano":{
+    image:'/glyphicons/glyphicons/png/glyphicons_326_piano.png'
+}
+".glyphicons_sampler":{
+    image:'/glyphicons/glyphicons/png/glyphicons_327_sampler.png'
+}
+".glyphicons_podium":{
+    image:'/glyphicons/glyphicons/png/glyphicons_328_podium.png'
+}
+".glyphicons_soccer_ball":{
+    image:'/glyphicons/glyphicons/png/glyphicons_329_soccer_ball.png'
+}
+".glyphicons_blog":{
+    image:'/glyphicons/glyphicons/png/glyphicons_330_blog.png'
+}
+".glyphicons_dashboard":{
+    image:'/glyphicons/glyphicons/png/glyphicons_331_dashboard.png'
+}
+".glyphicons_certificate":{
+    image:'/glyphicons/glyphicons/png/glyphicons_332_certificate.png'
+}
+".glyphicons_bell":{
+    image:'/glyphicons/glyphicons/png/glyphicons_333_bell.png'
+}
+".glyphicons_candle":{
+    image:'/glyphicons/glyphicons/png/glyphicons_334_candle.png'
+}
+".glyphicons_pushpin":{
+    image:'/glyphicons/glyphicons/png/glyphicons_335_pushpin.png'
+}
+".glyphicons_iphone_shake":{
+    image:'/glyphicons/glyphicons/png/glyphicons_336_iphone_shake.png'
+}
+".glyphicons_pin_flag":{
+    image:'/glyphicons/glyphicons/png/glyphicons_337_pin_flag.png'
+}
+".glyphicons_turtle":{
+    image:'/glyphicons/glyphicons/png/glyphicons_338_turtle.png'
+}
+".glyphicons_rabbit":{
+    image:'/glyphicons/glyphicons/png/glyphicons_339_rabbit.png'
+}
+".glyphicons_globe":{
+    image:'/glyphicons/glyphicons/png/glyphicons_340_globe.png'
+}
+".glyphicons_briefcase":{
+    image:'/glyphicons/glyphicons/png/glyphicons_341_briefcase.png'
+}
+".glyphicons_hdd":{
+    image:'/glyphicons/glyphicons/png/glyphicons_342_hdd.png'
+}
+".glyphicons_thumbs_up":{
+    image:'/glyphicons/glyphicons/png/glyphicons_343_thumbs_up.png'
+}
+".glyphicons_thumbs_down":{
+    image:'/glyphicons/glyphicons/png/glyphicons_344_thumbs_down.png'
+}
+".glyphicons_hand_right":{
+    image:'/glyphicons/glyphicons/png/glyphicons_345_hand_right.png'
+}
+".glyphicons_hand_left":{
+    image:'/glyphicons/glyphicons/png/glyphicons_346_hand_left.png'
+}
+".glyphicons_hand_up":{
+    image:'/glyphicons/glyphicons/png/glyphicons_347_hand_up.png'
+}
+".glyphicons_hand_down":{
+    image:'/glyphicons/glyphicons/png/glyphicons_348_hand_down.png'
+}
+".glyphicons_fullscreen":{
+    image:'/glyphicons/glyphicons/png/glyphicons_349_fullscreen.png'
+}
+".glyphicons_shopping_bag":{
+    image:'/glyphicons/glyphicons/png/glyphicons_350_shopping_bag.png'
+}
+".glyphicons_book_open":{
+    image:'/glyphicons/glyphicons/png/glyphicons_351_book_open.png'
+}
+".glyphicons_nameplate":{
+    image:'/glyphicons/glyphicons/png/glyphicons_352_nameplate.png'
+}
+".glyphicons_nameplate_alt":{
+    image:'/glyphicons/glyphicons/png/glyphicons_353_nameplate_alt.png'
+}
+".glyphicons_vases":{
+    image:'/glyphicons/glyphicons/png/glyphicons_354_vases.png'
+}
+".glyphicons_bullhorn":{
+    image:'/glyphicons/glyphicons/png/glyphicons_355_bullhorn.png'
+}
+".glyphicons_dumbbell":{
+    image:'/glyphicons/glyphicons/png/glyphicons_356_dumbbell.png'
+}
+".glyphicons_suitcase":{
+    image:'/glyphicons/glyphicons/png/glyphicons_357_suitcase.png'
+}
+".glyphicons_file_import":{
+    image:'/glyphicons/glyphicons/png/glyphicons_358_file_import.png'
+}
+".glyphicons_file_export":{
+    image:'/glyphicons/glyphicons/png/glyphicons_359_file_export.png'
+}
+".glyphicons_bug":{
+    image:'/glyphicons/glyphicons/png/glyphicons_360_bug.png'
+}
+".glyphicons_crown":{
+    image:'/glyphicons/glyphicons/png/glyphicons_361_crown.png'
+}
+".glyphicons_smoking":{
+    image:'/glyphicons/glyphicons/png/glyphicons_362_smoking.png'
+}
+".glyphicons_cloud_upload":{
+    image:'/glyphicons/glyphicons/png/glyphicons_363_cloud_upload.png'
+}
+".glyphicons_cloud_download":{
+    image:'/glyphicons/glyphicons/png/glyphicons_364_cloud_download.png'
+}
+".glyphicons_restart":{
+    image:'/glyphicons/glyphicons/png/glyphicons_365_restart.png'
+}
+".glyphicons_security_camera":{
+    image:'/glyphicons/glyphicons/png/glyphicons_366_security_camera.png'
+}
+".glyphicons_expand":{
+    image:'/glyphicons/glyphicons/png/glyphicons_367_expand.png'
+}
+".glyphicons_collapse":{
+    image:'/glyphicons/glyphicons/png/glyphicons_368_collapse.png'
+}
+".glyphicons_collapse_top":{
+    image:'/glyphicons/glyphicons/png/glyphicons_369_collapse_top.png'
+}
+".glyphicons_globe_af":{
+    image:'/glyphicons/glyphicons/png/glyphicons_370_globe_af.png'
+}
+".glyphicons_global":{
+    image:'/glyphicons/glyphicons/png/glyphicons_371_global.png'
+}
+".glyphicons_spray":{
+    image:'/glyphicons/glyphicons/png/glyphicons_372_spray.png'
+}
+".glyphicons_nails":{
+    image:'/glyphicons/glyphicons/png/glyphicons_373_nails.png'
+}
+".glyphicons_claw_hammer":{
+    image:'/glyphicons/glyphicons/png/glyphicons_374_claw_hammer.png'
+}
+".glyphicons_classic_hammer":{
+    image:'/glyphicons/glyphicons/png/glyphicons_375_classic_hammer.png'
+}
+".glyphicons_hand_saw":{
+    image:'/glyphicons/glyphicons/png/glyphicons_376_hand_saw.png'
+}
+".glyphicons_riflescope":{
+    image:'/glyphicons/glyphicons/png/glyphicons_377_riflescope.png'
+}
+".glyphicons_electrical_socket_eu":{
+    image:'/glyphicons/glyphicons/png/glyphicons_378_electrical_socket_eu.png'
+}
+".glyphicons_electrical_socket_us":{
+    image:'/glyphicons/glyphicons/png/glyphicons_379_electrical_socket_us.png'
+}
+".glyphicons_message_forward":{
+    image:'/glyphicons/glyphicons/png/glyphicons_380_message_forward.png'
+}
+".glyphicons_coat_hanger":{
+    image:'/glyphicons/glyphicons/png/glyphicons_381_coat_hanger.png'
+}
+".glyphicons_dress":{
+    image:'/glyphicons/glyphicons/png/glyphicons_382_dress.png'
+}
+".glyphicons_bathrobe":{
+    image:'/glyphicons/glyphicons/png/glyphicons_383_bathrobe.png'
+}
+".glyphicons_shirt":{
+    image:'/glyphicons/glyphicons/png/glyphicons_384_shirt.png'
+}
+".glyphicons_underwear":{
+    image:'/glyphicons/glyphicons/png/glyphicons_385_underwear.png'
+}
+".glyphicons_log_in":{
+    image:'/glyphicons/glyphicons/png/glyphicons_386_log_in.png'
+}
+".glyphicons_log_out":{
+    image:'/glyphicons/glyphicons/png/glyphicons_387_log_out.png'
+}
+".glyphicons_exit":{
+    image:'/glyphicons/glyphicons/png/glyphicons_388_exit.png'
+}
+".glyphicons_new_window_alt":{
+    image:'/glyphicons/glyphicons/png/glyphicons_389_new_window_alt.png'
+}
+".glyphicons_video_sd":{
+    image:'/glyphicons/glyphicons/png/glyphicons_390_video_sd.png'
+}
+".glyphicons_video_hd":{
+    image:'/glyphicons/glyphicons/png/glyphicons_391_video_hd.png'
+}
+".glyphicons_subtitles":{
+    image:'/glyphicons/glyphicons/png/glyphicons_392_subtitles.png'
+}
+".glyphicons_sound_stereo":{
+    image:'/glyphicons/glyphicons/png/glyphicons_393_sound_stereo.png'
+}
+".glyphicons_sound_dolby":{
+    image:'/glyphicons/glyphicons/png/glyphicons_394_sound_dolby.png'
+}
+".glyphicons_sound_5_1":{
+    image:'/glyphicons/glyphicons/png/glyphicons_395_sound_5_1.png'
+}
+".glyphicons_sound_6_1":{
+    image:'/glyphicons/glyphicons/png/glyphicons_396_sound_6_1.png'
+}
+".glyphicons_sound_7_1":{
+    image:'/glyphicons/glyphicons/png/glyphicons_397_sound_7_1.png'
+}
+".glyphicons_copyright_mark":{
+    image:'/glyphicons/glyphicons/png/glyphicons_398_copyright_mark.png'
+}
+".glyphicons_registration_mark":{
+    image:'/glyphicons/glyphicons/png/glyphicons_399_registration_mark.png'
+}
+".glyphicons_radar":{
+    image:'/glyphicons/glyphicons/png/glyphicons_400_radar.png'
+}
+".glyphicons_skateboard":{
+    image:'/glyphicons/glyphicons/png/glyphicons_401_skateboard.png'
+}
+".glyphicons_golf_course":{
+    image:'/glyphicons/glyphicons/png/glyphicons_402_golf_course.png'
+}
+".glyphicons_sorting":{
+    image:'/glyphicons/glyphicons/png/glyphicons_403_sorting.png'
+}
+".glyphicons_sort-by-alphabet":{
+    image:'/glyphicons/glyphicons/png/glyphicons_404_sort-by-alphabet.png'
+}
+".glyphicons_sort-by-alphabet-alt":{
+    image:'/glyphicons/glyphicons/png/glyphicons_405_sort-by-alphabet-alt.png'
+}
+".glyphicons_sort-by-order":{
+    image:'/glyphicons/glyphicons/png/glyphicons_406_sort-by-order.png'
+}
+".glyphicons_sort-by-order-alt":{
+    image:'/glyphicons/glyphicons/png/glyphicons_407_sort-by-order-alt.png'
+}
+".glyphicons_sort-by-attributes":{
+    image:'/glyphicons/glyphicons/png/glyphicons_408_sort-by-attributes.png'
+}
+".glyphicons_sort-by-attributes-alt":{
+    image:'/glyphicons/glyphicons/png/glyphicons_409_sort-by-attributes-alt.png'
+}
+".glyphicons_compressed":{
+    image:'/glyphicons/glyphicons/png/glyphicons_410_compressed.png'
+}
+".glyphicons_package":{
+    image:'/glyphicons/glyphicons/png/glyphicons_411_package.png'
+}
+".glyphicons_cloud_plus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_412_cloud_plus.png'
+}
+".glyphicons_cloud_minus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_413_cloud_minus.png'
+}
+".glyphicons_disk_save":{
+    image:'/glyphicons/glyphicons/png/glyphicons_414_disk_save.png'
+}
+".glyphicons_disk_open":{
+    image:'/glyphicons/glyphicons/png/glyphicons_415_disk_open.png'
+}
+".glyphicons_disk_saved":{
+    image:'/glyphicons/glyphicons/png/glyphicons_416_disk_saved.png'
+}
+".glyphicons_disk_remove":{
+    image:'/glyphicons/glyphicons/png/glyphicons_417_disk_remove.png'
+}
+".glyphicons_disk_import":{
+    image:'/glyphicons/glyphicons/png/glyphicons_418_disk_import.png'
+}
+".glyphicons_disk_export":{
+    image:'/glyphicons/glyphicons/png/glyphicons_419_disk_export.png'
+}
+".glyphicons_tower":{
+    image:'/glyphicons/glyphicons/png/glyphicons_420_tower.png'
+}
+".glyphicons_send":{
+    image:'/glyphicons/glyphicons/png/glyphicons_421_send.png'
+}
+".glyphicons_git_branch":{
+    image:'/glyphicons/glyphicons/png/glyphicons_422_git_branch.png'
+}
+".glyphicons_git_create":{
+    image:'/glyphicons/glyphicons/png/glyphicons_423_git_create.png'
+}
+".glyphicons_git_private":{
+    image:'/glyphicons/glyphicons/png/glyphicons_424_git_private.png'
+}
+".glyphicons_git_delete":{
+    image:'/glyphicons/glyphicons/png/glyphicons_425_git_delete.png'
+}
+".glyphicons_git_merge":{
+    image:'/glyphicons/glyphicons/png/glyphicons_426_git_merge.png'
+}
+".glyphicons_git_pull_request":{
+    image:'/glyphicons/glyphicons/png/glyphicons_427_git_pull_request.png'
+}
+".glyphicons_git_compare":{
+    image:'/glyphicons/glyphicons/png/glyphicons_428_git_compare.png'
+}
+".glyphicons_git_commit":{
+    image:'/glyphicons/glyphicons/png/glyphicons_429_git_commit.png'
+}
+".glyphicons_construction_cone":{
+    image:'/glyphicons/glyphicons/png/glyphicons_430_construction_cone.png'
+}
+".glyphicons_shoe_steps":{
+    image:'/glyphicons/glyphicons/png/glyphicons_431_shoe_steps.png'
+}
+".glyphicons_plus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_432_plus.png'
+}
+".glyphicons_minus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_433_minus.png'
+}
+".glyphicons_redo":{
+    image:'/glyphicons/glyphicons/png/glyphicons_434_redo.png'
+}
+".glyphicons_undo":{
+    image:'/glyphicons/glyphicons/png/glyphicons_435_undo.png'
+}
+".glyphicons_golf":{
+    image:'/glyphicons/glyphicons/png/glyphicons_436_golf.png'
+}
+".glyphicons_hockey":{
+    image:'/glyphicons/glyphicons/png/glyphicons_437_hockey.png'
+}
+".glyphicons_pipe":{
+    image:'/glyphicons/glyphicons/png/glyphicons_438_pipe.png'
+}
+".glyphicons_wrench":{
+    image:'/glyphicons/glyphicons/png/glyphicons_439_wrench.png'
+}
+".glyphicons_folder_closed":{
+    image:'/glyphicons/glyphicons/png/glyphicons_440_folder_closed.png'
+}
+".glyphicons_phone_alt":{
+    image:'/glyphicons/glyphicons/png/glyphicons_441_phone_alt.png'
+}
+".glyphicons_earphone":{
+    image:'/glyphicons/glyphicons/png/glyphicons_442_earphone.png'
+}
+".glyphicons_floppy_disk":{
+    image:'/glyphicons/glyphicons/png/glyphicons_443_floppy_disk.png'
+}
+".glyphicons_floppy_saved":{
+    image:'/glyphicons/glyphicons/png/glyphicons_444_floppy_saved.png'
+}
+".glyphicons_floppy_remove":{
+    image:'/glyphicons/glyphicons/png/glyphicons_445_floppy_remove.png'
+}
+".glyphicons_floppy_save":{
+    image:'/glyphicons/glyphicons/png/glyphicons_446_floppy_save.png'
+}
+".glyphicons_floppy_open":{
+    image:'/glyphicons/glyphicons/png/glyphicons_447_floppy_open.png'
+}
+".glyphicons_translate":{
+    image:'/glyphicons/glyphicons/png/glyphicons_448_translate.png'
+}
+".glyphicons_fax":{
+    image:'/glyphicons/glyphicons/png/glyphicons_449_fax.png'
+}
+".glyphicons_factory":{
+    image:'/glyphicons/glyphicons/png/glyphicons_450_factory.png'
+}
+".glyphicons_shop_window":{
+    image:'/glyphicons/glyphicons/png/glyphicons_451_shop_window.png'
+}
+".glyphicons_shop":{
+    image:'/glyphicons/glyphicons/png/glyphicons_452_shop.png'
+}
+".glyphicons_kiosk":{
+    image:'/glyphicons/glyphicons/png/glyphicons_453_kiosk.png'
+}
+".glyphicons_kiosk_wheels":{
+    image:'/glyphicons/glyphicons/png/glyphicons_454_kiosk_wheels.png'
+}
+".glyphicons_kiosk_light":{
+    image:'/glyphicons/glyphicons/png/glyphicons_455_kiosk_light.png'
+}
+".glyphicons_kiosk_food":{
+    image:'/glyphicons/glyphicons/png/glyphicons_456_kiosk_food.png'
+}
+".glyphicons_transfer":{
+    image:'/glyphicons/glyphicons/png/glyphicons_457_transfer.png'
+}
+".glyphicons_money":{
+    image:'/glyphicons/glyphicons/png/glyphicons_458_money.png'
+}
+".glyphicons_header":{
+    image:'/glyphicons/glyphicons/png/glyphicons_459_header.png'
+}
+".glyphicons_blacksmith":{
+    image:'/glyphicons/glyphicons/png/glyphicons_460_blacksmith.png'
+}
+".glyphicons_saw_blade":{
+    image:'/glyphicons/glyphicons/png/glyphicons_461_saw_blade.png'
+}
+".glyphicons_basketball":{
+    image:'/glyphicons/glyphicons/png/glyphicons_462_basketball.png'
+}
+".glyphicons_server":{
+    image:'/glyphicons/glyphicons/png/glyphicons_463_server.png'
+}
+".glyphicons_server_plus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_464_server_plus.png'
+}
+".glyphicons_server_minus":{
+    image:'/glyphicons/glyphicons/png/glyphicons_465_server_minus.png'
+}
+".glyphicons_server_ban":{
+    image:'/glyphicons/glyphicons/png/glyphicons_466_server_ban.png'
+}
+".glyphicons_server_flag":{
+    image:'/glyphicons/glyphicons/png/glyphicons_467_server_flag.png'
+}
+".glyphicons_server_lock":{
+    image:'/glyphicons/glyphicons/png/glyphicons_468_server_lock.png'
+}
+".glyphicons_server_new":{
+    image:'/glyphicons/glyphicons/png/glyphicons_469_server_new.png'
+}
+
+// Glyphicons - Social
+".glyphicons-pinterest":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_00_pinterest.png'
+}
+".glyphicons-dropbox":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_01_dropbox.png'
+}
+".glyphicons-google_plus":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_02_google_plus.png'
+}
+".glyphicons-jolicloud":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_03_jolicloud.png'
+}
+".glyphicons-yahoo":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_04_yahoo.png'
+}
+".glyphicons-blogger":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_05_blogger.png'
+}
+".glyphicons-picasa":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_06_picasa.png'
+}
+".glyphicons-amazon":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_07_amazon.png'
+}
+".glyphicons-tumblr":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_08_tumblr.png'
+}
+".glyphicons-wordpress":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_09_wordpress.png'
+}
+".glyphicons-instapaper":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_10_instapaper.png'
+}
+".glyphicons-evernote":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_11_evernote.png'
+}
+".glyphicons-xing":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_12_xing.png'
+}
+".glyphicons-zootool":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_13_zootool.png'
+}
+".glyphicons-dribbble":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_14_dribbble.png'
+}
+".glyphicons-deviantart":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_15_deviantart.png'
+}
+".glyphicons-read_it_later":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_16_read_it_later.png'
+}
+".glyphicons-linked_in":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_17_linked_in.png'
+}
+".glyphicons-forrst":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_18_forrst.png'
+}
+".glyphicons-pinboard":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_19_pinboard.png'
+}
+".glyphicons-behance":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_20_behance.png'
+}
+".glyphicons-github":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_21_github.png'
+}
+".glyphicons-youtube":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_22_youtube.png'
+}
+".glyphicons-skitch":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_23_skitch.png'
+}
+".glyphicons-4square":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_24_4square.png'
+}
+".glyphicons-quora":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_25_quora.png'
+}
+".glyphicons-badoo":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_26_badoo.png'
+}
+".glyphicons-spotify":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_27_spotify.png'
+}
+".glyphicons-stumbleupon":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_28_stumbleupon.png'
+}
+".glyphicons-readability":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_29_readability.png'
+}
+".glyphicons-facebook":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_30_facebook.png'
+}
+".glyphicons-twitter":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_31_twitter.png'
+}
+".glyphicons-instagram":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_32_instagram.png'
+}
+".glyphicons-posterous_spaces":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_33_posterous_spaces.png'
+}
+".glyphicons-vimeo":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_34_vimeo.png'
+}
+".glyphicons-flickr":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_35_flickr.png'
+}
+".glyphicons-last_fm":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_36_last_fm.png'
+}
+".glyphicons-rss":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_37_rss.png'
+}
+".glyphicons-skype":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_38_skype.png'
+}
+".glyphicons-e-mail":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_39_e-mail.png'
+}
+".glyphicons-vine":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_40_vine.png'
+}
+".glyphicons-myspace":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_41_myspace.png'
+}
+".glyphicons-goodreads":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_42_goodreads.png'
+}
+".glyphicons-apple":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_43_apple.png'
+}
+".glyphicons-windows":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_44_windows.png'
+}
+".glyphicons-yelp":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_45_yelp.png'
+}
+".glyphicons-playstation":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_46_playstation.png'
+}
+".glyphicons-xbox":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_47_xbox.png'
+}
+".glyphicons-android":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_48_android.png'
+}
+".glyphicons-ios":{
+    image:'/glyphicons/glyphicons_social/png/glyphicons_social_49_ios.png'
+}
