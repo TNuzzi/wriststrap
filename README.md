@@ -8,7 +8,11 @@ A Twitter Bootstrap inspired framework for [Appcelerator Titanium](http://www.ap
 3.  Edit the [config.json](http://docs.appcelerator.com/titanium/3.0/#!/guide/Project_Configuration_File_%28config.json%29) (in your mobile project) and add the following entry: `"theme":"wriststrap"` to the `"global":` json section [(more details here)](http://docs.appcelerator.com/titanium/3.0/#!/guide/Alloy_Styles_and_Themes-section-35621526_AlloyStylesandThemes-Themes).  
 4.  Rebuild your mobile project
 
-### Version: Beta-1
+**Performance note** If you are planning on using addClass/resetClass/etc. be sure to keep the theme app.tss relatively small. Due to the way TSS syling is implemented, Alloy will create a _style.js file containing a complete array of the theme TSS (plus views specific tss) for each of your views.  When you call *Class function it will load the _style.js file.  If there is a large number of entries it could take a while.  
+
+Since discovering this, I have greatly reduced the entries of the wriststrap app.tss file.  I have removed the glyphish entries and put them in a seperate file (add them as needed).  I have removed a majority of the h-,w-,t-,b-,l-, and r- entries.  I kept the percentages but reduced the TSS that spaced by dp value.  w- and h- end at 400dp, t- and b- end at 200dp and l- and r- end at 100dp.
+
+### Version: Version 1
 
 <table>
      <thead>
@@ -20,18 +24,18 @@ A Twitter Bootstrap inspired framework for [Appcelerator Titanium](http://www.ap
     </thead>
     <tr>
         <td>iPhone</td>
-        <td>Development</td>
+        <td>Supported</td>
         <td>Version 1</td>
     </tr>
     <tr>
         <td>iPad</td>
-        <td>Coming Soon</td>
+        <td>Supported</td>
         <td>Version 1</td>
     </tr>
     <tr>
         <td>Android</td>
-        <td>Next</td>
-        <td>Version 2</td>
+        <td>Supported</td>
+        <td>Version 1</td>
     </tr>
     <tr>
         <td>Mobile Web</td>
