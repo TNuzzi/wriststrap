@@ -2335,6 +2335,18 @@ The input TSS classes come in two predefined heights.  The default is `44dp` and
         <td>input-supress-return</td>
         <td>suppressReturn: true</td>
     </tr>
+    <tr>
+        <td>input-sk-hide-on-focus (Android Only)</td>
+        <td>softKeyboardOnFocus: Titanium.UI.Android.SOFT_KEYBOARD_HIDE_ON_FOCUS</td>
+    </tr>
+    <tr>
+        <td>input-sk-show-on-focus (Android Only)</td>
+        <td>softKeyboardOnFocus: Titanium.UI.Android.SOFT_KEYBOARD_HIDE_ON_FOCUS</td>
+    </tr>
+    <tr>
+        <td>input-sk-default-on-focus (Android Only)</td>
+        <td>softKeyboardOnFocus: Titanium.UI.Android.SOFT_KEYBOARD_DEFAULT_ON_FOCUS</td>
+    </tr>
 </table>
 
 Example:
