@@ -210,7 +210,7 @@ A set of position TSS helper classes have been created to help position and layo
 
 The percentage values that can be used with the <letter>- class are 1 - 100 in increments of 5.  e.g. `w-100%` or `h-50%`
 
-For the static number designation a number between 1 - 400 (h- and w-) / 200 (l- and r-) / 100 (t- and b-) in increments of 5 can be used, with the exception of 1 - 10.  e.g. `r-4` or `l-20` 
+For the static number designation a number between 1 - 400 (`h-` and `w-`) / 200 (`l-` and `r-`) / 100 (`t-` and `b-`) in increments of 5 can be used, with the exception of 1 - 10.  e.g. `r-4` or `l-20` 
 
 Both `h-` and `w-` have `size` and `fill` TSS class.  These apply either the `Ti.UI.FILL` or `Ti.UI.SIZE` accordingly.
 
@@ -3611,6 +3611,8 @@ Wriststrap has support for the following Glyph libraries:
 Simply unzip the Glyph libraries in the `wriststrap/themes/wriststrap/assets` and name the directories appropriately (the name of the library all lower case, no version numbers just the name).  The framework will reference these locations for the images.
 
 **NOTE** for Glyphish remame subdirectory from `PNG Icons` to just `icons`.
+
+**NOTE 2** The Glyphish entries are not automatically put in the theme app.tss file.  You will need to copy 1 or more entries from `wriststrap/themes/wriststrap/styles/glyphish.tss` to the theme or application `app.tss` file.
 
 Titianium studio should look like this:
 
