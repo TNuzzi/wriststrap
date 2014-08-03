@@ -2485,6 +2485,27 @@ See [Styles And Colors TSS Details] for page control seperator colors.
     </tr>
 </table>
 
+### ScrollView
+The following are the TSS classes for the `ScrollView` view.
+
+#### ScrollView TSS helper classes
+<table>
+    <thead>
+        <tr>
+          <th>TSS Class</th>
+          <th>Styling</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>st-vertical (Android only)</td>
+        <td>scrollType: "vertical"</td>
+    </tr>
+    <tr>
+        <td>st-horizontal  (Android only)</td>
+        <td>scrollType: "horizontal"</td>
+    </tr>
+</table>
+
 Widgets
 -------
 

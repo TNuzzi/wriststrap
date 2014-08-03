@@ -3981,6 +3981,14 @@
     selectionStyle: Titanium.UI.iPhone.TableViewCellSelectionStyle.NONE
 }
 
+// ScrollView
+".st-vertical[platform=android]": {
+    scrollType: "vertical"
+}
+".st-horizontal[platform=android]": {
+    scrollType: "horizontal"
+}
+
 // Scrollable
 ".show-page-control":{
     showPagingControl: true
