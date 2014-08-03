@@ -210,7 +210,7 @@ A set of position TSS helper classes have been created to help position and layo
 
 The percentage values that can be used with the <letter>- class are 1 - 100 in increments of 5.  e.g. `w-100%` or `h-50%`
 
-For the static number designation a number between 1 - 2095 in increments of 5 can be used, with the exception of 1 - 10.  e.g. `r-4` or `l-20` 
+For the static number designation a number between 1 - 400 (h- and w-) / 200 (l- and r-) / 100 (t- and b-) in increments of 5 can be used, with the exception of 1 - 10.  e.g. `r-4` or `l-20` 
 
 Both `h-` and `w-` have `size` and `fill` TSS class.  These apply either the `Ti.UI.FILL` or `Ti.UI.SIZE` accordingly.
 
