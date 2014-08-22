@@ -3271,6 +3271,30 @@
     height: Ti.UI.SIZE
 }
 
+// Activity Indicator
+".ai-big[platform=ios]": {
+    style: Titanium.UI.iPhone.ActivityIndicatorStyle.BIG
+}
+".ai-dark[platform=ios]": {
+    style: Titanium.UI.iPhone.ActivityIndicatorStyle.DARK
+}
+".ai-plain[platform=ios]": {
+    style: Titanium.UI.iPhone.ActivityIndicatorStyle.PLAIN
+}
+
+".ai-big[platform=android]": {
+    style: Titanium.UI.ActivityIndicatorStyle.BIG
+}
+".ai-dark[platform=android]": {
+    style: Titanium.UI.ActivityIndicatorStyle.DARK
+}
+".ai-plain[platform=android]": {
+    style: Titanium.UI.ActivityIndicatorStyle.PLAIN
+}
+".ai-big-dark[platform=android]": {
+    style: Titanium.UI.ActivityIndicatorStyle.BIG_DARK
+}
+
 // Input helpers
 ".input-container":{
     layout: 'horizontal',
@@ -3488,7 +3512,7 @@
     layout: "composite"
 }
 
-// Table helpers
+// Table/Listview helpers
 ".table-style-plain[platform=ios]":{
     style: Titanium.UI.iPhone.TableViewStyle.PLAIN
 }
@@ -3530,6 +3554,12 @@
 }
 ".table-disable-selection":{
     allowsSelection: false
+}
+".disable-scroll[platform=ios]": {
+    canScroll: false
+}
+".enable-scroll[platform=ios]": {
+    canScroll: true
 }
 
 // Table Seperator Colors
