@@ -2,27 +2,26 @@
 Thanks to http://stackoverflow.com/questions/13911536/auto-complete-textfield-in-titanium-ios-android
 for pointing me in the right direction
  */
+/* @author: FCM  
+ * @date: 2014-09-20
+ * add new way to retrieve data for the widget
+ *  dataSourceType: 'remote' - standard mode via http request defined in dataSource
+ *                  'local'  - sqlite mode. Retrieve data from database alias defined in dbName (new param) and SQL in dataSource
+ */
 
 var animation = require('alloy/animation');
 var args = arguments[0] || {};
-
-// Required for widget (specify either dataSource or set 'data' in the parent controller)
-var dataSource = args.dataSource || undefined;
-
-// Data array
-var suggestionData = [];
-exports.data = function(data) {
-    suggestionData = data;
-};
-
-// Optional
-var tfclass = args.tfclass || '';
+var tbclass = args.tbclass || '';
 var hintText = args.hintText || '';
+var dataSource = args.dataSource || undefined;
+var dataSourceType = args.dataSourceType || 'remote';
+var dbName = args.dbName || '';
 var tableHeight = args.tableHeight || '200dp';
+var suggestionData = [];
 var suggestAfter = args.suggestAfter || 0;
 
-if (tfclass !== '') {
-    $.resetClass($.autoCompleteTF, tfclass);
+if (tbclass !== '') {
+    $.resetClass($.autoCompleteTF, tbclass);
 }
 
 if (hintText !== '') {
@@ -30,8 +29,11 @@ if (hintText !== '') {
 }
 
 if (dataSource !== undefined) {
-    // prefetch the JSON array
-    setTimeout(function() {
+    
+  switch (dataSourceType) {
+    case 'remote':
+      // prefetch the JSON array
+      setTimeout(function() {
         var url = dataSource;
         var client = Ti.Network.createHTTPClient({
             onload: function(e) {
@@ -41,11 +43,19 @@ if (dataSource !== undefined) {
         });
         // Prepare the connection.
         client.open("GET", url);
-
+  
         // Send the request.
         client.send();
-    }, 50);
+      }, 50);
+      break;
+      
+    case 'local': 
+      suggestionData = retrieveSuggestions(dbName, dataSource);
+      break;
+  }
 }
+
+
 
 function showSuggestions(e) {
     if ($.autoCompleteTF.value.length >= suggestAfter && $.suggestions.opacity == 0) {
@@ -54,7 +64,10 @@ function showSuggestions(e) {
             $.suggestions.opacity = 1;
         });
     } else if ($.autoCompleteTF.value.length <= suggestAfter && $.suggestions.opacity == 1) {
-        hideSuggestions();
+        animation.fadeOut($.suggestions, 500, function() {
+            $.suggestions.height = '0';
+            $.suggestions.opacity = 0;
+        });
     }
 
     if ($.autoCompleteTF.value.length !== 0) {
@@ -72,6 +85,10 @@ function selectSuggestions(e) {
     $.autoCompleteTF.value = e.row.suggestion;
     $.autoCompleteTF.blur();
 }
+
+exports.data = function setData(data) {
+    suggestionData = data;
+};
 
 //Returns the array which contains a match with the pattern
 function patternMatch(arrayToSearch, pattern) {
@@ -99,9 +116,22 @@ function createAutoCompleteSuggestions(searchResults) {
     $.suggestionsTable.setData(tableData);
 }
 
-function hideSuggestions() {
-    animation.fadeOut($.suggestions, 500, function() {
-            $.suggestions.height = '0';
-            $.suggestions.opacity = 0;
-        });
+// retrieve suggestions from sqlite db table
+function retrieveSuggestions(dbName, dataSource) {
+  var dbSuggestions= new Array(); 
+  var db = Titanium.Database.open(dbName);
+  var result = db.execute(dataSource);
+
+  while (result.isValidRow()) {
+    dbSuggestions.push(result.field(1));
+    result.next();
+  }
+  result.close();
+  db.close();
+
+  Ti.API.info('customers:');
+  Ti.API.info(dbSuggestions);
+
+  return dbSuggestions;  
+  
 }
