@@ -1,0 +1,17 @@
+"#suggestions": {
+  zIndex: 1,
+  color: "white",
+  backgroundColor: "black"
+}
+
+"#suggestionHeader": {
+  zIndex: 1,
+  color: "white",
+  backgroundColor: "gray"
+}
+
+"#suggestionsTable": {
+  zIndex: 1,
+  color: "black",
+  backgroundColor:"#EFEFEF"
+}
