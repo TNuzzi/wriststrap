@@ -6,7 +6,7 @@
                           input-enable-return-key 
                           input-autocorrect-disabled 
                           input-text-ac-none 
-                          bg-transparent t-0" width="100%" onChange="showSuggestions" onBlur="hideSuggestions" />
+                          bg-transparent t-0" width="100%" onChange="showSuggestions" onBlur="closeSuggestions" />
         <View id="suggestions" class="bg-muted rounded-border-4 h-1 t-1" opacity="0">
             <Label id="suggestionHeader" class="w-90% text-right color-white" />
             <TableView id="suggestionsTable" class="w-100% h-fill" maxRowHeight="35dp" minRowHeight="35dp" onClick="selectSuggestions" backgroundColor="#EFEFEF" />
